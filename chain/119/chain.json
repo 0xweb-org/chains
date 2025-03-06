@@ -1,0 +1,27 @@
+{
+  "name": "ENULS Mainnet",
+  "chain": "ENULS",
+  "rpc": [
+    "https://evmapi.nuls.io",
+    "https://evmapi2.nuls.io"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "NULS",
+    "symbol": "NULS",
+    "decimals": 18
+  },
+  "infoURL": "https://nuls.io",
+  "shortName": "enuls",
+  "chainId": 119,
+  "networkId": 119,
+  "icon": "./chain/119/logo",
+  "explorers": [
+    {
+      "name": "enulsscan",
+      "url": "https://evmscan.nuls.io",
+      "icon": "enuls",
+      "standard": "EIP3091"
+    }
+  ]
+}

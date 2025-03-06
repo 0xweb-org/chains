@@ -1,0 +1,25 @@
+{
+  "name": "EthXY",
+  "chain": "EthXY",
+  "rpc": [
+    "https://rpc.ethxy.com"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Settled EthXY Token",
+    "symbol": "SEXY",
+    "decimals": 18
+  },
+  "icon": "./chain/969/logo",
+  "infoURL": "https://ethxy.com",
+  "shortName": "sexy",
+  "chainId": 969,
+  "networkId": 969,
+  "explorers": [
+    {
+      "name": "EthXY Network Explorer",
+      "url": "https://explorer.ethxy.com",
+      "standard": "EIP3091"
+    }
+  ]
+}

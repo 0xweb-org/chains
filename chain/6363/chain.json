@@ -1,0 +1,18 @@
+{
+  "name": "Digit Soul Smart Chain",
+  "chain": "DGS",
+  "rpc": [
+    "https://dsc-rpc.digitsoul.co.th"
+  ],
+  "faucets": [],
+  "icon": "./chain/6363/logo",
+  "nativeCurrency": {
+    "name": "Digit Coin",
+    "symbol": "DGC",
+    "decimals": 18
+  },
+  "infoURL": "",
+  "shortName": "DGS",
+  "chainId": 6363,
+  "networkId": 6363
+}

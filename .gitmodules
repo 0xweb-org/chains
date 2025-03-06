@@ -1,0 +1,6 @@
+[submodule "sources/ethereum-lists-chains"]
+	path = sources/ethereum-lists-chains
+	url = https://github.com/ethereum-lists/chains
+[submodule "sources/chainlist"]
+	path = sources/chainlist
+	url = https://github.com/DefiLlama/chainlist

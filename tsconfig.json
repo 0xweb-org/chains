@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "declaration": true,
+    "target": "ES2020",
+    "module": "NodeNext",
+    "sourceMap": false,
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "NodeNext",
+    "paths": {
+      "@0xc/*": [
+        "0xc/*"
+      ],
+      "dequanto/*": [
+        "node_modules/dequanto/lib/cjs/*.js"
+      ]
+    }
+  }
+}

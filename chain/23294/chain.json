@@ -1,0 +1,26 @@
+{
+  "name": "Oasis Sapphire",
+  "chain": "Sapphire",
+  "icon": "./chain/23294/logo",
+  "rpc": [
+    "https://sapphire.oasis.io",
+    "wss://sapphire.oasis.io/ws"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Sapphire Rose",
+    "symbol": "ROSE",
+    "decimals": 18
+  },
+  "infoURL": "https://docs.oasis.io/dapp/sapphire",
+  "shortName": "sapphire",
+  "chainId": 23294,
+  "networkId": 23294,
+  "explorers": [
+    {
+      "name": "Oasis Sapphire Explorer",
+      "url": "https://explorer.oasis.io/mainnet/sapphire",
+      "standard": "EIP3091"
+    }
+  ]
+}

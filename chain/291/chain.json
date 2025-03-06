@@ -1,0 +1,26 @@
+{
+  "name": "Orderly Mainnet",
+  "chain": "ETH",
+  "rpc": [
+    "https://rpc.orderly.network"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "infoURL": "https://orderly.network/",
+  "shortName": "orderly",
+  "chainId": 291,
+  "networkId": 291,
+  "icon": "./chain/291/logo",
+  "explorers": [
+    {
+      "name": "orderlyscout",
+      "url": "https://explorer.orderly.network",
+      "icon": "blockscout",
+      "standard": "EIP3091"
+    }
+  ]
+}

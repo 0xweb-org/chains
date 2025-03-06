@@ -1,0 +1,26 @@
+{
+  "name": "ClubMos Mainnet",
+  "chain": "MOS",
+  "rpc": [
+    "https://mainnet.mosscan.com"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "ClubMos",
+    "symbol": "MOS",
+    "decimals": 18
+  },
+  "infoURL": "https://www.mosscan.com",
+  "shortName": "MOS",
+  "chainId": 1188,
+  "networkId": 1188,
+  "icon": "./chain/1188/logo",
+  "explorers": [
+    {
+      "name": "mosscan",
+      "url": "https://www.mosscan.com",
+      "icon": "clubmos",
+      "standard": "none"
+    }
+  ]
+}

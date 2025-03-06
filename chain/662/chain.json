@@ -1,0 +1,28 @@
+{
+  "name": "AmaxSmartchain",
+  "chain": "AmaxSmartchain",
+  "rpc": [
+    "https://rpc.amaxchain.io"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "amax",
+    "symbol": "AMAX",
+    "decimals": 18
+  },
+  "infoURL": "https://amaxchain.io",
+  "shortName": "Amaxsmartchain",
+  "chainId": 662,
+  "networkId": 662,
+  "icon": "./chain/662/logo",
+  "explorers": [
+    {
+      "name": "Amaxsmartchain explorer",
+      "url": "https://scan.amaxchain.io",
+      "standard": "EIP3091"
+    }
+  ],
+  "redFlags": [
+    "reusedChainId"
+  ]
+}

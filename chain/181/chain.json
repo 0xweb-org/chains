@@ -1,0 +1,24 @@
+{
+  "name": "Waterfall Network",
+  "chain": "Waterfall Network",
+  "rpc": [
+    "https://rpc.waterfall.network/"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "WATER",
+    "symbol": "WATER",
+    "decimals": 18
+  },
+  "features": [
+    {
+      "name": "EIP1559"
+    }
+  ],
+  "infoURL": "https://waterfall.network",
+  "shortName": "water",
+  "chainId": 181,
+  "networkId": 181,
+  "icon": "./chain/181/logo",
+  "explorers": []
+}

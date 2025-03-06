@@ -1,0 +1,20 @@
+{
+  "name": "inEVM Mainnet",
+  "chain": "inEVM",
+  "icon": "./chain/2525/logo",
+  "rpc": [
+    "https://mainnet.rpc.inevm.com/http"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Injective",
+    "symbol": "INJ",
+    "decimals": 18
+  },
+  "infoURL": "https://inevm.com",
+  "shortName": "inevm",
+  "chainId": 2525,
+  "networkId": 2525,
+  "explorers": [],
+  "status": "active"
+}

@@ -1,0 +1,34 @@
+{
+  "atma": {
+    "plugins": [
+      "atma-loader-ts"
+    ],
+    "settings": {
+      "include": {
+        "amd": true,
+        "extensionDefault": {
+          "js": "ts"
+        },
+        "routes": "#import ./tsconfig.json compilerOptions.paths"
+      },
+      "atma-loader-ts": {
+        "sourceMap": true,
+        "typescript": "#import ./tsconfig-atma.json"
+      }
+    }
+  },
+  "dependencies": {
+    "a-di": "latest",
+    "alot": "^0.3.13",
+    "appcfg": "latest",
+    "atma-io": "latest",
+    "atma-loader-ts": "latest",
+    "class-json": "latest",
+    "dequanto": "^0.1.39",
+    "memd": "latest",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "atma-utest": "^0.21.33"
+  }
+}
