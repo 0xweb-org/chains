@@ -13,7 +13,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "icon": "./chain/7560/logo",
+  "icon": "./chain/7560/logo.png",
   "infoURL": "https://cyber.co/",
   "shortName": "cyeth",
   "chainId": 7560,

@@ -1,7 +1,7 @@
 {
   "name": "Ontology Testnet",
   "chain": "Ontology",
-  "icon": "./chain/5851/logo",
+  "icon": "./chain/5851/logo.png",
   "rpc": [
     "http://polaris1.ont.io:20339",
     "http://polaris2.ont.io:20339",

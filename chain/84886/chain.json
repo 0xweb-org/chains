@@ -14,7 +14,7 @@
   "shortName": "Aerie",
   "chainId": 84886,
   "networkId": 84886,
-  "icon": "./chain/84886/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "Aerie Explorer",

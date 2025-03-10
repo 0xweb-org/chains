@@ -14,7 +14,7 @@
   "shortName": "VC",
   "chainId": 207,
   "networkId": 207,
-  "icon": "./chain/207/logo",
+  "icon": "./chain/207/logo.png",
   "explorers": [
     {
       "name": "VinuScan",

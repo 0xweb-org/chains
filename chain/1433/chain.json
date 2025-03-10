@@ -2,7 +2,7 @@
   "name": "Rikeza Network Mainnet",
   "title": "Rikeza Network Mainnet",
   "chain": "Rikeza",
-  "icon": "./chain/1433/logo",
+  "icon": "./chain/1433/logo.png",
   "rpc": [
     "https://rpc.rikscan.com"
   ],

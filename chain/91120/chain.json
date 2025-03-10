@@ -2,7 +2,7 @@
   "name": "MetaDAP Enterprise Mainnet",
   "title": "MetaDAP Enterprise Mainnet",
   "chain": "MetaDAP",
-  "icon": "./chain/91120/logo",
+  "icon": "./chain/91120/logo.png",
   "faucets": [],
   "rpc": [
     "https://rpc.chain.metadap.io",

@@ -14,7 +14,7 @@
   "shortName": "mintsepoliatest",
   "chainId": 1687,
   "networkId": 1687,
-  "icon": "./chain/1687/logo",
+  "icon": "./chain/1687/logo.png",
   "explorers": [
     {
       "name": "blockscout",

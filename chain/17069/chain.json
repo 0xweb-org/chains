@@ -15,7 +15,7 @@
   "shortName": "garnet",
   "chainId": 17069,
   "networkId": 17069,
-  "icon": "./chain/17069/logo",
+  "icon": "./chain/17069/logo.png",
   "explorers": [
     {
       "name": "blockscout",

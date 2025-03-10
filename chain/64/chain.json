@@ -14,5 +14,6 @@
   "shortName": "ellaism",
   "chainId": 64,
   "networkId": 64,
-  "slip44": 163
+  "slip44": 163,
+  "icon": null
 }

@@ -15,7 +15,7 @@
   "chainId": 4759,
   "networkId": 4759,
   "slip44": 1,
-  "icon": "./chain/4759/logo",
+  "icon": "./chain/4759/logo.png",
   "explorers": [
     {
       "name": "MEVerse Chain Testnet Explorer",

@@ -1,6 +1,7 @@
 {
   "name": "GLScan",
   "chain": "GLC",
+  "icon": "./chain/10222/logo.png",
   "rpc": [
     "https://glc-dataseed.glscan.io/"
   ],

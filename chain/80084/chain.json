@@ -13,7 +13,7 @@
   "shortName": "berachainbArtio",
   "chainId": 80084,
   "networkId": 80084,
-  "icon": "./chain/80084/logo",
+  "icon": "./chain/80084/logo.png",
   "explorers": [
     {
       "name": "Beratrail",

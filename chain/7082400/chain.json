@@ -2,7 +2,7 @@
   "name": "COTI Testnet",
   "title": "COTI Testnet",
   "chain": "COTI",
-  "icon": "./chain/7082400/logo",
+  "icon": "./chain/7082400/logo.png",
   "rpc": [
     "https://testnet.coti.io/rpc",
     "https://testnet-magnus-validator.coti.io/rpc",

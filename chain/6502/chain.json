@@ -14,5 +14,6 @@
   "shortName": "Peerpay",
   "chainId": 6502,
   "networkId": 6502,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

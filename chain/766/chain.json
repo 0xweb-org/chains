@@ -15,7 +15,7 @@
   "shortName": "qom",
   "chainId": 766,
   "networkId": 766,
-  "icon": "./chain/766/logo",
+  "icon": "./chain/766/logo.png",
   "explorers": [
     {
       "name": "QL1 Mainnet Explorer",

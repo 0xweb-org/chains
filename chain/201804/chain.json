@@ -22,7 +22,7 @@
   "shortName": "myth",
   "chainId": 201804,
   "networkId": 201804,
-  "icon": "./chain/201804/logo",
+  "icon": "./chain/201804/logo.png",
   "explorers": [
     {
       "name": "Mythical Chain Explorer",

@@ -1,7 +1,7 @@
 {
   "name": "Oasys Testnet",
   "chain": "Oasys",
-  "icon": "./chain/9372/logo",
+  "icon": "./chain/9372/logo.png",
   "rpc": [
     "https://rpc.testnet.oasys.games"
   ],

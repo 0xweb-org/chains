@@ -1,7 +1,7 @@
 {
   "name": "Hybrid Testnet",
   "chain": "HYB",
-  "icon": "./chain/1225/logo",
+  "icon": "./chain/1225/logo.png",
   "rpc": [
     "https://hybrid-testnet.rpc.caldera.xyz/http",
     "wss://hybrid-testnet.rpc.caldera.xyz/ws"

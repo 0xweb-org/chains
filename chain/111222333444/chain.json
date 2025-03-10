@@ -1,7 +1,7 @@
 {
   "name": "Alphabet Mainnet",
   "chain": "Alphabet Network",
-  "icon": "./chain/111222333444/logo",
+  "icon": null,
   "rpc": [
     "https://londonpublic.alphabetnetwork.org",
     "wss://londonpublic.alphabetnetwork.org/ws/",

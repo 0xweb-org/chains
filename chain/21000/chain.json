@@ -1,7 +1,7 @@
 {
   "name": "Action Mainnet",
   "chain": "Action",
-  "icon": "./chain/21000/logo",
+  "icon": "./chain/21000/logo.png",
   "rpc": [
     "https://rpc.actionblockchain.org"
   ],

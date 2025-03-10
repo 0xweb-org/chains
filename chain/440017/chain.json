@@ -16,7 +16,7 @@
   "chainId": 440017,
   "networkId": 440017,
   "slip44": 440017,
-  "icon": "./chain/440017/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "Graphite Mainnet Explorer",

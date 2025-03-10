@@ -13,5 +13,6 @@
   "infoURL": "https://bloqs4good.com",
   "shortName": "bloqs4good",
   "chainId": 846000,
-  "networkId": 846000
+  "networkId": 846000,
+  "icon": null
 }

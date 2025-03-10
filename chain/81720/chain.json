@@ -1,7 +1,7 @@
 {
   "name": "Quantum Chain Mainnet",
   "chain": "QNET",
-  "icon": "./chain/81720/logo",
+  "icon": "./chain/81720/logo.png",
   "rpc": [
     "https://rpc.quantumscan.org"
   ],

@@ -1,7 +1,7 @@
 {
   "name": "ZERO Testnet (Sepolia)",
   "chain": "ETH",
-  "icon": "./chain/4457845/logo",
+  "icon": "./chain/4457845/logo.png",
   "rpc": [
     "https://rpc.zerion.io/v1/zero-sepolia"
   ],

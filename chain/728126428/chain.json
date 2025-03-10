@@ -15,7 +15,7 @@
   "shortName": "tron",
   "chainId": 728126428,
   "networkId": 728126428,
-  "icon": "./chain/728126428/logo",
+  "icon": "./chain/728126428/logo.png",
   "explorers": [
     {
       "name": "tronscan",

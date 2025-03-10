@@ -3,7 +3,7 @@
   "shortName": "astrzk",
   "title": "Astar zkEVM Mainnet",
   "chain": "ETH",
-  "icon": "./chain/3776/logo",
+  "icon": "./chain/3776/logo.png",
   "rpc": [
     "https://rpc.startale.com/astar-zkevm"
   ],

@@ -20,7 +20,7 @@
   "shortName": "tkava",
   "chainId": 2221,
   "networkId": 2221,
-  "icon": "./chain/2221/logo",
+  "icon": "./chain/2221/logo.png",
   "explorers": [
     {
       "name": "Kava Testnet Explorer",

@@ -1,7 +1,7 @@
 {
   "name": "DeFiVerse Testnet",
   "chain": "DeFiVerse Testnet",
-  "icon": "./chain/17117/logo",
+  "icon": "./chain/17117/logo.png",
   "rpc": [
     "https://rpc-testnet.defi-verse.org/"
   ],

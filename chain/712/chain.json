@@ -17,7 +17,7 @@
   "chainId": 712,
   "networkId": 712,
   "slip44": 1,
-  "icon": "./chain/712/logo",
+  "icon": "./chain/712/logo.png",
   "explorers": [
     {
       "name": "Birdee-2 Explorer",

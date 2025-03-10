@@ -1,7 +1,7 @@
 {
   "name": "Edge Matrix Chain Sepolia",
   "chain": "EMC Sepolia",
-  "icon": "./chain/99879/logo",
+  "icon": "./chain/99879/logo.png",
   "rpc": [
     "https://rpc1-sepolia.emc.network"
   ],

@@ -17,7 +17,7 @@
   "shortName": "auroria",
   "chainId": 205205,
   "networkId": 205205,
-  "icon": "./chain/205205/logo",
+  "icon": "./chain/205205/logo.png",
   "explorers": [
     {
       "name": "Auroria Testnet Explorer",

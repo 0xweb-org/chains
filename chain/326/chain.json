@@ -14,6 +14,6 @@
   "shortName": "grvt-sepolia",
   "chainId": 326,
   "networkId": 326,
-  "icon": "./chain/326/logo",
+  "icon": "./chain/326/logo.png",
   "explorers": []
 }

@@ -15,6 +15,7 @@
   "chainId": 104,
   "networkId": 104,
   "slip44": 1,
+  "icon": "./chain/104/logo.png",
   "explorers": [
     {
       "name": "kaibascan",

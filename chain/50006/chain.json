@@ -1,7 +1,7 @@
 {
   "name": "Yooldo Verse Testnet",
   "chain": "Yooldo Verse",
-  "icon": "./chain/50006/logo",
+  "icon": "./chain/50006/logo.png",
   "rpc": [
     "https://rpc.testnet.yooldo-verse.xyz/"
   ],

@@ -6,7 +6,7 @@
     "https://rpc-l1.inan.in.th"
   ],
   "faucets": [],
-  "icon": "./chain/8899/logo",
+  "icon": "./chain/8899/logo.png",
   "features": [
     {
       "name": "EIP155"

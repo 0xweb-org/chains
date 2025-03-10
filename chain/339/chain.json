@@ -12,5 +12,6 @@
   "shortName": "dapp",
   "chainId": 339,
   "networkId": 339,
-  "status": "incubating"
+  "status": "incubating",
+  "icon": null
 }

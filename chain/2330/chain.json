@@ -14,7 +14,7 @@
   "shortName": "alt",
   "chainId": 2330,
   "networkId": 2330,
-  "icon": "./chain/2330/logo",
+  "icon": "./chain/2330/logo.png",
   "status": "active",
   "explorers": [
     {

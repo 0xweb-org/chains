@@ -27,5 +27,6 @@
       "url": "https://explorer.syscoin.org",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": "./chain/57/logo.png"
 }

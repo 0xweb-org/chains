@@ -14,7 +14,7 @@
   "chainId": 161221135,
   "networkId": 161221135,
   "slip44": 1,
-  "icon": "./chain/161221135/logo",
+  "icon": "./chain/161221135/logo.png",
   "status": "deprecated",
   "explorers": [],
   "parent": {

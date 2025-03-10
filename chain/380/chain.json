@@ -15,7 +15,7 @@
   "shortName": "zkamoeba-test",
   "chainId": 380,
   "networkId": 380,
-  "icon": "./chain/380/logo",
+  "icon": "./chain/380/logo.png",
   "explorers": [
     {
       "name": "ZKAmoeba Test Explorer",

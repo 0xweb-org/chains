@@ -9,7 +9,7 @@
     "https://mainnet-rpc-04.swanchain.org"
   ],
   "faucets": [],
-  "icon": "./chain/254/logo",
+  "icon": "./chain/254/logo.png",
   "nativeCurrency": {
     "name": "Ether",
     "symbol": "ETH",

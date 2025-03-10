@@ -21,7 +21,7 @@
   "chainId": 2340,
   "networkId": 2340,
   "slip44": 1,
-  "icon": "./chain/2340/logo",
+  "icon": "./chain/2340/logo.png",
   "explorers": [
     {
       "name": "Atleta Olympia Explorer",

@@ -16,7 +16,7 @@
   "chainId": 4062,
   "networkId": 4062,
   "slip44": 1,
-  "icon": "./chain/4062/logo",
+  "icon": "./chain/4062/logo.png",
   "explorers": [
     {
       "name": "Nahmii 3 Testnet Explorer",

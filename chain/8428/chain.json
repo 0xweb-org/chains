@@ -15,7 +15,7 @@
   "shortName": "THAT",
   "chainId": 8428,
   "networkId": 8428,
-  "icon": "./chain/8428/logo",
+  "icon": "./chain/8428/logo.png",
   "explorers": [
     {
       "name": "THAT Explorer",

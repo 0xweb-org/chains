@@ -33,5 +33,6 @@
         "url": "https://testnet-bridge.gelato.network/bridge/sivo-defi-testnet"
       }
     ]
-  }
+  },
+  "icon": null
 }

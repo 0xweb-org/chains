@@ -5,7 +5,7 @@
     "https://sepolia-rpc.testnet.debank.com"
   ],
   "faucets": [],
-  "icon": null,
+  "icon": "./chain/20240324/logo.png",
   "nativeCurrency": {
     "name": "DeBank USD",
     "symbol": "USD",

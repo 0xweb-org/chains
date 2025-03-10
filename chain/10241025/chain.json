@@ -15,6 +15,7 @@
   "shortName": "ALIENXHal",
   "chainId": 10241025,
   "networkId": 10241025,
+  "icon": "./chain/10241025/logo.png",
   "explorers": [
     {
       "name": "Hal Explorer",

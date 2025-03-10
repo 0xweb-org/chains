@@ -1,7 +1,7 @@
 {
   "name": "Cerium Testnet",
   "chain": "CAU",
-  "icon": "./chain/30103/logo",
+  "icon": "./chain/30103/logo.png",
   "rpc": [
     "https://cerium-rpc.canxium.net"
   ],

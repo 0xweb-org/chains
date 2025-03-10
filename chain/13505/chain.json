@@ -25,7 +25,7 @@
   "shortName": "gravitysep",
   "chainId": 13505,
   "networkId": 13505,
-  "icon": "./chain/13505/logo",
+  "icon": "./chain/13505/logo.png",
   "explorers": [
     {
       "name": "Gravity Alpha Testnet Sepolia Explorer",

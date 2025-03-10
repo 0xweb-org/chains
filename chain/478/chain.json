@@ -2,7 +2,7 @@
   "name": "Form Network",
   "title": "Form Network",
   "chain": "form",
-  "icon": "./chain/478/logo",
+  "icon": "./chain/478/logo.png",
   "rpc": [
     "https://rpc.form.network/http",
     "wss://rpc.form.network/ws"

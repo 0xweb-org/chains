@@ -1,7 +1,7 @@
 {
   "name": "Bitcoin Chain",
   "chain": "BTC",
-  "icon": "./chain/8086/logo",
+  "icon": "./chain/8086/logo.png",
   "rpc": [
     "https://rpc.bitcoinevm.org"
   ],

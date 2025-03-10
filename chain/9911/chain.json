@@ -14,7 +14,7 @@
   "shortName": "spent",
   "chainId": 9911,
   "networkId": 9911,
-  "icon": "./chain/9911/logo",
+  "icon": "./chain/9911/logo.png",
   "explorers": [
     {
       "name": "escscan",

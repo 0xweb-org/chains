@@ -2,7 +2,7 @@
   "name": "Tenet",
   "title": "Tenet Mainnet",
   "chain": "TENET",
-  "icon": "./chain/1559/logo",
+  "icon": "./chain/1559/logo.png",
   "rpc": [
     "https://rpc.tenet.org",
     "https://tenet-evm.publicnode.com",

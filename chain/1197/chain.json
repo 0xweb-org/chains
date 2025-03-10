@@ -1,7 +1,7 @@
 {
   "name": "Iora Chain",
   "chain": "IORA",
-  "icon": "./chain/1197/logo",
+  "icon": "./chain/1197/logo.png",
   "rpc": [
     "https://dataseed.iorachain.com"
   ],

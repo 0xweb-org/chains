@@ -1,7 +1,7 @@
 {
   "name": "SecureChain Testnet",
   "chain": "SCAI",
-  "icon": "./chain/3434/logo",
+  "icon": "./chain/3434/logo.png",
   "rpc": [
     "https://testnet-rpc.securechain.ai"
   ],

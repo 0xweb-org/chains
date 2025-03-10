@@ -22,7 +22,7 @@
   "shortName": "BXN",
   "chainId": 488,
   "networkId": 488,
-  "icon": "./chain/488/logo",
+  "icon": "./chain/488/logo.png",
   "explorers": [
     {
       "name": "blockscout",

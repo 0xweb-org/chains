@@ -21,5 +21,6 @@
   "infoURL": "https://centrifuge.io",
   "shortName": "ncfg",
   "chainId": 2032,
-  "networkId": 2032
+  "networkId": 2032,
+  "icon": null
 }

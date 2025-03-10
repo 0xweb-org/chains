@@ -24,7 +24,7 @@
   "shortName": "MOCA",
   "chainId": 5151,
   "networkId": 5151,
-  "icon": "./chain/5151/logo",
+  "icon": "./chain/5151/logo.png",
   "explorers": [
     {
       "name": "Moca Chain Scan",

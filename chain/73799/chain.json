@@ -17,5 +17,6 @@
   "shortName": "vt",
   "chainId": 73799,
   "networkId": 73799,
-  "slip44": 1
+  "slip44": 1,
+  "icon": null
 }

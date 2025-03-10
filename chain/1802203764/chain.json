@@ -1,7 +1,7 @@
 {
   "name": "Kakarot Sepolia (Deprecated)",
   "chain": "ETH",
-  "icon": "./chain/1802203764/logo",
+  "icon": "./chain/1802203764/logo.png",
   "rpc": [],
   "faucets": [],
   "nativeCurrency": {

@@ -1,7 +1,7 @@
 {
   "name": "T.E.A.M Blockchain",
   "chain": "TEAM",
-  "icon": "./chain/88888888/logo",
+  "icon": null,
   "rpc": [
     "https://rpc.teamblockchain.team"
   ],

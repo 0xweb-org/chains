@@ -16,7 +16,7 @@
   "shortName": "VELO",
   "chainId": 56789,
   "networkId": 56789,
-  "icon": "./chain/56789/logo",
+  "icon": "./chain/56789/logo.png",
   "explorers": [
     {
       "name": "novascan",

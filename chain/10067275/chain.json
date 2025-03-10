@@ -25,5 +25,6 @@
   "parent": {
     "chain": "eip155-16658437",
     "type": "L2"
-  }
+  },
+  "icon": null
 }

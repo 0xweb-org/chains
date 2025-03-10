@@ -1,7 +1,7 @@
 {
   "name": "Monad Mainnet",
   "chain": "MON",
-  "icon": "./chain/143/logo",
+  "icon": "./chain/143/logo.png",
   "rpc": [],
   "features": [
     {

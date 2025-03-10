@@ -1,7 +1,7 @@
 {
   "name": "Bitrock Mainnet",
   "chain": "Bitrock",
-  "icon": null,
+  "icon": "./chain/7171/logo.png",
   "rpc": [
     "https://connect.bit-rock.io",
     "https://brockrpc.io"

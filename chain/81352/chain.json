@@ -10,7 +10,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "flanamix",
-  "icon": "./chain/81352/logo",
+  "icon": "./chain/81352/logo.png",
   "chainId": 81352,
   "networkId": 81352,
   "status": "incubating"

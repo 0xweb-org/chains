@@ -17,7 +17,7 @@
   "chainId": 6321,
   "networkId": 6321,
   "slip44": 1,
-  "icon": "./chain/6321/logo",
+  "icon": "./chain/6321/logo.png",
   "explorers": [
     {
       "name": "Aurascan Explorer",

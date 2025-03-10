@@ -1,7 +1,7 @@
 {
   "name": "0XL3",
   "chain": "0XL3",
-  "icon": "./chain/7117/logo",
+  "icon": "./chain/7117/logo.png",
   "rpc": [
     "https://rpc.0xl3.com"
   ],

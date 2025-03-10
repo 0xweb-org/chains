@@ -24,7 +24,7 @@
   "shortName": "THYDRA",
   "chainId": 8844,
   "networkId": 8844,
-  "icon": "./chain/8844/logo",
+  "icon": "./chain/8844/logo.png",
   "explorers": [
     {
       "name": "Hydra Chain Testnet explorer",

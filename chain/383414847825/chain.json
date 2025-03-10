@@ -1,7 +1,7 @@
 {
   "name": "Zeniq",
   "chain": "ZENIQ",
-  "icon": "./chain/383414847825/logo",
+  "icon": "./chain/383414847825/logo.png",
   "rpc": [
     "https://api.zeniq.network"
   ],

@@ -1,7 +1,7 @@
 {
   "name": "Ctex Scan Blockchain",
   "chain": "Ctex Scan Blockchain",
-  "icon": "./chain/1455/logo",
+  "icon": "./chain/1455/logo.png",
   "rpc": [
     "https://mainnet-rpc.ctexscan.com/"
   ],

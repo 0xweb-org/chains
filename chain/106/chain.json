@@ -1,6 +1,7 @@
 {
   "name": "Velas EVM Mainnet",
   "chain": "Velas",
+  "icon": "./chain/106/logo.png",
   "rpc": [
     "https://evmexplorer.velas.com/rpc",
     "https://explorer.velas.com/rpc"

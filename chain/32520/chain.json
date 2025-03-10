@@ -17,7 +17,7 @@
   "shortName": "Brise",
   "chainId": 32520,
   "networkId": 32520,
-  "icon": "./chain/32520/logo",
+  "icon": "./chain/32520/logo.png",
   "explorers": [
     {
       "name": "Brise Scan",

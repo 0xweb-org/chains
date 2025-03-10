@@ -15,7 +15,7 @@
   "shortName": "appchain",
   "chainId": 466,
   "networkId": 466,
-  "icon": "./chain/466/logo",
+  "icon": "./chain/466/logo.png",
   "explorers": [
     {
       "name": "AppChain Explorer",

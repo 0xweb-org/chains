@@ -13,5 +13,6 @@
   "infoURL": "https://www.DataHopper.com",
   "shortName": "hop",
   "chainId": 2021121117,
-  "networkId": 2021121117
+  "networkId": 2021121117,
+  "icon": null
 }

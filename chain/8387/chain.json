@@ -15,6 +15,6 @@
   "shortName": "fuck",
   "chainId": 8387,
   "networkId": 8387,
-  "icon": "./chain/8387/logo",
+  "icon": null,
   "explorers": []
 }

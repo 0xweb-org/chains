@@ -10,7 +10,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "amana",
-  "icon": "./chain/8134/logo",
+  "icon": "./chain/8134/logo.png",
   "chainId": 8134,
   "networkId": 8134,
   "status": "incubating"

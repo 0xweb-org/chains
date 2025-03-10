@@ -14,7 +14,7 @@
   "shortName": "PP",
   "chainId": 5511,
   "networkId": 5511,
-  "icon": "./chain/5511/logo",
+  "icon": "./chain/5511/logo.png",
   "explorers": [
     {
       "name": "PointPay Mainnet Explorer",

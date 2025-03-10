@@ -16,7 +16,7 @@
   "shortName": "laika-testnet",
   "chainId": 4269,
   "networkId": 4269,
-  "icon": "./chain/4269/logo",
+  "icon": "./chain/4269/logo.png",
   "explorers": [
     {
       "name": "Laika Testnet Explorer",

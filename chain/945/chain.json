@@ -15,7 +15,7 @@
   "chainId": 945,
   "networkId": 945,
   "slip44": 1005,
-  "icon": "./chain/945/logo",
+  "icon": "./chain/945/logo.png",
   "explorers": [
     {
       "name": "Subtensor EVM Explorer",

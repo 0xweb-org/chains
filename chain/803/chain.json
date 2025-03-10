@@ -13,5 +13,6 @@
   "infoURL": "https://www.haichain.io/",
   "shortName": "haic",
   "chainId": 803,
-  "networkId": 803
+  "networkId": 803,
+  "icon": null
 }

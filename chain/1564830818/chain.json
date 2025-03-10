@@ -1,7 +1,7 @@
 {
   "name": "SKALE Calypso Hub",
   "chain": "honorable-steel-rasalhague",
-  "icon": "./chain/1564830818/logo",
+  "icon": "./chain/1564830818/logo.png",
   "rpc": [
     "https://mainnet.skalenodes.com/v1/honorable-steel-rasalhague"
   ],

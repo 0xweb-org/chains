@@ -15,7 +15,7 @@
   "shortName": "TRUMPCHAIN",
   "chainId": 4547,
   "networkId": 4547,
-  "icon": "./chain/4547/logo",
+  "icon": "./chain/4547/logo.png",
   "explorers": [
     {
       "name": "TRUMPCHAIN Explorer",

@@ -15,7 +15,7 @@
   "chainId": 371,
   "networkId": 371,
   "slip44": 1,
-  "icon": "./chain/371/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "blockscout",

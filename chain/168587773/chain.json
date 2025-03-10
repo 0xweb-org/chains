@@ -18,7 +18,7 @@
   "shortName": "blastsepolia",
   "chainId": 168587773,
   "networkId": 168587773,
-  "icon": "./chain/168587773/logo",
+  "icon": "./chain/168587773/logo.png",
   "explorers": [
     {
       "name": "Blast Sepolia Explorer",

@@ -12,7 +12,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "icon": "./chain/68840142/logo",
+  "icon": "./chain/68840142/logo.png",
   "infoURL": "https://www.frame.xyz/",
   "shortName": "frametest",
   "chainId": 68840142,

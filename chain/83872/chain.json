@@ -1,7 +1,7 @@
 {
   "name": "ZEDXION",
   "chain": "ZEDXION",
-  "icon": "./chain/83872/logo",
+  "icon": null,
   "rpc": [
     "https://mainnet-rpc.zedscan.net"
   ],

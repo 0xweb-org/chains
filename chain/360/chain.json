@@ -15,7 +15,7 @@
   "shortName": "shape",
   "chainId": 360,
   "networkId": 360,
-  "icon": "./chain/360/logo",
+  "icon": "./chain/360/logo.png",
   "explorers": [
     {
       "name": "shapescan",

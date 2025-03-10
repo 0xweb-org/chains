@@ -11,5 +11,6 @@
   "infoURL": "https://teampeggle.com",
   "shortName": "PC",
   "chainId": 42069,
-  "networkId": 42069
+  "networkId": 42069,
+  "icon": null
 }

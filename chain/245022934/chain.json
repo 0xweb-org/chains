@@ -7,7 +7,7 @@
     "wss://neon-evm.drpc.org"
   ],
   "faucets": [],
-  "icon": "./chain/245022934/logo",
+  "icon": "./chain/245022934/logo.png",
   "nativeCurrency": {
     "name": "Neon",
     "symbol": "NEON",

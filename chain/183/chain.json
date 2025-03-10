@@ -10,7 +10,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "icon": "./chain/183/logo",
+  "icon": "./chain/183/logo.png",
   "infoURL": "https://www.ethernity.io",
   "shortName": "ethernity-mainnet",
   "chainId": 183,

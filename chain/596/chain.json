@@ -22,5 +22,6 @@
       "url": "https://blockscout.karura-testnet.aca-staging.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

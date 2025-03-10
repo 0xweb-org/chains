@@ -1,6 +1,7 @@
 {
   "name": "Soverun Mainnet",
   "chain": "SVRN",
+  "icon": null,
   "rpc": [
     "https://mainnet-rpc.soverun.com"
   ],

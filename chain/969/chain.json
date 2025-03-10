@@ -10,7 +10,7 @@
     "symbol": "SEXY",
     "decimals": 18
   },
-  "icon": "./chain/969/logo",
+  "icon": null,
   "infoURL": "https://ethxy.com",
   "shortName": "sexy",
   "chainId": 969,

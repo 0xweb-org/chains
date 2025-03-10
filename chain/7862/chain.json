@@ -1,7 +1,7 @@
 {
   "name": "MaalChain V2",
   "chain": "MAAL",
-  "icon": "./chain/7862/logo",
+  "icon": null,
   "rpc": [
     "https://node1-mainnet-new.maalscan.io/",
     "https://node2-mainnet-new.maalscan.io/",

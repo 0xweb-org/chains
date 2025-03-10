@@ -24,7 +24,7 @@
   "chainId": 17000,
   "networkId": 17000,
   "slip44": 1,
-  "icon": "./chain/17000/logo",
+  "icon": "./chain/17000/logo.png",
   "status": "incubating",
   "explorers": [
     {

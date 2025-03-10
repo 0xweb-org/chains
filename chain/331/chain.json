@@ -15,7 +15,7 @@
   "shortName": "telos-zkevm-testnet",
   "chainId": 331,
   "networkId": 331,
-  "icon": "./chain/331/logo",
+  "icon": "./chain/331/logo.png",
   "explorers": [
     {
       "name": "TeloScan",

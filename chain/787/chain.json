@@ -30,5 +30,6 @@
       "url": "https://blockscout.acala.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

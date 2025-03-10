@@ -6,6 +6,7 @@
     "ws://node106.cryptocoinpay.info:8546"
   ],
   "faucets": [],
+  "icon": "./chain/10823/logo.png",
   "nativeCurrency": {
     "name": "CryptoCoinPay",
     "symbol": "CCP",

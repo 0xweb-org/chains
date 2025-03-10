@@ -2,7 +2,7 @@
   "name": "Owshen Mainnet",
   "chain": "ETH",
   "status": "active",
-  "icon": "./chain/918273/logo",
+  "icon": null,
   "rpc": [
     "https://rpc.owshen.io"
   ],

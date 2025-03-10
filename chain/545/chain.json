@@ -16,7 +16,7 @@
   "shortName": "flow-testnet",
   "chainId": 545,
   "networkId": 545,
-  "icon": "./chain/545/logo",
+  "icon": "./chain/545/logo.png",
   "explorers": [
     {
       "name": "FlowScan Testnet",

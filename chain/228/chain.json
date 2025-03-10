@@ -19,5 +19,6 @@
   "infoURL": "https://mindnetwork.xyz",
   "shortName": "fhe",
   "chainId": 228,
-  "networkId": 228
+  "networkId": 228,
+  "icon": null
 }

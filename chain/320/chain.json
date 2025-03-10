@@ -14,7 +14,7 @@
   "shortName": "zkcandy",
   "chainId": 320,
   "networkId": 320,
-  "icon": "./chain/320/logo",
+  "icon": "./chain/320/logo.png",
   "explorers": [
     {
       "name": "ZKcandy Block Explorer",

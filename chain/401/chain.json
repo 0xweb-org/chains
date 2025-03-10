@@ -15,7 +15,7 @@
   "chainId": 401,
   "networkId": 401,
   "slip44": 1,
-  "icon": "./chain/401/logo",
+  "icon": "./chain/401/logo.png",
   "explorers": [
     {
       "name": "OZONE Scan",

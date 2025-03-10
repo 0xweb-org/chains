@@ -15,7 +15,7 @@
   "chainId": 32001,
   "networkId": 32001,
   "slip44": 1,
-  "icon": "./chain/32001/logo",
+  "icon": "./chain/32001/logo.png",
   "explorers": [
     {
       "name": "W3Gamez Holesky Explorer",

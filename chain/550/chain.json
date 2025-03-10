@@ -23,7 +23,7 @@
   "shortName": "river",
   "chainId": 550,
   "networkId": 550,
-  "icon": "./chain/550/logo",
+  "icon": "./chain/550/logo.png",
   "explorers": [
     {
       "name": "River Explorer",

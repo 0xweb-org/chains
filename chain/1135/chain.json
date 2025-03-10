@@ -1,7 +1,7 @@
 {
   "name": "Lisk",
   "chain": "ETH",
-  "icon": "./chain/1135/logo",
+  "icon": "./chain/1135/logo.png",
   "rpc": [
     "https://rpc.api.lisk.com"
   ],

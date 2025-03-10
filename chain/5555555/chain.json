@@ -15,7 +15,7 @@
   "shortName": "imversed",
   "chainId": 5555555,
   "networkId": 5555555,
-  "icon": "./chain/5555555/logo",
+  "icon": "./chain/5555555/logo.png",
   "explorers": [
     {
       "name": "Imversed EVM explorer (Blockscout)",

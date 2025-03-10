@@ -24,7 +24,7 @@
   "shortName": "citrea-testnet",
   "chainId": 5115,
   "networkId": 5115,
-  "icon": "./chain/5115/logo",
+  "icon": "./chain/5115/logo.png",
   "explorers": [
     {
       "name": "Citrea Testnet Explorer",

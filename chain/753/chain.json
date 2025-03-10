@@ -22,7 +22,7 @@
   "shortName": "rivalz",
   "chainId": 753,
   "networkId": 753,
-  "icon": "./chain/753/logo",
+  "icon": "./chain/753/logo.png",
   "explorers": [
     {
       "name": "Rivalz Caldera Explorer",

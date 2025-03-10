@@ -24,7 +24,7 @@
   "shortName": "kava",
   "chainId": 2222,
   "networkId": 2222,
-  "icon": "./chain/2222/logo",
+  "icon": "./chain/2222/logo.png",
   "explorers": [
     {
       "name": "Kava EVM Explorer",

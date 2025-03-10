@@ -12,7 +12,7 @@
   },
   "infoURL": "https://www.trias.one",
   "shortName": "tTSC",
-  "icon": "./chain/820522/logo",
+  "icon": "./chain/820522/logo.png",
   "chainId": 820522,
   "networkId": 820025,
   "explorers": [

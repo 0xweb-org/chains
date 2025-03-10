@@ -18,7 +18,7 @@
     "symbol": "GUN",
     "decimals": 18
   },
-  "icon": "./chain/49321/logo",
+  "icon": "./chain/49321/logo.png",
   "infoURL": "https://gunbygunz.com",
   "shortName": "Stork",
   "chainId": 49321,

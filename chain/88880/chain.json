@@ -13,7 +13,7 @@
     "symbol": "CHZ",
     "decimals": 18
   },
-  "icon": "./chain/88880/logo",
+  "icon": "./chain/88880/logo.png",
   "infoURL": "https://www.chiliz.com/en/chain",
   "shortName": "chz",
   "chainId": 88880,

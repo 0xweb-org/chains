@@ -13,5 +13,6 @@
   "infoURL": "https://www.chips.ooo",
   "shortName": "chips",
   "chainId": 2882,
-  "networkId": 2882
+  "networkId": 2882,
+  "icon": null
 }

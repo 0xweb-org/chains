@@ -1,6 +1,7 @@
 {
   "name": "BitTorrent Chain Donau",
   "chain": "BTTC",
+  "icon": "./chain/1029/logo.png",
   "rpc": [
     "https://pre-rpc.bt.io"
   ],

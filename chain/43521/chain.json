@@ -2,7 +2,7 @@
   "name": "Formicarium",
   "title": "MemeCore Testnet Formicarium",
   "chain": "MemeCore",
-  "icon": "./chain/43521/logo",
+  "icon": "./chain/43521/logo.png",
   "rpc": [
     "https://rpc.formicarium.memecore.net",
     "wss://ws.formicarium.memecore.net"

@@ -21,7 +21,7 @@
   "shortName": "blastmainnet",
   "chainId": 81457,
   "networkId": 81457,
-  "icon": "./chain/81457/logo",
+  "icon": "./chain/81457/logo.png",
   "explorers": [
     {
       "name": "Blastscan",

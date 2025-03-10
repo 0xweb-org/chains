@@ -15,7 +15,7 @@
   "chainId": 111000,
   "networkId": 111000,
   "slip44": 1,
-  "icon": "./chain/111000/logo",
+  "icon": "./chain/111000/logo.png",
   "explorers": [
     {
       "name": "Siberium Testnet Explorer - blockscout",

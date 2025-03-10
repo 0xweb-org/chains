@@ -1,7 +1,7 @@
 {
   "name": "Gold Smart Chain Mainnet",
   "chain": "STAND",
-  "icon": "./chain/6789/logo",
+  "icon": "./chain/6789/logo.png",
   "rpc": [
     "https://rpc-mainnet.goldsmartchain.com"
   ],

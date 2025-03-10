@@ -43,5 +43,6 @@
       "url": "https://mainnet.superscan.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": "./chain/10/logo.png"
 }

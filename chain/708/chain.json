@@ -24,5 +24,6 @@
       "url": "https://testnet.bcsdev.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

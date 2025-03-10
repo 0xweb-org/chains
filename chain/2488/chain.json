@@ -1,7 +1,7 @@
 {
   "name": "NOW Chain Mainnet",
   "chain": "NOW",
-  "icon": "./chain/2488/logo",
+  "icon": "./chain/2488/logo.png",
   "rpc": [
     "https://rpc.nowscan.io"
   ],

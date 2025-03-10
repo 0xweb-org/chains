@@ -2,7 +2,7 @@
   "name": "Filecoin - Hyperspace testnet",
   "status": "deprecated",
   "chain": "FIL",
-  "icon": "./chain/3141/logo",
+  "icon": "./chain/3141/logo.png",
   "rpc": [],
   "faucets": [],
   "nativeCurrency": {

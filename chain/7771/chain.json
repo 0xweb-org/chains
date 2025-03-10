@@ -1,7 +1,7 @@
 {
   "name": "Bitrock Testnet",
   "chain": "Bitrock",
-  "icon": null,
+  "icon": "./chain/7771/logo.png",
   "rpc": [
     "https://testnet.bit-rock.io"
   ],

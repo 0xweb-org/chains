@@ -17,7 +17,7 @@
   },
   "infoURL": "https://docs.lif3.com/",
   "shortName": "lif3-mainnet",
-  "icon": "./chain/8869/logo",
+  "icon": "./chain/8869/logo.png",
   "chainId": 8869,
   "networkId": 8869,
   "explorers": [

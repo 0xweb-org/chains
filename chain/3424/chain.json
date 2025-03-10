@@ -1,7 +1,7 @@
 {
   "name": "EVOLVE Mainnet",
   "chain": "EVO",
-  "icon": "./chain/3424/logo",
+  "icon": "./chain/3424/logo.png",
   "rpc": [
     "https://rpc.evoexplorer.com"
   ],

@@ -13,7 +13,7 @@
   "shortName": "rarimo",
   "chainId": 7368,
   "networkId": 7368,
-  "icon": "./chain/7368/logo",
+  "icon": "./chain/7368/logo.png",
   "parent": {
     "type": "L2",
     "chain": "eip155-1",

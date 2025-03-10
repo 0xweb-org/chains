@@ -2,7 +2,7 @@
   "name": "Zuux chain testnet",
   "title": "Zuux chain testnet",
   "chain": "zuuxchain",
-  "icon": "./chain/4284265/logo",
+  "icon": "./chain/4284265/logo.png",
   "rpc": [
     "https://rpc.zuux.network"
   ],

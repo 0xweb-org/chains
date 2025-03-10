@@ -27,5 +27,6 @@
       "url": "https://testnet.abeyscan.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

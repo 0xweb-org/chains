@@ -3,7 +3,7 @@
   "title": "Deprecated Calypso NFT Hub Testnet",
   "status": "deprecated",
   "chain": "staging-utter-unripe-menkar",
-  "icon": "./chain/344106930/logo",
+  "icon": "./chain/344106930/logo.png",
   "rpc": [
     "https://staging-v3.skalenodes.com/v1/staging-utter-unripe-menkar"
   ],

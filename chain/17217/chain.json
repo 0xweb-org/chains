@@ -15,7 +15,7 @@
   "chainId": 17217,
   "networkId": 17217,
   "slip44": 1,
-  "icon": "./chain/17217/logo",
+  "icon": "./chain/17217/logo.png",
   "explorers": [
     {
       "name": "konet-explorer",

@@ -2,7 +2,7 @@
   "name": "Adiri",
   "title": "Telcoin Network Testnet",
   "chain": "TEL",
-  "icon": "./chain/2017/logo",
+  "icon": "./chain/2017/logo.png",
   "rpc": [
     "https://rpc.telcoin.network",
     "https://adiri.tel",

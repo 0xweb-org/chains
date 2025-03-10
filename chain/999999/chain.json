@@ -2,7 +2,7 @@
   "name": "AmChain",
   "title": "AMC",
   "chain": "AmChain",
-  "icon": "./chain/999999/logo",
+  "icon": "./chain/999999/logo.png",
   "rpc": [
     "https://node1.amchain.net"
   ],

@@ -1,7 +1,7 @@
 {
   "name": "Entangle Testnet",
   "chain": "NGL",
-  "icon": "./chain/33133/logo",
+  "icon": "./chain/33133/logo.png",
   "rpc": [
     "https://evm-testnet.entangle.fi"
   ],

@@ -14,5 +14,6 @@
   "shortName": "GooDT",
   "chainId": 32,
   "networkId": 32,
-  "slip44": 1
+  "slip44": 1,
+  "icon": null
 }

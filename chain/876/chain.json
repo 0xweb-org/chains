@@ -1,7 +1,7 @@
 {
   "name": "Bandai Namco Research Verse Mainnet",
   "chain": "Bandai Namco Research Verse",
-  "icon": "./chain/876/logo",
+  "icon": null,
   "rpc": [
     "https://rpc.main.oasvrs.bnken.net"
   ],

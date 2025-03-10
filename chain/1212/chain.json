@@ -1,7 +1,7 @@
 {
   "name": "ADF Chain Testnet",
   "chain": "ADF Chain Testnet",
-  "icon": "./chain/1212/logo",
+  "icon": "./chain/1212/logo.png",
   "rpc": [
     "https://testnet.adftechnology.com/"
   ],

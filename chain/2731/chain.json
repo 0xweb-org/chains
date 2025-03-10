@@ -14,7 +14,7 @@
   "shortName": "TIME",
   "chainId": 2731,
   "networkId": 2731,
-  "icon": "./chain/2731/logo",
+  "icon": "./chain/2731/logo.png",
   "explorers": [
     {
       "name": "Time Network Explorer",

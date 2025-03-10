@@ -1,7 +1,7 @@
 {
   "name": "Eternal Mainnet",
   "chain": "ETE",
-  "icon": "./chain/140/logo",
+  "icon": null,
   "rpc": [
     "https://mainnet.eternalcoin.io/v1",
     "ws://mainnet.eternalcoin.io/v1/ws"

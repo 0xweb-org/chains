@@ -2,7 +2,7 @@
   "name": "Taiko Alethia",
   "chain": "ETH",
   "status": "active",
-  "icon": "./chain/167000/logo",
+  "icon": "./chain/167000/logo.png",
   "rpc": [
     "https://rpc.mainnet.taiko.xyz",
     "https://taiko-rpc.publicnode.com",

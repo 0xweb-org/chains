@@ -1,7 +1,7 @@
 {
   "name": "TTcoin Smart Chain Mainnet",
   "chain": "TSC",
-  "icon": "./chain/330844/logo",
+  "icon": "./chain/330844/logo.png",
   "rpc": [
     "https://mainnet-rpc.tscscan.com"
   ],

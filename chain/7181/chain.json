@@ -22,7 +22,7 @@
   "shortName": "uxlink1-sep",
   "chainId": 7181,
   "networkId": 7181,
-  "icon": "./chain/7181/logo",
+  "icon": "./chain/7181/logo.png",
   "explorers": [
     {
       "name": "UXLINK One Sepolia Explorer",

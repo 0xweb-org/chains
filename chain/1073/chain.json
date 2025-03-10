@@ -2,6 +2,7 @@
   "name": "ShimmerEVM Testnet",
   "title": "ShimmerEVM Testnet",
   "chain": "ShimmerEVM",
+  "icon": "./chain/1073/logo.png",
   "rpc": [
     "https://json-rpc.evm.testnet.shimmer.network"
   ],

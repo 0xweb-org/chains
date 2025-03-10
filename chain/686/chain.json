@@ -30,5 +30,6 @@
       "url": "https://blockscout.karura.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

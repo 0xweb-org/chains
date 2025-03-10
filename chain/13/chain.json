@@ -15,5 +15,6 @@
   "shortName": "dstg",
   "chainId": 13,
   "networkId": 13,
-  "slip44": 1
+  "slip44": 1,
+  "icon": null
 }

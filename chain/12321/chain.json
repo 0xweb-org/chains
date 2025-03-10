@@ -1,7 +1,7 @@
 {
   "name": "BLG Testnet",
   "chain": "BLG",
-  "icon": "./chain/12321/logo",
+  "icon": "./chain/12321/logo.png",
   "rpc": [
     "https://rpc.blgchain.com"
   ],

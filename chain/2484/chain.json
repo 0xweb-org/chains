@@ -17,7 +17,7 @@
   "chainId": 2484,
   "networkId": 2484,
   "slip44": 1,
-  "icon": "./chain/2484/logo",
+  "icon": "./chain/2484/logo.png",
   "explorers": [
     {
       "icon": "u2u_nebulas",

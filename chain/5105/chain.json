@@ -13,5 +13,6 @@
   "infoURL": "https://www.superloyal.com/",
   "shortName": "superloyalty-testnet",
   "chainId": 5105,
-  "networkId": 5105
+  "networkId": 5105,
+  "icon": null
 }

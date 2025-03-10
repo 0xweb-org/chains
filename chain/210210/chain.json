@@ -6,7 +6,7 @@
     "https://testnet.rpc.sorian.io"
   ],
   "faucets": [],
-  "icon": "./chain/210210/logo",
+  "icon": "./chain/210210/logo.png",
   "nativeCurrency": {
     "name": "Sorian Testnet",
     "symbol": "tSOR",

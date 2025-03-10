@@ -1,7 +1,7 @@
 {
   "name": "Hubble Exchange",
   "chain": "Hubblenet",
-  "icon": "./chain/1992/logo",
+  "icon": "./chain/1992/logo.png",
   "rpc": [
     "https://rpc.hubble.exchange",
     "wss://ws-rpc.hubble.exchange"

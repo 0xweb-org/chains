@@ -17,7 +17,7 @@
   "chainId": 49088,
   "networkId": 49088,
   "slip44": 1,
-  "icon": "./chain/49088/logo",
+  "icon": "./chain/49088/logo.png",
   "explorers": [
     {
       "name": "explorer-thebifrost",

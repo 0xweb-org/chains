@@ -1,7 +1,7 @@
 {
   "name": "ADIL Testnet",
   "chain": "ADIL",
-  "icon": "./chain/7575/logo",
+  "icon": "./chain/7575/logo.png",
   "rpc": [
     "https://testnet.adilchain-rpc.io"
   ],

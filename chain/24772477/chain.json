@@ -22,7 +22,7 @@
   "shortName": "6dotest",
   "chainId": 24772477,
   "networkId": 24772477,
-  "icon": "./chain/24772477/logo",
+  "icon": "./chain/24772477/logo.png",
   "explorers": [
     {
       "name": "6Degree Testnet Chain Explorer",

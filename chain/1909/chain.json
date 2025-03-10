@@ -1,7 +1,7 @@
 {
   "name": "Merkle Scan",
   "chain": "MRK",
-  "icon": "./chain/1909/logo",
+  "icon": "./chain/1909/logo.png",
   "rpc": [
     "https://marklechain-rpc.merklescan.com"
   ],

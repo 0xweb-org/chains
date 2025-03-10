@@ -17,7 +17,7 @@
   "shortName": "Merlin-Mainnet",
   "chainId": 4200,
   "networkId": 4200,
-  "icon": "./chain/4200/logo",
+  "icon": "./chain/4200/logo.png",
   "explorers": [
     {
       "name": "L2scan",

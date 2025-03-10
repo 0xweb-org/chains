@@ -12,7 +12,7 @@
   "shortName": "moveleg",
   "chainId": 30730,
   "networkId": 30730,
-  "icon": "./chain/30730/logo",
+  "icon": "./chain/30730/logo.png",
   "explorers": [
     {
       "name": "mevm explorer",

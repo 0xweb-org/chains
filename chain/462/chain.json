@@ -1,7 +1,7 @@
 {
   "name": "Areon Network Testnet",
   "chain": "Areon",
-  "icon": "./chain/462/logo",
+  "icon": null,
   "rpc": [
     "https://testnet-rpc.areon.network",
     "https://testnet-rpc2.areon.network",

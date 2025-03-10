@@ -16,7 +16,7 @@
   "chainId": 7778,
   "networkId": 7778,
   "slip44": 1,
-  "icon": "./chain/7778/logo",
+  "icon": "./chain/7778/logo.png",
   "faucets": [],
   "explorers": [
     {

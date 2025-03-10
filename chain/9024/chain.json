@@ -16,7 +16,7 @@
   "shortName": "NexaTestnet",
   "chainId": 9024,
   "networkId": 9024,
-  "icon": "./chain/9024/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "Nexablock Testnet Explorer",

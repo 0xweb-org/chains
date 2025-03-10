@@ -1,7 +1,7 @@
 {
   "name": "Altair",
   "chain": "AIR",
-  "icon": "./chain/2088/logo",
+  "icon": "./chain/2088/logo.png",
   "rpc": [
     "wss://fullnode.altair.centrifuge.io",
     "wss://altair.api.onfinality.io/public-ws"

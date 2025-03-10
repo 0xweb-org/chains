@@ -17,7 +17,7 @@
   "shortName": "evmos",
   "chainId": 9001,
   "networkId": 9001,
-  "icon": "./chain/9001/logo",
+  "icon": "./chain/9001/logo.png",
   "explorers": [
     {
       "name": "Evmos Explorer (Escan)",

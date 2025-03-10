@@ -14,5 +14,6 @@
   "shortName": "xpr",
   "chainId": 110,
   "networkId": 110,
-  "slip44": 1
+  "slip44": 1,
+  "icon": null
 }

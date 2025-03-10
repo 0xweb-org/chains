@@ -16,7 +16,7 @@
   "shortName": "unichain-sep",
   "chainId": 1301,
   "networkId": 1301,
-  "icon": "./chain/1301/logo",
+  "icon": "./chain/1301/logo.png",
   "explorers": [
     {
       "name": "Unichain Sepolia Testnet Explorer",

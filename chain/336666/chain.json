@@ -19,7 +19,7 @@
   "shortName": "UPchain-mainnet",
   "chainId": 336666,
   "networkId": 336666,
-  "icon": "./chain/336666/logo",
+  "icon": "./chain/336666/logo.png",
   "explorers": [
     {
       "name": "UPchain Mainnet Explorer",

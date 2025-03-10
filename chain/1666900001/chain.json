@@ -14,5 +14,6 @@
   "shortName": "hmy-ps-s1",
   "chainId": 1666900001,
   "networkId": 1666900001,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

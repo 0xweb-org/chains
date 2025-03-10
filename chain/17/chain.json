@@ -13,5 +13,6 @@
   "infoURL": "https://exp.thaifi.com",
   "shortName": "tfi",
   "chainId": 17,
-  "networkId": 17
+  "networkId": 17,
+  "icon": null
 }

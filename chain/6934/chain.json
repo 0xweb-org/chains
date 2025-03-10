@@ -42,7 +42,7 @@
   "shortName": "xyl",
   "chainId": 6934,
   "networkId": 6934,
-  "icon": "./chain/6934/logo",
+  "icon": "./chain/6934/logo.png",
   "explorers": [
     {
       "name": "XYL Explorer",

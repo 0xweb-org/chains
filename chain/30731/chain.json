@@ -12,7 +12,7 @@
   "shortName": "movedev",
   "chainId": 30731,
   "networkId": 30731,
-  "icon": "./chain/30731/logo",
+  "icon": "./chain/30731/logo.png",
   "explorers": [
     {
       "name": "mevm explorer",

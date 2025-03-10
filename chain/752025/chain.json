@@ -20,5 +20,6 @@
       "url": "https://explorer-mainnet.zkevm.ternoa.network",
       "standard": "none"
     }
-  ]
+  ],
+  "icon": null
 }

@@ -1,7 +1,7 @@
 {
   "name": "E-Dollar",
   "chain": "USD",
-  "icon": "./chain/8087/logo",
+  "icon": "./chain/8087/logo.png",
   "rpc": [
     "https://rpc.e-dollar.org"
   ],

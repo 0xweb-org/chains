@@ -23,7 +23,7 @@
   "chainId": 202020,
   "networkId": 202020,
   "slip44": 1,
-  "icon": null,
+  "icon": "./chain/202020/logo.png",
   "explorers": [
     {
       "name": "DSC Explorer Testnet",

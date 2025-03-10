@@ -14,7 +14,7 @@
   "shortName": "prb",
   "chainId": 3400,
   "networkId": 3400,
-  "icon": "./chain/3400/logo",
+  "icon": "./chain/3400/logo.png",
   "explorers": [
     {
       "name": "Paribu Net Explorer",

@@ -1,6 +1,7 @@
 {
   "name": "Gnosis Chiado Testnet",
   "chain": "GNO",
+  "icon": "./chain/10200/logo.png",
   "rpc": [
     "https://rpc.chiadochain.net",
     "https://rpc.chiado.gnosis.gateway.fm",

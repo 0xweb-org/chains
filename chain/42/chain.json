@@ -1,7 +1,7 @@
 {
   "name": "LUKSO Mainnet",
   "chain": "LUKSO",
-  "icon": "./chain/42/logo",
+  "icon": "./chain/42/logo.png",
   "rpc": [
     "https://rpc.mainnet.lukso.network",
     "wss://ws-rpc.mainnet.lukso.network"

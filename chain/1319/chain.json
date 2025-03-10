@@ -1,7 +1,7 @@
 {
   "name": "AIA Mainnet",
   "chain": "AIA",
-  "icon": "./chain/1319/logo",
+  "icon": "./chain/1319/logo.png",
   "rpc": [
     "https://aia-dataseed1.aiachain.org",
     "https://aia-dataseed2.aiachain.org",

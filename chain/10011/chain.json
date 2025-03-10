@@ -13,5 +13,6 @@
   "infoURL": "https://deepsafe.network/",
   "shortName": "DeepSafe",
   "chainId": 10011,
-  "networkId": 10011
+  "networkId": 10011,
+  "icon": null
 }

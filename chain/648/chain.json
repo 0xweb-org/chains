@@ -20,5 +20,6 @@
       "url": "https://explorer.endurance.fusionist.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": "./chain/648/logo.png"
 }

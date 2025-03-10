@@ -17,7 +17,7 @@
   "shortName": "tpsc",
   "chainId": 96969696,
   "networkId": 96969696,
-  "icon": "./chain/96969696/logo",
+  "icon": "./chain/96969696/logo.png",
   "explorers": [
     {
       "name": "blockscout",

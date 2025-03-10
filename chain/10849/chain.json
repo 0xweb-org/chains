@@ -26,5 +26,6 @@
       "url": "https://subnets.avax.network/lamina1",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

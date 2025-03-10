@@ -21,7 +21,7 @@
   "shortName": "water9",
   "chainId": 1501869,
   "networkId": 1501869,
-  "icon": "./chain/1501869/logo",
+  "icon": "./chain/1501869/logo.png",
   "explorers": [
     {
       "name": "Waterfall Explorer Testnet9",

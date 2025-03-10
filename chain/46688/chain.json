@@ -1,7 +1,7 @@
 {
   "name": "Fusion Testnet",
   "chain": "FSN",
-  "icon": "./chain/46688/logo",
+  "icon": "./chain/46688/logo.png",
   "rpc": [
     "https://testnet.fusionnetwork.io",
     "wss://testnet.fusionnetwork.io"

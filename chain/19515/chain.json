@@ -1,7 +1,7 @@
 {
   "name": "SEC Testnet",
   "chain": "SEC",
-  "icon": "./chain/19515/logo",
+  "icon": "./chain/19515/logo.png",
   "rpc": [
     "https://testnet-rpc.secexplorer.io"
   ],

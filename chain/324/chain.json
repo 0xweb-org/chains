@@ -16,7 +16,7 @@
   "shortName": "zksync",
   "chainId": 324,
   "networkId": 324,
-  "icon": "./chain/324/logo",
+  "icon": "./chain/324/logo.png",
   "explorers": [
     {
       "name": "zkSync Era Block Explorer",

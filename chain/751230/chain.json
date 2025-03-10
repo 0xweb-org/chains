@@ -1,7 +1,7 @@
 {
   "name": "Bear Network Chain Testnet",
   "chain": "BRNKCTEST",
-  "icon": "./chain/751230/logo",
+  "icon": "./chain/751230/logo.png",
   "rpc": [
     "https://brnkc-test.bearnetwork.net"
   ],

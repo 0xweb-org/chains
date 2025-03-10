@@ -1,7 +1,7 @@
 {
   "name": "Polis Testnet",
   "chain": "Sparta",
-  "icon": "./chain/333888/logo",
+  "icon": "./chain/333888/logo.png",
   "rpc": [
     "https://sparta-rpc.polis.tech"
   ],

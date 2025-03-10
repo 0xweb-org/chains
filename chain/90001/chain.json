@@ -14,7 +14,7 @@
   "shortName": "dhobyghaut",
   "chainId": 90001,
   "networkId": 90001,
-  "icon": null,
+  "icon": "./chain/90001/logo.png",
   "explorers": [
     {
       "name": "PundiScan Explorer",

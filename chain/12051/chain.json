@@ -23,5 +23,6 @@
       "url": "https://betaenv.singularity.gold:18002",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

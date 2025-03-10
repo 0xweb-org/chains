@@ -2,7 +2,7 @@
   "name": "Amoy",
   "title": "Polygon Amoy Testnet",
   "chain": "Polygon",
-  "icon": "./chain/80002/logo",
+  "icon": "./chain/80002/logo.png",
   "rpc": [
     "https://rpc-amoy.polygon.technology",
     "https://polygon-amoy-bor-rpc.publicnode.com",

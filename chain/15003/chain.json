@@ -16,7 +16,7 @@
   "shortName": "imx-devnet",
   "chainId": 15003,
   "networkId": 15003,
-  "icon": "./chain/15003/logo",
+  "icon": "./chain/15003/logo.png",
   "explorers": [
     {
       "name": "Immutable Devnet explorer",

@@ -2,7 +2,7 @@
   "name": "Deprecated SKALE Nebula Hub Testnet",
   "chain": "staging-faint-slimy-achird",
   "status": "deprecated",
-  "icon": "./chain/503129905/logo",
+  "icon": "./chain/503129905/logo.png",
   "rpc": [
     "https://staging-v3.skalenodes.com/v1/staging-faint-slimy-achird",
     "wss://staging-v3.skalenodes.com/v1/ws/staging-faint-slimy-achird"

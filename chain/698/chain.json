@@ -1,7 +1,7 @@
 {
   "name": "Matchain",
   "chain": "Matchain",
-  "icon": "./chain/698/logo",
+  "icon": "./chain/698/logo.png",
   "rpc": [
     "https://rpc.matchain.io"
   ],

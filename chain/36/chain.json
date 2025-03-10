@@ -1,7 +1,7 @@
 {
   "name": "Dxchain Mainnet",
   "chain": "Dxchain",
-  "icon": "./chain/36/logo",
+  "icon": "./chain/36/logo.png",
   "rpc": [
     "https://mainnet.dxchain.com"
   ],

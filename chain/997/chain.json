@@ -16,7 +16,7 @@
   "shortName": "T5ire",
   "chainId": 997,
   "networkId": 997,
-  "icon": "./chain/997/logo",
+  "icon": "./chain/997/logo.png",
   "explorers": [
     {
       "name": "5ireChain Testnet Explorer",

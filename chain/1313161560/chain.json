@@ -4,7 +4,7 @@
   "rpc": [
     "https://powergold.aurora.dev"
   ],
-  "icon": "./chain/1313161560/logo",
+  "icon": "./chain/1313161560/logo.png",
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",

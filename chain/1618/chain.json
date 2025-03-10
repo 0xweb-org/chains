@@ -13,5 +13,6 @@
   "infoURL": "https://catechain.com",
   "shortName": "cate",
   "chainId": 1618,
-  "networkId": 1618
+  "networkId": 1618,
+  "icon": null
 }

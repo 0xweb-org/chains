@@ -22,7 +22,7 @@
   "shortName": "btc20",
   "chainId": 963,
   "networkId": 963,
-  "icon": "./chain/963/logo",
+  "icon": "./chain/963/logo.png",
   "explorers": [
     {
       "name": "blockscout",

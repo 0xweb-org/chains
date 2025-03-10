@@ -1,7 +1,7 @@
 {
   "name": "REI Chain Mainnet",
   "chain": "REI",
-  "icon": null,
+  "icon": "./chain/55555/logo.png",
   "rpc": [
     "https://rei-rpc.moonrhythm.io"
   ],

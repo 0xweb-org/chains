@@ -2,7 +2,7 @@
   "name": "Taiko Eldfell L3",
   "chain": "ETH",
   "status": "deprecated",
-  "icon": "./chain/167006/logo",
+  "icon": "./chain/167006/logo.png",
   "rpc": [
     "https://rpc.l3test.taiko.xyz"
   ],

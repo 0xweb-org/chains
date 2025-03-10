@@ -17,7 +17,7 @@
   "shortName": "pg",
   "chainId": 20201022,
   "networkId": 20201022,
-  "icon": "./chain/20201022/logo",
+  "icon": "./chain/20201022/logo.png",
   "explorers": [
     {
       "name": "Pego Network Explorer",

@@ -11,5 +11,6 @@
   "infoURL": "https://clover.finance/sakura",
   "shortName": "sku",
   "chainId": 1022,
-  "networkId": 1022
+  "networkId": 1022,
+  "icon": null
 }

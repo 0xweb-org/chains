@@ -2,7 +2,7 @@
   "name": "TAC Mainnet",
   "title": "TAC Mainnet",
   "chain": "TAC",
-  "icon": "./chain/239/logo",
+  "icon": "./chain/239/logo.png",
   "rpc": [],
   "faucets": [],
   "nativeCurrency": {

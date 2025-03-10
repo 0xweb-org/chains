@@ -1,7 +1,7 @@
 {
   "name": "CyberChain Mainnet",
   "chain": "XCC",
-  "icon": "./chain/65535/logo",
+  "icon": "./chain/65535/logo.png",
   "rpc": [
     "https://rpc.cyberchain.xyz/"
   ],

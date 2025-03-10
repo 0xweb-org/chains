@@ -14,5 +14,6 @@
   "shortName": "mix",
   "chainId": 76,
   "networkId": 76,
-  "slip44": 76
+  "slip44": 76,
+  "icon": null
 }

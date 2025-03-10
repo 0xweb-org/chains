@@ -15,5 +15,6 @@
   "shortName": "ox-chain",
   "chainId": 6699,
   "networkId": 6699,
-  "status": "incubating"
+  "status": "incubating",
+  "icon": null
 }

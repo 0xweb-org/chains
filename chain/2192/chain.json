@@ -14,7 +14,7 @@
   "shortName": "snax",
   "chainId": 2192,
   "networkId": 2192,
-  "icon": null,
+  "icon": "./chain/2192/logo.png",
   "explorers": [
     {
       "name": "blockscout",

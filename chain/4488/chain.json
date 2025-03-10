@@ -22,7 +22,7 @@
   "shortName": "HYDRA",
   "chainId": 4488,
   "networkId": 4488,
-  "icon": "./chain/4488/logo",
+  "icon": "./chain/4488/logo.png",
   "explorers": [
     {
       "name": "Hydra Chain Mainnet explorer",

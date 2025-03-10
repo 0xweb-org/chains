@@ -25,5 +25,6 @@
       "url": "https://subnets-test.avax.network/testnetzer",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

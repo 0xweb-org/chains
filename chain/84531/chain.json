@@ -21,7 +21,7 @@
   "chainId": 84531,
   "networkId": 84531,
   "slip44": 1,
-  "icon": "./chain/84531/logo",
+  "icon": "./chain/84531/logo.png",
   "explorers": [
     {
       "name": "basescan",

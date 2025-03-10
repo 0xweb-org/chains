@@ -23,7 +23,7 @@
   "chainId": 4777,
   "networkId": 4777,
   "slip44": 1,
-  "icon": "./chain/4777/logo",
+  "icon": "./chain/4777/logo.png",
   "explorers": [
     {
       "name": "blockscout",

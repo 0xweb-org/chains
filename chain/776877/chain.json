@@ -20,5 +20,6 @@
       "url": "https://tanssi-evmexplorer.netlify.app/?rpcUrl=https://fraa-dancebox-3035-rpc.a.dancebox.tanssi.network",
       "standard": "none"
     }
-  ]
+  ],
+  "icon": null
 }

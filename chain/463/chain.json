@@ -1,7 +1,7 @@
 {
   "name": "Areon Network Mainnet",
   "chain": "Areon",
-  "icon": "./chain/463/logo",
+  "icon": null,
   "rpc": [
     "https://mainnet-rpc.areon.network",
     "https://mainnet-rpc2.areon.network",

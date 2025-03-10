@@ -14,5 +14,6 @@
   "shortName": "mdgl",
   "chainId": 8029,
   "networkId": 8029,
-  "slip44": 1
+  "slip44": 1,
+  "icon": null
 }

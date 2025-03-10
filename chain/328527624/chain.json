@@ -10,7 +10,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "icon": "./chain/328527624/logo",
+  "icon": "./chain/328527624/logo.png",
   "infoURL": "https://www.nal.network",
   "shortName": "nalsep",
   "chainId": 328527624,

@@ -21,7 +21,7 @@
   "chainId": 4002,
   "networkId": 4002,
   "slip44": 1,
-  "icon": null,
+  "icon": "./chain/4002/logo.png",
   "explorers": [
     {
       "name": "ftmscan",

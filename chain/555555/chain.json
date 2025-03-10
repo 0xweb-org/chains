@@ -12,7 +12,7 @@
     "symbol": "PEN",
     "decimals": 18
   },
-  "icon": "./chain/555555/logo",
+  "icon": "./chain/555555/logo.png",
   "features": [
     {
       "name": "EIP155"

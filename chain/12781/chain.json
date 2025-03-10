@@ -1,7 +1,7 @@
 {
   "name": "Playdapp Testnet",
   "chain": "PDA",
-  "icon": "./chain/12781/logo",
+  "icon": "./chain/12781/logo.png",
   "rpc": [
     "https://subnets.avax.network/playdappte/testnet/rpc"
   ],

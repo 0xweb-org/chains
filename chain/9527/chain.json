@@ -1,7 +1,7 @@
 {
   "name": "Rangers Protocol Testnet Robin",
   "chain": "Rangers",
-  "icon": "./chain/9527/logo",
+  "icon": "./chain/9527/logo.png",
   "rpc": [
     "https://robin.rangersprotocol.com/api/jsonrpc"
   ],

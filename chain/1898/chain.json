@@ -21,5 +21,6 @@
       "url": "https://explorer.boyanet.org:4001",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

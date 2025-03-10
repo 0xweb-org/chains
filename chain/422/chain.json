@@ -1,7 +1,7 @@
 {
   "name": "Viridis Mainnet",
   "chain": "VRD",
-  "icon": "./chain/422/logo",
+  "icon": "./chain/422/logo.png",
   "rpc": [
     "https://mainnet-rpc.vrd.network"
   ],

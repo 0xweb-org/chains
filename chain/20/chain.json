@@ -20,5 +20,6 @@
       "url": "https://esc.elastos.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": "./chain/20/logo.png"
 }

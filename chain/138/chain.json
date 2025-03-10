@@ -1,7 +1,7 @@
 {
   "name": "Defi Oracle Meta Mainnet",
   "chain": "dfiometa",
-  "icon": "./chain/138/logo",
+  "icon": null,
   "rpc": [
     "https://rpc.defi-oracle.io",
     "wss://wss.defi-oracle.io"

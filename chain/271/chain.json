@@ -1,7 +1,7 @@
 {
   "name": "EgonCoin Mainnet",
   "chain": "EGON",
-  "icon": "./chain/271/logo",
+  "icon": "./chain/271/logo.png",
   "rpc": [
     "https://rpc.egonscan.com"
   ],

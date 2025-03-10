@@ -19,7 +19,7 @@
   "shortName": "sling",
   "chainId": 97435,
   "networkId": 97435,
-  "icon": "./chain/97435/logo",
+  "icon": "./chain/97435/logo.png",
   "explorers": [
     {
       "name": "SlingShot Test Explorer",

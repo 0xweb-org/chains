@@ -19,7 +19,7 @@
   "shortName": "tAP3X",
   "chainId": 9070,
   "networkId": 9070,
-  "icon": "./chain/9070/logo",
+  "icon": "./chain/9070/logo.png",
   "explorers": [
     {
       "name": "apexfusion",

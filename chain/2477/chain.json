@@ -22,7 +22,7 @@
   "shortName": "6do",
   "chainId": 2477,
   "networkId": 2477,
-  "icon": "./chain/2477/logo",
+  "icon": "./chain/2477/logo.png",
   "explorers": [
     {
       "name": "6Degree Chain Explorer",

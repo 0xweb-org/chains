@@ -1,7 +1,7 @@
 {
   "name": "Zenchain Testnet",
   "chain": "ZCX",
-  "icon": "./chain/8408/logo",
+  "icon": "./chain/8408/logo.png",
   "rpc": [
     "https://zenchain-testnet.api.onfinality.io/public",
     "wss://zenchain-testnet.api.onfinality.io/public-ws"

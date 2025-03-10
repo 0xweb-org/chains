@@ -10,7 +10,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "mizanatest",
-  "icon": "./chain/81361/logo",
+  "icon": "./chain/81361/logo.png",
   "chainId": 81361,
   "networkId": 81361,
   "slip44": 1,

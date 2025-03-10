@@ -17,7 +17,7 @@
   "shortName": "zkevm",
   "chainId": 1101,
   "networkId": 1101,
-  "icon": "./chain/1101/logo",
+  "icon": "./chain/1101/logo.png",
   "explorers": [
     {
       "name": "blockscout",

@@ -1,6 +1,7 @@
 {
   "name": "Creditcoin Devnet",
   "chain": "CTC",
+  "icon": "./chain/102032/logo.png",
   "rpc": [
     "https://rpc.cc3-devnet.creditcoin.network"
   ],

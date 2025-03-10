@@ -1,7 +1,7 @@
 {
   "name": "Shibarium",
   "chain": "Shibarium",
-  "icon": "./chain/109/logo",
+  "icon": "./chain/109/logo.png",
   "rpc": [
     "https://www.shibrpc.com",
     "https://rpc.shibrpc.com",

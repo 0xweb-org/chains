@@ -22,7 +22,7 @@
   "shortName": "CreditEdge",
   "chainId": 4400,
   "networkId": 4400,
-  "icon": "./chain/4400/logo",
+  "icon": "./chain/4400/logo.png",
   "explorers": [
     {
       "name": "Creditscan",

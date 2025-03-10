@@ -13,5 +13,6 @@
   "infoURL": "https://joys.digital",
   "shortName": "JOYS",
   "chainId": 35855456,
-  "networkId": 35855456
+  "networkId": 35855456,
+  "icon": null
 }

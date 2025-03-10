@@ -13,5 +13,6 @@
   "infoURL": "https://uzmigames.com.br/",
   "shortName": "UZMI",
   "chainId": 5315,
-  "networkId": 5315
+  "networkId": 5315,
+  "icon": null
 }

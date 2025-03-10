@@ -2,7 +2,7 @@
   "name": "SKALE Nebula Hub Testnet",
   "title": "SKALE Nebula Hub Testnet",
   "chain": "lanky-ill-funny-testnet",
-  "icon": "./chain/37084624/logo",
+  "icon": "./chain/37084624/logo.png",
   "rpc": [
     "https://testnet.skalenodes.com/v1/lanky-ill-funny-testnet",
     "wss://testnet.skalenodes.com/v1/ws/lanky-ill-funny-testnet"

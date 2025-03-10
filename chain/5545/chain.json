@@ -2,7 +2,7 @@
   "name": "DuckChain Mainnet",
   "title": "DuckChain Mainnet",
   "chain": "DuckChain",
-  "icon": "./chain/5545/logo",
+  "icon": "./chain/5545/logo.png",
   "rpc": [
     "https://rpc.duckchain.io",
     "https://rpc-hk.duckchain.io"

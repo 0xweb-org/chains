@@ -12,5 +12,6 @@
   "shortName": "stnd",
   "chainId": 486,
   "networkId": 486,
-  "status": "incubating"
+  "status": "incubating",
+  "icon": null
 }

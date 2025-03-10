@@ -1,7 +1,7 @@
 {
   "name": "Entangle Mainnet",
   "chain": "NGL",
-  "icon": "./chain/33033/logo",
+  "icon": "./chain/33033/logo.png",
   "rpc": [
     "https://json-rpc.entangle.fi"
   ],

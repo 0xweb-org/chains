@@ -1,7 +1,7 @@
 {
   "name": "Quadrans Blockchain",
   "chain": "QDC",
-  "icon": "./chain/10946/logo",
+  "icon": "./chain/10946/logo.png",
   "rpc": [
     "https://rpc.quadrans.io",
     "https://rpcna.quadrans.io",

@@ -1,7 +1,7 @@
 {
   "name": "MAZZE Testnet",
   "chain": "MAZZE Testnet",
-  "icon": "./chain/199991/logo",
+  "icon": "./chain/199991/logo.png",
   "rpc": [
     "https://testnet-rpc.mazze.io/"
   ],

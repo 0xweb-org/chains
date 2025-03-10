@@ -16,7 +16,7 @@
   "shortName": "mode",
   "chainId": 34443,
   "networkId": 34443,
-  "icon": "./chain/34443/logo",
+  "icon": "./chain/34443/logo.png",
   "explorers": [
     {
       "name": "modescout",

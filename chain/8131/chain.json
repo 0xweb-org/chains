@@ -19,7 +19,7 @@
   "chainId": 8131,
   "networkId": 8131,
   "slip44": 1,
-  "icon": "./chain/8131/logo",
+  "icon": "./chain/8131/logo.png",
   "explorers": [
     {
       "name": "meerscan testnet",

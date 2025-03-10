@@ -16,5 +16,6 @@
     "type": "L2",
     "chain": "eip155-1"
   },
-  "status": "incubating"
+  "status": "incubating",
+  "icon": null
 }

@@ -1,7 +1,7 @@
 {
   "name": "ZEUS Mainnet",
   "chain": "ZEUSX",
-  "icon": "./chain/34504/logo",
+  "icon": "./chain/34504/logo.png",
   "rpc": [
     "https://mainnet-rpc.zeuschainscan.io"
   ],

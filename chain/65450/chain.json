@@ -14,7 +14,7 @@
   "shortName": "SRC",
   "chainId": 65450,
   "networkId": 65450,
-  "icon": "./chain/65450/logo",
+  "icon": "./chain/65450/logo.png",
   "explorers": [
     {
       "name": "Scolscan Explorer",

@@ -13,5 +13,6 @@
   "infoURL": "https://iolite.io",
   "shortName": "ilt",
   "chainId": 18289463,
-  "networkId": 18289463
+  "networkId": 18289463,
+  "icon": null
 }

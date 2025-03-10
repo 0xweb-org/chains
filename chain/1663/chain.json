@@ -2,7 +2,7 @@
   "name": "Horizen Gobi Testnet",
   "shortName": "Gobi",
   "chain": "Gobi",
-  "icon": "./chain/1663/logo",
+  "icon": "./chain/1663/logo.png",
   "rpc": [
     "https://gobi-rpc.horizenlabs.io/ethv1",
     "https://rpc.ankr.com/horizen_gobi_testnet"

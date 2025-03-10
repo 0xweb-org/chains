@@ -14,7 +14,7 @@
   "shortName": "SANR",
   "chainId": 32382,
   "networkId": 32382,
-  "icon": "./chain/32382/logo",
+  "icon": null,
   "parent": {
     "chain": "eip155-1",
     "type": "L2",

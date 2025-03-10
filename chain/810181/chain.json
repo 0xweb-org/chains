@@ -16,7 +16,7 @@
   "chainId": 810181,
   "networkId": 810181,
   "slip44": 1,
-  "icon": "./chain/810181/logo",
+  "icon": "./chain/810181/logo.png",
   "explorers": [
     {
       "name": "zkLink Nova Block Explorer",

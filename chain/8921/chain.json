@@ -14,7 +14,7 @@
   "shortName": "algl2",
   "chainId": 8921,
   "networkId": 8921,
-  "icon": "./chain/8921/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "algl2scan",

@@ -24,7 +24,7 @@
   "shortName": "abyss",
   "chainId": 229772,
   "networkId": 229772,
-  "icon": "./chain/229772/logo",
+  "icon": "./chain/229772/logo.png",
   "explorers": [
     {
       "name": "blockscout",

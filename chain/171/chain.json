@@ -23,7 +23,7 @@
   "shortName": "CO2e",
   "chainId": 171,
   "networkId": 171,
-  "icon": "./chain/171/logo",
+  "icon": "./chain/171/logo.png",
   "explorers": [
     {
       "name": "CO2e Explorer",

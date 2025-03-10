@@ -1,6 +1,6 @@
 {
   "name": "Sapphire by Unique",
-  "icon": "./chain/8883/logo",
+  "icon": "./chain/8883/logo.png",
   "chain": "UNQ",
   "rpc": [
     "https://rpc-sapphire.unique.network",

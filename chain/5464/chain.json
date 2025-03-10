@@ -22,7 +22,7 @@
   "shortName": "saga",
   "chainId": 5464,
   "networkId": 5464,
-  "icon": "./chain/5464/logo",
+  "icon": "./chain/5464/logo.png",
   "explorers": [
     {
       "name": "blockscout",

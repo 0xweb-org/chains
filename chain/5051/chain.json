@@ -19,7 +19,7 @@
   "shortName": "nollie-testnet",
   "chainId": 5051,
   "networkId": 5051,
-  "icon": "./chain/5051/logo",
+  "icon": "./chain/5051/logo.png",
   "explorers": [
     {
       "name": "Nollie Skate Chain Testnet Explorer",

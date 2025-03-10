@@ -2,7 +2,7 @@
   "name": "Wadzchain Mainnet",
   "title": "Wadzchain Mainnet",
   "chain": "Wadzchain-Mainnet",
-  "icon": "./chain/171717/logo",
+  "icon": "./chain/171717/logo.png",
   "rpc": [
     "https://rpc.wadzchain.io"
   ],

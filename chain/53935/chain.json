@@ -1,7 +1,7 @@
 {
   "name": "DFK Chain",
   "chain": "DFK",
-  "icon": "./chain/53935/logo",
+  "icon": "./chain/53935/logo.png",
   "rpc": [
     "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
   ],

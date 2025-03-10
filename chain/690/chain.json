@@ -15,7 +15,7 @@
   "shortName": "redstone",
   "chainId": 690,
   "networkId": 690,
-  "icon": "./chain/690/logo",
+  "icon": "./chain/690/logo.png",
   "explorers": [
     {
       "name": "blockscout",

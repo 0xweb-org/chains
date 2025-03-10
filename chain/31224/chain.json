@@ -1,7 +1,7 @@
 {
   "name": "CloudTx Testnet",
   "chain": "CloudTx",
-  "icon": "./chain/31224/logo",
+  "icon": "./chain/31224/logo.png",
   "rpc": [
     "https://testnet-rpc.cloudtx.finance"
   ],

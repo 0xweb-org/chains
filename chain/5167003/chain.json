@@ -1,7 +1,7 @@
 {
   "name": "MXC Wannsee zkEVM Testnet",
   "chain": "MXC zkEVM",
-  "icon": null,
+  "icon": "./chain/5167003/logo.png",
   "rpc": [
     "https://wannsee-rpc.mxc.com"
   ],

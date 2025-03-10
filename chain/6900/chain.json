@@ -14,6 +14,6 @@
   "shortName": "cataclysm-1",
   "chainId": 6900,
   "networkId": 6900,
-  "icon": "./chain/6900/logo",
+  "icon": "./chain/6900/logo.png",
   "explorers": []
 }

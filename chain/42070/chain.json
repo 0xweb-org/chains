@@ -1,7 +1,7 @@
 {
   "name": "WMC Testnet",
   "chain": "WMC",
-  "icon": "./chain/42070/logo",
+  "icon": "./chain/42070/logo.png",
   "rpc": [
     "https://rpc-testnet-base.worldmobile.net"
   ],

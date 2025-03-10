@@ -1,7 +1,7 @@
 {
   "name": "AIA Testnet",
   "chain": "AIA",
-  "icon": "./chain/1320/logo",
+  "icon": "./chain/1320/logo.png",
   "rpc": [
     "https://aia-dataseed1-testnet.aiachain.org"
   ],

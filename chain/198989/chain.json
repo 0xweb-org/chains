@@ -15,5 +15,6 @@
   "infoURL": "https://raas.gelato.network/rollups/details/public/lydia-coin-testnet",
   "shortName": "lydia-testnet",
   "chainId": 198989,
-  "networkId": 198989
+  "networkId": 198989,
+  "icon": null
 }

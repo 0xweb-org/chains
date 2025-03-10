@@ -17,5 +17,5 @@
   "chainId": 1971,
   "networkId": 1971,
   "slip44": 1,
-  "icon": "./chain/1971/logo"
+  "icon": "./chain/1971/logo.png"
 }

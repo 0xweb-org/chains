@@ -17,7 +17,7 @@
   "chainId": 711,
   "networkId": 711,
   "slip44": 1,
-  "icon": "./chain/711/logo",
+  "icon": "./chain/711/logo.png",
   "explorers": [
     {
       "name": "Tucana Explorer",

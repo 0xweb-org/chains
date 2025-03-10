@@ -2,7 +2,7 @@
   "name": "Pepe Chain Mainnet",
   "chain": "PC",
   "status": "active",
-  "icon": "./chain/411/logo",
+  "icon": "./chain/411/logo.png",
   "rpc": [
     "https://rpc.pepe-chain.vip"
   ],

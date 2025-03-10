@@ -26,7 +26,7 @@
   "shortName": "DSC",
   "chainId": 75,
   "networkId": 75,
-  "icon": null,
+  "icon": "./chain/75/logo.png",
   "explorers": [
     {
       "name": "DSC Explorer Mainnet",

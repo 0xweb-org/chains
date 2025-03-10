@@ -1,7 +1,7 @@
 {
   "name": "Ella the heart",
   "chain": "ella",
-  "icon": "./chain/7027/logo",
+  "icon": "./chain/7027/logo.png",
   "rpc": [
     "https://rpc.ella.network"
   ],

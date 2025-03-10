@@ -1,7 +1,7 @@
 {
   "name": "Callisto Mainnet",
   "chain": "CLO",
-  "icon": "./chain/820/logo",
+  "icon": "./chain/820/logo.png",
   "rpc": [
     "https://rpc.callistodao.org"
   ],

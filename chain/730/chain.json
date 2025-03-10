@@ -1,7 +1,7 @@
 {
   "name": "Lovely Network Mainnet",
   "chain": "Lovely",
-  "icon": "./chain/730/logo",
+  "icon": "./chain/730/logo.png",
   "rpc": [
     "https://rpc.lovely.network"
   ],

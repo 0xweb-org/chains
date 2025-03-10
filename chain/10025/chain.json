@@ -1,6 +1,7 @@
 {
   "name": "AEON Chain",
   "chain": "AEON Chain",
+  "icon": "./chain/10025/logo.png",
   "rpc": [
     "https://node.aeon.xyz/rpc"
   ],

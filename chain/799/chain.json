@@ -23,5 +23,6 @@
       "url": "https://scan.testnet.rupaya.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

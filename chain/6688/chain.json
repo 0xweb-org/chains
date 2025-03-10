@@ -24,7 +24,7 @@
   "shortName": "iris",
   "chainId": 6688,
   "networkId": 6688,
-  "icon": "./chain/6688/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "IRISHub Cosmos Explorer (IOBScan)",

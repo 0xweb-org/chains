@@ -1,7 +1,7 @@
 {
   "name": "eGold Chain",
   "chain": "EGC",
-  "icon": "./chain/11451/logo",
+  "icon": "./chain/11451/logo.png",
   "rpc": [
     "https://rpc.egoldchain.com",
     "wss://rpc.egoldchain.com"

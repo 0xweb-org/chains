@@ -23,7 +23,7 @@
   "shortName": "vanguard",
   "chainId": 78600,
   "networkId": 78600,
-  "icon": "./chain/78600/logo",
+  "icon": "./chain/78600/logo.png",
   "explorers": [
     {
       "name": "Vanguard Explorer",

@@ -24,5 +24,6 @@
       "url": "https://explorer.public.zkevm-test.net",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

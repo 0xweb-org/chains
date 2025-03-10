@@ -14,7 +14,7 @@
   "shortName": "bomb",
   "chainId": 2300,
   "networkId": 2300,
-  "icon": "./chain/2300/logo",
+  "icon": "./chain/2300/logo.png",
   "explorers": [
     {
       "name": "bombscan",

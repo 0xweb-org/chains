@@ -13,5 +13,6 @@
   "infoURL": "https://tbwg.io",
   "shortName": "tbwg",
   "chainId": 35,
-  "networkId": 35
+  "networkId": 35,
+  "icon": null
 }

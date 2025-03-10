@@ -3,7 +3,7 @@
   "chainId": 7924,
   "shortName": "MO",
   "chain": "MO",
-  "icon": "./chain/7924/logo",
+  "icon": "./chain/7924/logo.png",
   "networkId": 7924,
   "nativeCurrency": {
     "name": "MO",

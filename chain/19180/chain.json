@@ -22,7 +22,7 @@
   "shortName": "locachain",
   "chainId": 19180,
   "networkId": 19180,
-  "icon": "./chain/19180/logo",
+  "icon": "./chain/19180/logo.png",
   "explorers": [
     {
       "name": "Locachain Explorer",

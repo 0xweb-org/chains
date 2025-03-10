@@ -1,7 +1,7 @@
 {
   "name": "Globel Chain",
   "chain": "GC",
-  "icon": "./chain/4893/logo",
+  "icon": "./chain/4893/logo.png",
   "rpc": [
     "https://rpc.gcscan.io"
   ],

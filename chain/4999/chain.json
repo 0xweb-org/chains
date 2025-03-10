@@ -25,7 +25,7 @@
   "shortName": "BXNdpr",
   "chainId": 4999,
   "networkId": 4999,
-  "icon": "./chain/4999/logo",
+  "icon": "./chain/4999/logo.png",
   "explorers": [
     {
       "name": "blockscout",

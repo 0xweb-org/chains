@@ -15,7 +15,7 @@
     "symbol": "GRASS",
     "decimals": 18
   },
-  "icon": "./chain/37111/logo",
+  "icon": "./chain/37111/logo.png",
   "infoURL": "https://www.lens.xyz",
   "shortName": "lens-sepolia",
   "parent": {

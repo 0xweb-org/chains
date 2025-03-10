@@ -1,7 +1,7 @@
 {
   "name": "GPT Mainnet",
   "chain": "GPT Protocol",
-  "icon": "./chain/1511670449/logo",
+  "icon": "./chain/1511670449/logo.png",
   "rpc": [
     "https://rpc.gptprotocol.io"
   ],

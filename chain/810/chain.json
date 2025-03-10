@@ -24,7 +24,7 @@
   "shortName": "h1",
   "chainId": 810,
   "networkId": 810,
-  "icon": "./chain/810/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "Haven1 Explorer",

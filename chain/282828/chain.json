@@ -16,7 +16,7 @@
   "chainId": 282828,
   "networkId": 282828,
   "slip44": 1,
-  "icon": "./chain/282828/logo",
+  "icon": "./chain/282828/logo.png",
   "explorers": [
     {
       "name": "zillscout",

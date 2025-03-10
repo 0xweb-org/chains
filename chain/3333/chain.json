@@ -14,5 +14,6 @@
   "shortName": "es-t",
   "chainId": 3333,
   "networkId": 3333,
-  "slip44": 1
+  "slip44": 1,
+  "icon": null
 }

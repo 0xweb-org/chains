@@ -4,7 +4,7 @@
   "rpc": [
     "https://mainnet-validator.storagechain.io"
   ],
-  "icon": "./chain/8726/logo",
+  "icon": null,
   "faucets": [],
   "shortName": "stor",
   "nativeCurrency": {

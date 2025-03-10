@@ -1,7 +1,7 @@
 {
   "name": "ERAM Mainnet",
   "chain": "ERAM",
-  "icon": "./chain/721529/logo",
+  "icon": "./chain/721529/logo.png",
   "rpc": [
     "https://mainnet-rpc.eramscan.com"
   ],

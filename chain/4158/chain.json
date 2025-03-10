@@ -1,6 +1,6 @@
 {
   "name": "CrossFi Mainnet",
-  "icon": "./chain/4158/logo",
+  "icon": "./chain/4158/logo.png",
   "chain": "crossfi",
   "rpc": [
     "https://rpc.mainnet.ms/"

@@ -1,7 +1,7 @@
 {
   "name": "Oasis Emerald",
   "chain": "Emerald",
-  "icon": "./chain/42262/logo",
+  "icon": "./chain/42262/logo.png",
   "rpc": [
     "https://emerald.oasis.io",
     "wss://emerald.oasis.io/ws"

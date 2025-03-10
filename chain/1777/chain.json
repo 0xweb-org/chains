@@ -1,7 +1,7 @@
 {
   "name": "Gauss Mainnet",
   "chain": "Gauss",
-  "icon": "./chain/1777/logo",
+  "icon": "./chain/1777/logo.png",
   "rpc": [
     "https://rpc.gaussgang.com"
   ],

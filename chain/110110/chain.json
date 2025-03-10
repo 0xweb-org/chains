@@ -16,7 +16,7 @@
   "chainId": 110110,
   "networkId": 110110,
   "slip44": 1,
-  "icon": "./chain/110110/logo",
+  "icon": "./chain/110110/logo.png",
   "explorers": [],
   "redFlags": []
 }

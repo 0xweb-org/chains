@@ -13,7 +13,7 @@
   "shortName": "apexmainnet",
   "chainId": 2662,
   "networkId": 2662,
-  "icon": "./chain/2662/logo",
+  "icon": "./chain/2662/logo.png",
   "explorers": [],
   "parent": {
     "type": "L2",

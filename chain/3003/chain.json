@@ -1,7 +1,7 @@
 {
   "name": "Canxium Mainnet",
   "chain": "CAU",
-  "icon": "./chain/3003/logo",
+  "icon": "./chain/3003/logo.png",
   "rpc": [
     "https://rpc.canxium.org"
   ],

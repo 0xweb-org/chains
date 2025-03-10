@@ -15,7 +15,7 @@
   "shortName": "chainx",
   "chainId": 1501,
   "networkId": 1501,
-  "icon": "./chain/1501/logo",
+  "icon": "./chain/1501/logo.png",
   "explorers": [
     {
       "name": "bevm canary scan",

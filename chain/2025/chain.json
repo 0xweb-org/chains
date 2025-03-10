@@ -1,7 +1,7 @@
 {
   "name": "Rangers Protocol Mainnet",
   "chain": "Rangers",
-  "icon": "./chain/2025/logo",
+  "icon": "./chain/2025/logo.png",
   "rpc": [
     "https://mainnet.rangersprotocol.com/api/jsonrpc"
   ],

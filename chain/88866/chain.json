@@ -15,7 +15,7 @@
   "shortName": "Matr1x-Testnet",
   "chainId": 88866,
   "networkId": 88866,
-  "icon": "./chain/88866/logo",
+  "icon": "./chain/88866/logo.png",
   "explorers": [
     {
       "name": "matr1x testnet",

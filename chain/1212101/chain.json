@@ -19,5 +19,6 @@
   "shortName": "1money-testnet",
   "chainId": 1212101,
   "networkId": 1212101,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

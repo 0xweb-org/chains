@@ -3,7 +3,7 @@
   "chainId": 20001,
   "shortName": "Camelark",
   "chain": "ETHW",
-  "icon": "./chain/20001/logo",
+  "icon": "./chain/20001/logo.png",
   "networkId": 20001,
   "nativeCurrency": {
     "name": "EthereumPoW",

@@ -1,7 +1,7 @@
 {
   "name": "peaq",
   "chain": "peaq",
-  "icon": "./chain/3338/logo",
+  "icon": "./chain/3338/logo.png",
   "rpc": [
     "https://peaq.api.onfinality.io/public",
     "https://peaq-rpc.dwellir.com",

@@ -19,7 +19,7 @@
   "shortName": "skate",
   "chainId": 5050,
   "networkId": 5050,
-  "icon": "./chain/5050/logo",
+  "icon": "./chain/5050/logo.png",
   "explorers": [
     {
       "name": "Skate Explorer",

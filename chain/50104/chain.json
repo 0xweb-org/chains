@@ -31,5 +31,6 @@
         "url": "https://portal.sophon.xyz/bridge"
       }
     ]
-  }
+  },
+  "icon": "./chain/50104/logo.png"
 }

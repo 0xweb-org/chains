@@ -22,7 +22,7 @@
   "shortName": "cnw",
   "chainId": 668668,
   "networkId": 668668,
-  "icon": "./chain/668668/logo",
+  "icon": "./chain/668668/logo.png",
   "explorers": [
     {
       "name": "conwaiscan",

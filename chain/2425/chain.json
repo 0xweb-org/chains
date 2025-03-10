@@ -2,7 +2,7 @@
   "name": "King Of Legends Mainnet",
   "title": "King Of Legends Mainnet",
   "chain": "KCC",
-  "icon": "./chain/2425/logo",
+  "icon": "./chain/2425/logo.png",
   "rpc": [
     "https://rpc-mainnet.kinggamer.org/"
   ],

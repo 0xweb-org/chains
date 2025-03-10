@@ -30,5 +30,6 @@
       "url": "https://explorer.testnet.inco.org",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

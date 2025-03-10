@@ -13,5 +13,6 @@
   "infoURL": "https://cheapeth.org/",
   "shortName": "cth",
   "chainId": 777,
-  "networkId": 777
+  "networkId": 777,
+  "icon": null
 }

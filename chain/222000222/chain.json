@@ -12,7 +12,7 @@
     "symbol": "gMELD",
     "decimals": 18
   },
-  "icon": "./chain/222000222/logo",
+  "icon": "./chain/222000222/logo.png",
   "infoURL": "https://meld.com",
   "shortName": "kanazawa",
   "chainId": 222000222,

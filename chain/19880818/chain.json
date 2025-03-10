@@ -14,7 +14,7 @@
   "shortName": "DBC",
   "chainId": 19880818,
   "networkId": 19880818,
-  "icon": "./chain/19880818/logo",
+  "icon": "./chain/19880818/logo.png",
   "slip44": 1,
   "explorers": [
     {

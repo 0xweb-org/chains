@@ -15,7 +15,7 @@
   "shortName": "Orange-Chain-Testnet",
   "chainId": 240515,
   "networkId": 240515,
-  "icon": "./chain/240515/logo",
+  "icon": "./chain/240515/logo.png",
   "explorers": [
     {
       "name": "Blockscout",

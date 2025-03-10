@@ -5,7 +5,7 @@
     "https://rpc.dexilla.com"
   ],
   "faucets": [],
-  "icon": "./chain/1954/logo",
+  "icon": "./chain/1954/logo.png",
   "nativeCurrency": {
     "name": "Dexilla Native Token",
     "symbol": "DXZ",

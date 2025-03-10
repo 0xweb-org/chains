@@ -1,7 +1,7 @@
 {
   "name": "Scalind Testnet",
   "chain": "ETH",
-  "icon": "./chain/220/logo",
+  "icon": "./chain/220/logo.png",
   "rpc": [
     "https://rpc-sepolia.scalind.com"
   ],

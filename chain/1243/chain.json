@@ -1,7 +1,7 @@
 {
   "name": "ARC Mainnet",
   "chain": "ARC",
-  "icon": "./chain/1243/logo",
+  "icon": "./chain/1243/logo.png",
   "rpc": [
     "https://rpc-main-1.archiechain.io"
   ],

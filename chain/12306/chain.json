@@ -1,7 +1,7 @@
 {
   "name": "Fibonacci Mainnet",
   "chain": "FIBO",
-  "icon": "./chain/12306/logo",
+  "icon": "./chain/12306/logo.png",
   "rpc": [
     "https://node1.fibo-api.asia",
     "https://node2.fibo-api.asia",

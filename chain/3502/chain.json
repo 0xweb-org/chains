@@ -1,7 +1,7 @@
 {
   "name": "JFINPOS",
   "chain": "JFINPOS",
-  "icon": "./chain/3502/logo",
+  "icon": "./chain/3502/logo.png",
   "rpc": [
     "https://rpc.jfinpos.com"
   ],

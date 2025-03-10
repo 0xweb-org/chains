@@ -14,5 +14,6 @@
   "infoURL": "https://iposlab.com",
   "shortName": "ipos",
   "chainId": 1122334455,
-  "networkId": 1122334455
+  "networkId": 1122334455,
+  "icon": null
 }

@@ -1,7 +1,7 @@
 {
   "name": "B3",
   "chain": "B3",
-  "icon": "./chain/8333/logo",
+  "icon": "./chain/8333/logo.png",
   "rpc": [
     "https://mainnet-rpc.b3.fun"
   ],

@@ -1,7 +1,7 @@
 {
   "name": "Filecoin - Calibration testnet",
   "chain": "FIL",
-  "icon": "./chain/314159/logo",
+  "icon": "./chain/314159/logo.png",
   "rpc": [
     "https://api.calibration.node.glif.io/rpc/v1",
     "https://rpc.ankr.com/filecoin_testnet",

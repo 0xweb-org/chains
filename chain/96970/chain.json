@@ -1,7 +1,7 @@
 {
   "name": "Mantis Testnet (Hexapod)",
   "chain": "Mantis",
-  "icon": "./chain/96970/logo",
+  "icon": "./chain/96970/logo.png",
   "rpc": [
     "https://mantis-rpc.switch.ch",
     "https://mantis-rpc.kore-technologies.ch",

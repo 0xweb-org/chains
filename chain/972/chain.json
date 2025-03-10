@@ -15,7 +15,7 @@
   "shortName": "Ascraeus",
   "chainId": 972,
   "networkId": 972,
-  "icon": "./chain/972/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "Oort Ascraeus Explorer",

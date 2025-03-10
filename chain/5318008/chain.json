@@ -24,7 +24,7 @@
   },
   "infoURL": "https://reactive.network",
   "shortName": "kreact",
-  "icon": "./chain/5318008/logo",
+  "icon": "./chain/5318008/logo.png",
   "chainId": 5318008,
   "networkId": 5318008,
   "explorers": [

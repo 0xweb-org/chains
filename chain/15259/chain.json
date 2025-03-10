@@ -1,7 +1,7 @@
 {
   "name": "Poodl Mainnet",
   "chain": "Poodl",
-  "icon": "./chain/15259/logo",
+  "icon": "./chain/15259/logo.png",
   "rpc": [
     "https://rpc.poodl.org"
   ],

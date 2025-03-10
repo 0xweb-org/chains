@@ -22,7 +22,7 @@
   "shortName": "sdlt",
   "chainId": 94,
   "networkId": 94,
-  "icon": "./chain/94/logo",
+  "icon": "./chain/94/logo.png",
   "explorers": [
     {
       "name": "SwissDLT Explorer",

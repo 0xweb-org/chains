@@ -21,7 +21,7 @@
   "shortName": "sonic",
   "chainId": 146,
   "networkId": 146,
-  "icon": "./chain/146/logo",
+  "icon": "./chain/146/logo.png",
   "explorers": [
     {
       "name": "sonic",

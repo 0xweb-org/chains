@@ -14,7 +14,7 @@
   "shortName": "ETP",
   "chainId": 20256789,
   "networkId": 20256789,
-  "icon": "./chain/20256789/logo",
+  "icon": "./chain/20256789/logo.png",
   "explorers": [
     {
       "name": "ETPScan",

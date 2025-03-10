@@ -14,7 +14,7 @@
   "shortName": "tpc",
   "chainId": 2569,
   "networkId": 2569,
-  "icon": "./chain/2569/logo",
+  "icon": "./chain/2569/logo.png",
   "explorers": [
     {
       "name": "tpcscan",

@@ -15,7 +15,7 @@
   "shortName": "kintoMainnet",
   "chainId": 7887,
   "networkId": 7887,
-  "icon": "./chain/7887/logo",
+  "icon": "./chain/7887/logo.png",
   "explorers": [
     {
       "name": "Kinto Explorer",

@@ -22,7 +22,7 @@
   "shortName": "rbat",
   "chainId": 159,
   "networkId": 159,
-  "icon": "./chain/159/logo",
+  "icon": "./chain/159/logo.png",
   "explorers": [
     {
       "name": "Rbascan Testnet Explorer",

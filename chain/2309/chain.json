@@ -13,5 +13,6 @@
   "chainId": 2309,
   "networkId": 2309,
   "explorers": [],
-  "status": "incubating"
+  "status": "incubating",
+  "icon": null
 }

@@ -16,7 +16,7 @@
   "shortName": "unichain",
   "chainId": 130,
   "networkId": 130,
-  "icon": "./chain/130/logo",
+  "icon": "./chain/130/logo.png",
   "explorers": [
     {
       "name": "Unichain Mainnet Explorer",

@@ -15,7 +15,7 @@
   "shortName": "ZKFair-Mainnet",
   "chainId": 42766,
   "networkId": 42766,
-  "icon": null,
+  "icon": "./chain/42766/logo.png",
   "explorers": [
     {
       "name": "blockscout",

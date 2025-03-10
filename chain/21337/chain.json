@@ -14,7 +14,7 @@
   "shortName": "cennz-a",
   "chainId": 21337,
   "networkId": 21337,
-  "icon": "./chain/21337/logo",
+  "icon": "./chain/21337/logo.png",
   "explorers": [
     {
       "name": "UNcover",

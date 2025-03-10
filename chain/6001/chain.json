@@ -14,7 +14,7 @@
   "shortName": "bouncebit-mainnet",
   "chainId": 6001,
   "networkId": 6001,
-  "icon": "./chain/6001/logo",
+  "icon": "./chain/6001/logo.png",
   "explorers": [
     {
       "name": "BBScan Mainnet Explorer",

@@ -10,7 +10,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "flanapriv",
-  "icon": "./chain/81353/logo",
+  "icon": "./chain/81353/logo.png",
   "chainId": 81353,
   "networkId": 81353,
   "status": "incubating"

@@ -2,7 +2,7 @@
   "name": "Wadzchain Testnet",
   "title": "Wadzchain Testnet",
   "chain": "Wadzchain-Testnet",
-  "icon": "./chain/71117/logo",
+  "icon": "./chain/71117/logo.png",
   "rpc": [
     "https://rpc-testnet.wadzchain.io"
   ],

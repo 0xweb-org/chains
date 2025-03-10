@@ -14,7 +14,7 @@
   "shortName": "polynomial",
   "chainId": 8008,
   "networkId": 8008,
-  "icon": "./chain/8008/logo",
+  "icon": "./chain/8008/logo.png",
   "explorers": [
     {
       "name": "Polynomial Explorer",

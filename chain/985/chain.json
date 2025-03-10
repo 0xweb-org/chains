@@ -17,7 +17,7 @@
   "shortName": "memochain",
   "chainId": 985,
   "networkId": 985,
-  "icon": "./chain/985/logo",
+  "icon": "./chain/985/logo.png",
   "explorers": [
     {
       "name": "Memo Mainnet Explorer",

@@ -1,7 +1,7 @@
 {
   "name": "OverProtocol Testnet",
   "chain": "OverProtocol",
-  "icon": "./chain/541764/logo",
+  "icon": "./chain/541764/logo.png",
   "rpc": [
     "https://rpc.dolphin.overprotocol.com"
   ],

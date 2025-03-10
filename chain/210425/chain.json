@@ -15,7 +15,7 @@
   "shortName": "platon",
   "chainId": 210425,
   "networkId": 1,
-  "icon": "./chain/210425/logo",
+  "icon": "./chain/210425/logo.png",
   "explorers": [
     {
       "name": "PlatON explorer",

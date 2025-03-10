@@ -1,7 +1,7 @@
 {
   "name": "COINZAX",
   "chain": "ZAX",
-  "icon": "./chain/1310/logo",
+  "icon": "./chain/1310/logo.png",
   "rpc": [
     "https://rpc.coinzax.com"
   ],

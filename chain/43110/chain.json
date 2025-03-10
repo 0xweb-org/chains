@@ -15,5 +15,6 @@
   "infoURL": "https://athereum.ava.network",
   "shortName": "avaeth",
   "chainId": 43110,
-  "networkId": 43110
+  "networkId": 43110,
+  "icon": null
 }

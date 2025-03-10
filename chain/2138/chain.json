@@ -1,7 +1,7 @@
 {
   "name": "Defi Oracle Meta Testnet",
   "chain": "dfiometatest",
-  "icon": "./chain/2138/logo",
+  "icon": null,
   "rpc": [
     "https://rpc.public-2138.defi-oracle.io",
     "wss://rpc.public-2138.defi-oracle.io"

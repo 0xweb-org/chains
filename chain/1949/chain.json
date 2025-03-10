@@ -10,7 +10,7 @@
     "symbol": "tBIO",
     "decimals": 18
   },
-  "icon": "./chain/1949/logo",
+  "icon": "./chain/1949/logo.png",
   "infoURL": "https://bionixnetwork.com",
   "shortName": "tbio",
   "chainId": 1949,

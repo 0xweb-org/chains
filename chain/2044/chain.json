@@ -13,5 +13,6 @@
   "infoURL": "https://www.shrapnel.com/",
   "shortName": "Shrapnel",
   "chainId": 2044,
-  "networkId": 2044
+  "networkId": 2044,
+  "icon": null
 }

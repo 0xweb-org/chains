@@ -17,7 +17,7 @@
   "chainId": 919,
   "networkId": 919,
   "slip44": 1,
-  "icon": "./chain/919/logo",
+  "icon": "./chain/919/logo.png",
   "explorers": [
     {
       "name": "modescout",

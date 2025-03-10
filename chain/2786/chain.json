@@ -15,7 +15,7 @@
   "shortName": "aptm",
   "chainId": 2786,
   "networkId": 2786,
-  "icon": "./chain/2786/logo",
+  "icon": "./chain/2786/logo.png",
   "explorers": [
     {
       "name": "Apertum Explorer",

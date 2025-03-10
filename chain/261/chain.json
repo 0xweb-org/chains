@@ -1,7 +1,7 @@
 {
   "name": "Guru Network Testnet",
   "chain": "tGURU",
-  "icon": "./chain/261/logo",
+  "icon": "./chain/261/logo.png",
   "rpc": [
     "https://rpc-test.gurunetwork.ai"
   ],

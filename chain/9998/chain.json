@@ -13,5 +13,6 @@
   "infoURL": "https://ztc.best",
   "shortName": "ZTC",
   "chainId": 9998,
-  "networkId": 9998
+  "networkId": 9998,
+  "icon": null
 }

@@ -22,7 +22,7 @@
   "shortName": "flame",
   "chainId": 253368190,
   "networkId": 253368190,
-  "icon": "./chain/253368190/logo",
+  "icon": "./chain/253368190/logo.png",
   "explorers": [
     {
       "name": "blockscout",

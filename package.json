@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "atma act ./actions/chains.act.ts -q generate"
+  },
   "atma": {
     "plugins": [
       "atma-loader-ts"
@@ -21,6 +24,7 @@
     "a-di": "latest",
     "alot": "^0.3.13",
     "appcfg": "latest",
+    "atma": "^0.15.24",
     "atma-io": "latest",
     "atma-loader-ts": "latest",
     "class-json": "latest",

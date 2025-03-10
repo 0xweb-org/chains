@@ -33,5 +33,6 @@
       "url": "https://testnet-explorer.applayer.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

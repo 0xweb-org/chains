@@ -15,7 +15,7 @@
   "shortName": "caga",
   "chainId": 72778,
   "networkId": 72778,
-  "icon": "./chain/72778/logo",
+  "icon": "./chain/72778/logo.png",
   "explorers": [
     {
       "name": "ankara",

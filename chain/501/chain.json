@@ -15,7 +15,7 @@
   "chainId": 501,
   "networkId": 1001,
   "slip44": 1,
-  "icon": "./chain/501/logo",
+  "icon": "./chain/501/logo.png",
   "explorers": [
     {
       "name": "blockexplorer",

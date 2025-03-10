@@ -1,7 +1,7 @@
 {
   "name": "KYMTC Mainnet",
   "chain": "KYMTC",
-  "icon": "./chain/15430/logo",
+  "icon": "./chain/15430/logo.png",
   "rpc": [
     "https://mainnet-rpc.kymaticscan.online"
   ],

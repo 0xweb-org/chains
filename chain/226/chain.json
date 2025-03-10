@@ -1,7 +1,7 @@
 {
   "name": "LACHAIN Testnet",
   "chain": "TLA",
-  "icon": "./chain/226/logo",
+  "icon": "./chain/226/logo.png",
   "rpc": [
     "https://rpc-testnet.lachain.io"
   ],

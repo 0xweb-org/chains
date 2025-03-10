@@ -1,7 +1,7 @@
 {
   "name": "Krest Network",
   "chain": "Krest",
-  "icon": "./chain/2241/logo",
+  "icon": "./chain/2241/logo.png",
   "rpc": [
     "https://erpc-krest.peaq.network",
     "https://krest.unitedbloc.com"

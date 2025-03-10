@@ -22,7 +22,7 @@
   "shortName": "doidTestnet",
   "chainId": 56797,
   "networkId": 56797,
-  "icon": "./chain/56797/logo",
+  "icon": "./chain/56797/logo.png",
   "explorers": [
     {
       "name": "DOID Testnet Scan",

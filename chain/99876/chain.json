@@ -1,7 +1,7 @@
 {
   "name": "Edge Matrix Chain Testnet",
   "chain": "EMC Testnet",
-  "icon": "./chain/99876/logo",
+  "icon": "./chain/99876/logo.png",
   "rpc": [
     "https://rpc1-testnet.emc.network"
   ],

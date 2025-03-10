@@ -22,7 +22,7 @@
   },
   "infoURL": "https://www.onbeam.com",
   "shortName": "beam",
-  "icon": "./chain/4337/logo",
+  "icon": "./chain/4337/logo.png",
   "chainId": 4337,
   "networkId": 4337,
   "explorers": [

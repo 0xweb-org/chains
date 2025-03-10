@@ -13,5 +13,6 @@
   "chainId": 161212,
   "networkId": 161212,
   "explorers": [],
-  "status": "incubating"
+  "status": "incubating",
+  "icon": null
 }

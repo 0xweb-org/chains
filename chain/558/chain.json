@@ -16,5 +16,6 @@
   "infoURL": "https://tao.network",
   "shortName": "tao",
   "chainId": 558,
-  "networkId": 558
+  "networkId": 558,
+  "icon": null
 }

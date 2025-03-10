@@ -1,7 +1,7 @@
 {
   "name": "LAVITA Mainnet",
   "chain": "LAVITA",
-  "icon": "./chain/360890/logo",
+  "icon": "./chain/360890/logo.png",
   "rpc": [
     "https://tsub360890-eth-rpc.thetatoken.org/rpc"
   ],

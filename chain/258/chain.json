@@ -11,5 +11,6 @@
   "infoURL": "https://setheum.xyz",
   "shortName": "setm",
   "chainId": 258,
-  "networkId": 258
+  "networkId": 258,
+  "icon": null
 }

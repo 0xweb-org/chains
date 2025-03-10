@@ -14,7 +14,7 @@
   "shortName": "Erbie",
   "chainId": 50888,
   "networkId": 50888,
-  "icon": "./chain/50888/logo",
+  "icon": "./chain/50888/logo.png",
   "explorers": [
     {
       "name": "Erbie Explorer",

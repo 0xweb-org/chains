@@ -1,7 +1,7 @@
 {
   "name": "Astria EVM Dusknet",
   "chain": "RIA",
-  "icon": "./chain/912559/logo",
+  "icon": null,
   "chainId": 912559,
   "networkId": 912559,
   "infoURL": "https://docs.astria.org",

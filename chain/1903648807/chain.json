@@ -31,5 +31,6 @@
         "url": "https://gemutest-bridge.gemuchain.io/login"
       }
     ]
-  }
+  },
+  "icon": null
 }

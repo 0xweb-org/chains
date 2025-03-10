@@ -2,7 +2,7 @@
   "name": "MetaDAP Enterprise Testnet",
   "title": "MetaDAP Enterprise Testnet",
   "chain": "MetaDAP",
-  "icon": "./chain/119139/logo",
+  "icon": "./chain/119139/logo.png",
   "faucets": [],
   "rpc": [
     "https://rpc.testnet.chain.metadap.io",

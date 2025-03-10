@@ -13,5 +13,6 @@
   "infoURL": "",
   "shortName": "DPU",
   "chainId": 2611555,
-  "networkId": 2611555
+  "networkId": 2611555,
+  "icon": null
 }

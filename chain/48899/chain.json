@@ -1,7 +1,7 @@
 {
   "name": "Zircuit Testnet",
   "chain": "Zircuit Testnet",
-  "icon": "./chain/48899/logo",
+  "icon": "./chain/48899/logo.png",
   "rpc": [
     "https://zircuit1-testnet.p2pify.com/"
   ],

@@ -1,6 +1,7 @@
 {
   "name": "Volcano Chain Mainnet",
   "chain": "Volcano",
+  "icon": "./chain/10085/logo.png",
   "rpc": [
     "https://mainnet.vchain.pro",
     "wss://wss.mainnet.vchain.pro"

@@ -1,7 +1,7 @@
 {
   "name": "Cube Chain Testnet",
   "chain": "Cube",
-  "icon": "./chain/1819/logo",
+  "icon": "./chain/1819/logo.png",
   "rpc": [
     "https://http-testnet.cube.network",
     "wss://ws-testnet.cube.network",

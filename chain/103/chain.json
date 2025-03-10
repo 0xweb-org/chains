@@ -1,6 +1,7 @@
 {
   "name": "WorldLand Mainnet",
   "chain": "Worldland",
+  "icon": "./chain/103/logo.png",
   "rpc": [
     "https://seoul.worldland.foundation",
     "https://seoul2.worldland.foundation"

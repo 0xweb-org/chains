@@ -17,5 +17,6 @@
     "chain": "eip155-1",
     "bridges": []
   },
-  "status": "incubating"
+  "status": "incubating",
+  "icon": null
 }

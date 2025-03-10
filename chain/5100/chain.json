@@ -16,5 +16,5 @@
   "chainId": 5100,
   "networkId": 5100,
   "status": "incubating",
-  "icon": "./chain/5100/logo"
+  "icon": "./chain/5100/logo.png"
 }

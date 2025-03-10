@@ -17,7 +17,7 @@
   "shortName": "Vasyl",
   "chainId": 1278060416,
   "networkId": 1278060416,
-  "icon": "./chain/1278060416/logo",
+  "icon": "./chain/1278060416/logo.png",
   "explorers": [
     {
       "name": "Official Vasyl Explorer",

@@ -1,7 +1,7 @@
 {
   "name": "OneLedger Testnet Frankenstein",
   "chain": "OLT",
-  "icon": "./chain/4216137055/logo",
+  "icon": "./chain/4216137055/logo.png",
   "rpc": [
     "https://frankenstein-rpc.oneledger.network"
   ],

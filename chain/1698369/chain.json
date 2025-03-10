@@ -17,6 +17,6 @@
   "shortName": "test-goldpn",
   "chainId": 1698369,
   "networkId": 1698369,
-  "icon": "./chain/1698369/logo",
+  "icon": null,
   "explorers": []
 }

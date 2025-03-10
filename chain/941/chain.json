@@ -18,5 +18,6 @@
     "name": "Test Pulse",
     "symbol": "tPLS",
     "decimals": 18
-  }
+  },
+  "icon": null
 }

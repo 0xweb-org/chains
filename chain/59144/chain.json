@@ -20,7 +20,7 @@
   "shortName": "linea",
   "chainId": 59144,
   "networkId": 59144,
-  "icon": "./chain/59144/logo",
+  "icon": "./chain/59144/logo.png",
   "parent": {
     "type": "L2",
     "chain": "eip155-1",

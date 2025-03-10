@@ -1,7 +1,7 @@
 {
   "name": "ZetaChain Testnet",
   "chain": "ZetaChain",
-  "icon": "./chain/7001/logo",
+  "icon": "./chain/7001/logo.png",
   "rpc": [
     "https://zetachain-athens-evm.blockpi.network/v1/rpc/public",
     "https://zetachain-testnet.public.blastapi.io",

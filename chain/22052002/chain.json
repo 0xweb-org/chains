@@ -1,7 +1,7 @@
 {
   "name": "Excelon Mainnet",
   "chain": "XLON",
-  "icon": "./chain/22052002/logo",
+  "icon": "./chain/22052002/logo.png",
   "rpc": [
     "https://edgewallet1.xlon.org/"
   ],

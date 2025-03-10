@@ -15,7 +15,7 @@
   "shortName": "Merlin-Testnet",
   "chainId": 4203,
   "networkId": 4203,
-  "icon": "./chain/4203/logo",
+  "icon": "./chain/4203/logo.png",
   "explorers": [
     {
       "name": "L2scan",

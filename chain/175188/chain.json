@@ -1,7 +1,7 @@
 {
   "name": "Chronicle Yellowstone - Lit Protocol Testnet",
   "chain": "LPY",
-  "icon": "./chain/175188/logo",
+  "icon": "./chain/175188/logo.png",
   "rpc": [
     "https://yellowstone-rpc.litprotocol.com"
   ],

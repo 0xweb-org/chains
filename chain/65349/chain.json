@@ -15,7 +15,7 @@
   "shortName": "cratd2c-testnet",
   "chainId": 65349,
   "networkId": 65349,
-  "icon": "./chain/65349/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "Blockscout",

@@ -15,7 +15,7 @@
   "shortName": "Nahmii",
   "chainId": 5551,
   "networkId": 5551,
-  "icon": "./chain/5551/logo",
+  "icon": "./chain/5551/logo.png",
   "explorers": [
     {
       "name": "Nahmii 2 Mainnet Explorer",

@@ -15,7 +15,7 @@
   "shortName": "enuls",
   "chainId": 119,
   "networkId": 119,
-  "icon": "./chain/119/logo",
+  "icon": "./chain/119/logo.png",
   "explorers": [
     {
       "name": "enulsscan",

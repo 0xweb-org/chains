@@ -14,5 +14,6 @@
   "shortName": "DBONE",
   "chainId": 910,
   "networkId": 910,
-  "slip44": 1
+  "slip44": 1,
+  "icon": null
 }

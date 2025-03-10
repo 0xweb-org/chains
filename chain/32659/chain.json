@@ -1,7 +1,7 @@
 {
   "name": "Fusion Mainnet",
   "chain": "FSN",
-  "icon": "./chain/32659/logo",
+  "icon": "./chain/32659/logo.png",
   "rpc": [
     "https://mainnet.fusionnetwork.io",
     "wss://mainnet.fusionnetwork.io"

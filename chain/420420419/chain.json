@@ -22,5 +22,6 @@
   "shortName": "AH",
   "chainId": 420420419,
   "networkId": 420420419,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

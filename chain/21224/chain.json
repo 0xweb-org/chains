@@ -1,7 +1,7 @@
 {
   "name": "DCpay Testnet",
   "chain": "DCpay",
-  "icon": "./chain/21224/logo",
+  "icon": "./chain/21224/logo.png",
   "rpc": [
     "https://testnet-rpc.dcpay.io"
   ],

@@ -23,7 +23,7 @@
   "shortName": "oev-network",
   "chainId": 4913,
   "networkId": 4913,
-  "icon": "./chain/4913/logo",
+  "icon": "./chain/4913/logo.png",
   "explorers": [
     {
       "name": "OEV Network Explorer",

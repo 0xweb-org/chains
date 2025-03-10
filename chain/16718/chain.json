@@ -1,7 +1,7 @@
 {
   "name": "AirDAO Mainnet",
   "chain": "ambnet",
-  "icon": "./chain/16718/logo",
+  "icon": "./chain/16718/logo.png",
   "rpc": [
     "https://network.ambrosus.io"
   ],

@@ -21,6 +21,6 @@
   "shortName": "waterfall",
   "chainId": 8601152,
   "networkId": 8601152,
-  "icon": "./chain/8601152/logo",
+  "icon": "./chain/8601152/logo.png",
   "explorers": []
 }

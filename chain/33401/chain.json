@@ -19,7 +19,7 @@
   "shortName": "slingshot",
   "chainId": 33401,
   "networkId": 33401,
-  "icon": "./chain/33401/logo",
+  "icon": "./chain/33401/logo.png",
   "explorers": [
     {
       "name": "SlingShot Explorer",

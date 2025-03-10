@@ -21,5 +21,6 @@
       "url": "https://explorer.gochain.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": "./chain/60/logo.png"
 }

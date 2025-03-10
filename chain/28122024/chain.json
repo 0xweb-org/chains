@@ -1,7 +1,7 @@
 {
   "name": "Ancient8 Testnet",
   "chain": "Ancient8",
-  "icon": "./chain/28122024/logo",
+  "icon": "./chain/28122024/logo.png",
   "rpc": [
     "https://rpcv2-testnet.ancient8.gg"
   ],

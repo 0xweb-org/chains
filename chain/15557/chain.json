@@ -1,7 +1,7 @@
 {
   "name": "EOS EVM Network Testnet",
   "chain": "EOS",
-  "icon": "./chain/15557/logo",
+  "icon": "./chain/15557/logo.png",
   "rpc": [
     "https://api.testnet.evm.eosnetwork.com"
   ],

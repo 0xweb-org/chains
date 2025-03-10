@@ -1,6 +1,7 @@
 {
   "name": "Masa Testnet",
   "chain": "MASA",
+  "icon": "./chain/103454/logo.png",
   "rpc": [
     "https://subnets.avax.network/masatestne/testnet/rpc"
   ],

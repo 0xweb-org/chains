@@ -15,7 +15,7 @@
   "shortName": "sbr",
   "chainId": 111111,
   "networkId": 111111,
-  "icon": "./chain/111111/logo",
+  "icon": "./chain/111111/logo.png",
   "explorers": [
     {
       "name": "Siberium Mainnet Explorer - blockscout - 1",

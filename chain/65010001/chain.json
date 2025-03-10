@@ -16,7 +16,7 @@
   "chainId": 65010001,
   "networkId": 65010001,
   "slip44": 1,
-  "icon": "./chain/65010001/logo",
+  "icon": "./chain/65010001/logo.png",
   "explorers": [
     {
       "name": "autonity-blockscout",

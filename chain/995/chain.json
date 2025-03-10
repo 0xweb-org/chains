@@ -14,7 +14,7 @@
   "shortName": "5ire",
   "chainId": 995,
   "networkId": 995,
-  "icon": "./chain/995/logo",
+  "icon": "./chain/995/logo.png",
   "explorers": [
     {
       "name": "5ireChain Explorer",

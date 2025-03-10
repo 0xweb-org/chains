@@ -17,7 +17,7 @@
   "chainId": 6065,
   "networkId": 6065,
   "slip44": 1,
-  "icon": "./chain/6065/logo",
+  "icon": "./chain/6065/logo.png",
   "explorers": [
     {
       "name": "treslechesexplorer",

@@ -1,7 +1,7 @@
 {
   "name": "Bitcichain Mainnet",
   "chain": "BITCI",
-  "icon": "./chain/1907/logo",
+  "icon": "./chain/1907/logo.png",
   "rpc": [
     "https://rpc.bitci.com"
   ],

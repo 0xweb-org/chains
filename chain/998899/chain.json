@@ -24,5 +24,6 @@
       "url": "https://testnet-explorer.supernet.chaingames.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

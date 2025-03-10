@@ -1,7 +1,7 @@
 {
   "name": "Torus Testnet",
   "chain": "TQF",
-  "icon": "./chain/8194/logo",
+  "icon": "./chain/8194/logo.png",
   "rpc": [
     "https://rpc.testnet.toruschain.com"
   ],

@@ -16,5 +16,6 @@
   "shortName": "CLOTestnet",
   "chainId": 20729,
   "networkId": 79,
-  "slip44": 1
+  "slip44": 1,
+  "icon": null
 }

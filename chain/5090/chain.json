@@ -1,7 +1,7 @@
 {
   "name": "Pione Chain Mainnet",
   "chain": "PIO",
-  "icon": "./chain/5090/logo",
+  "icon": "./chain/5090/logo.png",
   "rpc": [
     "https://rpc.pionescan.com"
   ],

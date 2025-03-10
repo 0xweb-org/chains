@@ -5,7 +5,7 @@
     "https://devnet.rollup.neonevm.org/"
   ],
   "faucets": [],
-  "icon": "./chain/245022929/logo",
+  "icon": "./chain/245022929/logo.png",
   "nativeCurrency": {
     "name": "Neon",
     "symbol": "NEON",

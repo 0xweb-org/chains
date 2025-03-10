@@ -5,7 +5,7 @@
   "title": "Syndr L3 Rollup",
   "chain": "SYNDR",
   "networkId": 404,
-  "icon": "./chain/404/logo",
+  "icon": null,
   "rpc": [
     "https://rpc.syndr.com",
     "wss://rpc.syndr.com/ws"

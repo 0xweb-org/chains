@@ -15,7 +15,7 @@
   "shortName": "appchaintestnet",
   "chainId": 4661,
   "networkId": 4661,
-  "icon": "./chain/4661/logo",
+  "icon": "./chain/4661/logo.png",
   "explorers": [
     {
       "name": "AppChain Testnet Explorer",

@@ -20,5 +20,6 @@
       "url": "https://testnet.ernscan.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

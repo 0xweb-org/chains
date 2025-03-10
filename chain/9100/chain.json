@@ -14,5 +14,6 @@
   "infoURL": "https://genesis-gn.com",
   "shortName": "GENEC",
   "chainId": 9100,
-  "networkId": 9100
+  "networkId": 9100,
+  "icon": null
 }

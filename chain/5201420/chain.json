@@ -23,7 +23,7 @@
   "chainId": 5201420,
   "networkId": 5201420,
   "slip44": 1,
-  "icon": null,
+  "icon": "./chain/5201420/logo.png",
   "explorers": [
     {
       "name": "blockscout",

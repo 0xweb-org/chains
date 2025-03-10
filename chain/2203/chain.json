@@ -14,7 +14,7 @@
   "shortName": "BTC",
   "chainId": 2203,
   "networkId": 2203,
-  "icon": "./chain/2203/logo",
+  "icon": "./chain/2203/logo.png",
   "explorers": [
     {
       "name": "Explorer",

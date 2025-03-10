@@ -15,7 +15,7 @@
   "chainId": 999,
   "networkId": 999,
   "slip44": 1,
-  "icon": "./chain/999/logo",
+  "icon": "./chain/999/logo.png",
   "explorers": [
     {
       "name": "wanscan",

@@ -22,5 +22,6 @@
       "standard": "none"
     }
   ],
-  "status": "deprecated"
+  "status": "deprecated",
+  "icon": null
 }

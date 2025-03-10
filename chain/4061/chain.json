@@ -15,7 +15,7 @@
   "shortName": "Nahmii3Mainnet",
   "chainId": 4061,
   "networkId": 4061,
-  "icon": "./chain/4061/logo",
+  "icon": "./chain/4061/logo.png",
   "explorers": [
     {
       "name": "Nahmii 3 Mainnet Explorer",

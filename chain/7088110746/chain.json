@@ -16,7 +16,7 @@
   "shortName": "pectra5",
   "chainId": 7088110746,
   "networkId": 7088110746,
-  "icon": "./chain/7088110746/logo",
+  "icon": "./chain/7088110746/logo.png",
   "status": "incubating",
   "explorers": [
     {

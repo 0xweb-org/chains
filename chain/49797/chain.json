@@ -14,5 +14,6 @@
   "shortName": "tnrg",
   "chainId": 49797,
   "networkId": 49797,
-  "slip44": 1
+  "slip44": 1,
+  "icon": null
 }

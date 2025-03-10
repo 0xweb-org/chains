@@ -5,7 +5,7 @@
     "https://testnet-rpc1.pikascan.com"
   ],
   "faucets": [],
-  "icon": "./chain/4422/logo",
+  "icon": "./chain/4422/logo.png",
   "nativeCurrency": {
     "name": "Testnet Pika",
     "symbol": "tPKA",

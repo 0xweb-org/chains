@@ -1,7 +1,7 @@
 {
   "name": "Engram Testnet",
   "chain": "tGRAM",
-  "icon": "./chain/131/logo",
+  "icon": "./chain/131/logo.png",
   "rpc": [
     "https://tokioswift.engram.tech",
     "https://tokio-archive.engram.tech"

@@ -16,7 +16,7 @@
   "shortName": "BRC",
   "chainId": 12123,
   "networkId": 12123,
-  "icon": "./chain/12123/logo",
+  "icon": "./chain/12123/logo.png",
   "explorers": [
     {
       "name": "BRC Chain Explorer",

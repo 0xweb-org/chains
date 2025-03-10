@@ -16,7 +16,7 @@
   "shortName": "alv",
   "chainId": 3797,
   "networkId": 3797,
-  "icon": "./chain/3797/logo",
+  "icon": "./chain/3797/logo.png",
   "explorers": [
     {
       "name": "AlveyScan",

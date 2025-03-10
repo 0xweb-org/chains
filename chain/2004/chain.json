@@ -4,7 +4,7 @@
   "rpc": [
     "http://77.237.237.69:9933"
   ],
-  "icon": "./chain/2004/logo",
+  "icon": "./chain/2004/logo.png",
   "faucets": [],
   "shortName": "mtl",
   "nativeCurrency": {

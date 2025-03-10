@@ -18,7 +18,7 @@
   "shortName": "imx",
   "chainId": 13371,
   "networkId": 13371,
-  "icon": "./chain/13371/logo",
+  "icon": "./chain/13371/logo.png",
   "explorers": [
     {
       "name": "Immutable explorer",

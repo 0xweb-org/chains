@@ -1,7 +1,7 @@
 {
   "name": "BitTorrent Chain Mainnet",
   "chain": "BTTC",
-  "icon": "./chain/199/logo",
+  "icon": "./chain/199/logo.png",
   "rpc": [
     "https://rpc.bt.io",
     "https://bittorrent.drpc.org",

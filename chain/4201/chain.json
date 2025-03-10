@@ -1,7 +1,7 @@
 {
   "name": "LUKSO Testnet",
   "chain": "LUKSO Testnet",
-  "icon": "./chain/4201/logo",
+  "icon": "./chain/4201/logo.png",
   "rpc": [
     "https://rpc.testnet.lukso.network",
     "wss://ws-rpc.testnet.lukso.network"

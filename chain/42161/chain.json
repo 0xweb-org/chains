@@ -44,5 +44,6 @@
         "url": "https://bridge.arbitrum.io"
       }
     ]
-  }
+  },
+  "icon": "./chain/42161/logo.png"
 }

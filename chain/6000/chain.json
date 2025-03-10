@@ -14,7 +14,7 @@
   "shortName": "bouncebit-testnet",
   "chainId": 6000,
   "networkId": 6000,
-  "icon": "./chain/6000/logo",
+  "icon": "./chain/6000/logo.png",
   "explorers": [
     {
       "name": "BBScan Testnet Explorer",

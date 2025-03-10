@@ -22,7 +22,7 @@
   "shortName": "rufus",
   "chainId": 2420,
   "networkId": 2420,
-  "icon": "./chain/2420/logo",
+  "icon": "./chain/2420/logo.png",
   "explorers": [
     {
       "name": "Rufus Caldera Explorer",

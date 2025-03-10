@@ -14,7 +14,7 @@
   "shortName": "etmp",
   "chainId": 48,
   "networkId": 48,
-  "icon": "./chain/48/logo",
+  "icon": "./chain/48/logo.png",
   "explorers": [
     {
       "name": "etmpscan",

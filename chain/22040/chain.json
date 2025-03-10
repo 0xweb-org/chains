@@ -1,7 +1,7 @@
 {
   "name": "AirDAO Testnet",
   "chain": "ambnet-test",
-  "icon": "./chain/22040/logo",
+  "icon": "./chain/22040/logo.png",
   "rpc": [
     "https://network.ambrosus-test.io"
   ],

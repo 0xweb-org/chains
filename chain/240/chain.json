@@ -23,5 +23,6 @@
       "url": "https://explorer.zkevm.cronos.org/testnet",
       "standard": "none"
     }
-  ]
+  ],
+  "icon": null
 }

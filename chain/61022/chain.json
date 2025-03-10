@@ -16,7 +16,7 @@
   "shortName": "Orange-Chain-Mainnet",
   "chainId": 61022,
   "networkId": 61022,
-  "icon": "./chain/61022/logo",
+  "icon": "./chain/61022/logo.png",
   "explorers": [
     {
       "name": "Blockscout",

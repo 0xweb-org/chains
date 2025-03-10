@@ -3,7 +3,7 @@
   "shortName": "azkyt",
   "title": "Astar zkEVM Testnet zKyoto",
   "chain": "ETH",
-  "icon": "./chain/6038361/logo",
+  "icon": "./chain/6038361/logo.png",
   "rpc": [
     "https://rpc.startale.com/zkyoto",
     "https://rpc.zkyoto.gelato.digital"

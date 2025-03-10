@@ -1,7 +1,7 @@
 {
   "name": "SecureChain Mainnet",
   "chain": "SCAI",
-  "icon": "./chain/34/logo",
+  "icon": "./chain/34/logo.png",
   "rpc": [
     "https://mainnet-rpc.scai.network"
   ],

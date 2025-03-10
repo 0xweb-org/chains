@@ -1,7 +1,7 @@
 {
   "name": "Bitindi Mainnet",
   "chain": "BNI",
-  "icon": "./chain/4099/logo",
+  "icon": "./chain/4099/logo.png",
   "rpc": [
     "https://mainnet-rpc.bitindi.org"
   ],

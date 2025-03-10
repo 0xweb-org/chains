@@ -20,7 +20,7 @@
   "shortName": "txdc",
   "chainId": 51,
   "networkId": 51,
-  "icon": "./chain/51/logo",
+  "icon": "./chain/51/logo.png",
   "explorers": [
     {
       "name": "xdcscan",

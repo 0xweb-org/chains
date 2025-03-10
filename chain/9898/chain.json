@@ -17,7 +17,7 @@
   "networkId": 1,
   "slip44": 9898,
   "status": "active",
-  "icon": "./chain/9898/logo",
+  "icon": "./chain/9898/logo.png",
   "explorers": [
     {
       "name": "Larissa Scan",

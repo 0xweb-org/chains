@@ -16,7 +16,7 @@
   "chainId": 5553,
   "networkId": 5553,
   "slip44": 1,
-  "icon": "./chain/5553/logo",
+  "icon": "./chain/5553/logo.png",
   "explorers": [
     {
       "name": "blockscout",

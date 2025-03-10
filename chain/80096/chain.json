@@ -1,7 +1,7 @@
 {
   "name": "Hizoco mainnet",
   "chain": "HZC",
-  "icon": "./chain/80096/logo",
+  "icon": null,
   "rpc": [
     "https://hizoco.net/rpc"
   ],

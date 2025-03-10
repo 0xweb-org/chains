@@ -11,7 +11,7 @@
     "decimals": 18
   },
   "infoURL": "https://story.foundation/",
-  "icon": "./chain/1315/logo",
+  "icon": "./chain/1315/logo.png",
   "shortName": "story-aeneid",
   "chainId": 1315,
   "networkId": 1315,

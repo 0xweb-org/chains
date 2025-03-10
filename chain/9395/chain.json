@@ -1,7 +1,7 @@
 {
   "name": "Evoke Mainnet",
   "chain": "MTHN",
-  "icon": "./chain/9395/logo",
+  "icon": null,
   "rpc": [
     "https://mainnet-rpc.evokescan.org"
   ],

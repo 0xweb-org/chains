@@ -24,7 +24,7 @@
   "shortName": "citrea-devnet",
   "chainId": 62298,
   "networkId": 62298,
-  "icon": "./chain/62298/logo",
+  "icon": "./chain/62298/logo.png",
   "explorers": [
     {
       "name": "Citrea Devnet Explorer",

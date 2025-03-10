@@ -1,7 +1,7 @@
 {
   "name": "SX Toronto Rollup",
   "chain": "SX",
-  "icon": "./chain/79479957/logo",
+  "icon": "./chain/79479957/logo.png",
   "rpc": [
     "https://rpc.sx-rollup-testnet.t.raas.gelato.cloud"
   ],

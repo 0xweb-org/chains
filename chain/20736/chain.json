@@ -1,7 +1,7 @@
 {
   "name": "P12 Chain",
   "chain": "P12",
-  "icon": "./chain/20736/logo",
+  "icon": "./chain/20736/logo.png",
   "rpc": [
     "https://rpc-chain.p12.games"
   ],

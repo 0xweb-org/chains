@@ -15,5 +15,6 @@
   "shortName": "bbn",
   "chainId": 8099,
   "networkId": 8099,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

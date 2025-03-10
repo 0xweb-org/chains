@@ -14,7 +14,7 @@
   "shortName": "zkamoeba",
   "chainId": 381,
   "networkId": 381,
-  "icon": "./chain/381/logo",
+  "icon": "./chain/381/logo.png",
   "explorers": [
     {
       "name": "ZKAmoeba Explorer",

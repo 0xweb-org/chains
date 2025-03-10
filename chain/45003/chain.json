@@ -22,7 +22,7 @@
   "shortName": "JUNE",
   "chainId": 45003,
   "networkId": 45003,
-  "icon": "./chain/45003/logo",
+  "icon": "./chain/45003/logo.png",
   "explorers": [
     {
       "name": "Juneo Scan",

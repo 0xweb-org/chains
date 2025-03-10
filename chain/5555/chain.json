@@ -1,7 +1,7 @@
 {
   "name": "Chain Verse Mainnet",
   "chain": "CVERSE",
-  "icon": "./chain/5555/logo",
+  "icon": "./chain/5555/logo.png",
   "rpc": [
     "https://rpc.chainverse.info"
   ],

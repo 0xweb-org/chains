@@ -1,7 +1,7 @@
 {
   "name": "Niza Chain Mainnet",
   "chain": "NIZA",
-  "icon": "./chain/20041/logo",
+  "icon": "./chain/20041/logo.png",
   "rpc": [
     "https://nizascan.io/rpc"
   ],

@@ -1,7 +1,7 @@
 {
   "name": "Razor Skale Chain",
   "chain": "Razor Schain",
-  "icon": "./chain/278611351/logo",
+  "icon": "./chain/278611351/logo.png",
   "rpc": [
     "https://mainnet.skalenodes.com/v1/turbulent-unique-scheat"
   ],

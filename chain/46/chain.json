@@ -23,5 +23,6 @@
       "url": "https://explorer.darwinia.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

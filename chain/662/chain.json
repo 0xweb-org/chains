@@ -14,7 +14,7 @@
   "shortName": "Amaxsmartchain",
   "chainId": 662,
   "networkId": 662,
-  "icon": "./chain/662/logo",
+  "icon": "./chain/662/logo.png",
   "explorers": [
     {
       "name": "Amaxsmartchain explorer",

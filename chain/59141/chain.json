@@ -21,7 +21,7 @@
   "chainId": 59141,
   "networkId": 59141,
   "slip44": 1,
-  "icon": "./chain/59141/logo",
+  "icon": "./chain/59141/logo.png",
   "parent": {
     "type": "L2",
     "chain": "eip155-11155111",

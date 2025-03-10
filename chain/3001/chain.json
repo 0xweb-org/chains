@@ -16,7 +16,7 @@
   "shortName": "cennz-n",
   "chainId": 3001,
   "networkId": 3001,
-  "icon": "./chain/3001/logo",
+  "icon": "./chain/3001/logo.png",
   "explorers": [
     {
       "name": "UNcover",

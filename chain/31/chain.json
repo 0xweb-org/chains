@@ -8,7 +8,7 @@
   "faucets": [
     "https://faucet.rsk.co/"
   ],
-  "icon": "./chain/31/logo",
+  "icon": "./chain/31/logo.png",
   "nativeCurrency": {
     "name": "Testnet Smart Bitcoin",
     "symbol": "tRBTC",

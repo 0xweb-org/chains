@@ -15,7 +15,7 @@
   "shortName": "automatatest",
   "chainId": 1398243,
   "networkId": 1398243,
-  "icon": "./chain/1398243/logo",
+  "icon": "./chain/1398243/logo.png",
   "explorers": [
     {
       "name": "Automata Testnet Explorer",

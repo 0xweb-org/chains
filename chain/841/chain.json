@@ -1,7 +1,7 @@
 {
   "name": "Taraxa Mainnet",
   "chain": "TARA",
-  "icon": "./chain/841/logo",
+  "icon": "./chain/841/logo.png",
   "rpc": [
     "https://rpc.mainnet.taraxa.io/",
     "https://ws.mainnet.taraxa.io"

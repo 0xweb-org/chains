@@ -6,7 +6,7 @@
     "https://testnet.neonevm.org"
   ],
   "faucets": [],
-  "icon": "./chain/245022940/logo",
+  "icon": "./chain/245022940/logo.png",
   "nativeCurrency": {
     "name": "Neon",
     "symbol": "NEON",

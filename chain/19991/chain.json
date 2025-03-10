@@ -1,7 +1,7 @@
 {
   "name": "Ultra EVM Network",
   "chain": "Ultra",
-  "icon": null,
+  "icon": "./chain/19991/logo.png",
   "rpc": [
     "https://evm.ultra.eosusa.io"
   ],

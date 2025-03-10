@@ -22,7 +22,7 @@
   "shortName": "bitlazer",
   "chainId": 14235,
   "networkId": 14235,
-  "icon": "./chain/14235/logo",
+  "icon": "./chain/14235/logo.png",
   "explorers": [
     {
       "name": "Bitlazer Caldera Explorer",

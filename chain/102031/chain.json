@@ -1,6 +1,7 @@
 {
   "name": "Creditcoin Testnet",
   "chain": "CTC",
+  "icon": "./chain/102031/logo.png",
   "rpc": [
     "https://rpc.cc3-testnet.creditcoin.network"
   ],

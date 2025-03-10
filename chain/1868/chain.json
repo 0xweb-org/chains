@@ -3,7 +3,7 @@
   "shortName": "soneium",
   "title": "Soneium mainnet",
   "chain": "ETH",
-  "icon": "./chain/1868/logo",
+  "icon": "./chain/1868/logo.png",
   "rpc": [
     "https://rpc.soneium.org"
   ],

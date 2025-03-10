@@ -14,7 +14,7 @@
   "shortName": "apechain",
   "chainId": 33139,
   "networkId": 33139,
-  "icon": "./chain/33139/logo",
+  "icon": "./chain/33139/logo.png",
   "explorers": [
     {
       "name": "ApeChain Explorer",

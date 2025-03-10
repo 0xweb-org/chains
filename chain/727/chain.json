@@ -14,5 +14,6 @@
   "shortName": "blu",
   "chainId": 727,
   "networkId": 727,
-  "slip44": 727
+  "slip44": 727,
+  "icon": null
 }

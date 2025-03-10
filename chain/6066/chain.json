@@ -15,7 +15,7 @@
   "shortName": "TRESMAIN",
   "chainId": 6066,
   "networkId": 6066,
-  "icon": "./chain/6066/logo",
+  "icon": "./chain/6066/logo.png",
   "explorers": [
     {
       "name": "treslechesexplorer",

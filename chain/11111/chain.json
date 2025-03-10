@@ -1,7 +1,7 @@
 {
   "name": "WAGMI",
   "chain": "WAGMI",
-  "icon": "./chain/11111/logo",
+  "icon": "./chain/11111/logo.png",
   "rpc": [
     "https://subnets.avax.network/wagmi/wagmi-chain-testnet/rpc"
   ],

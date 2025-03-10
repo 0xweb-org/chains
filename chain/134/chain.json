@@ -1,7 +1,7 @@
 {
   "name": "iExec Sidechain",
   "chain": "Bellecour",
-  "icon": "./chain/134/logo",
+  "icon": "./chain/134/logo.png",
   "rpc": [
     "https://bellecour.iex.ec"
   ],

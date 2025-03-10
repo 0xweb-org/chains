@@ -1,7 +1,7 @@
 {
   "name": "WABA Chain Testnet",
   "chain": "WABA Mainnet",
-  "icon": "./chain/327126/logo",
+  "icon": "./chain/327126/logo.png",
   "rpc": [
     "https://rpc.wabaworld.com"
   ],

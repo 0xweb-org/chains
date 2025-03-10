@@ -23,5 +23,6 @@
       "url": "https://explorer-testnet.ptcscan.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

@@ -19,5 +19,6 @@
   "infoURL": "https://mindnetwork.xyz",
   "shortName": "fhet",
   "chainId": 192940,
-  "networkId": 192940
+  "networkId": 192940,
+  "icon": null
 }

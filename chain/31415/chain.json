@@ -1,7 +1,7 @@
 {
   "name": "Wirex Pay Mainnet",
   "chain": "WirexPay",
-  "icon": "./chain/31415/logo",
+  "icon": "./chain/31415/logo.png",
   "rpc": [
     "https://rpc.wirexpaychain.com"
   ],

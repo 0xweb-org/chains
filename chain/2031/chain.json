@@ -1,7 +1,7 @@
 {
   "name": "Centrifuge",
   "chain": "CFG",
-  "icon": "./chain/2031/logo",
+  "icon": "./chain/2031/logo.png",
   "rpc": [
     "https://fullnode.centrifuge.io",
     "wss://fullnode.centrifuge.io",

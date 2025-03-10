@@ -16,7 +16,7 @@
   "shortName": "mekong",
   "chainId": 7078815900,
   "networkId": 7078815900,
-  "icon": "./chain/7078815900/logo",
+  "icon": "./chain/7078815900/logo.png",
   "status": "incubating",
   "explorers": [
     {

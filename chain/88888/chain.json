@@ -1,7 +1,7 @@
 {
   "name": "Chiliz Chain Mainnet",
   "chain": "CHZ",
-  "icon": "./chain/88888/logo",
+  "icon": "./chain/88888/logo.png",
   "rpc": [
     "https://rpc.chiliz.com",
     "https://rpc.ankr.com/chiliz",

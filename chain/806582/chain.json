@@ -22,7 +22,7 @@
   "shortName": "ethpar-tesnet",
   "chainId": 806582,
   "networkId": 806582,
-  "icon": "./chain/806582/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "Ethpar Testnet Explorer",

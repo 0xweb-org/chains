@@ -1,7 +1,7 @@
 {
   "name": "Zytron Linea Testnet",
   "chain": "ETH",
-  "icon": "./chain/19546/logo",
+  "icon": "./chain/19546/logo.png",
   "rpc": [
     "https://linea-testnet-zytron.zypher.game/"
   ],

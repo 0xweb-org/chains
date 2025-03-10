@@ -14,7 +14,7 @@
   "shortName": "MIRACLE",
   "chainId": 92278,
   "networkId": 92278,
-  "icon": "./chain/92278/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "Miracle Chain Explorer",

@@ -23,7 +23,7 @@
   "shortName": "surge-testnet",
   "chainId": 763374,
   "networkId": 763374,
-  "icon": "./chain/763374/logo",
+  "icon": "./chain/763374/logo.png",
   "explorers": [
     {
       "name": "blockscout",

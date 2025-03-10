@@ -1,7 +1,7 @@
 {
   "name": "ZEUS Testnet",
   "chain": "tZEUS",
-  "icon": "./chain/7244/logo",
+  "icon": "./chain/7244/logo.png",
   "rpc": [
     "https://testnet-rpc.zeuschainscan.io"
   ],

@@ -22,7 +22,7 @@
   "shortName": "BCHYPER",
   "chainId": 3030,
   "networkId": 3030,
-  "icon": "./chain/3030/logo",
+  "icon": "./chain/3030/logo.png",
   "explorers": [
     {
       "name": "bcexplorer mainnet",

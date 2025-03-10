@@ -14,5 +14,6 @@
   "shortName": "ChakraTN",
   "chainId": 8545,
   "networkId": 8545,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

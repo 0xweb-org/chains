@@ -13,5 +13,6 @@
   "infoURL": "https://metadot.network",
   "shortName": "mtt",
   "chainId": 16000,
-  "networkId": 16000
+  "networkId": 16000,
+  "icon": null
 }

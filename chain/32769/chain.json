@@ -14,7 +14,7 @@
   "shortName": "zil",
   "chainId": 32769,
   "networkId": 32769,
-  "icon": null,
+  "icon": "./chain/32769/logo.png",
   "explorers": [
     {
       "name": "Zilliqa EVM Explorer",

@@ -14,7 +14,7 @@
   "shortName": "NUMB",
   "chainId": 5112023,
   "networkId": 5112023,
-  "icon": "./chain/5112023/logo",
+  "icon": "./chain/5112023/logo.png",
   "explorers": [
     {
       "name": "NumBlock Explorer",

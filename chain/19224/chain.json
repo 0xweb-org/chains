@@ -1,7 +1,7 @@
 {
   "name": "Decentraconnect Social",
   "chain": "DCSM",
-  "icon": "./chain/19224/logo",
+  "icon": "./chain/19224/logo.png",
   "rpc": [
     "https://rpc.decentraconnect.io"
   ],

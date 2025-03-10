@@ -15,7 +15,7 @@
   "shortName": "KNB",
   "chainId": 13600,
   "networkId": 13600,
-  "icon": "./chain/13600/logo",
+  "icon": "./chain/13600/logo.png",
   "explorers": [
     {
       "name": "qbitscan",

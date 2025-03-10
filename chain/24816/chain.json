@@ -14,5 +14,6 @@
   "shortName": "recall",
   "chainId": 24816,
   "networkId": 24816,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

@@ -22,7 +22,7 @@
   "shortName": "onigiritest",
   "chainId": 5039,
   "networkId": 5039,
-  "icon": "./chain/5039/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "ONIGIRI Explorer",

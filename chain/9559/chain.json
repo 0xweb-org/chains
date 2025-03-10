@@ -17,7 +17,7 @@
   "chainId": 9559,
   "networkId": 9559,
   "slip44": 1,
-  "icon": "./chain/9559/logo",
+  "icon": "./chain/9559/logo.png",
   "explorers": [
     {
       "name": "Neon Blockchain Explorer",

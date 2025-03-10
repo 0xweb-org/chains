@@ -1,7 +1,7 @@
 {
   "name": "XT Smart Chain Mainnet",
   "chain": "XSC",
-  "icon": "./chain/520/logo",
+  "icon": "./chain/520/logo.png",
   "rpc": [
     "https://datarpc1.xsc.pub",
     "https://datarpc2.xsc.pub",

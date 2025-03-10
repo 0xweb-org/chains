@@ -22,6 +22,6 @@
   "shortName": "sahara",
   "chainId": 3132023,
   "networkId": 3132023,
-  "icon": "./chain/3132023/logo",
+  "icon": "./chain/3132023/logo.png",
   "explorers": []
 }

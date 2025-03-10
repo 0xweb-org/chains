@@ -1,7 +1,7 @@
 {
   "name": "Milkomeda C1 Mainnet",
   "chain": "milkAda",
-  "icon": "./chain/2001/logo",
+  "icon": "./chain/2001/logo.png",
   "rpc": [
     "https://rpc-mainnet-cardano-evm.c1.milkomeda.com",
     "wss://rpc-mainnet-cardano-evm.c1.milkomeda.com"

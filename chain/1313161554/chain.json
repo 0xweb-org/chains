@@ -22,5 +22,6 @@
       "url": "https://explorer.aurora.dev",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

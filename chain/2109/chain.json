@@ -16,7 +16,7 @@
   "chainId": 2109,
   "networkId": 2109,
   "slip44": 2109,
-  "icon": "./chain/2109/logo",
+  "icon": "./chain/2109/logo.png",
   "explorers": [
     {
       "name": "blockscout",

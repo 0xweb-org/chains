@@ -17,5 +17,6 @@
   "shortName": "resil",
   "chainId": 172,
   "networkId": 172,
-  "slip44": 1
+  "slip44": 1,
+  "icon": null
 }

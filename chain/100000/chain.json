@@ -13,5 +13,6 @@
   "infoURL": "https://www.quarkchain.io",
   "shortName": "qkc-r",
   "chainId": 100000,
-  "networkId": 100000
+  "networkId": 100000,
+  "icon": null
 }

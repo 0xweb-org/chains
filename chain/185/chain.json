@@ -16,7 +16,7 @@
   "shortName": "mint",
   "chainId": 185,
   "networkId": 185,
-  "icon": "./chain/185/logo",
+  "icon": "./chain/185/logo.png",
   "explorers": [
     {
       "name": "blockscout",

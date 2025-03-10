@@ -6,7 +6,7 @@
   "chainId": 202624,
   "networkId": 202624,
   "slip44": 1,
-  "icon": "./chain/202624/logo",
+  "icon": "./chain/202624/logo.png",
   "nativeCurrency": {
     "name": "Twala Coin",
     "symbol": "TWL",

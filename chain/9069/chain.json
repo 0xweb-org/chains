@@ -19,6 +19,6 @@
   "shortName": "AP3X",
   "chainId": 9069,
   "networkId": 9069,
-  "icon": "./chain/9069/logo",
+  "icon": "./chain/9069/logo.png",
   "explorers": []
 }

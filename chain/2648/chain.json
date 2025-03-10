@@ -15,7 +15,7 @@
   "shortName": "ailayer-testnet",
   "chainId": 2648,
   "networkId": 2648,
-  "icon": null,
+  "icon": "./chain/2648/logo.png",
   "explorers": [
     {
       "name": "blockscout",

@@ -22,7 +22,7 @@
   "chainId": 813,
   "networkId": 813,
   "slip44": 813,
-  "icon": "./chain/813/logo",
+  "icon": "./chain/813/logo.png",
   "explorers": [
     {
       "name": "meerscan",

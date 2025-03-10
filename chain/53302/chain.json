@@ -18,7 +18,7 @@
   "chainId": 53302,
   "networkId": 53302,
   "slip44": 1,
-  "icon": "./chain/53302/logo",
+  "icon": "./chain/53302/logo.png",
   "explorers": [
     {
       "name": "seedscout",

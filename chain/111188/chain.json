@@ -20,7 +20,7 @@
   "chainId": 111188,
   "networkId": 111188,
   "slip44": 60,
-  "icon": "./chain/111188/logo",
+  "icon": "./chain/111188/logo.png",
   "explorers": [
     {
       "name": "blockscout",

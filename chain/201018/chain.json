@@ -15,7 +15,7 @@
   "shortName": "alaya",
   "chainId": 201018,
   "networkId": 1,
-  "icon": "./chain/201018/logo",
+  "icon": "./chain/201018/logo.png",
   "explorers": [
     {
       "name": "alaya explorer",

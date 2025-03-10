@@ -15,7 +15,7 @@
   "chainId": 9393,
   "networkId": 9393,
   "slip44": 1,
-  "icon": "./chain/9393/logo",
+  "icon": "./chain/9393/logo.png",
   "explorers": [
     {
       "name": "basescout",

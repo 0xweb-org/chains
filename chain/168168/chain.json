@@ -14,7 +14,7 @@
   "shortName": "zchains",
   "chainId": 168168,
   "networkId": 168168,
-  "icon": "./chain/168168/logo",
+  "icon": "./chain/168168/logo.png",
   "explorers": [
     {
       "name": "zchains",

@@ -1,7 +1,7 @@
 {
   "name": "Volley Mainnet",
   "chain": "Volley",
-  "icon": "./chain/9981/logo",
+  "icon": null,
   "rpc": [
     "https://main-rpc.volleychain.com"
   ],

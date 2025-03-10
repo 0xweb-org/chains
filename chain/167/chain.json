@@ -1,7 +1,7 @@
 {
   "name": "Atoshi Testnet",
   "chain": "ATOSHI",
-  "icon": "./chain/167/logo",
+  "icon": "./chain/167/logo.png",
   "rpc": [
     "https://node.atoshi.io/"
   ],

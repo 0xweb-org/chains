@@ -15,7 +15,7 @@
   "shortName": "Innovator",
   "chainId": 129,
   "networkId": 129,
-  "icon": "./chain/129/logo",
+  "icon": "./chain/129/logo.png",
   "explorers": [
     {
       "name": "Innovator Explorer",

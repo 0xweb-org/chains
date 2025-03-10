@@ -1,7 +1,7 @@
 {
   "name": "REI Chain Testnet",
   "chain": "REI",
-  "icon": null,
+  "icon": "./chain/55556/logo.png",
   "rpc": [
     "https://rei-testnet-rpc.moonrhythm.io"
   ],

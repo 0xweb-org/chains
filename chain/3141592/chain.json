@@ -13,7 +13,7 @@
   },
   "infoURL": "https://filecoin.io",
   "shortName": "filecoin-butterfly",
-  "icon": "./chain/3141592/logo",
+  "icon": "./chain/3141592/logo.png",
   "chainId": 3141592,
   "networkId": 3141592,
   "slip44": 1,

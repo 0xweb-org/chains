@@ -16,7 +16,7 @@
   "shortName": "html",
   "chainId": 4444,
   "networkId": 4444,
-  "icon": "./chain/4444/logo",
+  "icon": "./chain/4444/logo.png",
   "status": "active",
   "explorers": [
     {

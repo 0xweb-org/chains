@@ -1,7 +1,7 @@
 {
   "name": "Bloom Genesis Mainnet",
   "chain": "Bloom",
-  "icon": "./chain/333313/logo",
+  "icon": "./chain/333313/logo.png",
   "rpc": [
     "https://mainnet-rpc.bloomgenesis.com"
   ],

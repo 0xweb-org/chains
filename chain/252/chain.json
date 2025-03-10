@@ -16,7 +16,7 @@
   "shortName": "fraxtal",
   "chainId": 252,
   "networkId": 252,
-  "icon": "./chain/252/logo",
+  "icon": "./chain/252/logo.png",
   "explorers": [
     {
       "name": "fraxscan",

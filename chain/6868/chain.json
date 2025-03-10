@@ -12,7 +12,7 @@
   },
   "infoURL": "https://www.poolschain.org",
   "shortName": "POOLS",
-  "icon": "./chain/6868/logo",
+  "icon": "./chain/6868/logo.png",
   "chainId": 6868,
   "networkId": 6868,
   "slip44": 6868,

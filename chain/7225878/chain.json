@@ -1,7 +1,7 @@
 {
   "name": "Saakuru Mainnet",
   "chain": "Saakuru",
-  "icon": "./chain/7225878/logo",
+  "icon": "./chain/7225878/logo.png",
   "rpc": [
     "https://rpc.saakuru.network"
   ],

@@ -20,7 +20,7 @@
   "shortName": "z",
   "chainId": 9369,
   "networkId": 9369,
-  "icon": "./chain/9369/logo",
+  "icon": "./chain/9369/logo.png",
   "explorers": [
     {
       "name": "blockscout",

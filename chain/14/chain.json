@@ -1,7 +1,7 @@
 {
   "name": "Flare Mainnet",
   "chain": "FLR",
-  "icon": "./chain/14/logo",
+  "icon": "./chain/14/logo.png",
   "rpc": [
     "https://flare-api.flare.network/ext/C/rpc",
     "https://flare.rpc.thirdweb.com",

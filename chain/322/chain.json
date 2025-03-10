@@ -23,5 +23,6 @@
       "url": "https://scan-testnet.kcc.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

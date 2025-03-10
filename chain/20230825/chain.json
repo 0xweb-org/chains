@@ -15,7 +15,7 @@
   "shortName": "Vcity",
   "chainId": 20230825,
   "networkId": 20230825,
-  "icon": "./chain/20230825/logo",
+  "icon": "./chain/20230825/logo.png",
   "explorers": [
     {
       "name": "Vcity Explorer",

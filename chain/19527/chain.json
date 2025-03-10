@@ -14,5 +14,6 @@
   "shortName": "mgt",
   "chainId": 19527,
   "networkId": 19527,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

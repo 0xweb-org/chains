@@ -17,7 +17,7 @@
   "chainId": 2399,
   "networkId": 2399,
   "slip44": 1,
-  "icon": "./chain/2399/logo",
+  "icon": "./chain/2399/logo.png",
   "explorers": [
     {
       "name": "bombscan-testnet",

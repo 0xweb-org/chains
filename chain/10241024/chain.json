@@ -14,6 +14,7 @@
   "shortName": "AlienX",
   "chainId": 10241024,
   "networkId": 10241024,
+  "icon": "./chain/10241024/logo.png",
   "explorers": [
     {
       "name": "AlienXChain Explorer",

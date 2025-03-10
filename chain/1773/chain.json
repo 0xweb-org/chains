@@ -15,7 +15,7 @@
   "shortName": "TeaParty",
   "chainId": 1773,
   "networkId": 1773,
-  "icon": "./chain/1773/logo",
+  "icon": "./chain/1773/logo.png",
   "status": "incubating",
   "explorers": [
     {

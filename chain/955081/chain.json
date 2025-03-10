@@ -1,7 +1,7 @@
 {
   "name": "Jono12 Subnet",
   "chain": "JONO12",
-  "icon": "./chain/955081/logo",
+  "icon": "./chain/955081/logo.png",
   "rpc": [
     "https://subnets.avax.network/jono12/testnet/rpc"
   ],

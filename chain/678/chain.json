@@ -15,7 +15,7 @@
   "shortName": "janction",
   "chainId": 678,
   "networkId": 678,
-  "icon": "./chain/678/logo",
+  "icon": "./chain/678/logo.png",
   "explorers": [],
   "parent": {
     "type": "L2",

@@ -28,5 +28,6 @@
       "url": "https://subnets.avax.network/tiltyard",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

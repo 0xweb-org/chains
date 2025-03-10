@@ -1,7 +1,7 @@
 {
   "name": "Dexalot Subnet",
   "chain": "DEXALOT",
-  "icon": "./chain/432204/logo",
+  "icon": "./chain/432204/logo.png",
   "rpc": [
     "https://subnets.avax.network/dexalot/mainnet/rpc"
   ],

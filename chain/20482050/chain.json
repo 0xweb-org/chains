@@ -1,7 +1,7 @@
 {
   "name": "Hokum Testnet",
   "chain": "HokumTestnet",
-  "icon": "./chain/20482050/logo",
+  "icon": "./chain/20482050/logo.png",
   "rpc": [
     "https://testnet.hokum.gg"
   ],

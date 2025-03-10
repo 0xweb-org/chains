@@ -1,7 +1,7 @@
 {
   "name": "KardiaChain Mainnet",
   "chain": "KAI",
-  "icon": null,
+  "icon": "./chain/24/logo.png",
   "rpc": [
     "https://rpc.kardiachain.io"
   ],

@@ -22,7 +22,7 @@
     }
   ],
   "infoURL": "https://proofofplay.com",
-  "icon": "./chain/70701/logo",
+  "icon": "./chain/70701/logo.png",
   "parent": {
     "type": "L2",
     "chain": "eip155-42161",

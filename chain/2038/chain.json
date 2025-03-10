@@ -26,5 +26,6 @@
       "url": "https://subnets-test.avax.network/shrapnel",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

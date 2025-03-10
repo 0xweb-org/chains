@@ -16,7 +16,7 @@
   "shortName": "zq2-proto-mainnet",
   "chainId": 32770,
   "networkId": 32770,
-  "icon": null,
+  "icon": "./chain/32770/logo.png",
   "explorers": [
     {
       "name": "Zilliqa 2 EVM proto-mainnet explorer",

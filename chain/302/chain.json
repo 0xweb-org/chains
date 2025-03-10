@@ -14,7 +14,7 @@
   "shortName": "zkcandy-sepolia",
   "chainId": 302,
   "networkId": 302,
-  "icon": "./chain/302/logo",
+  "icon": "./chain/302/logo.png",
   "explorers": [
     {
       "name": "ZKcandy Block Explorer",

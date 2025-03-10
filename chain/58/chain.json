@@ -1,7 +1,7 @@
 {
   "name": "Ontology Mainnet",
   "chain": "Ontology",
-  "icon": "./chain/58/logo",
+  "icon": "./chain/58/logo.png",
   "rpc": [
     "http://dappnode1.ont.io:20339",
     "http://dappnode2.ont.io:20339",

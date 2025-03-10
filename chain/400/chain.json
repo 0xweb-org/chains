@@ -1,7 +1,7 @@
 {
   "name": "HyperonChain TestNet",
   "chain": "HPN",
-  "icon": "./chain/400/logo",
+  "icon": null,
   "rpc": [
     "https://testnet-rpc.hyperonchain.com"
   ],

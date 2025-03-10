@@ -24,7 +24,7 @@
   "chainId": 51178,
   "networkId": 51178,
   "slip44": 1,
-  "icon": "./chain/51178/logo",
+  "icon": "./chain/51178/logo.png",
   "explorers": [
     {
       "name": "LumozTestnetInfo",

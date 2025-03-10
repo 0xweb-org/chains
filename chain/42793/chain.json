@@ -1,7 +1,7 @@
 {
   "name": "Etherlink Mainnet",
   "chain": "Etherlink",
-  "icon": "./chain/42793/logo",
+  "icon": "./chain/42793/logo.png",
   "chainId": 42793,
   "networkId": 42793,
   "features": [

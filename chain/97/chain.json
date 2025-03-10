@@ -30,5 +30,6 @@
       "url": "https://testnet.bscscan.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

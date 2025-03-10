@@ -1,7 +1,7 @@
 {
   "name": "Viridis Testnet",
   "chain": "VRD",
-  "icon": "./chain/224/logo",
+  "icon": "./chain/224/logo.png",
   "rpc": [
     "https://testnet-rpc.vrd.network"
   ],

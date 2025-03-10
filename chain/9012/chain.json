@@ -16,7 +16,7 @@
   "shortName": "brb",
   "chainId": 9012,
   "networkId": 9012,
-  "icon": "./chain/9012/logo",
+  "icon": "./chain/9012/logo.png",
   "explorers": [
     {
       "name": "berylbit-explorer",

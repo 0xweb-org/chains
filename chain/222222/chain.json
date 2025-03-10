@@ -21,7 +21,7 @@
   "shortName": "hdx",
   "chainId": 222222,
   "networkId": 222222,
-  "icon": "./chain/222222/logo",
+  "icon": "./chain/222222/logo.png",
   "explorers": [
     {
       "name": "blockscout",

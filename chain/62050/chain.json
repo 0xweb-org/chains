@@ -20,7 +20,7 @@
   "shortName": "Optopia",
   "chainId": 62050,
   "networkId": 62050,
-  "icon": null,
+  "icon": "./chain/62050/logo.png",
   "explorers": [
     {
       "name": "optopia-scan",

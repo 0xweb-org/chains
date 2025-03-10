@@ -14,7 +14,7 @@
   "shortName": "bevm-signet",
   "chainId": 11504,
   "networkId": 11504,
-  "icon": "./chain/11504/logo",
+  "icon": "./chain/11504/logo.png",
   "explorers": [
     {
       "name": "bevm signet scan",

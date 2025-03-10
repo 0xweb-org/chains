@@ -14,7 +14,7 @@
   "shortName": "orderly",
   "chainId": 291,
   "networkId": 291,
-  "icon": "./chain/291/logo",
+  "icon": "./chain/291/logo.png",
   "explorers": [
     {
       "name": "orderlyscout",

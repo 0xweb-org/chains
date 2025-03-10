@@ -16,7 +16,7 @@
   "chainId": 1689,
   "networkId": 1689,
   "slip44": 1,
-  "icon": "./chain/1689/logo",
+  "icon": "./chain/1689/logo.png",
   "explorers": [
     {
       "name": "nero mainnet scan",

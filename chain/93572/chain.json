@@ -1,7 +1,7 @@
 {
   "name": "LiquidLayer Testnet",
   "chain": "LILA",
-  "icon": "./chain/93572/logo",
+  "icon": "./chain/93572/logo.png",
   "rpc": [
     "https://testnet.liquidlayer.network"
   ],

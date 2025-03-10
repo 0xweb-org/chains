@@ -16,7 +16,7 @@
   ],
   "faucets": [],
   "infoURL": "https://kroma.network",
-  "icon": "./chain/2358/logo",
+  "icon": "./chain/2358/logo.png",
   "explorers": [
     {
       "name": "blockscout",

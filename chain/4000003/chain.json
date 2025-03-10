@@ -22,7 +22,7 @@
   "shortName": "alt-zerogas",
   "chainId": 4000003,
   "networkId": 4000003,
-  "icon": "./chain/4000003/logo",
+  "icon": "./chain/4000003/logo.png",
   "explorers": [
     {
       "name": "blockscout",

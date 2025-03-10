@@ -16,7 +16,7 @@
   "shortName": "wndr",
   "chainId": 96371,
   "networkId": 96371,
-  "icon": "./chain/96371/logo",
+  "icon": "./chain/96371/logo.png",
   "explorers": [
     {
       "name": "wonderexplorer",

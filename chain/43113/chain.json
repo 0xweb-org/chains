@@ -1,7 +1,7 @@
 {
   "name": "Avalanche Fuji Testnet",
   "chain": "AVAX",
-  "icon": "./chain/43113/logo",
+  "icon": "./chain/43113/logo.png",
   "rpc": [
     "https://api.avax-test.network/ext/bc/C/rpc",
     "https://avalanche-fuji-c-chain-rpc.publicnode.com",

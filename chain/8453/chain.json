@@ -19,7 +19,7 @@
   "shortName": "base",
   "chainId": 8453,
   "networkId": 8453,
-  "icon": "./chain/8453/logo",
+  "icon": "./chain/8453/logo.png",
   "explorers": [
     {
       "name": "basescan",

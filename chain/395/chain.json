@@ -21,7 +21,7 @@
   "shortName": "camdl-testnet",
   "chainId": 395,
   "networkId": 395,
-  "icon": "./chain/395/logo",
+  "icon": "./chain/395/logo.png",
   "explorers": [
     {
       "name": "CamDL Testnet Explorer",

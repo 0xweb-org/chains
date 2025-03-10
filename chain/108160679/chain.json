@@ -22,5 +22,6 @@
   "infoURL": "https://orai.io",
   "shortName": "Oraichain",
   "chainId": 108160679,
-  "networkId": 108160679
+  "networkId": 108160679,
+  "icon": null
 }

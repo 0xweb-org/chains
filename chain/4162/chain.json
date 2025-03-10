@@ -1,7 +1,7 @@
 {
   "name": "SX Rollup",
   "chain": "SX",
-  "icon": "./chain/4162/logo",
+  "icon": "./chain/4162/logo.png",
   "rpc": [
     "https://rpc.sx-rollup.gelato.digital"
   ],

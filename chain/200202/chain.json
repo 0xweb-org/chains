@@ -1,7 +1,7 @@
 {
   "name": "Milkomeda A1 Testnet",
   "chain": "milkTAlgo",
-  "icon": "./chain/200202/logo",
+  "icon": "./chain/200202/logo.png",
   "rpc": [
     "https://rpc-devnet-algorand-rollup.a1.milkomeda.com"
   ],

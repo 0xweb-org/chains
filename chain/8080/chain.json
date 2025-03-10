@@ -1,7 +1,7 @@
 {
   "name": "Shardeum Liberty 1.X",
   "chain": "Shardeum",
-  "icon": "./chain/8080/logo",
+  "icon": "./chain/8080/logo.png",
   "rpc": [
     "https://liberty10.shardeum.org/"
   ],

@@ -17,7 +17,7 @@
   "chainId": 923018,
   "networkId": 923018,
   "slip44": 1,
-  "icon": "./chain/923018/logo",
+  "icon": "./chain/923018/logo.png",
   "explorers": [
     {
       "name": "fncy scan testnet",

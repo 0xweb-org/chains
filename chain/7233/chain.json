@@ -14,7 +14,7 @@
   "shortName": "INI",
   "chainId": 7233,
   "networkId": 7233,
-  "icon": "./chain/7233/logo",
+  "icon": "./chain/7233/logo.png",
   "explorers": [
     {
       "name": "initverse",

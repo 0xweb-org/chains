@@ -14,7 +14,7 @@
   "shortName": "automataorbittestnet",
   "chainId": 1398244,
   "networkId": 1398244,
-  "icon": "./chain/1398244/logo",
+  "icon": "./chain/1398244/logo.png",
   "explorers": [
     {
       "name": "Automata Orbit Testnet Explorer",

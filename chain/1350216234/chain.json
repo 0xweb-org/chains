@@ -1,7 +1,7 @@
 {
   "name": "SKALE Titan Hub",
   "chain": "parallel-stormy-spica",
-  "icon": "./chain/1350216234/logo",
+  "icon": "./chain/1350216234/logo.png",
   "rpc": [
     "https://mainnet.skalenodes.com/v1/parallel-stormy-spica",
     "wss://mainnet.skalenodes.com/v1/ws/parallel-stormy-spica"

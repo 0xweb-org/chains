@@ -1,6 +1,7 @@
 {
   "name": "Deprecated CHI",
   "chain": "CHI1",
+  "icon": "./chain/100100/logo.png",
   "rpc": [],
   "faucets": [],
   "nativeCurrency": {

@@ -1,7 +1,7 @@
 {
   "name": "Dogechain Mainnet",
   "chain": "DC",
-  "icon": "./chain/2000/logo",
+  "icon": "./chain/2000/logo.png",
   "rpc": [
     "https://rpc.dogechain.dog",
     "https://rpc01-sg.dogechain.dog",

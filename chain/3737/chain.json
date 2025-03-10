@@ -16,7 +16,7 @@
   "shortName": "csb",
   "chainId": 3737,
   "networkId": 3737,
-  "icon": "./chain/3737/logo",
+  "icon": "./chain/3737/logo.png",
   "explorers": [
     {
       "name": "Crossbell Explorer",

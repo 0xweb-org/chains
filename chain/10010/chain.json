@@ -14,6 +14,7 @@
     "decimals": 18
   },
   "infoURL": "https://wardenprotocol.org",
+  "icon": "./chain/10010/logo.png",
   "shortName": "ward",
   "chainId": 10010,
   "networkId": 10010

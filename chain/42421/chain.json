@@ -16,7 +16,7 @@
   "shortName": "rwa",
   "chainId": 42421,
   "networkId": 42421,
-  "icon": "./chain/42421/logo",
+  "icon": "./chain/42421/logo.png",
   "explorers": [
     {
       "name": "Asset Chain Testnet Explorer",

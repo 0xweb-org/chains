@@ -1,7 +1,7 @@
 {
   "name": "Elux Chain",
   "chain": "ELUX",
-  "icon": "./chain/2907/logo",
+  "icon": "./chain/2907/logo.png",
   "rpc": [
     "https://rpc.eluxscan.com"
   ],

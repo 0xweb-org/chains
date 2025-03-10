@@ -16,7 +16,7 @@
   "shortName": "curtis",
   "chainId": 33111,
   "networkId": 33111,
-  "icon": "./chain/33111/logo",
+  "icon": "./chain/33111/logo.png",
   "explorers": [
     {
       "name": "Curtis Explorer",

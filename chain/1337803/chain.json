@@ -17,7 +17,7 @@
   "shortName": "zhejiang",
   "chainId": 1337803,
   "networkId": 1337803,
-  "icon": "./chain/1337803/logo",
+  "icon": "./chain/1337803/logo.png",
   "explorers": [
     {
       "name": "Zhejiang Explorer",

@@ -1,7 +1,7 @@
 {
   "name": "B3 Sepolia Testnet",
   "chain": "B3 Sepolia Testnet",
-  "icon": "./chain/1993/logo",
+  "icon": "./chain/1993/logo.png",
   "rpc": [
     "https://sepolia.b3.fun"
   ],

@@ -16,7 +16,7 @@
   "shortName": "assetchain",
   "chainId": 42420,
   "networkId": 42420,
-  "icon": "./chain/42420/logo",
+  "icon": "./chain/42420/logo.png",
   "explorers": [
     {
       "name": "Asset Chain Explorer",

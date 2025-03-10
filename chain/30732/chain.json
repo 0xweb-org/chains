@@ -14,7 +14,7 @@
   "shortName": "movetest",
   "chainId": 30732,
   "networkId": 30732,
-  "icon": "./chain/30732/logo",
+  "icon": "./chain/30732/logo.png",
   "explorers": [
     {
       "name": "mevm explorer",

@@ -1,7 +1,7 @@
 {
   "name": "Carbon EVM Testnet",
   "chain": "Carbon",
-  "icon": "./chain/9792/logo",
+  "icon": "./chain/9792/logo.png",
   "rpc": [
     "https://test-evm-api.carbon.network/"
   ],

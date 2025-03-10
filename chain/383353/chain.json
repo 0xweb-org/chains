@@ -15,5 +15,5 @@
   "shortName": "CheeseChain",
   "chainId": 383353,
   "networkId": 383353,
-  "icon": "./chain/383353/logo"
+  "icon": "./chain/383353/logo.png"
 }

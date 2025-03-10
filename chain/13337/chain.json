@@ -23,7 +23,7 @@
   },
   "infoURL": "https://www.onbeam.com",
   "shortName": "beam-testnet",
-  "icon": "./chain/13337/logo",
+  "icon": "./chain/13337/logo.png",
   "chainId": 13337,
   "networkId": 13337,
   "slip44": 1,

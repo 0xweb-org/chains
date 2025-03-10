@@ -12,7 +12,7 @@
   "shortName": "hemi",
   "chainId": 43111,
   "networkId": 43111,
-  "icon": "./chain/43111/logo",
+  "icon": "./chain/43111/logo.png",
   "explorers": [],
   "parent": {
     "type": "L2",

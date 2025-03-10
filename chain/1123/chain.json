@@ -17,7 +17,7 @@
   "shortName": "B2-testnet",
   "chainId": 1123,
   "networkId": 1123,
-  "icon": "./chain/1123/logo",
+  "icon": "./chain/1123/logo.png",
   "explorers": [
     {
       "name": "blockscout",

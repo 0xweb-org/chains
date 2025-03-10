@@ -1,7 +1,7 @@
 {
   "name": "EVOLVE Testnet",
   "chain": "EVO",
-  "icon": "./chain/14324/logo",
+  "icon": "./chain/14324/logo.png",
   "rpc": [
     "https://testnet-rpc.evolveblockchain.io"
   ],

@@ -18,7 +18,7 @@
   "chainId": 689,
   "networkId": 689,
   "slip44": 1,
-  "icon": "./chain/689/logo",
+  "icon": "./chain/689/logo.png",
   "explorers": [
     {
       "name": "nero testnet scan",

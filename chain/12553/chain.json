@@ -14,7 +14,7 @@
   "shortName": "rss3",
   "chainId": 12553,
   "networkId": 12553,
-  "icon": "./chain/12553/logo",
+  "icon": "./chain/12553/logo.png",
   "explorers": [
     {
       "name": "RSS3 VSL Scan",

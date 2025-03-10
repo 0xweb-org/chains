@@ -14,5 +14,6 @@
   "shortName": "UPBEth",
   "chainId": 1918,
   "networkId": 1918,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

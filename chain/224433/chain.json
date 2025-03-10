@@ -20,7 +20,7 @@
   "chainId": 224433,
   "networkId": 224433,
   "slip44": 2147708081,
-  "icon": "./chain/224433/logo",
+  "icon": "./chain/224433/logo.png",
   "explorers": [
     {
       "name": "CONET Cancun Scan",

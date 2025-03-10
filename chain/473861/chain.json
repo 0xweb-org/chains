@@ -1,7 +1,7 @@
 {
   "name": "Ultra Pro Mainnet",
   "chain": "ultrapro",
-  "icon": "./chain/473861/logo",
+  "icon": "./chain/473861/logo.png",
   "rpc": [
     "https://mainnet-rpc.ultraproscan.io"
   ],

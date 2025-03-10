@@ -14,5 +14,6 @@
   "shortName": "eva",
   "chainId": 160,
   "networkId": 160,
-  "status": "incubating"
+  "status": "incubating",
+  "icon": null
 }

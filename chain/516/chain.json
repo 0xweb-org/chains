@@ -15,5 +15,6 @@
   "chainId": 516,
   "networkId": 516,
   "slip44": 516,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

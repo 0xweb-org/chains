@@ -2,7 +2,7 @@
   "name": "Bahamut horizon",
   "title": "Bahamut horizon",
   "chain": "Bahamut",
-  "icon": null,
+  "icon": "./chain/2552/logo.png",
   "rpc": [
     "https://horizon-fastex-testnet.zeeve.net"
   ],

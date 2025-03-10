@@ -16,7 +16,7 @@
   "shortName": "iotaevm",
   "chainId": 8822,
   "networkId": 8822,
-  "icon": "./chain/8822/logo",
+  "icon": "./chain/8822/logo.png",
   "explorers": [
     {
       "name": "explorer",

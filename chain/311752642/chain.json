@@ -1,7 +1,7 @@
 {
   "name": "OneLedger Mainnet",
   "chain": "OLT",
-  "icon": "./chain/311752642/logo",
+  "icon": "./chain/311752642/logo.png",
   "rpc": [
     "https://mainnet-rpc.oneledger.network"
   ],

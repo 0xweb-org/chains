@@ -13,5 +13,6 @@
   "infoURL": "https://www.newtonproject.org/",
   "shortName": "new",
   "chainId": 1012,
-  "networkId": 1012
+  "networkId": 1012,
+  "icon": null
 }

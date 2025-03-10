@@ -14,7 +14,7 @@
   "shortName": "aie",
   "chainId": 413413,
   "networkId": 413413,
-  "icon": "./chain/413413/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "aiescan-testnet",

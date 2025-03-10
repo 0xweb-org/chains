@@ -1,7 +1,7 @@
 {
   "name": "Planq Atlas Testnet",
   "chain": "Planq",
-  "icon": "./chain/7077/logo",
+  "icon": "./chain/7077/logo.png",
   "rpc": [
     "https://evm-rpc-atlas.planq.network"
   ],

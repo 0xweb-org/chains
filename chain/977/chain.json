@@ -16,5 +16,6 @@
   "infoURL": "https://nepalblockchain.network",
   "shortName": "yeti",
   "chainId": 977,
-  "networkId": 977
+  "networkId": 977,
+  "icon": null
 }

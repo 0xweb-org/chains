@@ -1,7 +1,7 @@
 {
   "name": "Songbird Testnet Coston",
   "chain": "SGB",
-  "icon": "./chain/16/logo",
+  "icon": "./chain/16/logo.png",
   "rpc": [
     "https://coston-api.flare.network/ext/C/rpc",
     "https://songbird-testnet-coston.rpc.thirdweb.com",

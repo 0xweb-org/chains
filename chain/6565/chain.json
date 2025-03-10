@@ -19,7 +19,7 @@
   "chainId": 6565,
   "networkId": 6565,
   "slip44": 1,
-  "icon": "./chain/6565/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "FOX Testnet Explorer",

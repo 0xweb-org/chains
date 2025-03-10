@@ -23,7 +23,7 @@
   "shortName": "paynetwork",
   "chainId": 3969,
   "networkId": 3969,
-  "icon": "./chain/3969/logo",
+  "icon": "./chain/3969/logo.png",
   "explorers": [
     {
       "name": "PayNetwork Mainnet Caldera Explorer",

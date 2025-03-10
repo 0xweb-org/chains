@@ -2,7 +2,7 @@
   "name": "Taiko Jolnir L2",
   "chain": "ETH",
   "status": "deprecated",
-  "icon": "./chain/167007/logo",
+  "icon": "./chain/167007/logo.png",
   "rpc": [
     "https://rpc.jolnir.taiko.xyz"
   ],

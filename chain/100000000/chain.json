@@ -24,6 +24,7 @@
   "shortName": "ETHOS",
   "chainId": 100000000,
   "networkId": 100000000,
+  "icon": "./chain/100000000/logo.png",
   "explorers": [
     {
       "name": "ethos scan",

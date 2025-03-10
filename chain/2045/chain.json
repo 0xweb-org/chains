@@ -13,6 +13,6 @@
   "shortName": "AIW3",
   "chainId": 2045,
   "networkId": 2045,
-  "icon": null,
+  "icon": "./chain/2045/logo.png",
   "explorers": []
 }

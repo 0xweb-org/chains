@@ -1,7 +1,7 @@
 {
   "name": "Aleph Zero EVM",
   "chain": "Aleph Zero EVM",
-  "icon": "./chain/41455/logo",
+  "icon": "./chain/41455/logo.png",
   "rpc": [
     "https://rpc.alephzero.raas.gelato.cloud",
     "wss://ws.alephzero.raas.gelato.cloud"

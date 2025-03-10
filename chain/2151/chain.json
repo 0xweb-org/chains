@@ -15,7 +15,7 @@
   "shortName": "boa",
   "chainId": 2151,
   "networkId": 2151,
-  "icon": "./chain/2151/logo",
+  "icon": "./chain/2151/logo.png",
   "explorers": [
     {
       "name": "BOASCAN",

@@ -18,7 +18,7 @@
   "chainId": 201030,
   "networkId": 1,
   "slip44": 1,
-  "icon": "./chain/201030/logo",
+  "icon": "./chain/201030/logo.png",
   "explorers": [
     {
       "name": "alaya explorer",

@@ -16,7 +16,7 @@
   "shortName": "mite",
   "chainId": 426,
   "networkId": 426,
-  "icon": "./chain/426/logo",
+  "icon": "./chain/426/logo.png",
   "explorers": [
     {
       "name": "The Widows Mite Explorer",

@@ -14,6 +14,6 @@
   "chainId": 1130,
   "networkId": 1130,
   "slip44": 1130,
-  "icon": null,
+  "icon": "./chain/1130/logo.png",
   "explorers": []
 }

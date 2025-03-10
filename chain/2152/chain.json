@@ -20,5 +20,6 @@
       "url": "https://evm.findorascan.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": "./chain/2152/logo.png"
 }

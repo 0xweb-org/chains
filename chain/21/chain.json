@@ -22,5 +22,6 @@
       "url": "https://esc-testnet.elastos.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

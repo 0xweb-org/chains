@@ -1,7 +1,7 @@
 {
   "name": "Dogechain Testnet",
   "chain": "DC",
-  "icon": "./chain/568/logo",
+  "icon": "./chain/568/logo.png",
   "rpc": [
     "https://rpc-testnet.dogechain.dog"
   ],

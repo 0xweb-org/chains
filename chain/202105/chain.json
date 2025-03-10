@@ -2,7 +2,7 @@
   "name": "DuckChain Testnet",
   "title": "DuckChain Testnet",
   "chain": "DuckChain",
-  "icon": "./chain/202105/logo",
+  "icon": "./chain/202105/logo.png",
   "rpc": [
     "https://testnet-rpc.duckchain.io",
     "https://testnet-rpc-hk.duckchain.io"

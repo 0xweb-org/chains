@@ -11,7 +11,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "icon": "./chain/9897/logo",
+  "icon": "./chain/9897/logo.png",
   "infoURL": "https://raas.gelato.network/rollups/details/public/arena-z-testnet",
   "faucets": [],
   "shortName": "arena-z-testnet",

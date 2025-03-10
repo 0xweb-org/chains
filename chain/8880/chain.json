@@ -1,6 +1,6 @@
 {
   "name": "Unique",
-  "icon": "./chain/8880/logo",
+  "icon": "./chain/8880/logo.png",
   "chain": "UNQ",
   "rpc": [
     "https://rpc.unique.network",

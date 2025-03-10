@@ -1,7 +1,7 @@
 {
   "name": "Ultron Mainnet",
   "chain": "Ultron",
-  "icon": "./chain/1231/logo",
+  "icon": "./chain/1231/logo.png",
   "rpc": [
     "https://ultron-rpc.net"
   ],

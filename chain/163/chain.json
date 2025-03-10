@@ -13,5 +13,6 @@
   "infoURL": "https://explorer.lightstreams.io",
   "shortName": "pht",
   "chainId": 163,
-  "networkId": 163
+  "networkId": 163,
+  "icon": null
 }

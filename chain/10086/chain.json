@@ -13,5 +13,6 @@
   "infoURL": "https://sjis.me",
   "shortName": "SJ",
   "chainId": 10086,
-  "networkId": 10086
+  "networkId": 10086,
+  "icon": null
 }

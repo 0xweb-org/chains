@@ -24,7 +24,7 @@
   "shortName": "manta",
   "chainId": 169,
   "networkId": 169,
-  "icon": "./chain/169/logo",
+  "icon": "./chain/169/logo.png",
   "explorers": [
     {
       "name": "manta-pacific Explorer",

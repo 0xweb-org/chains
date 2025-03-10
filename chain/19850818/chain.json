@@ -13,7 +13,7 @@
   "infoURL": "https://www.deepbrainchain.org",
   "shortName": "tDBC",
   "chainId": 19850818,
-  "icon": "./chain/19850818/logo",
+  "icon": "./chain/19850818/logo.png",
   "networkId": 19850818,
   "slip44": 1,
   "explorers": [

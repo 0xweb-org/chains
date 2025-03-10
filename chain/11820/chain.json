@@ -14,7 +14,7 @@
   "shortName": "artela-mainnet",
   "chainId": 11820,
   "networkId": 11820,
-  "icon": null,
+  "icon": "./chain/11820/logo.png",
   "explorers": [
     {
       "name": "ArtelaScan",

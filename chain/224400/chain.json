@@ -20,7 +20,7 @@
   "chainId": 224400,
   "networkId": 224400,
   "slip44": 2147708048,
-  "icon": "./chain/224400/logo",
+  "icon": "./chain/224400/logo.png",
   "explorers": [
     {
       "name": "CONET Mainnet Explorer",

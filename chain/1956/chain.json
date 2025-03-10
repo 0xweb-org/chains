@@ -14,7 +14,7 @@
   "shortName": "AIW3-Testnet",
   "chainId": 1956,
   "networkId": 1956,
-  "icon": null,
+  "icon": "./chain/1956/logo.png",
   "explorers": [
     {
       "name": "aiw3 testnet scan",

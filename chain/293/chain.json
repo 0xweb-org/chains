@@ -22,7 +22,7 @@
   "shortName": "davinci",
   "chainId": 293,
   "networkId": 293,
-  "icon": "./chain/293/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "davinciscan",

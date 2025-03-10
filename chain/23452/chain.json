@@ -14,7 +14,7 @@
   "shortName": "dreyerx-testnet",
   "chainId": 23452,
   "networkId": 23452,
-  "icon": "./chain/23452/logo",
+  "icon": "./chain/23452/logo.png",
   "explorers": [
     {
       "name": "drxscan",

@@ -20,7 +20,7 @@
   "chainId": 1995,
   "networkId": 1995,
   "slip44": 1,
-  "icon": "./chain/1995/logo",
+  "icon": "./chain/1995/logo.png",
   "explorers": [
     {
       "name": "edexa-testnet-explorer",

@@ -2,7 +2,7 @@
   "name": "KLAOS Nova",
   "title": "KLAOS Nova Test Chain",
   "chain": "KLAOS Nova",
-  "icon": "./chain/27181/logo",
+  "icon": "./chain/27181/logo.png",
   "rpc": [
     "https://rpc.klaosnova.laosfoundation.io",
     "wss://rpc.klaosnova.laosfoundation.io"

@@ -21,7 +21,7 @@
   "shortName": "stavanger",
   "chainId": 50591822,
   "networkId": 50591822,
-  "icon": "./chain/50591822/logo",
+  "icon": "./chain/50591822/logo.png",
   "explorers": [
     {
       "name": "BlockScout",

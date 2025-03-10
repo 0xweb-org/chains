@@ -13,7 +13,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "icon": "./chain/111557560/logo",
+  "icon": "./chain/111557560/logo.png",
   "infoURL": "https://cyber.co/",
   "shortName": "cysep",
   "chainId": 111557560,

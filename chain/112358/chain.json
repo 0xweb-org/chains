@@ -1,7 +1,7 @@
 {
   "name": "Metachain One Mainnet",
   "chain": "METAO",
-  "icon": "./chain/112358/logo",
+  "icon": "./chain/112358/logo.png",
   "rpc": [
     "https://rpc.metachain.one",
     "https://rpc2.metachain.one"

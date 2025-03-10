@@ -13,5 +13,6 @@
   "faucets": [],
   "chainId": 484752,
   "networkId": 484752,
-  "slip44": 1
+  "slip44": 1,
+  "icon": null
 }

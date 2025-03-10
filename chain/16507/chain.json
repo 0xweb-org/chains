@@ -1,7 +1,7 @@
 {
   "name": "Genesys Mainnet",
   "chain": "Genesys",
-  "icon": "./chain/16507/logo",
+  "icon": "./chain/16507/logo.png",
   "rpc": [
     "https://rpc.genesys.network"
   ],

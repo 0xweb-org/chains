@@ -1,7 +1,7 @@
 {
   "name": "Ultra EVM Network Testnet",
   "chain": "Ultra",
-  "icon": null,
+  "icon": "./chain/18881/logo.png",
   "rpc": [
     "https://evm.test.ultra.eosusa.io"
   ],

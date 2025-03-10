@@ -22,7 +22,7 @@
   "shortName": "lrz",
   "chainId": 8329,
   "networkId": 8329,
-  "icon": "./chain/8329/logo",
+  "icon": "./chain/8329/logo.png",
   "explorers": [
     {
       "name": "Lorenzo Explorer",

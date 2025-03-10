@@ -14,7 +14,7 @@
   "shortName": "expchain",
   "chainId": 18880,
   "networkId": 18880,
-  "icon": "./chain/18880/logo",
+  "icon": "./chain/18880/logo.png",
   "explorers": [
     {
       "name": "EXPchain Testnet Explorer",

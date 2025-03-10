@@ -1,7 +1,7 @@
 {
   "name": "Xphere Testnet",
   "chain": "Xphere Testnet",
-  "icon": "./chain/1998991/logo",
+  "icon": "./chain/1998991/logo.png",
   "rpc": [
     "http://testnet.x-phere.com"
   ],

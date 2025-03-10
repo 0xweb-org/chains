@@ -15,7 +15,7 @@
   "shortName": "emoney",
   "chainId": 4545,
   "networkId": 4545,
-  "icon": "./chain/4545/logo",
+  "icon": "./chain/4545/logo.png",
   "explorers": [
     {
       "name": "EMoney Explorer",

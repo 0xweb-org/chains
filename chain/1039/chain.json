@@ -12,6 +12,7 @@
   "shortName": "bronos-mainnet",
   "chainId": 1039,
   "networkId": 1039,
+  "icon": "./chain/1039/logo.png",
   "explorers": [
     {
       "name": "Bronos Explorer",

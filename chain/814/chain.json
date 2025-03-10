@@ -16,7 +16,7 @@
   "shortName": "firechan-zkEVM",
   "chainId": 814,
   "networkId": 814,
-  "icon": "./chain/814/logo",
+  "icon": "./chain/814/logo.png",
   "explorers": [],
   "parent": {
     "type": "L2",

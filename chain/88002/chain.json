@@ -1,7 +1,7 @@
 {
   "name": "Nautilus Proteus Testnet",
   "chain": "ETH",
-  "icon": "./chain/88002/logo",
+  "icon": "./chain/88002/logo.png",
   "rpc": [
     "https://api.proteus.nautchain.xyz/solana"
   ],

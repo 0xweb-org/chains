@@ -14,7 +14,7 @@
   "shortName": "MOS",
   "chainId": 1188,
   "networkId": 1188,
-  "icon": "./chain/1188/logo",
+  "icon": "./chain/1188/logo.png",
   "explorers": [
     {
       "name": "mosscan",

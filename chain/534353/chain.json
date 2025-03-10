@@ -27,5 +27,6 @@
     "type": "L2",
     "chain": "eip155-5",
     "bridges": []
-  }
+  },
+  "icon": null
 }

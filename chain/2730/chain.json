@@ -22,7 +22,7 @@
   "shortName": "txr",
   "chainId": 2730,
   "networkId": 2730,
-  "icon": "./chain/2730/logo",
+  "icon": "./chain/2730/logo.png",
   "slip44": 60,
   "explorers": [
     {

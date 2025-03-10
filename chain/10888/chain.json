@@ -32,5 +32,6 @@
         "url": "https://testnet-bridge-gelato.gameswift.io/bridge/gameswift-chain-testnet"
       }
     ]
-  }
+  },
+  "icon": null
 }

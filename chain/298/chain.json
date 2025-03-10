@@ -1,7 +1,7 @@
 {
   "name": "Hedera Localnet",
   "chain": "Hedera",
-  "icon": "./chain/298/logo",
+  "icon": "./chain/298/logo.png",
   "rpc": [],
   "features": [
     {

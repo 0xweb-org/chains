@@ -17,7 +17,7 @@
   "shortName": "dee",
   "chainId": 45510,
   "networkId": 45510,
-  "icon": "./chain/45510/logo",
+  "icon": "./chain/45510/logo.png",
   "explorers": [
     {
       "name": "Deelance Mainnet Explorer",

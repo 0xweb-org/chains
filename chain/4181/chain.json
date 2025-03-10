@@ -15,7 +15,7 @@
   "shortName": "PHIv1",
   "chainId": 4181,
   "networkId": 4181,
-  "icon": "./chain/4181/logo",
+  "icon": "./chain/4181/logo.png",
   "explorers": [
     {
       "name": "PHI Explorer",

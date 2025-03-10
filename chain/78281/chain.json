@@ -1,7 +1,7 @@
 {
   "name": "Dragonfly Mainnet (Hexapod)",
   "chain": "Dragonfly",
-  "icon": "./chain/78281/logo",
+  "icon": "./chain/78281/logo.png",
   "rpc": [
     "https://dragonfly-rpc.switch.ch",
     "https://dragonfly-rpc.kore-technologies.ch",

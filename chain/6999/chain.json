@@ -15,5 +15,6 @@
   "infoURL": "https://www.polysmartchain.com/",
   "shortName": "psc",
   "chainId": 6999,
-  "networkId": 6999
+  "networkId": 6999,
+  "icon": null
 }

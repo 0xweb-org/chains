@@ -15,7 +15,7 @@
   "chainId": 1789,
   "networkId": 1789,
   "slip44": 1,
-  "icon": "./chain/1789/logo",
+  "icon": "./chain/1789/logo.png",
   "explorers": [
     {
       "name": "ZKbase Block Explorer",

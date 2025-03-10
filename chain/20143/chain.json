@@ -1,7 +1,7 @@
 {
   "name": "Monad Devnet",
   "chain": "MON",
-  "icon": "./chain/20143/logo",
+  "icon": "./chain/20143/logo.png",
   "rpc": [],
   "features": [
     {

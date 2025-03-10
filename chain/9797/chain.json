@@ -1,7 +1,7 @@
 {
   "name": "OptimusZ7 Mainnet",
   "chain": "OptimusZ7",
-  "icon": "./chain/9797/logo",
+  "icon": "./chain/9797/logo.png",
   "rpc": [
     "https://rpc.optimusz7.com"
   ],

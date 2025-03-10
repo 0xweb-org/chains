@@ -24,5 +24,6 @@
       "icon": "human",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

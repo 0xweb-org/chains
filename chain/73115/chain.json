@@ -1,7 +1,7 @@
 {
   "name": "ICB Network",
   "chain": "ICB",
-  "icon": "./chain/73115/logo",
+  "icon": null,
   "rpc": [
     "https://rpc1-mainnet.icbnetwork.info/",
     "https://rpc2-mainnet.icbnetwork.info/"

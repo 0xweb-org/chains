@@ -1,7 +1,7 @@
 {
   "name": "Oasis Sapphire",
   "chain": "Sapphire",
-  "icon": "./chain/23294/logo",
+  "icon": "./chain/23294/logo.png",
   "rpc": [
     "https://sapphire.oasis.io",
     "wss://sapphire.oasis.io/ws"

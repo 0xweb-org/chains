@@ -1,7 +1,7 @@
 {
   "name": "Bitkub Chain",
   "chain": "BKC",
-  "icon": null,
+  "icon": "./chain/96/logo.png",
   "rpc": [
     "https://rpc.bitkubchain.io",
     "wss://wss.bitkubchain.io"

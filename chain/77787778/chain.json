@@ -1,7 +1,7 @@
 {
   "name": "0xHash Testnet",
   "chain": "HETH",
-  "icon": "./chain/77787778/logo",
+  "icon": "./chain/77787778/logo.png",
   "rpc": [
     "https://rpc-test.0xhash.io"
   ],

@@ -30,5 +30,6 @@
       "url": "https://explorer.eluv.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

@@ -14,7 +14,7 @@
   "shortName": "Camino",
   "chainId": 500,
   "networkId": 1000,
-  "icon": "./chain/500/logo",
+  "icon": "./chain/500/logo.png",
   "explorers": [
     {
       "name": "blockexplorer",

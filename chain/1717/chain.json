@@ -1,7 +1,7 @@
 {
   "name": "Doric Network",
   "chain": "DRC",
-  "icon": "./chain/1717/logo",
+  "icon": "./chain/1717/logo.png",
   "rpc": [
     "https://mainnet.doric.network"
   ],

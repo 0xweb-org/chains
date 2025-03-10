@@ -15,7 +15,7 @@
   "shortName": "SEL",
   "chainId": 1961,
   "networkId": 1961,
-  "icon": "./chain/1961/logo",
+  "icon": "./chain/1961/logo.png",
   "explorers": [
     {
       "name": "Selendra Portal",

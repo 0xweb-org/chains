@@ -1,7 +1,7 @@
 {
   "name": "Botanix Testnet",
   "chain": "BOTANIX",
-  "icon": "./chain/3636/logo",
+  "icon": "./chain/3636/logo.png",
   "rpc": [
     "https://node.botanixlabs.dev"
   ],

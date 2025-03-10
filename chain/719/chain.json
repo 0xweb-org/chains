@@ -1,7 +1,7 @@
 {
   "name": "Shibarium Beta",
   "chain": "Shibarium",
-  "icon": "./chain/719/logo",
+  "icon": "./chain/719/logo.png",
   "rpc": [
     "https://puppynet.shibrpc.com"
   ],

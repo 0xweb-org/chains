@@ -18,7 +18,7 @@
   "chainId": 120,
   "networkId": 120,
   "slip44": 1,
-  "icon": "./chain/120/logo",
+  "icon": "./chain/120/logo.png",
   "explorers": [
     {
       "name": "enulsscan",

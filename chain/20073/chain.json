@@ -1,7 +1,7 @@
 {
   "name": "Niza Chain Testnet",
   "chain": "NIZA",
-  "icon": "./chain/20073/logo",
+  "icon": "./chain/20073/logo.png",
   "rpc": [
     "https://testnet.nizascan.io/rpc"
   ],

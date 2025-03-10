@@ -13,5 +13,6 @@
   "infoURL": "https://primusmoney.com",
   "shortName": "primuschain",
   "chainId": 78,
-  "networkId": 78
+  "networkId": 78,
+  "icon": null
 }

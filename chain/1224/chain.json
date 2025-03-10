@@ -1,7 +1,7 @@
 {
   "name": "Hybrid Testnet (Deprecated)",
   "chain": "HYB",
-  "icon": "./chain/1224/logo",
+  "icon": "./chain/1224/logo.png",
   "rpc": [
     "https://testnet-rpc.buildonhybrid.com"
   ],

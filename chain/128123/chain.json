@@ -1,7 +1,7 @@
 {
   "name": "Etherlink Testnet",
   "chain": "Etherlink",
-  "icon": "./chain/128123/logo",
+  "icon": "./chain/128123/logo.png",
   "chainId": 128123,
   "networkId": 128123,
   "features": [

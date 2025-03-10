@@ -31,5 +31,6 @@
       "url": "https://sepolia.abscan.org",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

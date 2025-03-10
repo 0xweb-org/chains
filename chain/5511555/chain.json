@@ -14,7 +14,7 @@
   "shortName": "PPTEST",
   "chainId": 5511555,
   "networkId": 5511555,
-  "icon": "./chain/5511555/logo",
+  "icon": "./chain/5511555/logo.png",
   "explorers": [
     {
       "name": "PointPay Testnet Explorer",

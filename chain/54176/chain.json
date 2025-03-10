@@ -1,7 +1,7 @@
 {
   "name": "OverProtocol Mainnet",
   "chain": "OverProtocol",
-  "icon": "./chain/54176/logo",
+  "icon": "./chain/54176/logo.png",
   "rpc": [
     "https://rpc.overprotocol.com",
     "https://rpc2.overprotocol.com"

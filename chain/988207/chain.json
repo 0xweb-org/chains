@@ -12,7 +12,7 @@
   },
   "infoURL": "https://ecroxcoin.io/",
   "shortName": "ecrox",
-  "icon": "./chain/988207/logo",
+  "icon": null,
   "chainId": 988207,
   "networkId": 988207,
   "explorers": [

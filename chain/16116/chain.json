@@ -1,7 +1,7 @@
 {
   "name": "DeFiVerse Mainnet",
   "chain": "DeFiVerse",
-  "icon": "./chain/16116/logo",
+  "icon": "./chain/16116/logo.png",
   "rpc": [
     "https://rpc.defi-verse.org/"
   ],

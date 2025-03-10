@@ -1,7 +1,7 @@
 {
   "name": "Avalanche C-Chain",
   "chain": "AVAX",
-  "icon": "./chain/43114/logo",
+  "icon": "./chain/43114/logo.png",
   "rpc": [
     "https://api.avax.network/ext/bc/C/rpc",
     "https://avalanche-c-chain-rpc.publicnode.com",

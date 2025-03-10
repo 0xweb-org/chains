@@ -23,7 +23,7 @@
   "chainId": 156,
   "networkId": 156,
   "slip44": 1,
-  "icon": "./chain/156/logo",
+  "icon": "./chain/156/logo.png",
   "explorers": [
     {
       "name": "OEScan explorer",

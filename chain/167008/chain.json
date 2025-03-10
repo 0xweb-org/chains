@@ -2,7 +2,7 @@
   "name": "Taiko Katla L2",
   "chain": "ETH",
   "status": "deprecated",
-  "icon": "./chain/167008/logo",
+  "icon": "./chain/167008/logo.png",
   "rpc": [],
   "faucets": [],
   "nativeCurrency": {

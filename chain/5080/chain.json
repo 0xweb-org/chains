@@ -1,7 +1,7 @@
 {
   "name": "Pioneer Zero Chain",
   "chain": "PZO",
-  "icon": "./chain/5080/logo",
+  "icon": "./chain/5080/logo.png",
   "rpc": [
     "https://rpc.zeroscan.org"
   ],

@@ -20,5 +20,6 @@
       "url": "https://happy-testnet-sepolia.explorer.caldera.xyz",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

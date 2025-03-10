@@ -1,7 +1,7 @@
 {
   "name": "XferChain Mainnet",
   "chain": "XferChain Mainnet",
-  "icon": "./chain/28125/logo",
+  "icon": "./chain/28125/logo.png",
   "rpc": [
     "https://rpc.xferchain.org"
   ],

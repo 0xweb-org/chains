@@ -1,7 +1,7 @@
 {
   "name": "Kakarot Starknet Sepolia",
   "chain": "ETH",
-  "icon": "./chain/920637907288165/logo",
+  "icon": "./chain/920637907288165/logo.png",
   "rpc": [
     "https://sepolia-rpc.kakarot.org"
   ],

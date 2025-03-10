@@ -14,7 +14,7 @@
   "shortName": "KEK",
   "chainId": 420420,
   "networkId": 103090,
-  "icon": "./chain/420420/logo",
+  "icon": "./chain/420420/logo.png",
   "explorers": [
     {
       "name": "blockscout",

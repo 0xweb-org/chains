@@ -1,7 +1,7 @@
 {
   "name": "HOME Verse Mainnet",
   "chain": "HOME Verse",
-  "icon": "./chain/19011/logo",
+  "icon": "./chain/19011/logo.png",
   "rpc": [
     "https://rpc.mainnet.oasys.homeverse.games/"
   ],

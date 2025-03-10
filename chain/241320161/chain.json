@@ -12,5 +12,6 @@
   "shortName": "xmtp-sepolia",
   "chainId": 241320161,
   "networkId": 241320161,
-  "status": "incubating"
+  "status": "incubating",
+  "icon": null
 }

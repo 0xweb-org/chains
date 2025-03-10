@@ -2,7 +2,7 @@
   "name": "Horizen EON Mainnet",
   "shortName": "EON",
   "chain": "EON",
-  "icon": "./chain/7332/logo",
+  "icon": "./chain/7332/logo.png",
   "rpc": [
     "https://eon-rpc.horizenlabs.io/ethv1",
     "https://rpc.ankr.com/horizen_eon"

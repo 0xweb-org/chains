@@ -11,7 +11,7 @@
     "symbol": "GHO",
     "decimals": 18
   },
-  "icon": "./chain/232/logo",
+  "icon": "./chain/232/logo.png",
   "infoURL": "https://lens.xyz",
   "shortName": "lens",
   "parent": {

@@ -15,7 +15,7 @@
   "shortName": "ailayer-mainnet",
   "chainId": 2649,
   "networkId": 2649,
-  "icon": null,
+  "icon": "./chain/2649/logo.png",
   "explorers": [
     {
       "name": "blockscout",

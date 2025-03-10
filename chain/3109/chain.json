@@ -14,5 +14,5 @@
   "shortName": "SAVM",
   "chainId": 3109,
   "networkId": 3109,
-  "icon": "./chain/3109/logo"
+  "icon": "./chain/3109/logo.png"
 }

@@ -2,6 +2,7 @@
   "name": "ShimmerEVM Testnet Deprecated",
   "title": "ShimmerEVM Testnet Deprecated",
   "chain": "ShimmerEVM",
+  "icon": "./chain/1071/logo.png",
   "rpc": [],
   "faucets": [
     "https://evm-toolkit.evm.testnet.shimmer.network",

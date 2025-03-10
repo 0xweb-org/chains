@@ -14,7 +14,7 @@
   "shortName": "ARMA",
   "chainId": 2889,
   "networkId": 2889,
-  "icon": "./chain/2889/logo",
+  "icon": "./chain/2889/logo.png",
   "explorers": [
     {
       "name": "aarmascan",

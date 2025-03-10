@@ -24,7 +24,7 @@
   "shortName": "tcyba",
   "chainId": 6666,
   "networkId": 6666,
-  "icon": "./chain/6666/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "Cybria Explorer",

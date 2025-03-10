@@ -19,7 +19,7 @@
   "shortName": "rptr",
   "chainId": 1380996178,
   "networkId": 1380996178,
-  "icon": "./chain/1380996178/logo",
+  "icon": "./chain/1380996178/logo.png",
   "explorers": [
     {
       "name": "RaptorChain Explorer",

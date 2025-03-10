@@ -19,5 +19,6 @@
   "infoURL": "https://xfair.ai",
   "shortName": "fai",
   "chainId": 278,
-  "networkId": 278
+  "networkId": 278,
+  "icon": null
 }

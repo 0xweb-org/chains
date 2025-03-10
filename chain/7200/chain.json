@@ -1,7 +1,7 @@
 {
   "name": "exSat Mainnet",
   "chain": "exSat",
-  "icon": "./chain/7200/logo",
+  "icon": "./chain/7200/logo.png",
   "rpc": [
     "https://evm.exsat.network"
   ],

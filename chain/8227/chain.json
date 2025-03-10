@@ -25,5 +25,6 @@
       "url": "https://subnets.avax.network/space",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

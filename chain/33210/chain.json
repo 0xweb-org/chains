@@ -25,5 +25,6 @@
       "url": "https://subnets.avax.network/cloudverse",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

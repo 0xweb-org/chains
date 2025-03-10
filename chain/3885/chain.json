@@ -19,7 +19,7 @@
   "shortName": "firechain-zkEVM-testnet",
   "chainId": 3885,
   "networkId": 3885,
-  "icon": "./chain/3885/logo",
+  "icon": "./chain/3885/logo.png",
   "explorers": [
     {
       "name": "FireScan",

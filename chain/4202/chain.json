@@ -1,7 +1,7 @@
 {
   "name": "Lisk Sepolia Testnet",
   "chain": "ETH",
-  "icon": "./chain/4202/logo",
+  "icon": "./chain/4202/logo.png",
   "rpc": [
     "https://rpc.sepolia-api.lisk.com"
   ],

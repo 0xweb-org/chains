@@ -1,7 +1,7 @@
 {
   "name": "Phron Testnet",
   "chain": "PHR",
-  "icon": "./chain/7744/logo",
+  "icon": "./chain/7744/logo.png",
   "rpc": [
     "https://testnet.phron.ai",
     "wss://testnet.phron.ai"

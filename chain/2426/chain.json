@@ -12,5 +12,6 @@
   "shortName": "stndtestnet",
   "chainId": 2426,
   "networkId": 2426,
-  "status": "incubating"
+  "status": "incubating",
+  "icon": null
 }

@@ -3,7 +3,7 @@
   "shortName": "soneium-minato",
   "title": "Soneium Testnet Minato",
   "chain": "ETH",
-  "icon": "./chain/1946/logo",
+  "icon": "./chain/1946/logo.png",
   "rpc": [
     "https://rpc.minato.soneium.org"
   ],

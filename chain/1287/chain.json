@@ -1,7 +1,7 @@
 {
   "name": "Moonbase Alpha",
   "chain": "MOON",
-  "icon": "./chain/1287/logo",
+  "icon": "./chain/1287/logo.png",
   "rpc": [
     "https://rpc.api.moonbase.moonbeam.network",
     "wss://wss.api.moonbase.moonbeam.network",

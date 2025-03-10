@@ -15,7 +15,7 @@
   "shortName": "sei",
   "chainId": 1329,
   "networkId": 1329,
-  "icon": "./chain/1329/logo",
+  "icon": "./chain/1329/logo.png",
   "explorers": [
     {
       "name": "Seitrace",

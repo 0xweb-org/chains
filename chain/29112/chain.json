@@ -14,7 +14,7 @@
   ],
   "faucets": [],
   "infoURL": "https://www.hychain.com",
-  "icon": "./chain/29112/logo",
+  "icon": "./chain/29112/logo.png",
   "explorers": [
     {
       "name": "blockscout",

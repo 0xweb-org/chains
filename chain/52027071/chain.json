@@ -15,5 +15,6 @@
   "shortName": "dtbc",
   "chainId": 52027071,
   "networkId": 52027071,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

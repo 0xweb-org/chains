@@ -17,7 +17,7 @@
   "chainId": 300,
   "networkId": 300,
   "slip44": 1,
-  "icon": "./chain/300/logo",
+  "icon": "./chain/300/logo.png",
   "explorers": [
     {
       "name": "zkSync Block Explorer",

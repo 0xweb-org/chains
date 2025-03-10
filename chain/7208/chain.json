@@ -1,7 +1,7 @@
 {
   "name": "Nexera Mainnet",
   "chain": "Nexera",
-  "icon": "./chain/7208/logo",
+  "icon": "./chain/7208/logo.png",
   "chainId": 7208,
   "networkId": 7208,
   "infoURL": "https://nexera.network",

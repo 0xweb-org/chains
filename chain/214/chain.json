@@ -1,7 +1,7 @@
 {
   "name": "Shinarium Mainnet",
   "chain": "Shinarium",
-  "icon": "./chain/214/logo",
+  "icon": "./chain/214/logo.png",
   "rpc": [
     "https://mainnet.shinarium.org"
   ],

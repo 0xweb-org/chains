@@ -22,7 +22,7 @@
   "chainId": 166,
   "networkId": 166,
   "slip44": 1,
-  "icon": "./chain/166/logo",
+  "icon": "./chain/166/logo.png",
   "explorers": [
     {
       "name": "Omni EVM and cross-chain Explorer",

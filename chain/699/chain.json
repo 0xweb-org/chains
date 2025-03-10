@@ -1,7 +1,7 @@
 {
   "name": "Matchain Testnet",
   "chain": "Matchain",
-  "icon": "./chain/699/logo",
+  "icon": "./chain/699/logo.png",
   "rpc": [
     "https://testnet-rpc.matchain.io"
   ],

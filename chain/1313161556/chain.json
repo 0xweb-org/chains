@@ -11,5 +11,6 @@
   "infoURL": "https://aurora.dev",
   "shortName": "aurora-betanet",
   "chainId": 1313161556,
-  "networkId": 1313161556
+  "networkId": 1313161556,
+  "icon": null
 }

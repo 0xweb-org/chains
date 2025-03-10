@@ -14,5 +14,6 @@
   "shortName": "SO1-old",
   "chainId": 218,
   "networkId": 218,
-  "status": "deprecated"
+  "status": "deprecated",
+  "icon": null
 }

@@ -15,7 +15,7 @@
   "shortName": "pop",
   "chainId": 17071,
   "networkId": 17071,
-  "icon": "./chain/17071/logo",
+  "icon": "./chain/17071/logo.png",
   "status": "incubating",
   "explorers": [
     {

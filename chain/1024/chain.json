@@ -13,5 +13,6 @@
   "infoURL": "https://clv.org",
   "shortName": "clv",
   "chainId": 1024,
-  "networkId": 1024
+  "networkId": 1024,
+  "icon": null
 }

@@ -15,7 +15,7 @@
   "shortName": "zkevm-testnet-cardona",
   "chainId": 2442,
   "networkId": 2442,
-  "icon": "./chain/2442/logo",
+  "icon": "./chain/2442/logo.png",
   "explorers": [
     {
       "name": "polygonscan",

@@ -18,7 +18,7 @@
   "shortName": "berachain",
   "chainId": 80094,
   "networkId": 80094,
-  "icon": "./chain/80094/logo",
+  "icon": "./chain/80094/logo.png",
   "explorers": [
     {
       "name": "Berascan",

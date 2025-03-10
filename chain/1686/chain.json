@@ -15,7 +15,7 @@
   "chainId": 1686,
   "networkId": 1686,
   "status": "deprecated",
-  "icon": "./chain/1686/logo",
+  "icon": "./chain/1686/logo.png",
   "explorers": [
     {
       "name": "blockscout",

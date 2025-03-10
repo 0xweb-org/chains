@@ -26,7 +26,7 @@
   "shortName": "gravity",
   "chainId": 1625,
   "networkId": 1625,
-  "icon": "./chain/1625/logo",
+  "icon": "./chain/1625/logo.png",
   "explorers": [
     {
       "name": "Gravity Alpha Mainnet Explorer",

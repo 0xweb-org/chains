@@ -33,5 +33,6 @@
       }
     ]
   },
-  "status": "active"
+  "status": "active",
+  "icon": null
 }

@@ -14,7 +14,7 @@
   "shortName": "str",
   "chainId": 6667,
   "networkId": 6667,
-  "icon": "./chain/6667/logo",
+  "icon": "./chain/6667/logo.png",
   "explorers": [
     {
       "name": "storscan",

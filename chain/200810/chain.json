@@ -21,7 +21,7 @@
   "chainId": 200810,
   "networkId": 200810,
   "slip44": 1,
-  "icon": null,
+  "icon": "./chain/200810/logo.png",
   "explorers": [
     {
       "name": "bitlayer testnet scan",

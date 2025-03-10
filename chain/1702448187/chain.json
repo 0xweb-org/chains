@@ -15,7 +15,7 @@
   "shortName": "Witness",
   "chainId": 1702448187,
   "networkId": 1702448187,
-  "icon": "./chain/1702448187/logo",
+  "icon": "./chain/1702448187/logo.png",
   "explorers": [
     {
       "name": "Witness Chain Explorer",

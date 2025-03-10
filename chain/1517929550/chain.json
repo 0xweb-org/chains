@@ -2,7 +2,7 @@
   "name": "Deprecated SKALE Titan Hub Testnet",
   "chain": "staging-aware-chief-gianfar",
   "status": "deprecated",
-  "icon": "./chain/1517929550/logo",
+  "icon": "./chain/1517929550/logo.png",
   "rpc": [
     "https://staging-v3.skalenodes.com/v1/staging-aware-chief-gianfar",
     "wss://staging-v3.skalenodes.com/v1/ws/staging-aware-chief-gianfar"

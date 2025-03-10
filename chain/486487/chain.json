@@ -16,7 +16,7 @@
   "shortName": "gbl-testnet",
   "chainId": 486487,
   "networkId": 486487,
-  "icon": "./chain/486487/logo",
+  "icon": "./chain/486487/logo.png",
   "explorers": [
     {
       "name": "Gobbl Testnet Explorer",

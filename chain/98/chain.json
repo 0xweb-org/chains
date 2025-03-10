@@ -1,7 +1,7 @@
 {
   "name": "Six Protocol",
   "chain": "SIXNET",
-  "icon": "./chain/98/logo",
+  "icon": "./chain/98/logo.png",
   "rpc": [
     "https://sixnet-rpc-evm.sixprotocol.net"
   ],

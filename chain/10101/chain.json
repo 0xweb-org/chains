@@ -15,5 +15,6 @@
   "infoURL": "https://www.xixoio.com/",
   "shortName": "GEN",
   "chainId": 10101,
-  "networkId": 10101
+  "networkId": 10101,
+  "icon": null
 }

@@ -18,7 +18,7 @@
   "chainId": 21097,
   "networkId": 21097,
   "slip44": 1,
-  "icon": "./chain/21097/logo",
+  "icon": "./chain/21097/logo.png",
   "explorers": [
     {
       "name": "Rivest Testnet Explorer",

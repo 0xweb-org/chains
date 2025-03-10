@@ -14,7 +14,7 @@
   "shortName": "CIC",
   "chainId": 1353,
   "networkId": 1353,
-  "icon": "./chain/1353/logo",
+  "icon": "./chain/1353/logo.png",
   "explorers": [
     {
       "name": "CICscan",

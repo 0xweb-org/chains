@@ -17,6 +17,7 @@
   "chainId": 1038,
   "networkId": 1038,
   "slip44": 1,
+  "icon": "./chain/1038/logo.png",
   "explorers": [
     {
       "name": "Bronos Testnet Explorer",

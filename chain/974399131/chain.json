@@ -2,7 +2,7 @@
   "name": "SKALE Calypso Hub Testnet",
   "title": "SKALE Calypso Hub Testnet",
   "chain": "giant-half-dual-testnet",
-  "icon": "./chain/974399131/logo",
+  "icon": "./chain/974399131/logo.png",
   "rpc": [
     "https://testnet.skalenodes.com/v1/giant-half-dual-testnet"
   ],

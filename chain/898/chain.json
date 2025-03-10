@@ -24,7 +24,7 @@
   "shortName": "maxi-testnet",
   "chainId": 898,
   "networkId": 898,
-  "icon": "./chain/898/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "Maxi Chain Testnet Explorer",

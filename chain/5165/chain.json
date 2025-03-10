@@ -2,7 +2,7 @@
   "name": "Bahamut",
   "title": "Bahamut mainnet",
   "chain": "Bahamut",
-  "icon": null,
+  "icon": "./chain/5165/logo.png",
   "rpc": [
     "https://rpc1.bahamut.io",
     "https://rpc2.bahamut.io",

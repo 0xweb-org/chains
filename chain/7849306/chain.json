@@ -17,7 +17,7 @@
   "shortName": "ozean-poseidon",
   "chainId": 7849306,
   "networkId": 7849306,
-  "icon": "./chain/7849306/logo",
+  "icon": "./chain/7849306/logo.png",
   "status": "active",
   "explorers": [
     {

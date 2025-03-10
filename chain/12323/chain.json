@@ -22,7 +22,7 @@
   "shortName": "huddle01",
   "chainId": 12323,
   "networkId": 12323,
-  "icon": "./chain/12323/logo",
+  "icon": "./chain/12323/logo.png",
   "explorers": [
     {
       "name": "Huddle01 Caldera Explorer",

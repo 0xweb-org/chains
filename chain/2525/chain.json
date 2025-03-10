@@ -1,7 +1,7 @@
 {
   "name": "inEVM Mainnet",
   "chain": "inEVM",
-  "icon": "./chain/2525/logo",
+  "icon": "./chain/2525/logo.png",
   "rpc": [
     "https://mainnet.rpc.inevm.com/http"
   ],

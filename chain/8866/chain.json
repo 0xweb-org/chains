@@ -1,7 +1,7 @@
 {
   "name": "SuperLumio",
   "chain": "SuperLumio",
-  "icon": "./chain/8866/logo",
+  "icon": null,
   "rpc": [
     "https://mainnet.lumio.io/"
   ],

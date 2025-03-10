@@ -13,5 +13,6 @@
   "infoURL": "https://cosmicchain.site",
   "shortName": "Cosmic",
   "chainId": 67588,
-  "networkId": 3344
+  "networkId": 3344,
+  "icon": null
 }

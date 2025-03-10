@@ -1,7 +1,7 @@
 {
   "name": "Edge Matrix Chain",
   "chain": "EMC",
-  "icon": "./chain/6678/logo",
+  "icon": "./chain/6678/logo.png",
   "rpc": [
     "https://rpc1-mainnet.emc.network"
   ],

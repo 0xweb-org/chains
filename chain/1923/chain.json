@@ -15,7 +15,7 @@
   "shortName": "swellchain",
   "chainId": 1923,
   "networkId": 1923,
-  "icon": "./chain/1923/logo",
+  "icon": "./chain/1923/logo.png",
   "explorers": [
     {
       "name": "Swellchain Explorer",

@@ -1,7 +1,7 @@
 {
   "name": "Bear Network Chain Mainnet",
   "chain": "BRNKC",
-  "icon": "./chain/641230/logo",
+  "icon": "./chain/641230/logo.png",
   "rpc": [
     "https://brnkc-mainnet.bearnetwork.net",
     "https://brnkc-mainnet1.bearnetwork.net"

@@ -14,7 +14,7 @@
   "shortName": "stratis",
   "chainId": 105105,
   "networkId": 105105,
-  "icon": null,
+  "icon": "./chain/105105/logo.png",
   "explorers": [
     {
       "name": "Stratis Explorer",

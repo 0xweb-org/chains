@@ -18,7 +18,7 @@
   "shortName": "sn-sepolia",
   "chainId": 1660990954,
   "networkId": 1660990954,
-  "icon": "./chain/1660990954/logo",
+  "icon": "./chain/1660990954/logo.png",
   "parent": {
     "type": "L2",
     "chain": "eip155-11155111",

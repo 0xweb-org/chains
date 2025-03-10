@@ -1,7 +1,7 @@
 {
   "name": "Carbon EVM",
   "chain": "Carbon",
-  "icon": "./chain/9790/logo",
+  "icon": "./chain/9790/logo.png",
   "rpc": [
     "https://evm-api.carbon.network/"
   ],

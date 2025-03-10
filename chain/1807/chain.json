@@ -1,7 +1,7 @@
 {
   "name": "Rabbit Analog Testnet Chain",
   "chain": "rAna",
-  "icon": "./chain/1807/logo",
+  "icon": "./chain/1807/logo.png",
   "rpc": [
     "https://rabbit.analog-rpc.com"
   ],

@@ -1,7 +1,7 @@
 {
   "name": "Yooldo Verse Mainnet",
   "chain": "Yooldo Verse",
-  "icon": "./chain/50005/logo",
+  "icon": "./chain/50005/logo.png",
   "rpc": [
     "https://rpc.yooldo-verse.xyz/"
   ],

@@ -25,5 +25,6 @@
       "url": "https://testnet.explorer.edgeless.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

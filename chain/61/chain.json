@@ -3,7 +3,7 @@
   "title": "Ethereum Classic Mainnet",
   "status": "active",
   "chain": "ETC",
-  "icon": "./chain/61/logo",
+  "icon": "./chain/61/logo.png",
   "rpc": [
     "https://etc.rivet.link",
     "https://besu-at.etc-network.info",

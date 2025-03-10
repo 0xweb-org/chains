@@ -1,7 +1,7 @@
 {
   "name": "Condor Test Network",
   "chain": "CONDOR",
-  "icon": "./chain/188881/logo",
+  "icon": "./chain/188881/logo.png",
   "rpc": [
     "https://testnet.condor.systems/rpc"
   ],

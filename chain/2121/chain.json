@@ -22,7 +22,7 @@
   "shortName": "cmcx",
   "chainId": 2121,
   "networkId": 2121,
-  "icon": "./chain/2121/logo",
+  "icon": "./chain/2121/logo.png",
   "explorers": [
     {
       "name": "catenascan",

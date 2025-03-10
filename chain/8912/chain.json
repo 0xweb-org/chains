@@ -14,7 +14,7 @@
   "shortName": "algTest",
   "chainId": 8912,
   "networkId": 8912,
-  "icon": "./chain/8912/logo",
+  "icon": "./chain/8912/logo.png",
   "explorers": [
     {
       "name": "algscan",

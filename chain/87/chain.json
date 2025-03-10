@@ -1,7 +1,7 @@
 {
   "name": "Nova Network",
   "chain": "NNW",
-  "icon": "./chain/87/logo",
+  "icon": "./chain/87/logo.png",
   "rpc": [
     "https://connect.novanetwork.io",
     "https://0x57.redjackstudio.com",

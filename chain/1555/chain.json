@@ -1,7 +1,7 @@
 {
   "name": "Datacore Smart Chain",
   "chain": "Datacore Smart Chain",
-  "icon": "./chain/1555/logo",
+  "icon": "./chain/1555/logo.png",
   "rpc": [
     "https://rpc01.dscscan.io"
   ],

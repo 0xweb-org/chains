@@ -15,7 +15,7 @@
   "shortName": "MainnetDev",
   "chainId": 9700,
   "networkId": 9700,
-  "icon": "./chain/9700/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "Oort MainnetDev Scan",

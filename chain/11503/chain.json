@@ -14,7 +14,7 @@
   "shortName": "bevm-test",
   "chainId": 11503,
   "networkId": 11503,
-  "icon": "./chain/11503/logo",
+  "icon": "./chain/11503/logo.png",
   "explorers": [
     {
       "name": "bevm testnet scan",

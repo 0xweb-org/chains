@@ -21,5 +21,6 @@
       "url": "https://explorer.thanos-sepolia.tokamak.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

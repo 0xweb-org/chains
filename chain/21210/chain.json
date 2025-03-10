@@ -19,5 +19,6 @@
   "shortName": "1money",
   "chainId": 21210,
   "networkId": 21210,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

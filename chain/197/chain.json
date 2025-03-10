@@ -23,5 +23,6 @@
       "url": "https://testnet.neutrinoschain.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

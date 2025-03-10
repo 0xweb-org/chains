@@ -1,7 +1,7 @@
 {
   "name": "ADF Chain",
   "chain": "ADF Chain",
-  "icon": "./chain/1215/logo",
+  "icon": "./chain/1215/logo.png",
   "rpc": [
     "https://mainnet.adftechnology.com/"
   ],

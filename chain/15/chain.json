@@ -1,5 +1,5 @@
 {
-  "icon": "./chain/15/logo",
+  "icon": "./chain/15/logo.png",
   "name": "Diode Prenet",
   "chain": "DIODE",
   "rpc": [

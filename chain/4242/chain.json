@@ -1,7 +1,7 @@
 {
   "name": "Nexi Mainnet",
   "chain": "Nexi",
-  "icon": "./chain/4242/logo",
+  "icon": "./chain/4242/logo.png",
   "rpc": [
     "https://rpc.chain.nexi.technology/",
     "https://chain.nexilix.com",

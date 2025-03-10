@@ -20,7 +20,7 @@
   "shortName": "vitruveo",
   "chainId": 1490,
   "networkId": 1490,
-  "icon": "./chain/1490/logo",
+  "icon": "./chain/1490/logo.png",
   "explorers": [
     {
       "name": "Vitruveo Explorer",

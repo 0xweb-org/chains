@@ -30,5 +30,6 @@
       "url": "https://blockscout.mandala.aca-staging.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

@@ -26,5 +26,6 @@
     "type": "L2",
     "chain": "eip155-84532"
   },
-  "infoURL": "https://xprotocol.org/"
+  "infoURL": "https://xprotocol.org/",
+  "icon": null
 }

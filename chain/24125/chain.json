@@ -1,7 +1,7 @@
 {
   "name": "MagiChain",
   "chain": "MagiChain",
-  "icon": "./chain/24125/logo",
+  "icon": "./chain/24125/logo.png",
   "rpc": [
     "https://rpc.magichain.io"
   ],

@@ -17,7 +17,7 @@
   "shortName": "bob",
   "chainId": 60808,
   "networkId": 60808,
-  "icon": "./chain/60808/logo",
+  "icon": "./chain/60808/logo.png",
   "explorers": [
     {
       "name": "bobscout",

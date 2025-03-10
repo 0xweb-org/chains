@@ -1,7 +1,7 @@
 {
   "name": "Fastex Chain (Bahamut) Oasis Testnet",
   "title": "Bahamut testnet Oasis",
-  "icon": null,
+  "icon": "./chain/4090/logo.png",
   "chain": "Fastex Chain (Bahamut)",
   "rpc": [
     "https://rpc1.oasis.bahamutchain.com"

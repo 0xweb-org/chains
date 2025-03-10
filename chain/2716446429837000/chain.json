@@ -2,7 +2,7 @@
   "name": "DCHAIN",
   "title": "DCHAIN Mainnet",
   "chain": "dchainmainnet",
-  "icon": "./chain/2716446429837000/logo",
+  "icon": "./chain/2716446429837000/logo.png",
   "rpc": [
     "https://dchain-2716446429837000-1.jsonrpc.sagarpc.io"
   ],

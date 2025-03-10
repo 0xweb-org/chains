@@ -15,7 +15,7 @@
   "chainId": 1456,
   "networkId": 1456,
   "slip44": 1,
-  "icon": "./chain/1456/logo",
+  "icon": "./chain/1456/logo.png",
   "explorers": [
     {
       "name": "ZKbase Block Explorer",

@@ -3,7 +3,7 @@
   "shortName": "azktn",
   "title": "Astar zkEVM Testnet zKatana",
   "chain": "ETH",
-  "icon": "./chain/1261120/logo",
+  "icon": "./chain/1261120/logo.png",
   "rpc": [
     "https://rpc.zkatana.gelato.digital",
     "https://rpc.startale.com/zkatana",

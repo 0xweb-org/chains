@@ -3,7 +3,7 @@
   "chainId": 12325,
   "shortName": "l3x-testnet",
   "chain": "L3X",
-  "icon": "./chain/12325/logo",
+  "icon": "./chain/12325/logo.png",
   "networkId": 12325,
   "nativeCurrency": {
     "name": "Ether",

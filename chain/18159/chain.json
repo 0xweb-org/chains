@@ -2,7 +2,7 @@
   "name": "Proof Of Memes",
   "title": "Proof Of Memes Mainnet",
   "chain": "POM",
-  "icon": "./chain/18159/logo",
+  "icon": "./chain/18159/logo.png",
   "rpc": [
     "https://mainnet-rpc.memescan.io",
     "https://mainnet-rpc2.memescan.io",

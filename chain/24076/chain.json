@@ -1,7 +1,7 @@
 {
   "name": "KYMTC Testnet",
   "chain": "KYMTC",
-  "icon": "./chain/24076/logo",
+  "icon": "./chain/24076/logo.png",
   "rpc": [
     "https://testnet-rpc.kymaticscan.online"
   ],

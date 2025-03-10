@@ -1,7 +1,7 @@
 {
   "name": "Sardis Mainnet",
   "chain": "SRDX",
-  "icon": "./chain/51712/logo",
+  "icon": null,
   "rpc": [
     "https://mainnet-rpc.sardisnetwork.com"
   ],

@@ -15,5 +15,6 @@
   "infoURL": "https://bloxberg.org",
   "shortName": "berg",
   "chainId": 8995,
-  "networkId": 8995
+  "networkId": 8995,
+  "icon": null
 }

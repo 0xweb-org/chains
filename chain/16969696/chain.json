@@ -15,7 +15,7 @@
   "shortName": "mpsc",
   "chainId": 16969696,
   "networkId": 16969696,
-  "icon": "./chain/16969696/logo",
+  "icon": "./chain/16969696/logo.png",
   "explorers": [
     {
       "name": "blockscout",

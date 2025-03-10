@@ -14,7 +14,7 @@
   "shortName": "kalichainMainnet",
   "chainId": 654,
   "networkId": 654,
-  "icon": "./chain/654/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "kalichain explorer",

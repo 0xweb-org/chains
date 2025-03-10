@@ -30,5 +30,6 @@
       "standard": "EIP3091"
     }
   ],
-  "status": "active"
+  "status": "active",
+  "icon": null
 }

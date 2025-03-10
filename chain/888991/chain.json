@@ -21,5 +21,6 @@
       "url": "https://unite-testnet.explorer.alchemy.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

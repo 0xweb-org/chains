@@ -2,7 +2,7 @@
   "name": "OTC",
   "chain": "OTC",
   "faucets": [],
-  "icon": "./chain/175/logo",
+  "icon": "./chain/175/logo.png",
   "rpc": [
     "https://rpc.otc.run",
     "wss://rpc.otc.run"

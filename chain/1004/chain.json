@@ -15,6 +15,7 @@
   "shortName": "t-ekta",
   "chainId": 1004,
   "networkId": 1004,
+  "icon": null,
   "explorers": [
     {
       "name": "test-ektascan",

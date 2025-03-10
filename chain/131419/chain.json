@@ -14,7 +14,7 @@
   "shortName": "ETND",
   "chainId": 131419,
   "networkId": 131419,
-  "icon": "./chain/131419/logo",
+  "icon": "./chain/131419/logo.png",
   "explorers": [
     {
       "name": "etndscan",

@@ -20,5 +20,6 @@
       "url": "https://piscan.plian.org/pchain",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

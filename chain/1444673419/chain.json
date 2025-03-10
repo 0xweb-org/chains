@@ -2,7 +2,7 @@
   "name": "SKALE Europa Hub Testnet",
   "title": "SKALE Europa Hub Testnet",
   "chain": "juicy-low-small-testnet",
-  "icon": "./chain/1444673419/logo",
+  "icon": "./chain/1444673419/logo.png",
   "rpc": [
     "https://testnet.skalenodes.com/v1/juicy-low-small-testnet"
   ],

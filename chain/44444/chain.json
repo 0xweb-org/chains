@@ -14,7 +14,7 @@
   "shortName": "FREN",
   "chainId": 44444,
   "networkId": 44444,
-  "icon": "./chain/44444/logo",
+  "icon": "./chain/44444/logo.png",
   "explorers": [
     {
       "name": "blockscout",

@@ -15,7 +15,7 @@
   "shortName": "bob-sepolia",
   "chainId": 808813,
   "networkId": 808813,
-  "icon": "./chain/808813/logo",
+  "icon": "./chain/808813/logo.png",
   "explorers": [
     {
       "name": "bobscout",

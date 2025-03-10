@@ -12,5 +12,6 @@
   "shortName": "phala",
   "chainId": 2035,
   "networkId": 2035,
-  "status": "incubating"
+  "status": "incubating",
+  "icon": null
 }

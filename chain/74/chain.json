@@ -15,7 +15,7 @@
   "shortName": "idchain",
   "chainId": 74,
   "networkId": 74,
-  "icon": "./chain/74/logo",
+  "icon": "./chain/74/logo.png",
   "explorers": [
     {
       "name": "explorer",

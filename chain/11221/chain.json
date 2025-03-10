@@ -14,7 +14,7 @@
   "shortName": "SC20",
   "chainId": 11221,
   "networkId": 11221,
-  "icon": "./chain/11221/logo",
+  "icon": "./chain/11221/logo.png",
   "explorers": [
     {
       "name": "shinescan",

@@ -15,7 +15,7 @@
   "shortName": "nets",
   "chainId": 5333,
   "networkId": 5333,
-  "icon": "./chain/5333/logo",
+  "icon": "./chain/5333/logo.png",
   "explorers": [
     {
       "name": "netsbo",

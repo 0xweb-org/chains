@@ -1,7 +1,7 @@
 {
   "name": "UPTN",
   "chain": "UPTN",
-  "icon": "./chain/6119/logo",
+  "icon": "./chain/6119/logo.png",
   "rpc": [
     "https://node-api.uptn.io/v1/ext/rpc"
   ],

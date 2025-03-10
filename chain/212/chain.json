@@ -23,5 +23,6 @@
       "url": "https://testnet.maposcan.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

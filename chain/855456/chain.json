@@ -15,7 +15,7 @@
   "shortName": "dodao",
   "chainId": 855456,
   "networkId": 855456,
-  "icon": "./chain/855456/logo",
+  "icon": "./chain/855456/logo.png",
   "explorers": [
     {
       "name": "Dodao Explorer",

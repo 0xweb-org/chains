@@ -16,7 +16,7 @@
   "chainId": 2440,
   "networkId": 2440,
   "slip44": 965,
-  "icon": "./chain/2440/logo",
+  "icon": "./chain/2440/logo.png",
   "explorers": [
     {
       "name": "Atleta Explorer",

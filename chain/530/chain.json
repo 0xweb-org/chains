@@ -14,7 +14,7 @@
   "shortName": "pundiai",
   "chainId": 530,
   "networkId": 530,
-  "icon": null,
+  "icon": "./chain/530/logo.png",
   "explorers": [
     {
       "name": "PundiScan Explorer",

@@ -14,5 +14,6 @@
   "shortName": "avis",
   "chainId": 1201,
   "networkId": 1201,
-  "slip44": 1
+  "slip44": 1,
+  "icon": null
 }

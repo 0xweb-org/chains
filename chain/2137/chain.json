@@ -15,5 +15,6 @@
   "shortName": "bigsb",
   "chainId": 2137,
   "networkId": 2137,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

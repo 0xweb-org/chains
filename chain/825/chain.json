@@ -1,7 +1,7 @@
 {
   "name": "Daily Network Testnet",
   "chain": "Daily Network",
-  "icon": "./chain/825/logo",
+  "icon": null,
   "rpc": [
     "https://rpc.testnet.dailycrypto.net"
   ],

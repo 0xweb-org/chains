@@ -17,7 +17,7 @@
   "chainId": 2023,
   "networkId": 2023,
   "slip44": 1,
-  "icon": "./chain/2023/logo",
+  "icon": "./chain/2023/logo.png",
   "explorers": [
     {
       "name": "Taycan Explorer(Blockscout)",

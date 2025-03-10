@@ -22,5 +22,6 @@
       "url": "https://testnet.edgscan.live",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

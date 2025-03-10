@@ -14,7 +14,7 @@
   "shortName": "hemi-sep",
   "chainId": 743111,
   "networkId": 743111,
-  "icon": "./chain/743111/logo",
+  "icon": "./chain/743111/logo.png",
   "explorers": [
     {
       "name": "blockscout",

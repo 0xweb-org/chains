@@ -16,7 +16,7 @@
   "shortName": "LayerEdge-testnet",
   "chainId": 3456,
   "networkId": 3456,
-  "icon": "./chain/3456/logo",
+  "icon": "./chain/3456/logo.png",
   "explorers": [
     {
       "name": "LayerEdge Testnet Explorer",

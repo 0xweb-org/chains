@@ -1,7 +1,7 @@
 {
   "name": "inEVM Testnet",
   "chain": "inEVM testnet",
-  "icon": "./chain/2424/logo",
+  "icon": "./chain/2424/logo.png",
   "rpc": [
     "https://testnet.rpc.inevm.com/http"
   ],

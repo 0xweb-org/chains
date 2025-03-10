@@ -12,7 +12,7 @@
   },
   "infoURL": "https://gesoten.com/",
   "shortName": "GST",
-  "icon": "./chain/42801/logo",
+  "icon": "./chain/42801/logo.png",
   "chainId": 42801,
   "networkId": 42801,
   "slip44": 1,

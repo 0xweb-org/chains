@@ -2,7 +2,7 @@
   "name": "GitSwarm Test Network",
   "title": "GitSwarm Test Network",
   "chain": "ETH",
-  "icon": "./chain/28872323069/logo",
+  "icon": "./chain/28872323069/logo.png",
   "rpc": [
     "https://testnet.gitswarm.com:2096"
   ],

@@ -1,6 +1,6 @@
 {
   "name": "StateMesh Testnet",
-  "icon": "./chain/11343/logo",
+  "icon": "./chain/11343/logo.png",
   "chain": "MESH",
   "rpc": [
     "https://rpc-test.statemesh.net"

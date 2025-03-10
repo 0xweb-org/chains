@@ -12,5 +12,6 @@
   "shortName": "Alterscope",
   "chainId": 202209,
   "networkId": 202209,
-  "status": "incubating"
+  "status": "incubating",
+  "icon": null
 }

@@ -14,5 +14,6 @@
   "shortName": "psep",
   "chainId": 471100,
   "networkId": 471100,
-  "slip44": 1
+  "slip44": 1,
+  "icon": null
 }

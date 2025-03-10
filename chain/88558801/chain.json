@@ -1,7 +1,7 @@
 {
   "name": "Backstop Testnet",
   "chain": "backstopTestnet",
-  "icon": "./chain/88558801/logo",
+  "icon": "./chain/88558801/logo.png",
   "rpc": [
     "https://testnet.rpc.backstop.technology"
   ],

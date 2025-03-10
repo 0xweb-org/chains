@@ -1,7 +1,7 @@
 {
   "name": "Creator Chain Testnet",
   "chain": "creatorchain",
-  "icon": "./chain/66665/logo",
+  "icon": "./chain/66665/logo.png",
   "rpc": [
     "https://rpc.creatorchain.io"
   ],

@@ -9,7 +9,7 @@
   "faucets": [
     "https://neonfaucet.org"
   ],
-  "icon": "./chain/245022926/logo",
+  "icon": "./chain/245022926/logo.png",
   "nativeCurrency": {
     "name": "Neon",
     "symbol": "NEON",

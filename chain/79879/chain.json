@@ -1,7 +1,7 @@
 {
   "name": "Gold Smart Chain Testnet",
   "chain": "STAND",
-  "icon": "./chain/79879/logo",
+  "icon": "./chain/79879/logo.png",
   "rpc": [
     "https://rpc-testnet.goldsmartchain.com"
   ],

@@ -16,5 +16,6 @@
   "shortName": "tIncentiv",
   "chainId": 16350,
   "networkId": 16350,
-  "slip44": 1
+  "slip44": 1,
+  "icon": null
 }

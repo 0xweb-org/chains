@@ -2,7 +2,7 @@
   "name": "MemeCore",
   "title": "MemeCore",
   "chain": "MemeCore",
-  "icon": "./chain/4352/logo",
+  "icon": "./chain/4352/logo.png",
   "rpc": [
     "https://rpc.memecore.net",
     "wss://ws.memecore.net"

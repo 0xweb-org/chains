@@ -1,7 +1,7 @@
 {
   "name": "ARC Testnet",
   "chain": "ARC",
-  "icon": "./chain/1244/logo",
+  "icon": "./chain/1244/logo.png",
   "rpc": [
     "https://rpc-test-1.archiechain.io"
   ],

@@ -17,7 +17,7 @@
   "shortName": "graphiteTest",
   "chainId": 54170,
   "networkId": 54170,
-  "icon": "./chain/54170/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "Graphite Testnet Explorer",

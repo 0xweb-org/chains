@@ -10,7 +10,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "flanatest",
-  "icon": "./chain/81351/logo",
+  "icon": "./chain/81351/logo.png",
   "chainId": 81351,
   "networkId": 81351,
   "slip44": 1,

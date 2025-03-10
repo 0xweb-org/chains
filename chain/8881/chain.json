@@ -1,6 +1,6 @@
 {
   "name": "Quartz by Unique",
-  "icon": "./chain/8881/logo",
+  "icon": "./chain/8881/logo.png",
   "chain": "UNQ",
   "rpc": [
     "https://rpc-quartz.unique.network",

@@ -1,7 +1,7 @@
 {
   "name": "LaChain",
   "chain": "LaChain",
-  "icon": "./chain/274/logo",
+  "icon": "./chain/274/logo.png",
   "rpc": [
     "https://rpc1.mainnet.lachain.network",
     "https://rpc2.mainnet.lachain.network",

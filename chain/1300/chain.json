@@ -14,7 +14,7 @@
   "shortName": "glue",
   "chainId": 1300,
   "networkId": 1300,
-  "icon": "./chain/1300/logo",
+  "icon": "./chain/1300/logo.png",
   "explorers": [
     {
       "name": "Glue Explorer",

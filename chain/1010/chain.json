@@ -14,5 +14,6 @@
   "shortName": "EVC",
   "chainId": 1010,
   "networkId": 1010,
-  "slip44": 1020
+  "slip44": 1020,
+  "icon": null
 }

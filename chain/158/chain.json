@@ -22,7 +22,7 @@
   "shortName": "rba",
   "chainId": 158,
   "networkId": 158,
-  "icon": "./chain/158/logo",
+  "icon": "./chain/158/logo.png",
   "explorers": [
     {
       "name": "Rbascan Explorer",

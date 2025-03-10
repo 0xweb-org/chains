@@ -14,7 +14,7 @@
   "shortName": "coinbit",
   "chainId": 112,
   "networkId": 112,
-  "icon": "./chain/112/logo",
+  "icon": "./chain/112/logo.png",
   "explorers": [
     {
       "name": "blockscout",

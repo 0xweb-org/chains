@@ -14,5 +14,6 @@
   "shortName": "nrg",
   "chainId": 39797,
   "networkId": 39797,
-  "slip44": 39797
+  "slip44": 39797,
+  "icon": "./chain/39797/logo.png"
 }

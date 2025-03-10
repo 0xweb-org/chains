@@ -1,7 +1,7 @@
 {
   "name": "GPT Testnet",
   "chain": "Skopje Testnet",
-  "icon": "./chain/476462898/logo",
+  "icon": "./chain/476462898/logo.png",
   "rpc": [
     "https://testnet-rpc.gptprotocol.io"
   ],

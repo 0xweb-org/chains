@@ -17,7 +17,7 @@
   "chainId": 4444444,
   "networkId": 4444444,
   "slip44": 1,
-  "icon": "./chain/4444444/logo",
+  "icon": "./chain/4444444/logo.png",
   "explorers": [
     {
       "name": "altar testnet explorer",

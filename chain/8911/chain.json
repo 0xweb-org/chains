@@ -14,7 +14,7 @@
   "shortName": "alg",
   "chainId": 8911,
   "networkId": 8911,
-  "icon": "./chain/8911/logo",
+  "icon": "./chain/8911/logo.png",
   "explorers": [
     {
       "name": "algscan",

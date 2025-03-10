@@ -15,7 +15,7 @@
   "chainId": 56026,
   "networkId": 56026,
   "slip44": 1,
-  "icon": "./chain/56026/logo",
+  "icon": "./chain/56026/logo.png",
   "explorers": [
     {
       "name": "Lambda Chain Mainnet Explorer",

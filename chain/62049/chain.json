@@ -19,7 +19,7 @@
   "shortName": "OPTOPIA-Testnet",
   "chainId": 62049,
   "networkId": 62049,
-  "icon": null,
+  "icon": "./chain/62049/logo.png",
   "explorers": [
     {
       "name": "optopia-testnet-scan",

@@ -22,7 +22,7 @@
   "shortName": "Credit",
   "chainId": 13308,
   "networkId": 13308,
-  "icon": "./chain/13308/logo",
+  "icon": "./chain/13308/logo.png",
   "explorers": [
     {
       "name": "Creditscan",

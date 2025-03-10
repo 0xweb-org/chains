@@ -16,7 +16,7 @@
   "shortName": "zil-isolated-server",
   "chainId": 32990,
   "networkId": 32990,
-  "icon": null,
+  "icon": "./chain/32990/logo.png",
   "explorers": [
     {
       "name": "Zilliqa EVM Isolated Server Explorer",

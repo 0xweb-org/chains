@@ -14,7 +14,7 @@
   "shortName": "metall2",
   "chainId": 1750,
   "networkId": 1750,
-  "icon": "./chain/1750/logo",
+  "icon": "./chain/1750/logo.png",
   "explorers": [
     {
       "name": "blockscout",

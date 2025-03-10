@@ -1,6 +1,7 @@
 {
   "name": "Nebula Testnet",
   "chain": "NTN",
+  "icon": "./chain/107/logo.png",
   "rpc": [
     "https://testnet.rpc.novanetwork.io"
   ],

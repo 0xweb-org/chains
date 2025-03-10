@@ -15,7 +15,7 @@
   "chainId": 17000920,
   "networkId": 17000920,
   "slip44": 1,
-  "icon": "./chain/17000920/logo",
+  "icon": "./chain/17000920/logo.png",
   "explorers": [
     {
       "name": "Lambda Chain Testnet Explorer",

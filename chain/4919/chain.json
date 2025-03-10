@@ -1,7 +1,7 @@
 {
   "name": "Venidium Mainnet",
   "chain": "XVM",
-  "icon": "./chain/4919/logo",
+  "icon": "./chain/4919/logo.png",
   "rpc": [
     "https://rpc.venidium.io"
   ],

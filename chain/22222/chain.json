@@ -1,7 +1,7 @@
 {
   "name": "Nautilus Mainnet",
   "chain": "ETH",
-  "icon": "./chain/22222/logo",
+  "icon": "./chain/22222/logo.png",
   "rpc": [
     "https://api.nautilus.nautchain.xyz"
   ],

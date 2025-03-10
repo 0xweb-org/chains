@@ -6,7 +6,7 @@
     "https://mycrypto.rsk.co"
   ],
   "faucets": [],
-  "icon": "./chain/30/logo",
+  "icon": "./chain/30/logo.png",
   "nativeCurrency": {
     "name": "Smart Bitcoin",
     "symbol": "RBTC",

@@ -24,7 +24,7 @@
   "shortName": "MUD",
   "chainId": 168169,
   "networkId": 168169,
-  "icon": "./chain/168169/logo",
+  "icon": "./chain/168169/logo.png",
   "explorers": [
     {
       "name": "MUD Chain Scan",

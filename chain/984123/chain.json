@@ -22,7 +22,7 @@
   "shortName": "sketchpad",
   "chainId": 984123,
   "networkId": 984123,
-  "icon": "./chain/984123/logo",
+  "icon": "./chain/984123/logo.png",
   "explorers": [
     {
       "name": "blockscout",

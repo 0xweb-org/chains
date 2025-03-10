@@ -15,7 +15,7 @@
   "chainId": 292003,
   "networkId": 292003,
   "slip44": 1,
-  "icon": "./chain/292003/logo",
+  "icon": "./chain/292003/logo.png",
   "explorers": [
     {
       "name": "Cipherscan Testnet Explorer",

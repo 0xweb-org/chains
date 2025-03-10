@@ -23,7 +23,7 @@
   "shortName": "tch",
   "chainId": 7,
   "networkId": 7,
-  "icon": "./chain/7/logo",
+  "icon": "./chain/7/logo.png",
   "explorers": [
     {
       "name": "Thaichain Explorer",

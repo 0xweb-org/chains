@@ -16,5 +16,6 @@
   "infoURL": "https://smartbch.org/",
   "shortName": "smartbch",
   "chainId": 10000,
-  "networkId": 10000
+  "networkId": 10000,
+  "icon": null
 }

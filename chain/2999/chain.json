@@ -14,7 +14,7 @@
   "shortName": "bty",
   "chainId": 2999,
   "networkId": 2999,
-  "icon": "./chain/2999/logo",
+  "icon": "./chain/2999/logo.png",
   "explorers": [
     {
       "name": "BitYuan Block Chain Explorer",

@@ -14,7 +14,7 @@
   "shortName": "kalichain",
   "chainId": 653,
   "networkId": 653,
-  "icon": "./chain/653/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "kalichain explorer",

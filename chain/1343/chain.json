@@ -25,5 +25,6 @@
       "url": "https://subnets-test.avax.network/blitz",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

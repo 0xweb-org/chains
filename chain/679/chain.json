@@ -15,7 +15,7 @@
   "shortName": "janction_testnet",
   "chainId": 679,
   "networkId": 679,
-  "icon": "./chain/679/logo",
+  "icon": "./chain/679/logo.png",
   "explorers": [],
   "parent": {
     "type": "L2",

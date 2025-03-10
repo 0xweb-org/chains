@@ -16,5 +16,6 @@
   "infoURL": "https://testnet.hecoinfo.com",
   "shortName": "hecot",
   "chainId": 256,
-  "networkId": 256
+  "networkId": 256,
+  "icon": null
 }

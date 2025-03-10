@@ -11,7 +11,7 @@
   },
   "infoURL": "https://filecoin.io",
   "shortName": "filecoin-local",
-  "icon": "./chain/31415926/logo",
+  "icon": "./chain/31415926/logo.png",
   "chainId": 31415926,
   "networkId": 31415926,
   "slip44": 1,

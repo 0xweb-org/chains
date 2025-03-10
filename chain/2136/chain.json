@@ -21,5 +21,6 @@
       "url": "https://polkadot.js.org/apps/?rpc=wss://test-market.bigsb.network#/explorer",
       "standard": "none"
     }
-  ]
+  ],
+  "icon": null
 }

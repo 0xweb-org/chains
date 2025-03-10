@@ -17,7 +17,7 @@
   "chainId": 92001,
   "networkId": 92001,
   "slip44": 1,
-  "icon": "./chain/92001/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "Lambda EVM Explorer",

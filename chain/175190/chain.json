@@ -1,7 +1,7 @@
 {
   "name": "Chronicle Loa - Lit Protocol Testnet",
   "chain": "LPL",
-  "icon": "./chain/175190/logo",
+  "icon": "./chain/175190/logo.png",
   "rpc": [
     "https://loa-rpc.litprotocol.com"
   ],

@@ -15,7 +15,7 @@
   "chainId": 88899,
   "networkId": 88899,
   "status": "active",
-  "icon": "./chain/88899/logo",
+  "icon": "./chain/88899/logo.png",
   "explorers": [
     {
       "name": "Unite Explorer",

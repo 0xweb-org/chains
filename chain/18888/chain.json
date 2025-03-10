@@ -18,7 +18,7 @@
   "chainId": 18888,
   "networkId": 18888,
   "slip44": 1,
-  "icon": "./chain/18888/logo",
+  "icon": "./chain/18888/logo.png",
   "explorers": [
     {
       "name": "Titan Explorer",

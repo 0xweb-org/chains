@@ -21,5 +21,6 @@
       "url": "https://scan2.wegochain.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

@@ -15,7 +15,7 @@
   "shortName": "shimmerevm",
   "chainId": 148,
   "networkId": 148,
-  "icon": "./chain/148/logo",
+  "icon": "./chain/148/logo.png",
   "explorers": [
     {
       "name": "explorer",

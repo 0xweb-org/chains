@@ -23,7 +23,7 @@
   "chainId": 9997,
   "networkId": 9997,
   "slip44": 1,
-  "icon": "./chain/9997/logo",
+  "icon": "./chain/9997/logo.png",
   "explorers": [
     {
       "name": "blockscout",

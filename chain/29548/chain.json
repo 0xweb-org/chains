@@ -1,7 +1,7 @@
 {
   "name": "MCH Verse Mainnet",
   "chain": "MCH Verse",
-  "icon": "./chain/29548/logo",
+  "icon": "./chain/29548/logo.png",
   "rpc": [
     "https://rpc.oasys.mycryptoheroes.net"
   ],

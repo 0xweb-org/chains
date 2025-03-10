@@ -14,7 +14,7 @@
   "shortName": "PAXB",
   "chainId": 6701,
   "networkId": 6701,
-  "icon": "./chain/6701/logo",
+  "icon": "./chain/6701/logo.png",
   "explorers": [
     {
       "name": "PAXB Explorer",

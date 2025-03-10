@@ -16,7 +16,7 @@
   "chainId": 280,
   "networkId": 280,
   "slip44": 1,
-  "icon": "./chain/280/logo",
+  "icon": "./chain/280/logo.png",
   "explorers": [
     {
       "name": "zkSync Era Block Explorer",

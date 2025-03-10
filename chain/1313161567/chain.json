@@ -4,7 +4,7 @@
   "rpc": [
     "https://rpc-0x4e45415f.aurora-cloud.dev"
   ],
-  "icon": "./chain/1313161567/logo",
+  "icon": "./chain/1313161567/logo.png",
   "faucets": [],
   "nativeCurrency": {
     "name": "Turbo",

@@ -1,7 +1,7 @@
 {
   "name": "Hedera Mainnet",
   "chain": "Hedera",
-  "icon": "./chain/295/logo",
+  "icon": "./chain/295/logo.png",
   "rpc": [
     "https://mainnet.hashio.io/api"
   ],

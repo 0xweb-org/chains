@@ -1,7 +1,7 @@
 {
   "name": "QIE Blockchain",
   "chain": "QIE",
-  "icon": "./chain/5656/logo",
+  "icon": "./chain/5656/logo.png",
   "rpc": [
     "https://rpc-main1.qiblockchain.online/",
     "https://rpc-main2.qiblockchain.online/"

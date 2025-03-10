@@ -14,7 +14,7 @@
   "shortName": "Evoz",
   "chainId": 805,
   "networkId": 805,
-  "icon": "./chain/805/logo",
+  "icon": "./chain/805/logo.png",
   "explorers": [
     {
       "name": "evozscan",

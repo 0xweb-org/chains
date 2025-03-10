@@ -16,7 +16,7 @@
   "shortName": "laika",
   "chainId": 6942,
   "networkId": 6942,
-  "icon": "./chain/6942/logo",
+  "icon": "./chain/6942/logo.png",
   "explorers": [
     {
       "name": "Laika Mainnet Explorer",

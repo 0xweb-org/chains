@@ -15,5 +15,6 @@
   "shortName": "chad",
   "chainId": 97912060,
   "networkId": 97912060,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

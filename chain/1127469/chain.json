@@ -25,5 +25,6 @@
       "url": "http://testnet-explorer.tiltyard.gg",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

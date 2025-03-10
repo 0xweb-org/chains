@@ -1,7 +1,7 @@
 {
   "name": "DCpay Mainnet",
   "chain": "DCpay",
-  "icon": "./chain/21223/logo",
+  "icon": "./chain/21223/logo.png",
   "rpc": [
     "https://rpc.dcpay.io"
   ],

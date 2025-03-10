@@ -1,7 +1,7 @@
 {
   "name": "Quantum Chain Testnet",
   "chain": "tQNET",
-  "icon": "./chain/12890/logo",
+  "icon": "./chain/12890/logo.png",
   "rpc": [
     "https://testnet-rpc.quantumscan.org"
   ],

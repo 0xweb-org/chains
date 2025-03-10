@@ -14,7 +14,7 @@
   "shortName": "wbt",
   "chainId": 1875,
   "networkId": 1875,
-  "icon": "./chain/1875/logo",
+  "icon": "./chain/1875/logo.png",
   "explorers": [
     {
       "name": "whitechain-explorer",

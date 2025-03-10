@@ -1,7 +1,7 @@
 {
   "name": "Anytype EVM Chain",
   "chain": "ETH",
-  "icon": "./chain/1701/logo",
+  "icon": "./chain/1701/logo.png",
   "rpc": [
     "https://geth.anytype.io"
   ],

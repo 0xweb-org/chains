@@ -1,7 +1,7 @@
 {
   "name": "Debounce Subnet Testnet",
   "chain": "Debounce Network",
-  "icon": "./chain/3306/logo",
+  "icon": "./chain/3306/logo.png",
   "rpc": [
     "https://dev-rpc.debounce.network"
   ],

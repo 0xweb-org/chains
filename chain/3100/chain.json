@@ -15,5 +15,6 @@
   "shortName": "Immu3",
   "chainId": 3100,
   "networkId": 3100,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

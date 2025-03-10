@@ -2,7 +2,7 @@
   "name": "Cuckoo Chain",
   "title": "Cuckoo Chain",
   "chain": "CuckooAI",
-  "icon": "./chain/1200/logo",
+  "icon": "./chain/1200/logo.png",
   "rpc": [
     "https://mainnet-rpc.cuckoo.network",
     "wss://mainnet-rpc.cuckoo.network"

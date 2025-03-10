@@ -19,7 +19,7 @@
   "shortName": "3ULL",
   "chainId": 3011,
   "networkId": 3011,
-  "icon": "./chain/3011/logo",
+  "icon": "./chain/3011/logo.png",
   "explorers": [
     {
       "name": "PLAYA3ULL GAMES Explorer",

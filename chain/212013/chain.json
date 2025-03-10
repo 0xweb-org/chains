@@ -17,7 +17,7 @@
   "shortName": "heima",
   "chainId": 212013,
   "networkId": 212013,
-  "icon": "./chain/212013/logo",
+  "icon": "./chain/212013/logo.png",
   "explorers": [
     {
       "name": "heima statescan",

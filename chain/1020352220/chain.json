@@ -2,6 +2,7 @@
   "name": "SKALE Titan Hub Testnet",
   "title": "SKALE Titan Hub Testnet",
   "chain": "aware-fake-trim-testnet",
+  "icon": "./chain/1020352220/logo.png",
   "rpc": [
     "https://testnet.skalenodes.com/v1/aware-fake-trim-testnet",
     "wss://testnet.skalenodes.com/v1/ws/aware-fake-trim-testnet"

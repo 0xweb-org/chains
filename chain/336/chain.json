@@ -19,7 +19,7 @@
   "shortName": "sdn",
   "chainId": 336,
   "networkId": 336,
-  "icon": null,
+  "icon": "./chain/336/logo.png",
   "explorers": [
     {
       "name": "subscan",

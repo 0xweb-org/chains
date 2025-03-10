@@ -1,7 +1,7 @@
 {
   "name": "Sidra Chain",
   "chain": "SIDRA",
-  "icon": "./chain/97453/logo",
+  "icon": "./chain/97453/logo.png",
   "rpc": [
     "https://node.sidrachain.com"
   ],

@@ -1,7 +1,7 @@
 {
   "name": "WoopChain Mainnet",
   "chain": "WOOP",
-  "icon": null,
+  "icon": "./chain/139/logo.png",
   "rpc": [
     "https://rpc.woop.ai/rpc"
   ],

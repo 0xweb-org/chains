@@ -16,7 +16,7 @@
   "shortName": "esync-mainnet",
   "chainId": 63000,
   "networkId": 63000,
-  "icon": "./chain/63000/logo",
+  "icon": "./chain/63000/logo.png",
   "explorers": [
     {
       "name": "eSync Network Mainnet Explorer",

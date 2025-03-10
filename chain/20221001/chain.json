@@ -24,7 +24,7 @@
   "shortName": "Soon-Devnet",
   "chainId": 20221001,
   "networkId": 20221001,
-  "icon": "./chain/20221001/logo",
+  "icon": "./chain/20221001/logo.png",
   "explorers": [
     {
       "name": "Soon Scan",

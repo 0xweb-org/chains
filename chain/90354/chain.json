@@ -1,7 +1,7 @@
 {
   "name": "Camp Testnet",
   "chain": "ETH",
-  "icon": "./chain/90354/logo",
+  "icon": "./chain/90354/logo.png",
   "features": [
     {
       "name": "EIP155"

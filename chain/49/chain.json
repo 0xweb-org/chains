@@ -15,7 +15,7 @@
   "chainId": 49,
   "networkId": 49,
   "slip44": 1,
-  "icon": "./chain/49/logo",
+  "icon": "./chain/49/logo.png",
   "explorers": [
     {
       "name": "etmp",

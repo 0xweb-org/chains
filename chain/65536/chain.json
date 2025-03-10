@@ -15,7 +15,7 @@
   "shortName": "automatamainnet",
   "chainId": 65536,
   "networkId": 65536,
-  "icon": "./chain/65536/logo",
+  "icon": "./chain/65536/logo.png",
   "explorers": [
     {
       "name": "Automata Explorer",

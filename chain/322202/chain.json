@@ -15,7 +15,7 @@
   "shortName": "parex",
   "chainId": 322202,
   "networkId": 322202,
-  "icon": "./chain/322202/logo",
+  "icon": "./chain/322202/logo.png",
   "explorers": [
     {
       "name": "Parex Mainnet Explorer",

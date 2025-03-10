@@ -14,7 +14,7 @@
   "shortName": "PHI",
   "chainId": 144,
   "networkId": 144,
-  "icon": "./chain/144/logo",
+  "icon": "./chain/144/logo.png",
   "explorers": [
     {
       "name": "Phiscan",

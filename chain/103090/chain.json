@@ -15,6 +15,7 @@
   "shortName": "CRFI",
   "chainId": 103090,
   "networkId": 1,
+  "icon": null,
   "explorers": [
     {
       "name": "blockscout",

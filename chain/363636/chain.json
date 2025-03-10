@@ -5,7 +5,7 @@
     "https://dgs-rpc.digitsoul.co.th"
   ],
   "faucets": [],
-  "icon": "./chain/363636/logo",
+  "icon": "./chain/363636/logo.png",
   "nativeCurrency": {
     "name": "Digit Coin",
     "symbol": "DGC",

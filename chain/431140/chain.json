@@ -1,7 +1,7 @@
 {
   "name": "Markr Go",
   "chain": "Unified",
-  "icon": "./chain/431140/logo",
+  "icon": "./chain/431140/logo.png",
   "rpc": [
     "https://rpc.markr.io/ext/"
   ],

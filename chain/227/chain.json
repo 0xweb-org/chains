@@ -1,7 +1,7 @@
 {
   "name": "Prom",
   "chain": "Prom",
-  "icon": "./chain/227/logo",
+  "icon": "./chain/227/logo.png",
   "rpc": [
     "https://prom-rpc.eu-north-2.gateway.fm"
   ],

@@ -15,7 +15,7 @@
   "shortName": "rebus-testnet",
   "chainId": 3033,
   "networkId": 3033,
-  "icon": "./chain/3033/logo",
+  "icon": "./chain/3033/logo.png",
   "explorers": [
     {
       "name": "Rebus EVM Explorer (Blockscout)",

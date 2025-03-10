@@ -2,7 +2,7 @@
   "name": "Step Network",
   "title": "Step Main Network",
   "chain": "STEP",
-  "icon": "./chain/1234/logo",
+  "icon": "./chain/1234/logo.png",
   "rpc": [
     "https://rpc.step.network"
   ],

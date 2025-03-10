@@ -15,7 +15,7 @@
   "shortName": "tangle",
   "chainId": 5845,
   "networkId": 5845,
-  "icon": "./chain/5845/logo",
+  "icon": "./chain/5845/logo.png",
   "explorers": [
     {
       "name": "Tangle EVM Explorer",

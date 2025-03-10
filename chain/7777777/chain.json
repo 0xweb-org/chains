@@ -10,7 +10,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "icon": "./chain/7777777/logo",
+  "icon": "./chain/7777777/logo.png",
   "infoURL": "https://zora.energy",
   "shortName": "zora",
   "chainId": 7777777,

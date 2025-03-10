@@ -3,7 +3,7 @@
   "chainId": 686868,
   "shortName": "WonChain",
   "chain": "WON",
-  "icon": "./chain/686868/logo",
+  "icon": "./chain/686868/logo.png",
   "networkId": 686868,
   "nativeCurrency": {
     "name": "Won",

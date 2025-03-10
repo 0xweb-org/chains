@@ -16,7 +16,7 @@
   "shortName": "Nexa",
   "chainId": 9025,
   "networkId": 9025,
-  "icon": "./chain/9025/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "Nexablock Mainnet Explorer",

@@ -2,6 +2,7 @@
   "name": "IOTA EVM Testnet",
   "title": "IOTA EVM Testnet",
   "chain": "IOTA EVM",
+  "icon": "./chain/1075/logo.png",
   "rpc": [
     "https://json-rpc.evm.testnet.iotaledger.net"
   ],

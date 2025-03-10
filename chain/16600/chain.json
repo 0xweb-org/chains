@@ -16,7 +16,7 @@
   "shortName": "0gai-testnet",
   "chainId": 16600,
   "networkId": 16600,
-  "icon": "./chain/16600/logo",
+  "icon": "./chain/16600/logo.png",
   "explorers": [
     {
       "name": "0G BlockChain Explorer",

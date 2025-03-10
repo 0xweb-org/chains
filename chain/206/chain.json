@@ -15,7 +15,7 @@
   "chainId": 206,
   "networkId": 206,
   "slip44": 1,
-  "icon": "./chain/206/logo",
+  "icon": "./chain/206/logo.png",
   "explorers": [
     {
       "name": "VinuScan Testnet",

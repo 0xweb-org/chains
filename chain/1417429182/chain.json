@@ -17,7 +17,7 @@
   "shortName": "zephyr",
   "chainId": 1417429182,
   "networkId": 1417429182,
-  "icon": "./chain/1417429182/logo",
+  "icon": "./chain/1417429182/logo.png",
   "explorers": [
     {
       "name": "blockscout",

@@ -16,7 +16,7 @@
   "shortName": "talv",
   "chainId": 25839,
   "networkId": 25839,
-  "icon": "./chain/25839/logo",
+  "icon": "./chain/25839/logo.png",
   "explorers": [
     {
       "name": "AlveyScan Testnet",

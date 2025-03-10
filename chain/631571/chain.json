@@ -16,7 +16,7 @@
   "chainId": 631571,
   "networkId": 631571,
   "status": "active",
-  "icon": "./chain/631571/logo",
+  "icon": "./chain/631571/logo.png",
   "explorers": [
     {
       "name": "Polter Testnet Explorer",

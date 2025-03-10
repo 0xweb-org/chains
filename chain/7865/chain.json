@@ -14,7 +14,7 @@
   "shortName": "power",
   "chainId": 7865,
   "networkId": 7865,
-  "icon": "./chain/7865/logo",
+  "icon": "./chain/7865/logo.png",
   "status": "active",
   "explorers": [
     {

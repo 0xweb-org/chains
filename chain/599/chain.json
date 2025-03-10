@@ -33,5 +33,6 @@
       }
     ]
   },
-  "status": "deprecated"
+  "status": "deprecated",
+  "icon": null
 }

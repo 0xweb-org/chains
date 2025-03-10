@@ -16,7 +16,7 @@
   "shortName": "corn",
   "chainId": 21000000,
   "networkId": 21000000,
-  "icon": "./chain/21000000/logo",
+  "icon": "./chain/21000000/logo.png",
   "explorers": [
     {
       "name": "Corn Explorer",

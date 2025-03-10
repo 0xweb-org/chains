@@ -1,7 +1,7 @@
 {
   "name": "SEC Mainnet",
   "chain": "SEC",
-  "icon": "./chain/19516/logo",
+  "icon": "./chain/19516/logo.png",
   "rpc": [
     "https://rpc.secexplorer.io"
   ],

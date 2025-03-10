@@ -1,7 +1,7 @@
 {
   "name": "SatoshiChain Mainnet",
   "chain": "SATS",
-  "icon": "./chain/12009/logo",
+  "icon": "./chain/12009/logo.png",
   "rpc": [
     "https://mainnet-rpc.satoshichain.io"
   ],

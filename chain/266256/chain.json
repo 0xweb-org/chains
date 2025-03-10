@@ -15,5 +15,6 @@
   "chainId": 266256,
   "networkId": 266256,
   "slip44": 1,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

@@ -13,5 +13,6 @@
   "infoURL": "https://www.ebrochain.com",
   "shortName": "ebro",
   "chainId": 2306,
-  "networkId": 2306
+  "networkId": 2306,
+  "icon": null
 }

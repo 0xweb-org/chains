@@ -18,7 +18,7 @@
   "shortName": "sei-devnet",
   "chainId": 713715,
   "networkId": 713715,
-  "icon": "./chain/713715/logo",
+  "icon": "./chain/713715/logo.png",
   "explorers": [
     {
       "name": "Seistream",

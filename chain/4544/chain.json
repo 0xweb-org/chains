@@ -17,7 +17,7 @@
   "chainId": 4544,
   "networkId": 4544,
   "slip44": 118,
-  "icon": "./chain/4544/logo",
+  "icon": "./chain/4544/logo.png",
   "explorers": [
     {
       "name": "EMoney Explorer",

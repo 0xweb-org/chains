@@ -1,7 +1,7 @@
 {
   "name": "ZERO Network",
   "chain": "ZERONetwork",
-  "icon": "./chain/543210/logo",
+  "icon": "./chain/543210/logo.png",
   "rpc": [
     "https://rpc.zerion.io/v1/zero"
   ],

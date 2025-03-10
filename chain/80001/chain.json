@@ -2,7 +2,7 @@
   "name": "Mumbai",
   "title": "Polygon Testnet Mumbai",
   "chain": "Polygon",
-  "icon": "./chain/80001/logo",
+  "icon": "./chain/80001/logo.png",
   "rpc": [
     "https://rpc-mumbai.maticvigil.com",
     "https://polygon-mumbai-bor-rpc.publicnode.com",

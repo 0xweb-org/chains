@@ -2,7 +2,7 @@
   "name": "K-LAOS",
   "title": "K-LAOS: LAOS on Kusama",
   "chain": "K-LAOS",
-  "icon": "./chain/2718/logo",
+  "icon": "./chain/2718/logo.png",
   "rpc": [
     "https://rpc.klaos.laosfoundation.io",
     "wss://rpc.klaos.laosfoundation.io"

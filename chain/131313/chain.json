@@ -16,7 +16,7 @@
   "shortName": "DIONE",
   "chainId": 131313,
   "networkId": 131313,
-  "icon": "./chain/131313/logo",
+  "icon": "./chain/131313/logo.png",
   "nativeCurrency": {
     "name": "DIONE",
     "symbol": "DIONE",

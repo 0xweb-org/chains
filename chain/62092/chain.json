@@ -1,7 +1,7 @@
 {
   "name": "TikTrix Testnet",
   "chain": "tTTX",
-  "icon": "./chain/62092/logo",
+  "icon": "./chain/62092/logo.png",
   "rpc": [
     "https://tiktrix-rpc.xyz"
   ],

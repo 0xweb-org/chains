@@ -19,7 +19,7 @@
     }
   ],
   "infoURL": "https://app.treasure.lol",
-  "icon": "./chain/978657/logo",
+  "icon": "./chain/978657/logo.png",
   "rpc": [],
   "faucets": [],
   "status": "deprecated",

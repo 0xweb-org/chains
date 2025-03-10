@@ -22,7 +22,7 @@
   "shortName": "DOID",
   "chainId": 53277,
   "networkId": 53277,
-  "icon": "./chain/53277/logo",
+  "icon": "./chain/53277/logo.png",
   "explorers": [
     {
       "name": "DOID Scan",

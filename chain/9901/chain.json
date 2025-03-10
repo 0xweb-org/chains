@@ -1,7 +1,7 @@
 {
   "name": "Zytron Linea Mainnet",
   "chain": "ETH",
-  "icon": "./chain/9901/logo",
+  "icon": "./chain/9901/logo.png",
   "rpc": [
     "https://rpc.zypher.network/"
   ],

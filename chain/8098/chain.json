@@ -13,5 +13,6 @@
   "infoURL": "https://www.streamux.cloud",
   "shortName": "StreamuX",
   "chainId": 8098,
-  "networkId": 8098
+  "networkId": 8098,
+  "icon": null
 }

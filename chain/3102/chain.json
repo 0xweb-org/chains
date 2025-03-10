@@ -15,5 +15,6 @@
   "shortName": "VFI",
   "chainId": 3102,
   "networkId": 3102,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

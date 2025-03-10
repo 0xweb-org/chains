@@ -1,6 +1,7 @@
 {
   "name": "Gnosis",
   "chain": "GNO",
+  "icon": "./chain/100/logo.png",
   "rpc": [
     "https://rpc.gnosischain.com",
     "https://rpc.gnosis.gateway.fm",

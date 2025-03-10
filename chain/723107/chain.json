@@ -20,5 +20,6 @@
       "url": "https://subnets-test.avax.network/tixchain",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

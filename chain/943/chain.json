@@ -4,7 +4,7 @@
   "chain": "t4PLS",
   "chainId": 943,
   "networkId": 943,
-  "icon": "./chain/943/logo",
+  "icon": "./chain/943/logo.png",
   "infoURL": "https://pulsechain.com",
   "rpc": [
     "https://rpc.v4.testnet.pulsechain.com",

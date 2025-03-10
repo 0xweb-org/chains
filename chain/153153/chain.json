@@ -14,7 +14,7 @@
   "shortName": "Odyssey",
   "chainId": 153153,
   "networkId": 153153,
-  "icon": "./chain/153153/logo",
+  "icon": "./chain/153153/logo.png",
   "nativeCurrency": {
     "name": "DIONE",
     "symbol": "DIONE",

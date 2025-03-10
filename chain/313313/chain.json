@@ -22,7 +22,7 @@
   "shortName": "saharatest",
   "chainId": 313313,
   "networkId": 313313,
-  "icon": "./chain/313313/logo",
+  "icon": "./chain/313313/logo.png",
   "explorers": [
     {
       "name": "Testnet Scan",

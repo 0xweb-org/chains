@@ -12,7 +12,7 @@
   },
   "infoURL": "https://gesoten.com/",
   "shortName": "GSV",
-  "icon": "./chain/428/logo",
+  "icon": "./chain/428/logo.png",
   "chainId": 428,
   "networkId": 428,
   "explorers": [

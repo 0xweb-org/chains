@@ -1,7 +1,7 @@
 {
   "name": "Blockton Blockchain",
   "chain": "Blockton Blockchain",
-  "icon": "./chain/8272/logo",
+  "icon": "./chain/8272/logo.png",
   "rpc": [
     "https://rpc.blocktonscan.com/"
   ],

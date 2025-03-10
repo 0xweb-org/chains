@@ -15,7 +15,7 @@
   "shortName": "ZKSats-Mainnet",
   "chainId": 305,
   "networkId": 305,
-  "icon": "./chain/305/logo",
+  "icon": "./chain/305/logo.png",
   "explorers": [
     {
       "name": "blockscout",

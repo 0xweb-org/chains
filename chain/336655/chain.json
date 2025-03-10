@@ -21,7 +21,7 @@
   "shortName": "UPchain-testnet",
   "chainId": 336655,
   "networkId": 336655,
-  "icon": "./chain/336655/logo",
+  "icon": "./chain/336655/logo.png",
   "explorers": [
     {
       "name": "UPchain Testnet Explorer",

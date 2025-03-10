@@ -14,6 +14,6 @@
   "shortName": "nibiru-testnet-1",
   "chainId": 7210,
   "networkId": 7210,
-  "icon": "./chain/7210/logo",
+  "icon": "./chain/7210/logo.png",
   "explorers": []
 }

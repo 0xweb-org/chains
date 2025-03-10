@@ -10,7 +10,7 @@
     "symbol": "DOJ",
     "decimals": 18
   },
-  "icon": "./chain/187/logo",
+  "icon": "./chain/187/logo.png",
   "infoURL": "https://www.dojima.network/",
   "shortName": "dojima",
   "chainId": 187,

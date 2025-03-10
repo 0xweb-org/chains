@@ -3,7 +3,7 @@
   "chainId": 333333,
   "shortName": "N3-Test",
   "chain": "N3-Test",
-  "icon": "./chain/333333/logo",
+  "icon": "./chain/333333/logo.png",
   "networkId": 333333,
   "slip44": 1,
   "nativeCurrency": {

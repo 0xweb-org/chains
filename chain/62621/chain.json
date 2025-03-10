@@ -1,7 +1,7 @@
 {
   "name": "MultiVAC Mainnet",
   "chain": "MultiVAC",
-  "icon": "./chain/62621/logo",
+  "icon": "./chain/62621/logo.png",
   "rpc": [
     "https://rpc.mtv.ac",
     "https://rpc-eu.mtv.ac"

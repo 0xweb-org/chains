@@ -16,7 +16,7 @@
   "chainId": 63157,
   "networkId": 63157,
   "status": "active",
-  "icon": "./chain/63157/logo",
+  "icon": "./chain/63157/logo.png",
   "explorers": [
     {
       "name": "Geist Explorer",

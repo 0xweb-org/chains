@@ -1,7 +1,7 @@
 {
   "name": "NOW Chain Testnet",
   "chain": "NOW",
-  "icon": "./chain/2014/logo",
+  "icon": "./chain/2014/logo.png",
   "rpc": [
     "https://rpc-testnet.nowscan.io"
   ],

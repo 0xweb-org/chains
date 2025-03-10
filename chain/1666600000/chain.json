@@ -30,5 +30,6 @@
       "url": "https://explorer.harmony.one",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": "./chain/1666600000/logo.png"
 }

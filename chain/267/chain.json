@@ -2,7 +2,7 @@
   "name": "Neura Testnet",
   "title": "Neura Testnet",
   "chain": "NEURA",
-  "icon": null,
+  "icon": "./chain/267/logo.png",
   "rpc": [
     "https://rpc.ankr.com/neura_testnet"
   ],

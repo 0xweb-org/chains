@@ -21,5 +21,6 @@
       "url": "https://scan.nftruth.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

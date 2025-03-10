@@ -1,7 +1,7 @@
 {
   "name": "Dexalot Subnet Testnet",
   "chain": "DEXALOT",
-  "icon": "./chain/432201/logo",
+  "icon": "./chain/432201/logo.png",
   "rpc": [
     "https://subnets.avax.network/dexalot/testnet/rpc"
   ],

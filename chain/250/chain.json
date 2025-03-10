@@ -18,7 +18,7 @@
   "shortName": "ftm",
   "chainId": 250,
   "networkId": 250,
-  "icon": null,
+  "icon": "./chain/250/logo.png",
   "explorers": [
     {
       "name": "ftmscan",

@@ -22,7 +22,7 @@
   "shortName": "etn-mainnet",
   "chainId": 52014,
   "networkId": 52014,
-  "icon": null,
+  "icon": "./chain/52014/logo.png",
   "explorers": [
     {
       "name": "blockscout",

@@ -1,7 +1,7 @@
 {
   "name": "Adil Chain V2 Mainnet",
   "chain": "ADIL",
-  "icon": "./chain/7576/logo",
+  "icon": "./chain/7576/logo.png",
   "rpc": [
     "https://adilchain-rpc.io"
   ],

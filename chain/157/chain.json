@@ -1,7 +1,7 @@
 {
   "name": "Puppynet",
   "chain": "Puppynet",
-  "icon": "./chain/157/logo",
+  "icon": "./chain/157/logo.png",
   "rpc": [
     "https://puppynet.shibrpc.com"
   ],

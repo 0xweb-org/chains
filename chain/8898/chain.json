@@ -19,7 +19,7 @@
   "shortName": "mmt",
   "chainId": 8898,
   "networkId": 8898,
-  "icon": "./chain/8898/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "mmtscan",

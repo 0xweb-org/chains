@@ -30,5 +30,6 @@
       "url": "https://explorer.helium.fhenix.zone",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

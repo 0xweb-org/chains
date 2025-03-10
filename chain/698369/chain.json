@@ -17,6 +17,6 @@
   "shortName": "goldpn",
   "chainId": 698369,
   "networkId": 698369,
-  "icon": "./chain/698369/logo",
+  "icon": null,
   "explorers": []
 }

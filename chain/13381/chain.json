@@ -14,7 +14,7 @@
   "shortName": "Phoenix",
   "chainId": 13381,
   "networkId": 13381,
-  "icon": "./chain/13381/logo",
+  "icon": "./chain/13381/logo.png",
   "explorers": [
     {
       "name": "phoenixplorer",

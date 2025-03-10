@@ -1,7 +1,7 @@
 {
   "name": "Zoo Mainnet",
   "chain": "Zoo",
-  "icon": "./chain/200200/logo",
+  "icon": "./chain/200200/logo.png",
   "rpc": [
     "https://api.zoo.network"
   ],

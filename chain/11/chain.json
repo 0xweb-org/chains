@@ -14,5 +14,6 @@
   "shortName": "meta",
   "chainId": 11,
   "networkId": 11,
-  "slip44": 916
+  "slip44": 916,
+  "icon": null
 }

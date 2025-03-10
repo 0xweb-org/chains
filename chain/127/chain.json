@@ -12,5 +12,6 @@
   "shortName": "feth",
   "chainId": 127,
   "networkId": 127,
-  "slip44": 127
+  "slip44": 127,
+  "icon": null
 }

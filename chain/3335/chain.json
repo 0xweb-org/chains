@@ -25,5 +25,6 @@
       "url": "https://explorer.beta.testnet.l2.quarkchain.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

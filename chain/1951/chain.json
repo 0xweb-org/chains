@@ -12,7 +12,7 @@
   "shortName": "dchain-mainnet",
   "chainId": 1951,
   "networkId": 1951,
-  "icon": "./chain/1951/logo",
+  "icon": "./chain/1951/logo.png",
   "faucets": [],
   "infoURL": ""
 }

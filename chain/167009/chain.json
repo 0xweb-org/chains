@@ -2,7 +2,7 @@
   "name": "Taiko Hekla",
   "chain": "ETH",
   "status": "active",
-  "icon": "./chain/167009/logo",
+  "icon": "./chain/167009/logo.png",
   "rpc": [
     "https://rpc.hekla.taiko.xyz",
     "wss://ws.hekla.taiko.xyz",

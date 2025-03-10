@@ -1,7 +1,7 @@
 {
   "name": "Miexs Smartchain",
   "chain": "MiexsSmartchain",
-  "icon": "./chain/761412/logo",
+  "icon": null,
   "rpc": [
     "https://mainnet-rpc.miexs.com"
   ],

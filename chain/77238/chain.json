@@ -1,7 +1,7 @@
 {
   "name": "Foundry Chain Testnet",
   "chain": "tFNC",
-  "icon": "./chain/77238/logo",
+  "icon": null,
   "rpc": [
     "https://testnet-rpc.foundryscan.org/"
   ],

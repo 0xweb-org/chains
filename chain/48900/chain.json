@@ -1,7 +1,7 @@
 {
   "name": "Zircuit Mainnet",
   "chain": "Zircuit Mainnet",
-  "icon": "./chain/48900/logo",
+  "icon": "./chain/48900/logo.png",
   "rpc": [
     "https://zircuit1-mainnet.p2pify.com/"
   ],

@@ -2,7 +2,7 @@
   "name": "Ancient8 Testnet (deprecated)",
   "status": "deprecated",
   "chain": "Ancient8",
-  "icon": "./chain/2863311531/logo",
+  "icon": "./chain/2863311531/logo.png",
   "rpc": [
     "https://rpc-testnet.ancient8.gg"
   ],

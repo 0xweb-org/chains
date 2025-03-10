@@ -2,7 +2,7 @@
   "name": "COTI Devnet",
   "title": "COTI Devnet",
   "chain": "COTI",
-  "icon": "./chain/13068200/logo",
+  "icon": "./chain/13068200/logo.png",
   "rpc": [
     "https://devnet.coti.io/rpc"
   ],

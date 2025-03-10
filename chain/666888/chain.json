@@ -1,7 +1,7 @@
 {
   "name": "Hela Official Runtime Testnet",
   "chain": "Hela",
-  "icon": null,
+  "icon": "./chain/666888/logo.png",
   "rpc": [
     "https://testnet-rpc.helachain.com"
   ],

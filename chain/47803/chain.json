@@ -1,7 +1,7 @@
 {
   "name": "ReDeFi Layer 1",
   "chain": "ReDeFi",
-  "icon": "./chain/47803/logo",
+  "icon": "./chain/47803/logo.png",
   "rpc": [
     "https://layer1.redefi.world"
   ],

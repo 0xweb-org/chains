@@ -16,7 +16,7 @@
   "shortName": "cfxtest",
   "chainId": 71,
   "networkId": 71,
-  "icon": "./chain/71/logo",
+  "icon": "./chain/71/logo.png",
   "explorers": [
     {
       "name": "Conflux Scan",

@@ -14,7 +14,7 @@
   "shortName": "pmon",
   "chainId": 42001,
   "networkId": 42001,
-  "icon": "./chain/42001/logo",
+  "icon": "./chain/42001/logo.png",
   "explorers": [
     {
       "name": "blockscout",

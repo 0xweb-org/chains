@@ -22,7 +22,7 @@
   "shortName": "uxlink1",
   "chainId": 718,
   "networkId": 718,
-  "icon": "./chain/718/logo",
+  "icon": "./chain/718/logo.png",
   "explorers": [
     {
       "name": "UXLINK ONE Mainnet Explorer",

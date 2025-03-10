@@ -15,7 +15,7 @@
   "shortName": "swellchain-sep",
   "chainId": 1924,
   "networkId": 1924,
-  "icon": "./chain/1924/logo",
+  "icon": "./chain/1924/logo.png",
   "explorers": [
     {
       "name": "Swellchain Testnet Explorer",

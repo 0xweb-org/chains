@@ -1,7 +1,7 @@
 {
   "name": "Core Blockchain Testnet",
   "chain": "Core",
-  "icon": "./chain/1115/logo",
+  "icon": "./chain/1115/logo.png",
   "rpc": [
     "https://rpc.test.btcs.network/"
   ],

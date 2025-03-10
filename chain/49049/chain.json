@@ -2,7 +2,7 @@
   "name": "Wireshape Floripa Testnet",
   "title": "Wireshape Floripa Testnet",
   "chain": "Wireshape",
-  "icon": "./chain/49049/logo",
+  "icon": "./chain/49049/logo.png",
   "rpc": [
     "https://rpc-floripa.wireshape.org",
     "https://wireshape-floripa-testnet.rpc.thirdweb.com"

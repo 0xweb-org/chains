@@ -15,7 +15,7 @@
   "shortName": "rebus",
   "chainId": 9696,
   "networkId": 9696,
-  "icon": "./chain/9696/logo",
+  "icon": "./chain/9696/logo.png",
   "explorers": [
     {
       "name": "Rebus EVM Explorer (Blockscout)",

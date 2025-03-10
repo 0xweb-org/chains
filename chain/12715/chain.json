@@ -2,7 +2,7 @@
   "name": "Rikeza Network Testnet",
   "title": "Rikeza Network Testnet",
   "chain": "Rikeza",
-  "icon": "./chain/12715/logo",
+  "icon": "./chain/12715/logo.png",
   "rpc": [
     "https://testnet-rpc.rikscan.com"
   ],

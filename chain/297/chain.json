@@ -1,7 +1,7 @@
 {
   "name": "Hedera Previewnet",
   "chain": "Hedera",
-  "icon": "./chain/297/logo",
+  "icon": "./chain/297/logo.png",
   "rpc": [
     "https://previewnet.hashio.io/api"
   ],

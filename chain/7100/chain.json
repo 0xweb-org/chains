@@ -15,7 +15,7 @@
   "shortName": "nume",
   "chainId": 7100,
   "networkId": 7100,
-  "icon": "./chain/7100/logo",
+  "icon": "./chain/7100/logo.png",
   "explorers": [
     {
       "name": "numeexplorer",

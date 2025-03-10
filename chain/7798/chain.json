@@ -2,7 +2,7 @@
   "name": "OpenEX LONG Testnet",
   "title": "OpenEX LONG Testnet",
   "chain": "OEX",
-  "icon": "./chain/7798/logo",
+  "icon": null,
   "rpc": [
     "https://long.rpc.openex.network/"
   ],

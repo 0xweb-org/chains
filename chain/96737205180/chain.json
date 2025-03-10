@@ -24,7 +24,7 @@
   "shortName": "ald",
   "chainId": 96737205180,
   "networkId": 96737205180,
-  "icon": "./chain/96737205180/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "ALDChain Testnet Explorer",

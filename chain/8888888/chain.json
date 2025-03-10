@@ -13,6 +13,6 @@
   "shortName": "quarix",
   "chainId": 8888888,
   "networkId": 8888888,
-  "icon": "./chain/8888888/logo",
+  "icon": null,
   "explorers": []
 }

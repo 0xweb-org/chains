@@ -12,5 +12,6 @@
   "shortName": "tubq",
   "chainId": 9,
   "networkId": 2,
-  "slip44": 1
+  "slip44": 1,
+  "icon": null
 }

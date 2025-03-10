@@ -4,7 +4,7 @@
   "rpc": [
     "https://eth-rpc.testnet.near.org"
   ],
-  "icon": "./chain/398/logo",
+  "icon": "./chain/398/logo.png",
   "faucets": [],
   "nativeCurrency": {
     "name": "NEAR",

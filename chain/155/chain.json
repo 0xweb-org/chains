@@ -2,7 +2,7 @@
   "name": "Tenet Testnet",
   "title": "Tenet Testnet",
   "chain": "TENET",
-  "icon": "./chain/155/logo",
+  "icon": "./chain/155/logo.png",
   "rpc": [
     "https://rpc.testnet.tenet.org"
   ],

@@ -10,7 +10,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "meermix",
-  "icon": "./chain/8132/logo",
+  "icon": "./chain/8132/logo.png",
   "chainId": 8132,
   "networkId": 8132,
   "status": "incubating"

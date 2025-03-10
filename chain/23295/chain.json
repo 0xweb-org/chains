@@ -1,7 +1,7 @@
 {
   "name": "Oasis Sapphire Testnet",
   "chain": "Sapphire",
-  "icon": "./chain/23295/logo",
+  "icon": "./chain/23295/logo.png",
   "rpc": [
     "https://testnet.sapphire.oasis.io",
     "wss://testnet.sapphire.oasis.io/ws"

@@ -17,7 +17,7 @@
   "shortName": "Qubetics",
   "chainId": 9003,
   "networkId": 9003,
-  "icon": "./chain/9003/logo",
+  "icon": "./chain/9003/logo.png",
   "explorers": [
     {
       "name": "Qubetics Testnet Explorer",

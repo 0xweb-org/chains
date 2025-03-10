@@ -1,7 +1,7 @@
 {
   "name": "CURVE Mainnet",
   "chain": "CURVE",
-  "icon": "./chain/827431/logo",
+  "icon": null,
   "rpc": [
     "https://mainnet-rpc.curvescan.io"
   ],

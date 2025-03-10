@@ -17,7 +17,7 @@
   "chainId": 1252,
   "networkId": 1252,
   "slip44": 1,
-  "icon": "./chain/1252/logo",
+  "icon": "./chain/1252/logo.png",
   "explorers": [
     {
       "name": "CICscan",

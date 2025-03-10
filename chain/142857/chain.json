@@ -1,7 +1,7 @@
 {
   "name": "ICPlaza Mainnet",
   "chain": "ICPlaza",
-  "icon": null,
+  "icon": "./chain/142857/logo.png",
   "rpc": [
     "https://rpcmainnet.ic-plaza.org/"
   ],

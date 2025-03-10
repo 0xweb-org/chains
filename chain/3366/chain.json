@@ -1,7 +1,7 @@
 {
   "name": "Meroneum",
   "chain": "MERON",
-  "icon": "./chain/3366/logo",
+  "icon": "./chain/3366/logo.png",
   "rpc": [
     "https://mainnet-node1.meronscan.ai/",
     "https://mainnet-node2.meronscan.ai/",

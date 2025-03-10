@@ -15,7 +15,7 @@
   "shortName": "fury",
   "chainId": 710,
   "networkId": 710,
-  "icon": "./chain/710/logo",
+  "icon": "./chain/710/logo.png",
   "explorers": [
     {
       "name": "Furya EVM Explorer",

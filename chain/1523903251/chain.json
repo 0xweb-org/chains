@@ -23,7 +23,7 @@
   "shortName": "HaustTestnet",
   "chainId": 1523903251,
   "networkId": 1523903251,
-  "icon": "./chain/1523903251/logo",
+  "icon": "./chain/1523903251/logo.png",
   "explorers": [
     {
       "name": "Haust Network Testnet Explorer",

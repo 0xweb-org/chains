@@ -1,7 +1,7 @@
 {
   "name": "EOS EVM Network",
   "chain": "EOS",
-  "icon": "./chain/17777/logo",
+  "icon": "./chain/17777/logo.png",
   "rpc": [
     "https://api.evm.eosnetwork.com"
   ],

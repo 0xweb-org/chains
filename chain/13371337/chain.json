@@ -13,5 +13,6 @@
   "infoURL": "https://pepchain.io",
   "shortName": "tpep",
   "chainId": 13371337,
-  "networkId": 13371337
+  "networkId": 13371337,
+  "icon": null
 }

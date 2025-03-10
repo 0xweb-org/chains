@@ -21,5 +21,6 @@
       "icon": "Tettoken256",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

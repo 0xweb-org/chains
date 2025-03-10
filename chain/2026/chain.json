@@ -25,5 +25,6 @@
       "url": "https://explorer.edgeless.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

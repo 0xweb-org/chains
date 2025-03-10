@@ -18,7 +18,7 @@
   "chainId": 63002,
   "networkId": 63002,
   "slip44": 1,
-  "icon": "./chain/63002/logo",
+  "icon": "./chain/63002/logo.png",
   "explorers": [
     {
       "name": "eSync Network Testnet Explorer",

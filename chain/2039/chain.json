@@ -1,7 +1,7 @@
 {
   "name": "Aleph Zero",
   "chain": "Aleph Zero",
-  "icon": "./chain/2039/logo",
+  "icon": "./chain/2039/logo.png",
   "rpc": [
     "https://rpc.alephzero-testnet.gelato.digital",
     "wss://rpc.alephzero-testnet.gelato.digital"

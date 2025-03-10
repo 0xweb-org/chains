@@ -1,6 +1,6 @@
 {
   "name": "Opal testnet by Unique",
-  "icon": "./chain/8882/logo",
+  "icon": "./chain/8882/logo.png",
   "chain": "UNQ",
   "rpc": [
     "https://rpc-opal.unique.network",

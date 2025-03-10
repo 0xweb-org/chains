@@ -1,7 +1,7 @@
 {
   "name": "Openpiece Mainnet",
   "chain": "OPENPIECE",
-  "icon": "./chain/54/logo",
+  "icon": "./chain/54/logo.png",
   "rpc": [
     "https://mainnet.openpiece.io"
   ],

@@ -16,7 +16,7 @@
   "shortName": "DoKEN",
   "chainId": 61916,
   "networkId": 61916,
-  "icon": "./chain/61916/logo",
+  "icon": "./chain/61916/logo.png",
   "explorers": [
     {
       "name": "DSC Scan",

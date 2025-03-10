@@ -1,7 +1,7 @@
 {
   "name": "GAN Testnet",
   "chain": "GAN",
-  "icon": "./chain/4048/logo",
+  "icon": "./chain/4048/logo.png",
   "rpc": [
     "https://rpc.gpu.net"
   ],

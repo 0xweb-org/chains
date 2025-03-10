@@ -16,7 +16,7 @@
   "shortName": "GuapX",
   "chainId": 71111,
   "networkId": 71111,
-  "icon": null,
+  "icon": "./chain/71111/logo.png",
   "explorers": [
     {
       "name": "GuapcoinX Explorer",

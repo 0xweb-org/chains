@@ -1,7 +1,7 @@
 {
   "name": "Plinga Mainnet",
   "chain": "Plinga",
-  "icon": "./chain/242/logo",
+  "icon": null,
   "rpc": [
     "https://rpcurl.mainnet.plgchain.com",
     "https://rpcurl.plgchain.blockchain.evmnode.online",

@@ -14,7 +14,7 @@
   "shortName": "abstract",
   "chainId": 2741,
   "networkId": 2741,
-  "icon": "./chain/2741/logo",
+  "icon": "./chain/2741/logo.png",
   "explorers": [
     {
       "name": "Etherscan",

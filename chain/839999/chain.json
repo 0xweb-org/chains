@@ -1,7 +1,7 @@
 {
   "name": "exSat Testnet",
   "chain": "exSat",
-  "icon": "./chain/839999/logo",
+  "icon": "./chain/839999/logo.png",
   "rpc": [
     "https://evm-tst3.exsat.network"
   ],

@@ -14,6 +14,6 @@
   "shortName": "berachain-bepolia",
   "chainId": 80069,
   "networkId": 80069,
-  "icon": "./chain/80069/logo",
+  "icon": "./chain/80069/logo.png",
   "explorers": []
 }

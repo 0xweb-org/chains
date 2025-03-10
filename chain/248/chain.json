@@ -1,7 +1,7 @@
 {
   "name": "Oasys Mainnet",
   "chain": "Oasys",
-  "icon": "./chain/248/logo",
+  "icon": "./chain/248/logo.png",
   "rpc": [
     "https://rpc.mainnet.oasys.games"
   ],

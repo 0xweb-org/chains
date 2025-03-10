@@ -17,7 +17,7 @@
   "shortName": "ShidoTestnet",
   "chainId": 9007,
   "networkId": 9007,
-  "icon": "./chain/9007/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "Shidoblock Testnet Explorer",

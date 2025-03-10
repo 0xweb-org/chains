@@ -14,7 +14,7 @@
   "shortName": "openledgertest",
   "chainId": 161201,
   "networkId": 161201,
-  "icon": "./chain/161201/logo",
+  "icon": "./chain/161201/logo.png",
   "explorers": [
     {
       "name": "OpenLedger Testnet Explorer",

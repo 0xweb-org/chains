@@ -1,7 +1,7 @@
 {
   "name": "MiYou Mainnet",
   "chain": "MiYou Chain",
-  "icon": "./chain/30088/logo",
+  "icon": "./chain/30088/logo.png",
   "faucets": [],
   "rpc": [
     "https://blockchain.miyou.io",

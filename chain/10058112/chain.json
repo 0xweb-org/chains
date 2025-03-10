@@ -12,5 +12,6 @@
   "shortName": "spotlightsep",
   "chainId": 10058112,
   "networkId": 10058112,
-  "status": "incubating"
+  "status": "incubating",
+  "icon": null
 }

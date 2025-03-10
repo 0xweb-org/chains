@@ -15,7 +15,7 @@
   "shortName": "SANold",
   "chainId": 11888,
   "networkId": 11888,
-  "icon": "./chain/11888/logo",
+  "icon": null,
   "parent": {
     "chain": "eip155-1",
     "type": "L2",

@@ -14,7 +14,7 @@
   "shortName": "algl2Test",
   "chainId": 8922,
   "networkId": 8922,
-  "icon": "./chain/8922/logo",
+  "icon": "./chain/8922/logo.png",
   "explorers": [
     {
       "name": "algl2scan",

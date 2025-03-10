@@ -20,5 +20,6 @@
       "url": "https://explorer.test.smartlayer.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

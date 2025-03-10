@@ -13,5 +13,6 @@
   "chainId": 821,
   "networkId": 2,
   "slip44": 1,
-  "status": "deprecated"
+  "status": "deprecated",
+  "icon": null
 }

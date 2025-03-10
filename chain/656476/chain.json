@@ -1,7 +1,7 @@
 {
   "name": "EDU Chain Testnet",
   "chain": "EDU Chain Testnet",
-  "icon": "./chain/656476/logo",
+  "icon": "./chain/656476/logo.png",
   "rpc": [
     "https://rpc.open-campus-codex.gelato.digital"
   ],

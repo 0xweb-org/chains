@@ -1,7 +1,7 @@
 {
   "name": "MXC zkEVM Moonchain",
   "chain": "MXC zkEVM",
-  "icon": null,
+  "icon": "./chain/18686/logo.png",
   "rpc": [
     "https://rpc.mxc.com"
   ],

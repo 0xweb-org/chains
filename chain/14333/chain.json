@@ -22,7 +22,7 @@
   "shortName": "vitruveo-test",
   "chainId": 14333,
   "networkId": 14333,
-  "icon": "./chain/14333/logo",
+  "icon": "./chain/14333/logo.png",
   "explorers": [
     {
       "name": "Vitruveo Testnet Explorer",

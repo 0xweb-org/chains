@@ -14,5 +14,6 @@
   "shortName": "vict",
   "chainId": 89,
   "networkId": 89,
-  "slip44": 1
+  "slip44": 1,
+  "icon": null
 }

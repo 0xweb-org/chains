@@ -1,6 +1,7 @@
 {
   "name": "Global Trust Network",
   "chain": "GTN",
+  "icon": "./chain/101010/logo.png",
   "rpc": [
     "https://gtn.stabilityprotocol.com"
   ],

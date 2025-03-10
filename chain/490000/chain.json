@@ -4,7 +4,7 @@
   "rpc": [
     "https://auto-evm.taurus.autonomys.xyz/ws"
   ],
-  "icon": "./chain/490000/logo",
+  "icon": "./chain/490000/logo.png",
   "faucets": [],
   "nativeCurrency": {
     "name": "AI3",

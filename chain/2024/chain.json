@@ -13,5 +13,6 @@
   "infoURL": "https://swanchain.io/",
   "shortName": "saturn",
   "chainId": 2024,
-  "networkId": 2024
+  "networkId": 2024,
+  "icon": null
 }

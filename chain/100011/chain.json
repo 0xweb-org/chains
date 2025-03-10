@@ -17,5 +17,6 @@
   "parent": {
     "type": "L2",
     "chain": "eip155-100000"
-  }
+  },
+  "icon": null
 }

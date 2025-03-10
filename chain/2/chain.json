@@ -14,5 +14,6 @@
   "shortName": "exp",
   "chainId": 2,
   "networkId": 1,
-  "slip44": 40
+  "slip44": 40,
+  "icon": null
 }

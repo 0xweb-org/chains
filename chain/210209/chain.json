@@ -5,7 +5,7 @@
     "https://rpc.sorian.io"
   ],
   "faucets": [],
-  "icon": "./chain/210209/logo",
+  "icon": "./chain/210209/logo.png",
   "nativeCurrency": {
     "name": "Sorian",
     "symbol": "SOR",

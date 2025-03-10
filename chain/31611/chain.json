@@ -1,7 +1,7 @@
 {
   "name": "Mezo Matsnet Testnet",
   "chain": "Mezo",
-  "icon": "./chain/31611/logo",
+  "icon": "./chain/31611/logo.png",
   "rpc": [
     "https://rpc.test.mezo.org"
   ],

@@ -1,7 +1,7 @@
 {
   "name": "AIOZ Network Testnet",
   "chain": "AIOZ",
-  "icon": null,
+  "icon": "./chain/4102/logo.png",
   "rpc": [
     "https://eth-ds.testnet.aioz.network"
   ],

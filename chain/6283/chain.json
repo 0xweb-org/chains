@@ -2,7 +2,7 @@
   "name": "LAOS",
   "title": "LAOS Mainnet",
   "chain": "LAOS",
-  "icon": "./chain/6283/logo",
+  "icon": "./chain/6283/logo.png",
   "rpc": [
     "https://rpc.laos.laosfoundation.io",
     "wss://rpc.laos.laosfoundation.io"

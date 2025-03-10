@@ -32,5 +32,6 @@
         "url": "https://testnet-bridge.gelato.network/bridge/volmex"
       }
     ]
-  }
+  },
+  "icon": null
 }

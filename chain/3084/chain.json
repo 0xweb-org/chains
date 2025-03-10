@@ -18,7 +18,7 @@
   },
   "infoURL": "https://www.nysl.io/",
   "shortName": "nysl",
-  "icon": "./chain/3084/logo",
+  "icon": "./chain/3084/logo.png",
   "chainId": 3084,
   "networkId": 3084,
   "explorers": [

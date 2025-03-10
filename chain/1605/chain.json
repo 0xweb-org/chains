@@ -14,7 +14,7 @@
   "shortName": "Beth",
   "chainId": 1605,
   "networkId": 1605,
-  "icon": "./chain/1605/logo",
+  "icon": "./chain/1605/logo.png",
   "explorers": [
     {
       "name": "bethscan",

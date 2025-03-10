@@ -1,7 +1,7 @@
 {
   "name": "Omnia Chain",
   "chain": "OMNIA",
-  "icon": "./chain/2342/logo",
+  "icon": "./chain/2342/logo.png",
   "rpc": [
     "https://rpc.omniaverse.io"
   ],

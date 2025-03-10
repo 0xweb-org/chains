@@ -12,5 +12,6 @@
     "symbol": "RBNT",
     "decimals": 18
   },
-  "status": "incubating"
+  "status": "incubating",
+  "icon": null
 }

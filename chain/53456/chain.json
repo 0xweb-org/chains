@@ -2,7 +2,7 @@
   "name": "BirdLayer",
   "title": "BirdLayer",
   "chain": "BirdLayer",
-  "icon": "./chain/53456/logo",
+  "icon": "./chain/53456/logo.png",
   "rpc": [
     "https://rpc.birdlayer.xyz",
     "https://rpc1.birdlayer.xyz",

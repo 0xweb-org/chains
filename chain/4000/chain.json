@@ -14,7 +14,7 @@
   "shortName": "ozo",
   "chainId": 4000,
   "networkId": 4000,
-  "icon": "./chain/4000/logo",
+  "icon": "./chain/4000/logo.png",
   "explorers": [
     {
       "name": "OZONE Scan",

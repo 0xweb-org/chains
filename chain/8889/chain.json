@@ -13,5 +13,6 @@
   "infoURL": "https://vsc-dataseed.vyvo.org",
   "shortName": "vsc",
   "chainId": 8889,
-  "networkId": 8889
+  "networkId": 8889,
+  "icon": null
 }

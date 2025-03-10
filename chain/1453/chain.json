@@ -2,7 +2,7 @@
   "name": "MetaChain Istanbul",
   "title": "MetaChain Testnet Istanbul",
   "chain": "MTC",
-  "icon": "./chain/1453/logo",
+  "icon": "./chain/1453/logo.png",
   "rpc": [
     "https://istanbul-rpc.metachain.dev"
   ],

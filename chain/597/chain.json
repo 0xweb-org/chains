@@ -22,5 +22,6 @@
       "url": "https://blockscout.acala-dev.aca-dev.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

@@ -1,7 +1,7 @@
 {
   "name": "Garizon Stage1",
   "chain": "GAR",
-  "icon": "./chain/91/logo",
+  "icon": null,
   "rpc": [
     "https://s1.garizon.net/rpc"
   ],

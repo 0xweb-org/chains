@@ -22,7 +22,7 @@
   "shortName": "cyba",
   "chainId": 6661,
   "networkId": 6661,
-  "icon": "./chain/6661/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "Cybria Explorer",

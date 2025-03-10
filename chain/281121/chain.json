@@ -14,5 +14,6 @@
   "shortName": "SoChain",
   "chainId": 281121,
   "networkId": 281121,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

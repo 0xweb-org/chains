@@ -14,6 +14,7 @@
   "shortName": "cfx",
   "chainId": 1030,
   "networkId": 1030,
+  "icon": "./chain/1030/logo.png",
   "explorers": [
     {
       "name": "Conflux Scan",

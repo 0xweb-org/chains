@@ -13,5 +13,6 @@
   "infoURL": "https://coordinape.com/",
   "shortName": "coordinape-testnet",
   "chainId": 5103,
-  "networkId": 5103
+  "networkId": 5103,
+  "icon": null
 }

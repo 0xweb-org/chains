@@ -12,5 +12,6 @@
   "shortName": "xmtp",
   "chainId": 24132016,
   "networkId": 24132016,
-  "status": "incubating"
+  "status": "incubating",
+  "icon": null
 }

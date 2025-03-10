@@ -1,7 +1,7 @@
 {
   "name": "TCG Verse Mainnet",
   "chain": "TCG Verse",
-  "icon": "./chain/2400/logo",
+  "icon": "./chain/2400/logo.png",
   "rpc": [
     "https://rpc.tcgverse.xyz"
   ],

@@ -19,7 +19,7 @@
   "shortName": "tfire",
   "chainId": 917,
   "networkId": 917,
-  "icon": "./chain/917/logo",
+  "icon": "./chain/917/logo.png",
   "slip44": 1,
   "explorers": [
     {

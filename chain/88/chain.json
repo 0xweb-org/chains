@@ -14,5 +14,6 @@
   "shortName": "vic",
   "chainId": 88,
   "networkId": 88,
-  "slip44": 889
+  "slip44": 889,
+  "icon": "./chain/88/logo.png"
 }

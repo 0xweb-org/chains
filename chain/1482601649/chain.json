@@ -1,7 +1,7 @@
 {
   "name": "SKALE Nebula Hub",
   "chain": "green-giddy-denebola",
-  "icon": "./chain/1482601649/logo",
+  "icon": "./chain/1482601649/logo.png",
   "rpc": [
     "https://mainnet.skalenodes.com/v1/green-giddy-denebola",
     "wss://mainnet-proxy.skalenodes.com/v1/ws/green-giddy-denebola"

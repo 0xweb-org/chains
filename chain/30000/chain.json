@@ -19,7 +19,7 @@
   "shortName": "qchain",
   "chainId": 30000,
   "networkId": 30000,
-  "icon": "./chain/30000/logo",
+  "icon": "./chain/30000/logo.png",
   "explorers": [
     {
       "name": "qChain explorer",

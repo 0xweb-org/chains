@@ -1,7 +1,7 @@
 {
   "name": "Oasis Emerald Testnet",
   "chain": "Emerald",
-  "icon": "./chain/42261/logo",
+  "icon": "./chain/42261/logo.png",
   "rpc": [
     "https://testnet.emerald.oasis.io/",
     "wss://testnet.emerald.oasis.io/ws"

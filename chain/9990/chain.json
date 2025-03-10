@@ -1,7 +1,7 @@
 {
   "name": "Agung Network",
   "chain": "Agung",
-  "icon": "./chain/9990/logo",
+  "icon": null,
   "rpc": [
     "https://wss-async.agung.peaq.network"
   ],

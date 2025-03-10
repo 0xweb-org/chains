@@ -1,7 +1,7 @@
 {
   "name": "ConnectorManager",
   "chain": "Rangers",
-  "icon": "./chain/38400/logo",
+  "icon": "./chain/38400/logo.png",
   "rpc": [
     "https://cm.rangersprotocol.com/api/jsonrpc"
   ],

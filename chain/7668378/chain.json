@@ -18,7 +18,7 @@
   "chainId": 7668378,
   "networkId": 7668378,
   "slip44": 1,
-  "icon": "./chain/7668378/logo",
+  "icon": "./chain/7668378/logo.png",
   "explorers": [
     {
       "name": "QL1 Testnet Explorer",

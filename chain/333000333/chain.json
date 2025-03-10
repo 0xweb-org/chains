@@ -12,7 +12,7 @@
     "symbol": "gMELD",
     "decimals": 18
   },
-  "icon": "./chain/333000333/logo",
+  "icon": "./chain/333000333/logo.png",
   "infoURL": "https://meld.com",
   "shortName": "meld",
   "chainId": 333000333,

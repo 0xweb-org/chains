@@ -1,7 +1,7 @@
 {
   "name": "SKALE Europa Hub",
   "chain": "europa",
-  "icon": "./chain/2046399126/logo",
+  "icon": "./chain/2046399126/logo.png",
   "rpc": [
     "https://mainnet.skalenodes.com/v1/elated-tan-skat",
     "wss://mainnet.skalenodes.com/v1/elated-tan-skat"

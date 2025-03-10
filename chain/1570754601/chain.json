@@ -17,7 +17,7 @@
   "shortName": "hst-test",
   "chainId": 1570754601,
   "networkId": 1570754601,
-  "icon": "./chain/1570754601/logo",
+  "icon": "./chain/1570754601/logo.png",
   "explorers": [
     {
       "name": "blockscout",

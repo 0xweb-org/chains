@@ -23,7 +23,7 @@
   "shortName": "bless",
   "chainId": 45513,
   "networkId": 45513,
-  "icon": null,
+  "icon": "./chain/45513/logo.png",
   "explorers": [
     {
       "name": "blockscout",

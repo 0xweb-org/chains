@@ -1,7 +1,7 @@
 {
   "name": "Scalind",
   "chain": "ETH",
-  "icon": "./chain/1911/logo",
+  "icon": "./chain/1911/logo.png",
   "rpc": [
     "https://rpc.scalind.com"
   ],

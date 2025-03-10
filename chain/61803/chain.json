@@ -1,7 +1,7 @@
 {
   "name": "Etica Mainnet",
   "chain": "Etica Protocol (ETI/EGAZ)",
-  "icon": "./chain/61803/logo",
+  "icon": "./chain/61803/logo.png",
   "rpc": [
     "https://eticamainnet.eticascan.org",
     "https://eticamainnet.eticaprotocol.org"

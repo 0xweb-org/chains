@@ -15,5 +15,6 @@
   "shortName": "lemx",
   "chainId": 1006,
   "networkId": 1006,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

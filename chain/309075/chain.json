@@ -1,7 +1,7 @@
 {
   "name": "One World Chain Mainnet",
   "chain": "One World Chain",
-  "icon": "./chain/309075/logo",
+  "icon": "./chain/309075/logo.png",
   "rpc": [
     "https://mainnet-rpc.oneworldchain.org"
   ],

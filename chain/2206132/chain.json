@@ -18,7 +18,7 @@
   "chainId": 2206132,
   "networkId": 1,
   "slip44": 1,
-  "icon": "./chain/2206132/logo",
+  "icon": "./chain/2206132/logo.png",
   "explorers": [
     {
       "name": "PlatON explorer",

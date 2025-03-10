@@ -22,7 +22,7 @@
   "shortName": "henez",
   "chainId": 91111,
   "networkId": 91111,
-  "icon": "./chain/91111/logo",
+  "icon": "./chain/91111/logo.png",
   "explorers": [
     {
       "name": "Henez Chain Mainnet Caldera Explorer",

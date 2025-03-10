@@ -22,5 +22,6 @@
       "standard": "EIP3091"
     }
   ],
-  "infoURL": "https://www.gatechain.io"
+  "infoURL": "https://www.gatechain.io",
+  "icon": null
 }

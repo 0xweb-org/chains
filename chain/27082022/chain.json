@@ -1,7 +1,7 @@
 {
   "name": "Excoincial Chain Mainnet",
   "chain": "EXL",
-  "icon": null,
+  "icon": "./chain/27082022/logo.png",
   "rpc": [
     "https://rpc.exlscan.com"
   ],

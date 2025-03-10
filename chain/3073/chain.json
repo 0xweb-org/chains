@@ -12,7 +12,7 @@
   "shortName": "move",
   "chainId": 3073,
   "networkId": 3073,
-  "icon": "./chain/3073/logo",
+  "icon": "./chain/3073/logo.png",
   "explorers": [
     {
       "name": "mevm explorer",

@@ -1,7 +1,7 @@
 {
   "name": "Nexera Testnet",
   "chain": "Nexera",
-  "icon": "./chain/72080/logo",
+  "icon": "./chain/72080/logo.png",
   "chainId": 72080,
   "networkId": 72080,
   "infoURL": "https://testnet.nexera.network",

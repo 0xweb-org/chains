@@ -15,7 +15,7 @@
   "shortName": "twvm",
   "chainId": 9496,
   "networkId": 9496,
-  "icon": "./chain/9496/logo",
+  "icon": "./chain/9496/logo.png",
   "explorers": [
     {
       "name": "WeaveVM Explorer",

@@ -29,5 +29,6 @@
       "icon": "bitfinity",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

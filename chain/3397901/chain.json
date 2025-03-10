@@ -1,7 +1,7 @@
 {
   "name": "Funki Sepolia Testnet",
   "chain": "ETH",
-  "icon": "./chain/3397901/logo",
+  "icon": "./chain/3397901/logo.png",
   "rpc": [
     "https://funki-testnet.alt.technology"
   ],

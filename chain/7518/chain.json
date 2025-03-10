@@ -14,7 +14,7 @@
   "shortName": "MEV",
   "chainId": 7518,
   "networkId": 7518,
-  "icon": "./chain/7518/logo",
+  "icon": "./chain/7518/logo.png",
   "explorers": [
     {
       "name": "MEVerse Chain Explorer",

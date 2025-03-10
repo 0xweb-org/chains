@@ -20,7 +20,7 @@
   "chainId": 200901,
   "networkId": 200901,
   "slip44": 1,
-  "icon": null,
+  "icon": "./chain/200901/logo.png",
   "explorers": [
     {
       "name": "bitlayer mainnet scan",

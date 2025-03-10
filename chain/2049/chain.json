@@ -1,7 +1,7 @@
 {
   "name": "Movo Smart Chain Mainnet",
   "chain": "MOVO",
-  "icon": "./chain/2049/logo",
+  "icon": "./chain/2049/logo.png",
   "rpc": [
     "https://msc-rpc.movoscan.com",
     "https://msc-rpc.movochain.org",

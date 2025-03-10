@@ -13,5 +13,6 @@
   "infoURL": "https://namefi.io/",
   "shortName": "nfic",
   "chainId": 132,
-  "networkId": 132
+  "networkId": 132,
+  "icon": null
 }

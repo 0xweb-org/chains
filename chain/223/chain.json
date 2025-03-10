@@ -19,7 +19,7 @@
   "shortName": "B2-mainnet",
   "chainId": 223,
   "networkId": 223,
-  "icon": "./chain/223/logo",
+  "icon": "./chain/223/logo.png",
   "explorers": [
     {
       "name": "blockscout",

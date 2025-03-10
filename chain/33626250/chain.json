@@ -30,5 +30,6 @@
       "url": "https://explorer.toliman.suave.flashbots.net",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

@@ -14,7 +14,7 @@
   "shortName": "ycc",
   "chainId": 3999,
   "networkId": 3999,
-  "icon": "./chain/3999/logo",
+  "icon": "./chain/3999/logo.png",
   "explorers": [
     {
       "name": "YuanChain Explorer",

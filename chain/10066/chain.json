@@ -13,5 +13,6 @@
   "infoURL": "https://chainopera.ai/",
   "shortName": "chainopera-testnet",
   "chainId": 10066,
-  "networkId": 10066
+  "networkId": 10066,
+  "icon": null
 }

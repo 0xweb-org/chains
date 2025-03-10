@@ -1,7 +1,7 @@
 {
   "name": "One World Chain Testnet",
   "chain": "One World Chain",
-  "icon": "./chain/552981/logo",
+  "icon": "./chain/552981/logo.png",
   "rpc": [
     "https://testnet-rpc.oneworldchain.org"
   ],

@@ -15,7 +15,7 @@
   "chainId": 272520,
   "networkId": 272520,
   "slip44": 272520,
-  "icon": "./chain/272520/logo",
+  "icon": "./chain/272520/logo.png",
   "explorers": [
     {
       "name": "Nxy Explorer",

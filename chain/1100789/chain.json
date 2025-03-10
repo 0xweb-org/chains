@@ -15,7 +15,7 @@
   "shortName": "nmtTest",
   "chainId": 1100789,
   "networkId": 1100789,
-  "icon": "./chain/1100789/logo",
+  "icon": "./chain/1100789/logo.png",
   "explorers": [
     {
       "name": "NetMind Testnet Explorer",

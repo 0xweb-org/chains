@@ -24,7 +24,7 @@
   "redFlags": [
     "reusedChainId"
   ],
-  "icon": "./chain/95/logo",
+  "icon": "./chain/95/logo.png",
   "explorers": [
     {
       "name": "CamDL Block Explorer",

@@ -31,5 +31,6 @@
       "url": "https://westend-asset-hub-eth-explorer.parity.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

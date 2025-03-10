@@ -14,7 +14,7 @@
   "shortName": "B2Hub-mainnet",
   "chainId": 213,
   "networkId": 213,
-  "icon": "./chain/213/logo",
+  "icon": "./chain/213/logo.png",
   "explorers": [
     {
       "name": "B2 Hub Mainnet Explorer",

@@ -14,7 +14,7 @@
   "shortName": "evanesco",
   "chainId": 2213,
   "networkId": 2213,
-  "icon": "./chain/2213/logo",
+  "icon": "./chain/2213/logo.png",
   "explorers": [
     {
       "name": "Evanesco Explorer",

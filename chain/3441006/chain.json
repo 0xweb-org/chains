@@ -23,7 +23,7 @@
   "chainId": 3441006,
   "networkId": 3441006,
   "slip44": 1,
-  "icon": "./chain/3441006/logo",
+  "icon": "./chain/3441006/logo.png",
   "explorers": [
     {
       "name": "manta-testnet Explorer",

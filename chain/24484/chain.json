@@ -12,5 +12,6 @@
   "shortName": "web",
   "chainId": 24484,
   "networkId": 37129,
-  "slip44": 227
+  "slip44": 227,
+  "icon": null
 }

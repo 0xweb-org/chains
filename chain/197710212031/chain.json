@@ -15,7 +15,7 @@
   "chainId": 197710212031,
   "networkId": 197710212031,
   "slip44": 1,
-  "icon": "./chain/197710212031/logo",
+  "icon": "./chain/197710212031/logo.png",
   "explorers": [
     {
       "name": "Haradev Explorer",

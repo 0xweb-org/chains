@@ -13,5 +13,6 @@
   "infoURL": "https://gitagi.org/",
   "shortName": "atlas",
   "chainId": 210049,
-  "networkId": 210049
+  "networkId": 210049,
+  "icon": null
 }

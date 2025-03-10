@@ -16,7 +16,7 @@
   "shortName": "fuse",
   "chainId": 122,
   "networkId": 122,
-  "icon": "./chain/122/logo",
+  "icon": "./chain/122/logo.png",
   "explorers": [
     {
       "name": "blockscout",

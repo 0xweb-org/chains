@@ -1,7 +1,7 @@
 {
   "name": "Flare Testnet Coston2",
   "chain": "FLR",
-  "icon": "./chain/114/logo",
+  "icon": "./chain/114/logo.png",
   "rpc": [
     "https://coston2-api.flare.network/ext/C/rpc",
     "https://flare-testnet-coston2.rpc.thirdweb.com",

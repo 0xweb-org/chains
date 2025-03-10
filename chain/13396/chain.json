@@ -1,7 +1,7 @@
 {
   "name": "Masa",
   "chain": "MASA",
-  "icon": "./chain/13396/logo",
+  "icon": "./chain/13396/logo.png",
   "rpc": [
     "https://subnets.avax.network/masanetwork/mainnet/rpc"
   ],

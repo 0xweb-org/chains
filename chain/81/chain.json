@@ -16,7 +16,7 @@
   "shortName": "joc",
   "chainId": 81,
   "networkId": 81,
-  "icon": "./chain/81/logo",
+  "icon": null,
   "explorers": [
     {
       "name": "Block Explorer",

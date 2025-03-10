@@ -1,7 +1,7 @@
 {
   "name": "Joseon Mainnet",
   "chain": "Joseon",
-  "icon": "./chain/1392/logo",
+  "icon": "./chain/1392/logo.png",
   "rpc": [
     "https://rpc.modchain.net/blockchain.joseon.com/rpc"
   ],

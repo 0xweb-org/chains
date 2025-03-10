@@ -17,7 +17,7 @@
   "shortName": "sei-testnet",
   "chainId": 1328,
   "networkId": 1328,
-  "icon": "./chain/1328/logo",
+  "icon": "./chain/1328/logo.png",
   "explorers": [
     {
       "name": "Seitrace",

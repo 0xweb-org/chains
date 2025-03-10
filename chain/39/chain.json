@@ -14,7 +14,7 @@
   "shortName": "u2u",
   "chainId": 39,
   "networkId": 39,
-  "icon": "./chain/39/logo",
+  "icon": "./chain/39/logo.png",
   "explorers": [
     {
       "icon": "u2u",

@@ -1,7 +1,7 @@
 {
   "name": "Polygon Mainnet",
   "chain": "Polygon",
-  "icon": "./chain/137/logo",
+  "icon": "./chain/137/logo.png",
   "rpc": [
     "https://polygon-rpc.com/",
     "https://rpc-mainnet.matic.network",

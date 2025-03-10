@@ -15,7 +15,7 @@
   "chainId": 888,
   "networkId": 888,
   "slip44": 5718350,
-  "icon": "./chain/888/logo",
+  "icon": "./chain/888/logo.png",
   "explorers": [
     {
       "name": "wanscan",

@@ -2,7 +2,7 @@
   "name": "Nautilus Trition Chain",
   "title": "Nautilus Trition Testnet",
   "chain": "ETH",
-  "icon": "./chain/91002/logo",
+  "icon": "./chain/91002/logo.png",
   "rpc": [
     "https://triton.api.nautchain.xyz"
   ],

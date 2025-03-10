@@ -3,7 +3,7 @@
   "shortName": "lumia-mainnet",
   "title": "Lumia Mainnet",
   "chain": "ETH",
-  "icon": "./chain/994873017/logo",
+  "icon": "./chain/994873017/logo.png",
   "rpc": [
     "https://mainnet-rpc.lumia.org"
   ],

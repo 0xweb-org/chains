@@ -1,7 +1,7 @@
 {
   "name": "Tangle Testnet",
   "chain": "Tangle Testnet",
-  "icon": "./chain/3799/logo",
+  "icon": "./chain/3799/logo.png",
   "rpc": [
     "https://testnet-rpc.tangle.tools",
     "https://testnet-rpc-archive.tangle.tools",

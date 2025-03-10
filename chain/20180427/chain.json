@@ -1,7 +1,7 @@
 {
   "name": "Stability Testnet",
   "chain": "stabilityTestnet",
-  "icon": "./chain/20180427/logo",
+  "icon": "./chain/20180427/logo.png",
   "rpc": [
     "https://free.testnet.stabilityprotocol.com"
   ],

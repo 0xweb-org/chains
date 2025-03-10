@@ -1,7 +1,7 @@
 {
   "name": "Bitindi Testnet",
   "chain": "BNI",
-  "icon": "./chain/4096/logo",
+  "icon": null,
   "rpc": [
     "https://testnet-rpc.bitindi.org"
   ],

@@ -1,7 +1,7 @@
 {
   "name": "Nexis Network Testnet",
   "chain": "Nexis Network",
-  "icon": "./chain/2370/logo",
+  "icon": "./chain/2370/logo.png",
   "rpc": [
     "https://evm-testnet.nexis.network"
   ],

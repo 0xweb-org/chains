@@ -13,5 +13,6 @@
   "infoURL": "https://www.soterone.com",
   "shortName": "SO1",
   "chainId": 68,
-  "networkId": 68
+  "networkId": 68,
+  "icon": null
 }

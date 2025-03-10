@@ -20,7 +20,7 @@
   "shortName": "mag",
   "chainId": 141319,
   "networkId": 141319,
-  "icon": "./chain/141319/logo",
+  "icon": "./chain/141319/logo.png",
   "explorers": [
     {
       "name": "etherscan",

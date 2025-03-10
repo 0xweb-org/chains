@@ -20,7 +20,7 @@
   "chainId": 224422,
   "networkId": 224422,
   "slip44": 1,
-  "icon": "./chain/224422/logo",
+  "icon": "./chain/224422/logo.png",
   "explorers": [
     {
       "name": "CONET Scan",

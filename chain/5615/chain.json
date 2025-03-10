@@ -30,5 +30,6 @@
       "url": "https://testnet.arcscan.net",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

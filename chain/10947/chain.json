@@ -1,7 +1,7 @@
 {
   "name": "Quadrans Blockchain Testnet",
   "chain": "tQDC",
-  "icon": "./chain/10947/logo",
+  "icon": "./chain/10947/logo.png",
   "rpc": [
     "https://rpctest.quadrans.io",
     "https://rpctest2.quadrans.io"

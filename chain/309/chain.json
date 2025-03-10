@@ -20,7 +20,7 @@
   "chainId": 309,
   "networkId": 309,
   "slip44": 1,
-  "icon": "./chain/309/logo",
+  "icon": "./chain/309/logo.png",
   "explorers": [
     {
       "name": "wyzth",

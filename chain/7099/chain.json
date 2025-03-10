@@ -17,5 +17,6 @@
   "shortName": "bbnt",
   "chainId": 7099,
   "networkId": 7099,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

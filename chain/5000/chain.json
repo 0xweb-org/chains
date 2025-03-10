@@ -1,7 +1,7 @@
 {
   "name": "Mantle",
   "chain": "ETH",
-  "icon": "./chain/5000/logo",
+  "icon": "./chain/5000/logo.png",
   "rpc": [
     "https://rpc.mantle.xyz",
     "https://mantle-rpc.publicnode.com",

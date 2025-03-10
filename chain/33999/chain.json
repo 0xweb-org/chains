@@ -12,5 +12,6 @@
   "shortName": "dapp-sepolia",
   "chainId": 33999,
   "networkId": 33999,
-  "status": "incubating"
+  "status": "incubating",
+  "icon": null
 }

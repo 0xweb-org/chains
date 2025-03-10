@@ -1,7 +1,7 @@
 {
   "name": "Core Blockchain Mainnet",
   "chain": "Core",
-  "icon": "./chain/1116/logo",
+  "icon": "./chain/1116/logo.png",
   "rpc": [
     "https://rpc.coredao.org/",
     "https://rpc-core.icecreamswap.com",

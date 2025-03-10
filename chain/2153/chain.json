@@ -21,5 +21,6 @@
       "url": "https://testnet-anvil.evm.findorascan.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "icon": null
 }

@@ -1,7 +1,7 @@
 {
   "name": "Saakuru Testnet",
   "chain": "Saakuru",
-  "icon": "./chain/247253/logo",
+  "icon": "./chain/247253/logo.png",
   "rpc": [
     "https://rpc-testnet.saakuru.network"
   ],

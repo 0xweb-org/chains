@@ -15,7 +15,7 @@
   "chainId": 17001,
   "networkId": 17001,
   "slip44": 1,
-  "icon": "./chain/17001/logo",
+  "icon": "./chain/17001/logo.png",
   "explorers": [
     {
       "name": "Redstone Holesky Explorer",

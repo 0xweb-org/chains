@@ -20,7 +20,7 @@
   "shortName": "haust",
   "chainId": 938,
   "networkId": 938,
-  "icon": "./chain/938/logo",
+  "icon": "./chain/938/logo.png",
   "explorers": [
     {
       "name": "blockscout",

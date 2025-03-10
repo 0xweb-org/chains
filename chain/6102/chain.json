@@ -16,7 +16,7 @@
   "shortName": "cascadia",
   "chainId": 6102,
   "networkId": 6102,
-  "icon": "./chain/6102/logo",
+  "icon": "./chain/6102/logo.png",
   "explorers": [
     {
       "name": "Cascadia EVM Explorer",

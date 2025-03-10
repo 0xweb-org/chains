@@ -14,5 +14,5 @@
   "shortName": "tSAVM",
   "chainId": 3110,
   "networkId": 3110,
-  "icon": "./chain/3110/logo"
+  "icon": "./chain/3110/logo.png"
 }

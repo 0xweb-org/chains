@@ -15,7 +15,7 @@
   "shortName": "goat",
   "chainId": 2345,
   "networkId": 2345,
-  "icon": "./chain/2345/logo",
+  "icon": "./chain/2345/logo.png",
   "explorers": [
     {
       "name": "blockscout",

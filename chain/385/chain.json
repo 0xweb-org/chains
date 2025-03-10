@@ -15,5 +15,6 @@
   "infoURL": "https://lisinski.online",
   "shortName": "lisinski",
   "chainId": 385,
-  "networkId": 385
+  "networkId": 385,
+  "icon": null
 }

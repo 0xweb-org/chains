@@ -1,7 +1,7 @@
 {
   "name": "Glide L2 Protocol XP",
   "chain": "GLXP",
-  "icon": "./chain/253/logo",
+  "icon": "./chain/253/logo.png",
   "rpc": [
     "https://rpc-api.glideprotocol.xyz/l2-rpc/",
     "wss://rpc-api.glideprotocol.xyz/l2-rpc/"

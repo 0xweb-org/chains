@@ -2,7 +2,7 @@
   "name": "TAC Turin",
   "title": "TAC Testnet Turin",
   "chain": "TAC",
-  "icon": "./chain/2390/logo",
+  "icon": "./chain/2390/logo.png",
   "rpc": [
     "https://turin.rpc.tac.build",
     "https://rpc.ankr.com/tac_turin",

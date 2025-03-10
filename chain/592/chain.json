@@ -14,7 +14,7 @@
   "shortName": "astr",
   "chainId": 592,
   "networkId": 592,
-  "icon": "./chain/592/logo",
+  "icon": "./chain/592/logo.png",
   "explorers": [
     {
       "name": "subscan",

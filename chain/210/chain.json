@@ -1,7 +1,7 @@
 {
   "name": "Bitnet",
   "chain": "BTN",
-  "icon": "./chain/210/logo",
+  "icon": "./chain/210/logo.png",
   "rpc": [
     "https://rpc.bitnet.money",
     "https://rpc.btnscan.com",

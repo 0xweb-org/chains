@@ -22,7 +22,7 @@
   "shortName": "uchain",
   "chainId": 2112,
   "networkId": 2112,
-  "icon": "./chain/2112/logo",
+  "icon": "./chain/2112/logo.png",
   "explorers": [
     {
       "name": "uchain.info",

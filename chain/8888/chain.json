@@ -14,7 +14,7 @@
   "shortName": "XANAChain",
   "chainId": 8888,
   "networkId": 8888,
-  "icon": "./chain/8888/logo",
+  "icon": "./chain/8888/logo.png",
   "explorers": [
     {
       "name": "XANAChain",

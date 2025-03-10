@@ -23,7 +23,7 @@
   "shortName": "xr1",
   "chainId": 273,
   "networkId": 273,
-  "icon": "./chain/273/logo",
+  "icon": "./chain/273/logo.png",
   "slip44": 60,
   "explorers": [
     {

@@ -3,7 +3,7 @@
   "title": "Deprecated Europa Hub Testnet",
   "status": "deprecated",
   "chain": "staging-legal-crazy-castor",
-  "icon": "./chain/476158412/logo",
+  "icon": "./chain/476158412/logo.png",
   "rpc": [
     "https://staging-v3.skalenodes.com/v1/staging-legal-crazy-castor"
   ],

@@ -3,7 +3,7 @@
   "chainId": 399,
   "shortName": "N3",
   "chain": "Nativ3",
-  "icon": "./chain/399/logo",
+  "icon": "./chain/399/logo.png",
   "networkId": 399,
   "nativeCurrency": {
     "name": "USNT",

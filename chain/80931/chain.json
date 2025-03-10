@@ -14,7 +14,7 @@
   "shortName": "forta",
   "chainId": 80931,
   "networkId": 80931,
-  "icon": "./chain/80931/logo",
+  "icon": "./chain/80931/logo.png",
   "explorers": [
     {
       "name": "Forta Chain Explorer",

@@ -1,7 +1,7 @@
 {
   "name": "CloudTx Mainnet",
   "chain": "CLD",
-  "icon": "./chain/31223/logo",
+  "icon": "./chain/31223/logo.png",
   "rpc": [
     "https://mainnet-rpc.cloudtx.finance"
   ],

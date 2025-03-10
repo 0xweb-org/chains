@@ -1,7 +1,7 @@
 {
   "name": "OptimusZ7 Testnet",
   "chain": "OptimusZ7",
-  "icon": "./chain/97970/logo",
+  "icon": "./chain/97970/logo.png",
   "rpc": [
     "https://testnet-rpc.optimusz7.com"
   ],

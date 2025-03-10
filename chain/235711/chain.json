@@ -14,7 +14,7 @@
   "shortName": "unitestnet",
   "chainId": 235711,
   "networkId": 235711,
-  "icon": "./chain/235711/logo",
+  "icon": "./chain/235711/logo.png",
   "explorers": [
     {
       "name": "Universe Testnet Explorer",

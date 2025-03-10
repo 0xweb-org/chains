@@ -14,7 +14,7 @@
   "shortName": "neon",
   "chainId": 259,
   "networkId": 259,
-  "icon": "./chain/259/logo",
+  "icon": "./chain/259/logo.png",
   "explorers": [
     {
       "name": "Neon Blockchain Explorer",

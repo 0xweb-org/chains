@@ -19,7 +19,7 @@
   "shortName": "divc",
   "chainId": 40000,
   "networkId": 40000,
-  "icon": "./chain/40000/logo",
+  "icon": "./chain/40000/logo.png",
   "explorers": [
     {
       "name": "DIV Chain explorer",

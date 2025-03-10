@@ -15,5 +15,6 @@
   "shortName": "tlemx",
   "chainId": 1005,
   "networkId": 1005,
-  "explorers": []
+  "explorers": [],
+  "icon": null
 }

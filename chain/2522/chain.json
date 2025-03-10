@@ -17,7 +17,7 @@
   "chainId": 2522,
   "networkId": 2522,
   "slip44": 1,
-  "icon": "./chain/2522/logo",
+  "icon": "./chain/2522/logo.png",
   "explorers": [
     {
       "name": "fraxscan",

@@ -1,7 +1,7 @@
 {
   "name": "Hedera Testnet",
   "chain": "Hedera",
-  "icon": "./chain/296/logo",
+  "icon": "./chain/296/logo.png",
   "rpc": [
     "https://testnet.hashio.io/api"
   ],

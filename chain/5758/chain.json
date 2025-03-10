@@ -1,7 +1,7 @@
 {
   "name": "SatoshiChain Testnet",
   "chain": "SATS",
-  "icon": "./chain/5758/logo",
+  "icon": "./chain/5758/logo.png",
   "rpc": [
     "https://testnet-rpc.satoshichain.io"
   ],

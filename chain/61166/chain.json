@@ -19,7 +19,7 @@
     }
   ],
   "infoURL": "https://app.treasure.lol",
-  "icon": "./chain/61166/logo",
+  "icon": "./chain/61166/logo.png",
   "rpc": [
     "https://rpc.treasure.lol",
     "wss://rpc.treasure.lol/ws"

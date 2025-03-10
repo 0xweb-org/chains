@@ -1,7 +1,7 @@
 {
   "name": "ADIL Devnet",
   "chain": "ADIL",
-  "icon": "./chain/123456/logo",
+  "icon": "./chain/123456/logo.png",
   "rpc": [
     "https://devnet.adilchain-rpc.io"
   ],

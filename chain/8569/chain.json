@@ -13,5 +13,6 @@
   "shortName": "newrl",
   "chainId": 8569,
   "networkId": 8569,
-  "status": "incubating"
+  "status": "incubating",
+  "icon": null
 }

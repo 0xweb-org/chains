@@ -1,7 +1,7 @@
 {
   "name": "Pho Blockchain Mainnet",
   "chain": "PHO",
-  "icon": null,
+  "icon": "./chain/2605/logo.png",
   "rpc": [
     "https://mainnet.phochain.org"
   ],

@@ -3,7 +3,7 @@
   "shortName": "lumiatestnet",
   "title": "Lumia Testnet",
   "chain": "ETH",
-  "icon": "./chain/1952959480/logo",
+  "icon": "./chain/1952959480/logo.png",
   "rpc": [
     "https://testnet-rpc.lumia.org"
   ],

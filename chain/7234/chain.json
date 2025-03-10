@@ -14,7 +14,7 @@
   "shortName": "INICHAIN",
   "chainId": 7234,
   "networkId": 7234,
-  "icon": "./chain/7234/logo",
+  "icon": "./chain/7234/logo.png",
   "explorers": [
     {
       "name": "initverse",

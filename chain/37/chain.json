@@ -14,7 +14,7 @@
   "shortName": "xpla",
   "chainId": 37,
   "networkId": 37,
-  "icon": "./chain/37/logo",
+  "icon": "./chain/37/logo.png",
   "explorers": [
     {
       "name": "XPLA Explorer",

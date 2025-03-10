@@ -1,7 +1,7 @@
 {
   "name": "EIOB Mainnet",
   "chain": "EIOB",
-  "icon": "./chain/612/logo",
+  "icon": "./chain/612/logo.png",
   "rpc": [
     "https://rpc.eiob.xyz"
   ],

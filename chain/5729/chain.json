@@ -2,7 +2,7 @@
   "name": "Hika Network Testnet",
   "title": "Hika Network Testnet",
   "chain": "HIK",
-  "icon": "./chain/5729/logo",
+  "icon": "./chain/5729/logo.png",
   "rpc": [
     "https://rpc-testnet.hika.network/"
   ],

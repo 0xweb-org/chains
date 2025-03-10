@@ -15,7 +15,7 @@
   "shortName": "zebro",
   "chainId": 786786,
   "networkId": 786786,
-  "icon": "./chain/786786/logo",
+  "icon": "./chain/786786/logo.png",
   "explorers": [
     {
       "name": "Zebrocoin Explorer",
