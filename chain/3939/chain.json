@@ -15,7 +15,7 @@
   "chainId": 3939,
   "networkId": 3939,
   "slip44": 1,
-  "icon": null,
+  "icon": "./chain/3939/logo.png",
   "explorers": [
     {
       "name": "DOScan-Test",

@@ -14,7 +14,7 @@
   "shortName": "ORL",
   "chainId": 3031,
   "networkId": 3031,
-  "icon": "./chain/3031/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "Orlando (ORL) Explorer",

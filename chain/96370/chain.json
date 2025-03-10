@@ -21,7 +21,7 @@
   "chainId": 96370,
   "networkId": 96370,
   "slip44": 1,
-  "icon": "./chain/96370/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "LumozMainnetInfo",

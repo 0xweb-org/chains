@@ -1,7 +1,7 @@
 {
   "name": "TOP Mainnet",
   "chain": "TOP",
-  "icon": null,
+  "icon": "./chain/989/logo.png",
   "rpc": [],
   "faucets": [],
   "nativeCurrency": {

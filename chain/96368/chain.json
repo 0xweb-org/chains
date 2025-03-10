@@ -1,7 +1,7 @@
 {
   "name": "Lux Testnet",
   "chain": "Lux",
-  "icon": null,
+  "icon": "./chain/96368/logo.png",
   "rpc": [
     "https://api.lux-test.network"
   ],

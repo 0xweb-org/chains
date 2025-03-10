@@ -17,5 +17,5 @@
   "shortName": "tao",
   "chainId": 558,
   "networkId": 558,
-  "icon": null
+  "icon": "./chain/558/logo.png"
 }

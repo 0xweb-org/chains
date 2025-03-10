@@ -15,7 +15,7 @@
   "shortName": "gmmt",
   "chainId": 8989,
   "networkId": 8989,
-  "icon": null,
+  "icon": "./chain/8989/logo.png",
   "explorers": [
     {
       "name": "gmmtscan",

@@ -1,7 +1,7 @@
 {
   "name": "Ramestta Mainnet",
   "chain": "Ramestta",
-  "icon": "./chain/1370/logo.png",
+  "icon": null,
   "rpc": [
     "https://blockchain.ramestta.com",
     "https://blockchain2.ramestta.com"

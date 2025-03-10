@@ -1,7 +1,7 @@
 {
   "name": "MaalChain Testnet",
   "chain": "MaalChain Testnet",
-  "icon": null,
+  "icon": "./chain/7860/logo.png",
   "rpc": [
     "https://node1.maalscan.io/",
     "https://rpc-bntest.maalscan.io/"

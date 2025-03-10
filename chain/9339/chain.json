@@ -1,7 +1,7 @@
 {
   "name": "Dogcoin Testnet",
   "chain": "DOGS",
-  "icon": "./chain/9339/logo.png",
+  "icon": null,
   "rpc": [
     "https://testnet-rpc.dogcoin.me"
   ],

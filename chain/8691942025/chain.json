@@ -18,7 +18,7 @@
   "shortName": "onfa",
   "chainId": 8691942025,
   "networkId": 8691942025,
-  "icon": null,
+  "icon": "./chain/8691942025/logo.png",
   "explorers": [
     {
       "name": "ONFA Scan",

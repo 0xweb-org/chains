@@ -1,7 +1,7 @@
 {
   "name": "Zafirium Mainnet",
   "chain": "ZAFIC",
-  "icon": "./chain/1369/logo.png",
+  "icon": null,
   "rpc": [
     "https://mainnet.zakumi.io"
   ],

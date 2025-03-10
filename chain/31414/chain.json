@@ -1,7 +1,7 @@
 {
   "name": "Evoke Testnet",
   "chain": "Evoke",
-  "icon": null,
+  "icon": "./chain/31414/logo.png",
   "rpc": [
     "https://testnet-rpc.evokescan.org"
   ],

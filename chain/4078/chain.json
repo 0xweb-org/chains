@@ -3,7 +3,7 @@
   "chainId": 4078,
   "shortName": "muster",
   "chain": "Muster",
-  "icon": null,
+  "icon": "./chain/4078/logo.png",
   "networkId": 4078,
   "nativeCurrency": {
     "name": "Ether",

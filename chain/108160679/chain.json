@@ -23,5 +23,5 @@
   "shortName": "Oraichain",
   "chainId": 108160679,
   "networkId": 108160679,
-  "icon": null
+  "icon": "./chain/108160679/logo.png"
 }

@@ -25,7 +25,7 @@
   "chainId": 1291,
   "networkId": 1291,
   "slip44": 1,
-  "icon": null,
+  "icon": "./chain/1291/logo.png",
   "explorers": [
     {
       "name": "Swisstronik Scout",

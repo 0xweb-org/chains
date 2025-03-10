@@ -1,7 +1,7 @@
 {
   "name": "ResinCoin Mainnet",
   "chain": "RESIN",
-  "icon": "./chain/75000/logo.png",
+  "icon": null,
   "rpc": [],
   "faucets": [],
   "nativeCurrency": {

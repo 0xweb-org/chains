@@ -1,7 +1,7 @@
 {
   "name": "BeOne Chain Mainnet",
   "chain": "BOC",
-  "icon": null,
+  "icon": "./chain/818/logo.png",
   "rpc": [
     "https://dataseed1.beonechain.com",
     "https://dataseed2.beonechain.com",

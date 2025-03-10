@@ -1,7 +1,7 @@
 {
   "name": "Daily Network Mainnet",
   "chain": "Daily Network",
-  "icon": null,
+  "icon": "./chain/824/logo.png",
   "rpc": [
     "https://rpc.mainnet.dailycrypto.net"
   ],

@@ -1,7 +1,7 @@
 {
   "name": "TOP Mainnet EVM",
   "chain": "TOP",
-  "icon": null,
+  "icon": "./chain/980/logo.png",
   "rpc": [
     "https://ethapi.topnetwork.org"
   ],

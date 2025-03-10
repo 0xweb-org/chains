@@ -1,7 +1,7 @@
 {
   "name": "ALL Mainnet",
   "chain": "ALL",
-  "icon": null,
+  "icon": "./chain/651940/logo.png",
   "rpc": [
     "https://mainnet-rpc.alltra.global"
   ],

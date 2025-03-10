@@ -1,7 +1,7 @@
 {
   "name": "Numbers Testnet",
   "chain": "NUM",
-  "icon": "./chain/10508/logo.png",
+  "icon": null,
   "rpc": [
     "https://testnetrpc.num.network"
   ],

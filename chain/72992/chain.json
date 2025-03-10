@@ -1,7 +1,7 @@
 {
   "name": "Grok Chain Mainnet",
   "chain": "Grok",
-  "icon": null,
+  "icon": "./chain/72992/logo.png",
   "rpc": [
     "https://mainnet-rpc.grokchain.dev"
   ],

@@ -1,7 +1,7 @@
 {
   "name": "Alterium L2 Testnet",
   "chain": "ALT",
-  "icon": null,
+  "icon": "./chain/420692/logo.png",
   "rpc": [
     "https://l2-testnet-rpc.altscan.org"
   ],

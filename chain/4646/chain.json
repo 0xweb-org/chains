@@ -17,7 +17,7 @@
   "chainId": 4646,
   "networkId": 4646,
   "slip44": 4646,
-  "icon": null,
+  "icon": "./chain/4646/logo.png",
   "explorers": [
     {
       "name": "MST Mainnet Scan",

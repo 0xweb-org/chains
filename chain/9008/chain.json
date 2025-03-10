@@ -17,7 +17,7 @@
   "shortName": "Shido",
   "chainId": 9008,
   "networkId": 9008,
-  "icon": null,
+  "icon": "./chain/9008/logo.png",
   "explorers": [
     {
       "name": "Shidoscan",

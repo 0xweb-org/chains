@@ -1,7 +1,7 @@
 {
   "name": "ICB Testnet",
   "chain": "ICBT",
-  "icon": null,
+  "icon": "./chain/73114/logo.png",
   "rpc": [
     "https://rpc1-testnet.icbnetwork.info/",
     "https://rpc2-testnet.icbnetwork.info/"

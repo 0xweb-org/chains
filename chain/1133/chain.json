@@ -1,6 +1,6 @@
 {
   "name": "DeFiMetaChain Changi Testnet",
-  "icon": "./chain/1133/logo.png",
+  "icon": null,
   "chain": "DFI",
   "rpc": [
     "https://dmc.mydefichain.com/changi",

@@ -1,7 +1,7 @@
 {
   "name": "Numbers Mainnet",
   "chain": "NUM",
-  "icon": "./chain/10507/logo.png",
+  "icon": null,
   "rpc": [
     "https://mainnetrpc.num.network"
   ],

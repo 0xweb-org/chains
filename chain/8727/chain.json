@@ -4,7 +4,7 @@
   "rpc": [
     "https://testnet-validator.storagechain.io"
   ],
-  "icon": null,
+  "icon": "./chain/8727/logo.png",
   "faucets": [],
   "nativeCurrency": {
     "name": "Storagechain",

@@ -15,5 +15,5 @@
   "chainId": 110,
   "networkId": 110,
   "slip44": 1,
-  "icon": null
+  "icon": "./chain/110/logo.png"
 }

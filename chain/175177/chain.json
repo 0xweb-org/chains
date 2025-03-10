@@ -1,7 +1,7 @@
 {
   "name": "Chronicle - Lit Protocol Testnet",
   "chain": "LPC",
-  "icon": "./chain/175177/logo.png",
+  "icon": null,
   "rpc": [
     "https://chain-rpc.litprotocol.com/http"
   ],

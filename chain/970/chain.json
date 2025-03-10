@@ -14,7 +14,7 @@
   "shortName": "ccn",
   "chainId": 970,
   "networkId": 970,
-  "icon": null,
+  "icon": "./chain/970/logo.png",
   "explorers": [
     {
       "name": "Oort Mainnet Explorer",

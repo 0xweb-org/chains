@@ -19,7 +19,7 @@
   "shortName": "SomniaTestnet",
   "chainId": 50312,
   "networkId": 50312,
-  "icon": null,
+  "icon": "./chain/50312/logo.png",
   "explorers": [
     {
       "name": "Somnia Testnet",

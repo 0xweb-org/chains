@@ -2,7 +2,7 @@
   "name": "BOAT Mainnet",
   "title": "BOAT Mainnet",
   "chain": "BOAT",
-  "icon": null,
+  "icon": "./chain/8047/logo.png",
   "rpc": [
     "https://rpc0.come.boat/"
   ],

@@ -16,7 +16,7 @@
   "shortName": "darwin-devnet",
   "chainId": 610,
   "networkId": 610,
-  "icon": null,
+  "icon": "./chain/610/logo.png",
   "explorers": [
     {
       "name": "Darwin Explorer",

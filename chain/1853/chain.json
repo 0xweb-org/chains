@@ -23,7 +23,7 @@
   "shortName": "HighOctane",
   "chainId": 1853,
   "networkId": 1853,
-  "icon": null,
+  "icon": "./chain/1853/logo.png",
   "explorers": [
     {
       "name": "HighOctane Subnet Explorer",

@@ -1,7 +1,7 @@
 {
   "name": "Lucid Blockchain",
   "chain": "Lucid",
-  "icon": null,
+  "icon": "./chain/800/logo.png",
   "rpc": [
     "https://rpc.lucidcoin.io"
   ],

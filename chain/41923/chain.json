@@ -1,7 +1,7 @@
 {
   "name": "EDU Chain",
   "chain": "EDU Chain",
-  "icon": null,
+  "icon": "./chain/41923/logo.png",
   "rpc": [
     "https://rpc.edu-chain.raas.gelato.cloud"
   ],

@@ -15,7 +15,7 @@
   "shortName": "wow",
   "chainId": 203,
   "networkId": 203,
-  "icon": null,
+  "icon": "./chain/203/logo.png",
   "explorers": [
     {
       "name": "blockscout",

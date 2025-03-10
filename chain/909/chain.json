@@ -1,7 +1,7 @@
 {
   "name": "Portal Fantasy Chain",
   "chain": "PF",
-  "icon": "./chain/909/logo.png",
+  "icon": null,
   "rpc": [],
   "faucets": [],
   "nativeCurrency": {

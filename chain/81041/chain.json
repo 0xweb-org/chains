@@ -1,7 +1,7 @@
 {
   "name": "Nordek Mainnet",
   "chain": "Nordek",
-  "icon": null,
+  "icon": "./chain/81041/logo.png",
   "rpc": [
     "https://mainnet-rpc.nordekscan.com"
   ],

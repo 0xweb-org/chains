@@ -22,7 +22,7 @@
   "shortName": "maxi-mainnet",
   "chainId": 899,
   "networkId": 899,
-  "icon": null,
+  "icon": "./chain/899/logo.png",
   "explorers": [
     {
       "name": "Maxi Chain Mainnet Explorer",

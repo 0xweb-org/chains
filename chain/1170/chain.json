@@ -15,7 +15,7 @@
   "chainId": 1170,
   "networkId": 1170,
   "slip44": 1,
-  "icon": null,
+  "icon": "./chain/1170/logo.png",
   "explorers": [
     {
       "name": "Origin Explorer",

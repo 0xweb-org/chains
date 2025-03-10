@@ -25,8 +25,9 @@ export class ChainListSource {
 
             let icons = [
                 chain.icon,
-                chainTvlsDict[chain.chainId]?.gecko_id
-            ]
+                chainTvlsDict[chain.chainId]?.gecko_id,
+                chainTvlsDict[chain.chainId]?.name?.toLowerCase()
+            ].filter(Boolean);
             for (let icon of icons) {
                 let path = await this.getIconUrl(icon, i, chains.length);
                 if (path != null) {

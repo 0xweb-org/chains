@@ -1,7 +1,7 @@
 {
   "name": "Tipboxcoin Mainnet",
   "chain": "TPBX",
-  "icon": null,
+  "icon": "./chain/404040/logo.png",
   "rpc": [
     "https://mainnet-rpc.tipboxcoin.net"
   ],

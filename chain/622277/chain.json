@@ -26,7 +26,7 @@
   "shortName": "hyp",
   "chainId": 622277,
   "networkId": 622277,
-  "icon": null,
+  "icon": "./chain/622277/logo.png",
   "explorers": [
     {
       "name": "hypra",

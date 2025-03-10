@@ -1,7 +1,7 @@
 {
   "name": "MARO Blockchain Mainnet",
   "chain": "MARO Blockchain",
-  "icon": null,
+  "icon": "./chain/8848/logo.png",
   "rpc": [
     "https://rpc-mainnet.ma.ro"
   ],

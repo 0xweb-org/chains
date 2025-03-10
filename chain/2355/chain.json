@@ -16,7 +16,7 @@
   "shortName": "silicon-zk",
   "chainId": 2355,
   "networkId": 2355,
-  "icon": null,
+  "icon": "./chain/2355/logo.png",
   "explorers": [
     {
       "name": "siliconscope",

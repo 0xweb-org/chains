@@ -20,7 +20,7 @@
   "chainId": 105363,
   "networkId": 105363,
   "slip44": 1,
-  "icon": "./chain/105363/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "LumozTestInfo",

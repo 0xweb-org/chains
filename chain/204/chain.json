@@ -1,6 +1,6 @@
 {
   "name": "opBNB Mainnet",
-  "icon": null,
+  "icon": "./chain/204/logo.png",
   "chain": "opBNB",
   "rpc": [
     "https://opbnb-mainnet-rpc.bnbchain.org",

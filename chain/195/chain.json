@@ -19,7 +19,7 @@
   "chainId": 195,
   "networkId": 195,
   "slip44": 1,
-  "icon": null,
+  "icon": "./chain/195/logo.png",
   "explorers": [
     {
       "name": "OKLink",

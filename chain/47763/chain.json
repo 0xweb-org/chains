@@ -15,7 +15,7 @@
   "shortName": "neox-mainnet",
   "chainId": 47763,
   "networkId": 47763,
-  "icon": null,
+  "icon": "./chain/47763/logo.png",
   "explorers": [
     {
       "name": "Neo X - Explorer",

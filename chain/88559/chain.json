@@ -14,7 +14,7 @@
   "shortName": "INO",
   "chainId": 88559,
   "networkId": 88559,
-  "icon": null,
+  "icon": "./chain/88559/logo.png",
   "explorers": [
     {
       "name": "inoai.live",

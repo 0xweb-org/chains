@@ -14,7 +14,7 @@
   "shortName": "oho",
   "chainId": 39815,
   "networkId": 39815,
-  "icon": null,
+  "icon": "./chain/39815/logo.png",
   "explorers": [
     {
       "name": "ohoscan",

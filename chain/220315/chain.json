@@ -22,7 +22,7 @@
   "shortName": "mas",
   "chainId": 220315,
   "networkId": 220315,
-  "icon": null,
+  "icon": "./chain/220315/logo.png",
   "explorers": [
     {
       "name": "explorer masnet",

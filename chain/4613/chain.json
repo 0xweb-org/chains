@@ -2,7 +2,7 @@
   "name": "VERY Mainnet",
   "title": "VERY Mainnet",
   "chain": "VERY Mainnet",
-  "icon": null,
+  "icon": "./chain/4613/logo.png",
   "rpc": [
     "https://rpc.verylabs.io"
   ],

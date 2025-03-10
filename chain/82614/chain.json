@@ -22,7 +22,7 @@
   "shortName": "vemp-horizon",
   "chainId": 82614,
   "networkId": 82614,
-  "icon": null,
+  "icon": "./chain/82614/logo.png",
   "explorers": [
     {
       "name": "VEMP Horizon Caldera Explorer",

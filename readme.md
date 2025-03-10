@@ -11,6 +11,7 @@ This repository provides structured and normalized information about various blo
 
 - https://github.com/ethereum-lists/chains
 - https://github.com/DefiLlama/chainlist
+- https://cryptologos.cc/
 
 ## Usage
 You can use this repository to:
@@ -53,3 +54,7 @@ You can use this repository to:
 npm i
 npm run build
 ```
+
+----
+
+🏁 [0xweb.org](https://0xweb.org)

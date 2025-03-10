@@ -22,7 +22,7 @@
   "shortName": "ethpar",
   "chainId": 1727,
   "networkId": 1727,
-  "icon": null,
+  "icon": "./chain/1727/logo.png",
   "explorers": [
     {
       "name": "Ethpar Mainnet Explorer",

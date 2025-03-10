@@ -16,7 +16,7 @@
   "shortName": "FNCY",
   "chainId": 73,
   "networkId": 73,
-  "icon": "./chain/73/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "fncy scan",

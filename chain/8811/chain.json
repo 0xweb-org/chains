@@ -22,7 +22,7 @@
   "shortName": "haven1",
   "chainId": 8811,
   "networkId": 8811,
-  "icon": null,
+  "icon": "./chain/8811/logo.png",
   "explorers": [
     {
       "name": "Haven1 Explorer",

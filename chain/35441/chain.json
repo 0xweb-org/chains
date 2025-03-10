@@ -14,7 +14,7 @@
   "shortName": "q",
   "chainId": 35441,
   "networkId": 35441,
-  "icon": null,
+  "icon": "./chain/35441/logo.png",
   "explorers": [
     {
       "name": "Q explorer",

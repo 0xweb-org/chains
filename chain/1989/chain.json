@@ -14,5 +14,5 @@
   "shortName": "lydia",
   "chainId": 1989,
   "networkId": 1989,
-  "icon": null
+  "icon": "./chain/1989/logo.png"
 }

@@ -14,7 +14,7 @@
   "shortName": "SUR",
   "chainId": 262,
   "networkId": 1,
-  "icon": null,
+  "icon": "./chain/262/logo.png",
   "explorers": [
     {
       "name": "Surnet Explorer",

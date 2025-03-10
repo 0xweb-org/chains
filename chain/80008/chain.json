@@ -14,7 +14,7 @@
   "shortName": "polynomialSepolia",
   "chainId": 80008,
   "networkId": 80008,
-  "icon": null,
+  "icon": "./chain/80008/logo.png",
   "explorers": [
     {
       "name": "Polynomial Sepolia Explorer",

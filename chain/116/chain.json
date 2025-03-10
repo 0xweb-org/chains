@@ -3,7 +3,7 @@
   "chain": "DeBank",
   "rpc": [],
   "faucets": [],
-  "icon": "./chain/116/logo.png",
+  "icon": null,
   "nativeCurrency": {
     "name": "Ether",
     "symbol": "ETH",

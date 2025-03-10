@@ -23,7 +23,7 @@
   "chainId": 58680,
   "networkId": 58680,
   "slip44": 1,
-  "icon": "./chain/58680/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "LumozQuidditchTestnetInfo",

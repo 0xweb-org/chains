@@ -27,6 +27,10 @@ export namespace $downloader {
         let json = await get<T>(path, { output: 'json' });
         return json;
     }
+    export async function getString (path: string) {
+        let buffer = await get<ArrayBuffer>(path, { output: 'buffer' });
+        return Buffer.from(buffer).toString('utf8');
+    }
 
     export async function downloadImage(chain: IChainInformation): Promise<{ content: string | Buffer, format: 'svg' | 'png' | string }> {
         if (!chain.icon) {

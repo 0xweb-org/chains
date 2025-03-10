@@ -22,7 +22,7 @@
   "shortName": "lyra",
   "chainId": 957,
   "networkId": 957,
-  "icon": null,
+  "icon": "./chain/957/logo.png",
   "explorers": [
     {
       "name": "Lyra Explorer",

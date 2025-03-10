@@ -13,10 +13,7 @@ export class ImageHandler {
     //     const buffer = await Sharp(this.buffer)
     //         .raw()
     //         .toBuffer()
-
-
     //     console.log(buffer[0], buffer[1], buffer[2], buffer[3],)
-
     //     await this.createLogo();
     // }
 
@@ -33,7 +30,10 @@ export class ImageHandler {
     private async createLogoInner () {
         const stats = await Sharp(this.buffer).stats();
         const metadata = await Sharp(this.buffer).metadata();
-        const dominant = Math.min(stats.dominant.r, stats.dominant.g, stats.dominant.b);
+
+        let dominant = Math.min(stats.dominant.r, stats.dominant.g, stats.dominant.b);
+        // Fix: Ethereum logo gets black background, as the dominant color is calculated as almost white.
+        dominant = 0;
         const color = { r: 255 - dominant, g: 255 - dominant, b: 255 - dominant };
 
         if (metadata.format === 'svg') {
@@ -45,8 +45,11 @@ export class ImageHandler {
                 .flatten({ background: color })
                 .toBuffer()
         }
-        const size = 256;
-        if (metadata.width !== 256 || metadata.height!== 256) {
+        let size = 256;
+        if (metadata.width < size && metadata.height < size) {
+            size = Math.max(metadata.width, metadata.height);
+        }
+        if (metadata.width !== size || metadata.height !== size) {
             this.buffer = await Sharp(this.buffer)
                 .resize(size, size, { fit: 'contain', background: color })
                 .toBuffer()
