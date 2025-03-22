@@ -41,5 +41,6 @@
     }
   ],
   "status": "active",
-  "slip44": 1
+  "slip44": 1,
+  "tvl": 0
 }

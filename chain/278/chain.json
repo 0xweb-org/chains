@@ -20,5 +20,6 @@
   "shortName": "fai",
   "chainId": 278,
   "networkId": 278,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

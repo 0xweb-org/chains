@@ -23,5 +23,6 @@
   "infoURL": "https://eternalcoin.io",
   "shortName": "ETE",
   "chainId": 140,
-  "networkId": 140
+  "networkId": 140,
+  "tvl": 0
 }

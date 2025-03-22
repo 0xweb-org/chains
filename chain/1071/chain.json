@@ -25,5 +25,6 @@
       "standard": "EIP3091"
     }
   ],
-  "status": "deprecated"
+  "status": "deprecated",
+  "tvl": 0
 }

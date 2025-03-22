@@ -15,5 +15,6 @@
   "shortName": "tngl",
   "chainId": 33133,
   "networkId": 33133,
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

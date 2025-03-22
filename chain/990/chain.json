@@ -1,7 +1,7 @@
 {
   "name": "eLiberty Mainnet",
   "chain": "$EL",
-  "icon": "./chain/990/logo.png",
+  "icon": null,
   "rpc": [
     "https://rpc.eliberty.ngo"
   ],
@@ -23,5 +23,6 @@
       "url": "https://explorer.eliberty.ngo",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

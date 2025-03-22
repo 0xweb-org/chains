@@ -14,5 +14,6 @@
   "shortName": "Cyber",
   "chainId": 85449,
   "networkId": 48501,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

@@ -1,7 +1,7 @@
 {
   "name": "KardiaChain Mainnet",
   "chain": "KAI",
-  "icon": "./chain/24/logo.png",
+  "icon": null,
   "rpc": [
     "https://rpc.kardiachain.io"
   ],
@@ -17,5 +17,6 @@
   "networkId": 0,
   "redFlags": [
     "reusedChainId"
-  ]
+  ],
+  "tvl": 0
 }

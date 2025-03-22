@@ -42,5 +42,6 @@
       }
     ]
   },
-  "status": "active"
+  "status": "active",
+  "tvl": 0
 }

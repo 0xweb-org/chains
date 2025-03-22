@@ -13,5 +13,6 @@
     "decimals": 18
   },
   "status": "incubating",
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

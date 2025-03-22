@@ -23,5 +23,6 @@
   "shortName": "unit0-mainnet",
   "chainId": 88811,
   "networkId": 88811,
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

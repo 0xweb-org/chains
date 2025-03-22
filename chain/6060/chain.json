@@ -29,5 +29,6 @@
       "url": "https://testnet.bchscan.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

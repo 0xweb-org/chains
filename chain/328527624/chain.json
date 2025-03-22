@@ -21,5 +21,6 @@
       "url": "https://testnet-scan.nal.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

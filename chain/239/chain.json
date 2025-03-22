@@ -14,5 +14,6 @@
   "shortName": "tac",
   "chainId": 239,
   "networkId": 239,
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

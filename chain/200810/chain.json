@@ -21,12 +21,13 @@
   "chainId": 200810,
   "networkId": 200810,
   "slip44": 1,
-  "icon": "./chain/200810/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "bitlayer testnet scan",
       "url": "https://testnet.btrscan.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

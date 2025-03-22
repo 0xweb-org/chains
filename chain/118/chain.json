@@ -1,7 +1,7 @@
 {
   "name": "Arcology Testnet",
   "chain": "Arcology",
-  "icon": "./chain/118/logo.png",
+  "icon": null,
   "rpc": [
     "https://testnet.arcology.network/rpc"
   ],
@@ -22,5 +22,6 @@
       "url": "https://testnet.arcology.network/explorer",
       "standard": "none"
     }
-  ]
+  ],
+  "tvl": 0
 }

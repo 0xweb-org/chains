@@ -16,7 +16,7 @@
   "chainId": 17180,
   "networkId": 17180,
   "slip44": 1,
-  "icon": "./chain/17180/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "Palettescan",
@@ -24,5 +24,6 @@
       "icon": "PLT",
       "standard": "none"
     }
-  ]
+  ],
+  "tvl": 0
 }

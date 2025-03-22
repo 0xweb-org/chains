@@ -14,5 +14,6 @@
   "networkId": 2,
   "slip44": 1,
   "status": "deprecated",
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

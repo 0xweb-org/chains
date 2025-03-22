@@ -28,5 +28,6 @@
       "url": "https://testnet.neonscan.org",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

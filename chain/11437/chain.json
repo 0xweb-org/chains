@@ -20,5 +20,6 @@
       "url": "https://bx.testnet.shyft.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

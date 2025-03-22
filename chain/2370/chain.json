@@ -23,5 +23,6 @@
       "url": "https://evm-testnet.nexscan.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

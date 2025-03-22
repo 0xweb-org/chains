@@ -14,5 +14,6 @@
   "shortName": "ebro",
   "chainId": 2306,
   "networkId": 2306,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

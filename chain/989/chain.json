@@ -1,7 +1,7 @@
 {
   "name": "TOP Mainnet",
   "chain": "TOP",
-  "icon": "./chain/989/logo.png",
+  "icon": null,
   "rpc": [],
   "faucets": [],
   "nativeCurrency": {
@@ -19,5 +19,6 @@
       "url": "https://www.topscan.io",
       "standard": "none"
     }
-  ]
+  ],
+  "tvl": 0
 }

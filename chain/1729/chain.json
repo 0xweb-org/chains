@@ -22,5 +22,6 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": "./chain/1729/logo.png"
+  "icon": "./chain/1729/logo.png",
+  "tvl": 18690205
 }

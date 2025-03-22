@@ -23,5 +23,6 @@
   "shortName": "PikaMinter",
   "chainId": 4422,
   "networkId": 4422,
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

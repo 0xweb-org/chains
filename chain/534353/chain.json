@@ -28,5 +28,6 @@
     "chain": "eip155-5",
     "bridges": []
   },
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

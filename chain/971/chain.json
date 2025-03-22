@@ -12,5 +12,6 @@
   "shortName": "Huygens",
   "chainId": 971,
   "networkId": 971,
-  "icon": "./chain/971/logo.png"
+  "icon": null,
+  "tvl": 0
 }

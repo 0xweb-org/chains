@@ -18,5 +18,6 @@
   "shortName": "ckb",
   "chainId": 71393,
   "networkId": 1,
-  "slip44": 1
+  "slip44": 1,
+  "tvl": 0
 }

@@ -22,5 +22,6 @@
   "infoURL": "https://filefilego.com",
   "shortName": "ffg",
   "chainId": 191,
-  "networkId": 191
+  "networkId": 191,
+  "tvl": 0
 }

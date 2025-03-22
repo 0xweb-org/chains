@@ -14,7 +14,7 @@
   "shortName": "dos",
   "chainId": 7979,
   "networkId": 7979,
-  "icon": "./chain/7979/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "DOScan",
@@ -22,5 +22,6 @@
       "icon": "doschain",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

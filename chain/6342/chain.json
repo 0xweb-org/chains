@@ -16,5 +16,6 @@
   "chainId": 6342,
   "networkId": 6342,
   "slip44": 1,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

@@ -39,5 +39,6 @@
         "url": "https://pgn-bridge.vercel.app/bridge"
       }
     ]
-  }
+  },
+  "tvl": 0
 }

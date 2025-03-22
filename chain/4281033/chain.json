@@ -23,5 +23,6 @@
   "chainId": 4281033,
   "networkId": 4281033,
   "icon": "./chain/4281033/logo.png",
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

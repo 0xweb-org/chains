@@ -14,7 +14,7 @@
   "shortName": "gcode",
   "chainId": 59971,
   "networkId": 59971,
-  "icon": "./chain/59971/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "Genesys Scan",
@@ -22,5 +22,6 @@
       "icon": "genesyscode",
       "standard": "none"
     }
-  ]
+  ],
+  "tvl": 0
 }

@@ -27,5 +27,6 @@
     "type": "L2",
     "chain": "eip155-42161"
   },
-  "icon": "./chain/80451/logo.png"
+  "icon": "./chain/80451/logo.png",
+  "tvl": 0
 }

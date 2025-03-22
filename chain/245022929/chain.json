@@ -15,5 +15,6 @@
   "shortName": "neonevm-devnet-rollup",
   "chainId": 245022929,
   "networkId": 245022929,
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

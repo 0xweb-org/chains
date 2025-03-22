@@ -5,7 +5,7 @@
   "rpc": [
     "https://rpc2.siriusnet.io"
   ],
-  "icon": "./chain/217/logo.png",
+  "icon": null,
   "nativeCurrency": {
     "name": "MCD",
     "symbol": "MCD",
@@ -21,5 +21,6 @@
       "url": "https://scan.siriusnet.io",
       "standard": "none"
     }
-  ]
+  ],
+  "tvl": 0
 }

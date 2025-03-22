@@ -1,7 +1,7 @@
 {
   "name": "WoopChain Mainnet",
   "chain": "WOOP",
-  "icon": "./chain/139/logo.png",
+  "icon": null,
   "rpc": [
     "https://rpc.woop.ai/rpc"
   ],
@@ -29,5 +29,6 @@
       "url": "https://explorer.wikiwoop.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

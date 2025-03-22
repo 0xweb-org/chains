@@ -17,5 +17,6 @@
   "shortName": "smartbch",
   "chainId": 10000,
   "networkId": 10000,
-  "icon": "./chain/10000/logo.png"
+  "icon": "./chain/10000/logo.png",
+  "tvl": 941041
 }

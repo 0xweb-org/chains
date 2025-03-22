@@ -14,5 +14,6 @@
   "chainId": 100100,
   "networkId": 100100,
   "explorers": [],
-  "status": "deprecated"
+  "status": "deprecated",
+  "tvl": 0
 }

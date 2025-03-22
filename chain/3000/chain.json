@@ -14,5 +14,6 @@
   "shortName": "cennz-r",
   "chainId": 3000,
   "networkId": 3000,
-  "icon": "./chain/3000/logo.png"
+  "icon": "./chain/3000/logo.png",
+  "tvl": 0
 }

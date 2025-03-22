@@ -15,7 +15,7 @@
   "shortName": "neox-mainnet",
   "chainId": 47763,
   "networkId": 47763,
-  "icon": "./chain/47763/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "Neo X - Explorer",
@@ -23,5 +23,6 @@
       "standard": "EIP3091"
     }
   ],
-  "status": "active"
+  "status": "active",
+  "tvl": 43513
 }

@@ -15,7 +15,7 @@
   "shortName": "PCM",
   "chainId": 1718,
   "networkId": 1718,
-  "icon": "./chain/1718/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "Palettescan",
@@ -23,5 +23,6 @@
       "icon": "PLT",
       "standard": "none"
     }
-  ]
+  ],
+  "tvl": 0
 }

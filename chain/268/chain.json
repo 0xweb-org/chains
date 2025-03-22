@@ -24,5 +24,6 @@
   "networkId": 268,
   "explorers": [],
   "status": "incubating",
-  "slip44": 1
+  "slip44": 1,
+  "tvl": 0
 }

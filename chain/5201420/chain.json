@@ -23,7 +23,7 @@
   "chainId": 5201420,
   "networkId": 5201420,
   "slip44": 1,
-  "icon": "./chain/5201420/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "blockscout",
@@ -31,5 +31,6 @@
       "icon": "electroneum",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

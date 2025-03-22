@@ -14,5 +14,6 @@
   "shortName": "cycles",
   "chainId": 77677,
   "networkId": 77677,
-  "icon": "./chain/77677/logo.png"
+  "icon": "./chain/77677/logo.png",
+  "tvl": 0
 }

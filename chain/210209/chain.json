@@ -23,5 +23,6 @@
   "shortName": "sorian",
   "chainId": 210209,
   "networkId": 210209,
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

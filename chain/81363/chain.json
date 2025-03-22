@@ -13,5 +13,6 @@
   "icon": "./chain/81363/logo.png",
   "chainId": 81363,
   "networkId": 81363,
-  "status": "incubating"
+  "status": "incubating",
+  "tvl": 0
 }

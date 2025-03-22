@@ -25,5 +25,6 @@
     "chain": "eip155-1",
     "type": "L2"
   },
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

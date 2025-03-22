@@ -45,5 +45,6 @@
       "icon": "linea"
     }
   ],
-  "status": "active"
+  "status": "active",
+  "tvl": 0
 }

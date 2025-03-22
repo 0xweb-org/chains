@@ -15,7 +15,7 @@
   "chainId": 3939,
   "networkId": 3939,
   "slip44": 1,
-  "icon": "./chain/3939/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "DOScan-Test",
@@ -23,5 +23,6 @@
       "icon": "doschain",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

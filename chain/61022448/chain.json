@@ -14,5 +14,6 @@
   "shortName": "dkargowarehouse",
   "chainId": 61022448,
   "networkId": 61022448,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

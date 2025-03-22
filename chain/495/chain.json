@@ -15,5 +15,6 @@
   "shortName": "lds",
   "chainId": 495,
   "networkId": 495,
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

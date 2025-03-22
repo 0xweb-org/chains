@@ -1,7 +1,7 @@
 {
   "name": "Bitindi Mainnet",
   "chain": "BNI",
-  "icon": "./chain/4099/logo.png",
+  "icon": null,
   "rpc": [
     "https://mainnet-rpc.bitindi.org"
   ],
@@ -23,5 +23,6 @@
       "url": "https://bitindiscan.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

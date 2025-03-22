@@ -27,5 +27,6 @@
       "standard": "none"
     }
   ],
-  "icon": "./chain/42220/logo.png"
+  "icon": "./chain/42220/logo.png",
+  "tvl": 76404664
 }

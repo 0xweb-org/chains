@@ -30,5 +30,6 @@
   "parent": {
     "type": "L2",
     "chain": "eip155-43113"
-  }
+  },
+  "tvl": 0
 }

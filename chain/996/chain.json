@@ -14,5 +14,6 @@
   "shortName": "bnc",
   "chainId": 996,
   "networkId": 996,
-  "icon": "./chain/996/logo.png"
+  "icon": "./chain/996/logo.png",
+  "tvl": 0
 }

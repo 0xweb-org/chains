@@ -14,7 +14,7 @@
   "shortName": "oho",
   "chainId": 39815,
   "networkId": 39815,
-  "icon": "./chain/39815/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "ohoscan",
@@ -22,5 +22,6 @@
       "icon": "ohoscan",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

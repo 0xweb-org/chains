@@ -15,12 +15,13 @@
   "chainId": 371,
   "networkId": 371,
   "slip44": 1,
-  "icon": null,
+  "icon": "./chain/371/logo.png",
   "explorers": [
     {
       "name": "blockscout",
       "url": "https://explorer-testnet.theconsta.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

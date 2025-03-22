@@ -15,5 +15,6 @@
   "shortName": "tetc",
   "chainId": 62,
   "networkId": 2,
-  "slip44": 1
+  "slip44": 1,
+  "tvl": 0
 }

@@ -2,7 +2,7 @@
   "name": "Bahamut ocean",
   "title": "Bahamut ocean",
   "chain": "Bahamut",
-  "icon": "./chain/4058/logo.png",
+  "icon": null,
   "rpc": [
     "https://rpc1.ocean.bahamutchain.com"
   ],
@@ -30,5 +30,6 @@
       "url": "https://ocean.ftnscan.com",
       "standard": "none"
     }
-  ]
+  ],
+  "tvl": 0
 }

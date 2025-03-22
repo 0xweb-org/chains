@@ -23,7 +23,7 @@
   "chainId": 43851,
   "networkId": 43851,
   "slip44": 1,
-  "icon": "./chain/43851/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "ZKFair Testnet Info",
@@ -31,5 +31,6 @@
       "icon": "zkfair",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

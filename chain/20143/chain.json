@@ -22,5 +22,6 @@
   "chainId": 20143,
   "networkId": 20143,
   "slip44": 1,
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

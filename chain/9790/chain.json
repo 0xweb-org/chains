@@ -15,5 +15,6 @@
   "shortName": "carbon",
   "chainId": 9790,
   "networkId": 9790,
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

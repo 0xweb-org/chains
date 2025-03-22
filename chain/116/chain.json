@@ -14,5 +14,6 @@
   "shortName": "debank-mainnet",
   "chainId": 116,
   "networkId": 116,
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

@@ -1,7 +1,7 @@
 {
   "name": "Bitrock Testnet",
   "chain": "Bitrock",
-  "icon": "./chain/7771/logo.png",
+  "icon": null,
   "rpc": [
     "https://testnet.bit-rock.io"
   ],
@@ -24,5 +24,6 @@
       "url": "https://testnetscan.bit-rock.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

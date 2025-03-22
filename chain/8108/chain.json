@@ -23,5 +23,6 @@
   "networkId": 8108,
   "slip44": 60,
   "explorers": [],
-  "status": "incubating"
+  "status": "incubating",
+  "tvl": 0
 }

@@ -1,7 +1,7 @@
 {
   "name": "Hela Official Runtime Testnet",
   "chain": "Hela",
-  "icon": "./chain/666888/logo.png",
+  "icon": null,
   "rpc": [
     "https://testnet-rpc.helachain.com"
   ],
@@ -24,5 +24,6 @@
       "url": "https://testnet-blockexplorer.helachain.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

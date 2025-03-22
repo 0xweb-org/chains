@@ -1,7 +1,7 @@
 {
   "name": "Numbers Mainnet",
   "chain": "NUM",
-  "icon": null,
+  "icon": "./chain/10507/logo.png",
   "rpc": [
     "https://mainnetrpc.num.network"
   ],
@@ -21,5 +21,6 @@
       "url": "https://mainnet.num.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

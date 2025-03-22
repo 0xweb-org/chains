@@ -14,5 +14,6 @@
   "shortName": "clv",
   "chainId": 1024,
   "networkId": 1024,
-  "icon": "./chain/1024/logo.png"
+  "icon": "./chain/1024/logo.png",
+  "tvl": 0
 }

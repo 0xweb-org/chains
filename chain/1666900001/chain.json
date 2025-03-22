@@ -15,5 +15,6 @@
   "chainId": 1666900001,
   "networkId": 1666900001,
   "explorers": [],
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

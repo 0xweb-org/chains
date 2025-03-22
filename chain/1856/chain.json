@@ -14,5 +14,6 @@
   "shortName": "tsf",
   "chainId": 1856,
   "networkId": 1,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

@@ -31,5 +31,6 @@
     "chain": "eip155-11155111",
     "bridges": []
   },
-  "status": "deprecated"
+  "status": "deprecated",
+  "tvl": 0
 }

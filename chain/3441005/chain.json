@@ -32,5 +32,6 @@
       "url": "https://manta-testnet.calderaexplorer.xyz",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

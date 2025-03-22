@@ -14,12 +14,13 @@
   "shortName": "artela-mainnet",
   "chainId": 11820,
   "networkId": 11820,
-  "icon": "./chain/11820/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "ArtelaScan",
       "url": "https://artscan.artela.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 103940
 }

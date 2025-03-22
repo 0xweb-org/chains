@@ -32,5 +32,6 @@
         "url": "https://zkbridge.testnet.telos.net"
       }
     ]
-  }
+  },
+  "tvl": 0
 }

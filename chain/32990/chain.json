@@ -16,12 +16,13 @@
   "shortName": "zil-isolated-server",
   "chainId": 32990,
   "networkId": 32990,
-  "icon": "./chain/32990/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "Zilliqa EVM Isolated Server Explorer",
       "url": "https://devex.zilliqa.com/?network=https://zilliqa-isolated-server.zilliqa.com",
       "standard": "none"
     }
-  ]
+  ],
+  "tvl": 0
 }

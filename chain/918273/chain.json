@@ -16,5 +16,6 @@
   "shortName": "owshen-mainnet",
   "chainId": 918273,
   "networkId": 918273,
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

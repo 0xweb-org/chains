@@ -31,5 +31,6 @@
         "url": "https://bridge-ui.cardona.zkevm-rpc.com"
       }
     ]
-  }
+  },
+  "tvl": 0
 }

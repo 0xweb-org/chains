@@ -17,7 +17,7 @@
   "chainId": 11115,
   "networkId": 11115,
   "slip44": 1,
-  "icon": null,
+  "icon": "./chain/11115/logo.png",
   "explorers": [
     {
       "name": "Astra EVM Explorer",
@@ -31,5 +31,6 @@
       "standard": "none",
       "icon": "astra"
     }
-  ]
+  ],
+  "tvl": 0
 }

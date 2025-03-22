@@ -16,5 +16,6 @@
   "infoURL": "https://duckchain.io",
   "shortName": "Duck-Chain-Mainnet",
   "chainId": 5545,
-  "networkId": 5545
+  "networkId": 5545,
+  "tvl": 0
 }

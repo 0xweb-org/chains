@@ -31,5 +31,6 @@
         "url": "https://bridge.soneium.org/testnet"
       }
     ]
-  }
+  },
+  "tvl": 0
 }

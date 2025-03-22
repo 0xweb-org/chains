@@ -40,5 +40,6 @@
       "name": "EIP155"
     }
   ],
-  "status": "active"
+  "status": "active",
+  "tvl": 0
 }

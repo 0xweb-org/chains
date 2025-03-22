@@ -14,7 +14,7 @@
   "shortName": "q",
   "chainId": 35441,
   "networkId": 35441,
-  "icon": "./chain/35441/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "Q explorer",
@@ -22,5 +22,6 @@
       "icon": "q",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 83279
 }

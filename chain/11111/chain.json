@@ -23,5 +23,6 @@
       "url": "https://subnets-test.avax.network/wagmi",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

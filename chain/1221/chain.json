@@ -14,5 +14,6 @@
   "shortName": "Cycle",
   "chainId": 1221,
   "networkId": 1221,
-  "icon": "./chain/1221/logo.png"
+  "icon": "./chain/1221/logo.png",
+  "tvl": 0
 }

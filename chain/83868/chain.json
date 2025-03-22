@@ -18,5 +18,6 @@
     "chain": "eip155-84532"
   },
   "infoURL": "https://xprotocol.org/",
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

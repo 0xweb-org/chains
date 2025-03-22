@@ -15,5 +15,6 @@
   "chainId": 218,
   "networkId": 218,
   "status": "deprecated",
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

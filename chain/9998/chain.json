@@ -14,5 +14,6 @@
   "shortName": "ZTC",
   "chainId": 9998,
   "networkId": 9998,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

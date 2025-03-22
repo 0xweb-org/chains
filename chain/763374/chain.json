@@ -31,5 +31,6 @@
       "standard": "EIP3091",
       "icon": "surge-testnet"
     }
-  ]
+  ],
+  "tvl": 0
 }

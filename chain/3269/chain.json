@@ -14,5 +14,6 @@
   "shortName": "dubx",
   "chainId": 3269,
   "networkId": 3269,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

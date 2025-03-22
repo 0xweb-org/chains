@@ -23,7 +23,8 @@
   "shortName": "kly",
   "chainId": 7331,
   "networkId": 7331,
-  "icon": "./chain/7331/logo.png",
+  "icon": null,
   "explorers": [],
-  "status": "incubating"
+  "status": "incubating",
+  "tvl": 0
 }

@@ -23,5 +23,6 @@
   "infoURL": "https://centrifuge.io",
   "shortName": "air",
   "chainId": 2088,
-  "networkId": 2088
+  "networkId": 2088,
+  "tvl": 0
 }

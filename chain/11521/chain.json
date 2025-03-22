@@ -14,12 +14,13 @@
   "shortName": "satschain",
   "chainId": 11521,
   "networkId": 11521,
-  "icon": null,
+  "icon": "./chain/11521/logo.png",
   "explorers": [
     {
       "name": "satschain scan",
       "url": "https://scan-satschain.bevm.io",
       "standard": "none"
     }
-  ]
+  ],
+  "tvl": 0
 }

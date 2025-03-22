@@ -18,5 +18,6 @@
   "chainId": 7099,
   "networkId": 7099,
   "explorers": [],
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

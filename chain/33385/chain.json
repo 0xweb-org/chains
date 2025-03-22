@@ -16,12 +16,13 @@
   "shortName": "zil-devnet",
   "chainId": 33385,
   "networkId": 33385,
-  "icon": "./chain/33385/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "Zilliqa EVM Devnet Explorer",
       "url": "https://otterscan.devnet.zilliqa.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

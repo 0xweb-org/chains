@@ -14,5 +14,6 @@
   "shortName": "nfic",
   "chainId": 132,
   "networkId": 132,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

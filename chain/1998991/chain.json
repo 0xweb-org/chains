@@ -20,5 +20,6 @@
   "shortName": "xp-test",
   "chainId": 1998991,
   "networkId": 1998991,
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

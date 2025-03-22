@@ -15,5 +15,6 @@
   "chainId": 88,
   "networkId": 88,
   "slip44": 889,
-  "icon": "./chain/88/logo.png"
+  "icon": "./chain/88/logo.png",
+  "tvl": 3154656
 }

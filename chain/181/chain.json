@@ -20,5 +20,6 @@
   "chainId": 181,
   "networkId": 181,
   "icon": "./chain/181/logo.png",
-  "explorers": []
+  "explorers": [],
+  "tvl": 46
 }

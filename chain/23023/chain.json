@@ -26,5 +26,6 @@
       "name": "EIP1559"
     }
   ],
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

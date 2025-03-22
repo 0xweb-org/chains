@@ -31,5 +31,6 @@
         "url": "https://sepolia-testnet-bridge.mintchain.io"
       }
     ]
-  }
+  },
+  "tvl": 0
 }

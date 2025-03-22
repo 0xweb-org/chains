@@ -16,7 +16,7 @@
   "shortName": "silicon-zk",
   "chainId": 2355,
   "networkId": 2355,
-  "icon": "./chain/2355/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "siliconscope",
@@ -36,5 +36,6 @@
       }
     ]
   },
-  "status": "active"
+  "status": "active",
+  "tvl": 39801
 }

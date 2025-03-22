@@ -1,7 +1,7 @@
 {
   "name": "Excoincial Chain Volta-Testnet",
   "chain": "TEXL",
-  "icon": "./chain/27082017/logo.png",
+  "icon": null,
   "rpc": [
     "https://testnet-rpc.exlscan.com"
   ],
@@ -25,5 +25,6 @@
       "icon": "exl",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

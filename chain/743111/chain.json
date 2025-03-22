@@ -27,5 +27,6 @@
     "type": "L2",
     "chain": "eip155-11155111"
   },
-  "status": "active"
+  "status": "active",
+  "tvl": 0
 }

@@ -21,5 +21,6 @@
       "url": "https://blockscout-testnet.expchain.ai",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

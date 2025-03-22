@@ -14,5 +14,6 @@
   "shortName": "Cosmic",
   "chainId": 67588,
   "networkId": 3344,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

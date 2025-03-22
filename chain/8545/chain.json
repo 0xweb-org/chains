@@ -15,5 +15,6 @@
   "chainId": 8545,
   "networkId": 8545,
   "explorers": [],
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

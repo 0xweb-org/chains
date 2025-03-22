@@ -23,5 +23,6 @@
       "url": "http://testnet.latestchain.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

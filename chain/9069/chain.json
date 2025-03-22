@@ -20,5 +20,6 @@
   "chainId": 9069,
   "networkId": 9069,
   "icon": "./chain/9069/logo.png",
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

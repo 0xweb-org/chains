@@ -16,5 +16,6 @@
   "chainId": 431140,
   "networkId": 431140,
   "explorers": [],
-  "status": "incubating"
+  "status": "incubating",
+  "tvl": 0
 }

@@ -1,7 +1,7 @@
 {
   "name": "EraSwap Mainnet",
   "chain": "ESN",
-  "icon": "./chain/5197/logo.png",
+  "icon": null,
   "rpc": [
     "https://mainnet.eraswap.network",
     "https://rpc-mumbai.mainnet.eraswap.network"
@@ -15,5 +15,6 @@
   "infoURL": "https://eraswap.info/",
   "shortName": "es",
   "chainId": 5197,
-  "networkId": 5197
+  "networkId": 5197,
+  "tvl": 0
 }

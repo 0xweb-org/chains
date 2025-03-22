@@ -13,5 +13,6 @@
   "chainId": 1286,
   "networkId": 1286,
   "status": "deprecated",
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

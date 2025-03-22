@@ -1,7 +1,7 @@
 {
   "name": "REI Chain Mainnet",
   "chain": "REI",
-  "icon": "./chain/55555/logo.png",
+  "icon": null,
   "rpc": [
     "https://rei-rpc.moonrhythm.io"
   ],
@@ -23,5 +23,6 @@
       "url": "https://reiscan.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 4159
 }

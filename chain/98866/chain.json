@@ -1,7 +1,7 @@
 {
   "name": "Plume Mainnet",
   "title": "Plume Ethereum L2 Rollup Mainnet",
-  "chain": "ETH",
+  "chain": "PLUME",
   "rpc": [
     "https://phoenix-rpc.plumenetwork.xyz",
     "wss://phoenix-rpc.plumenetwork.xyz"
@@ -17,7 +17,7 @@
   "chainId": 98866,
   "networkId": 98866,
   "slip44": 1,
-  "icon": "./chain/98866/logo.png",
+  "icon": null,
   "status": "incubating",
   "explorers": [
     {
@@ -35,5 +35,6 @@
         "url": "https://bridge.plumenetwork.xyz"
       }
     ]
-  }
+  },
+  "tvl": 0
 }

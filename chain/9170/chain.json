@@ -17,5 +17,6 @@
   "networkId": 9170,
   "slip44": 1,
   "explorers": [],
-  "status": "deprecated"
+  "status": "deprecated",
+  "tvl": 0
 }

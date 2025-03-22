@@ -29,5 +29,6 @@
       "url": "http://explorer.etica-stats.org",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

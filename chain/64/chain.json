@@ -15,5 +15,6 @@
   "chainId": 64,
   "networkId": 64,
   "slip44": 163,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

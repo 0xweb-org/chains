@@ -20,5 +20,6 @@
   "slip44": 1,
   "explorers": [],
   "status": "deprecated",
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

@@ -1,6 +1,6 @@
 {
   "name": "opBNB Mainnet",
-  "icon": "./chain/204/logo.png",
+  "icon": null,
   "chain": "opBNB",
   "rpc": [
     "https://opbnb-mainnet-rpc.bnbchain.org",
@@ -30,5 +30,6 @@
       "url": "https://mainnet.opbnbscan.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 25297008
 }

@@ -1,7 +1,7 @@
 {
   "name": "Saakuru Testnet",
   "chain": "Saakuru",
-  "icon": "./chain/247253/logo.png",
+  "icon": null,
   "rpc": [
     "https://rpc-testnet.saakuru.network"
   ],
@@ -22,5 +22,6 @@
       "url": "https://explorer-testnet.saakuru.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

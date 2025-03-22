@@ -17,5 +17,6 @@
   "chainId": 5777,
   "networkId": 5777,
   "slip44": 1,
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

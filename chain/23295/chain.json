@@ -23,5 +23,6 @@
       "url": "https://explorer.oasis.io/testnet/sapphire",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

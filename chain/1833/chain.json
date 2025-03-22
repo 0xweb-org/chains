@@ -34,5 +34,6 @@
       }
     ]
   },
-  "icon": "./chain/1833/logo.png"
+  "icon": "./chain/1833/logo.png",
+  "tvl": 0
 }

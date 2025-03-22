@@ -25,5 +25,6 @@
     }
   ],
   "status": "deprecated",
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

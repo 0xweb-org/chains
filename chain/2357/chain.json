@@ -34,5 +34,6 @@
       }
     ]
   },
-  "status": "deprecated"
+  "status": "deprecated",
+  "tvl": 0
 }

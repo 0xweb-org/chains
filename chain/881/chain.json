@@ -14,7 +14,7 @@
   "shortName": "ptt",
   "chainId": 881,
   "networkId": 881,
-  "icon": null,
+  "icon": "./chain/881/logo.png",
   "explorers": [
     {
       "name": "Weber Governance Mainnet Explorer",
@@ -22,5 +22,6 @@
       "icon": "ptt",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

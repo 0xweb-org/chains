@@ -15,7 +15,7 @@
   "shortName": "xodex",
   "chainId": 2415,
   "networkId": 10,
-  "icon": "./chain/2415/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "XODEX Explorer",
@@ -23,5 +23,6 @@
       "standard": "EIP3091",
       "icon": "xodex"
     }
-  ]
+  ],
+  "tvl": 0
 }

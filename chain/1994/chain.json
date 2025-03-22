@@ -14,7 +14,7 @@
   "shortName": "ekta",
   "chainId": 1994,
   "networkId": 1994,
-  "icon": "./chain/1994/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "ektascan",
@@ -22,5 +22,6 @@
       "icon": "ekta",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

@@ -14,5 +14,6 @@
   "chainId": 909,
   "networkId": 909,
   "explorers": [],
-  "status": "incubating"
+  "status": "incubating",
+  "tvl": 0
 }

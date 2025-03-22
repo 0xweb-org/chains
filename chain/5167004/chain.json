@@ -1,7 +1,7 @@
 {
   "name": "Moonchain Geneva Testnet",
   "chain": "MXC zkEVM",
-  "icon": "./chain/5167004/logo.png",
+  "icon": null,
   "rpc": [
     "https://geneva-rpc.moonchain.com"
   ],
@@ -22,5 +22,6 @@
       "url": "https://geneva-explorer.moonchain.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

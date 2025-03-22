@@ -16,5 +16,6 @@
   "shortName": "lydia-testnet",
   "chainId": 198989,
   "networkId": 198989,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

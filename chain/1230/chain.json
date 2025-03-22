@@ -1,7 +1,7 @@
 {
   "name": "Ultron Testnet",
   "chain": "Ultron",
-  "icon": "./chain/1230/logo.png",
+  "icon": null,
   "rpc": [
     "https://ultron-dev.io"
   ],
@@ -23,5 +23,6 @@
       "icon": "ultron",
       "standard": "none"
     }
-  ]
+  ],
+  "tvl": 0
 }

@@ -23,7 +23,7 @@
   "chainId": 16688,
   "networkId": 16688,
   "slip44": 1,
-  "icon": "./chain/16688/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "IRISHub Testnet Cosmos Explorer (IOBScan)",
@@ -31,5 +31,6 @@
       "standard": "none",
       "icon": "nyancat"
     }
-  ]
+  ],
+  "tvl": 0
 }

@@ -16,12 +16,13 @@
   "shortName": "zq2-devnet",
   "chainId": 33469,
   "networkId": 33469,
-  "icon": "./chain/33469/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "Zilliqa-2 EVM Devnet Explorer",
       "url": "https://explorer.zq2-devnet.zilliqa.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

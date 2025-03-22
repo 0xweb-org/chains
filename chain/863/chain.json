@@ -14,5 +14,6 @@
   "shortName": "radius-testnet",
   "chainId": 863,
   "networkId": 863,
+  "tvl": 0,
   "icon": null
 }

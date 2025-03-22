@@ -20,5 +20,6 @@
   "shortName": "fait",
   "chainId": 200000,
   "networkId": 200000,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

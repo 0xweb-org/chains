@@ -26,5 +26,6 @@
   "parent": {
     "chain": "eip155-8911",
     "type": "shard"
-  }
+  },
+  "tvl": 0
 }

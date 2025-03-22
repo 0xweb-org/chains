@@ -1,7 +1,7 @@
 {
   "name": "PLYR PHI",
   "chain": "PLYR",
-  "icon": null,
+  "icon": "./chain/16180/logo.png",
   "rpc": [
     "https://subnets.avax.network/plyr/mainnet/rpc"
   ],
@@ -21,5 +21,6 @@
       "url": "https://explorer.plyr.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

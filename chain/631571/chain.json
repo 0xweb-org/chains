@@ -23,5 +23,6 @@
       "url": "https://polter-testnet.explorer.alchemy.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

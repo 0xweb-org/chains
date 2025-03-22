@@ -23,5 +23,6 @@
   "shortName": "algl",
   "chainId": 2089,
   "networkId": 2089,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

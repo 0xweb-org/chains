@@ -29,5 +29,6 @@
     "chain": "eip155-11155111"
   },
   "status": "active",
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

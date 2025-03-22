@@ -25,5 +25,6 @@
   "chainId": 251,
   "networkId": 251,
   "slip44": 60,
-  "status": "active"
+  "status": "active",
+  "tvl": 0
 }

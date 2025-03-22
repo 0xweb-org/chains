@@ -17,5 +17,6 @@
   "shortName": "hecot",
   "chainId": 256,
   "networkId": 256,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

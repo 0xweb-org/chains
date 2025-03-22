@@ -28,5 +28,6 @@
       "url": "https://sepolia.uniscan.xyz",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

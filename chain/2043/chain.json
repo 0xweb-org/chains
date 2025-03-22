@@ -15,5 +15,6 @@
   "shortName": "NEURO",
   "chainId": 2043,
   "networkId": 2043,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

@@ -24,5 +24,6 @@
       "url": "https://testnet.paribuscan.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

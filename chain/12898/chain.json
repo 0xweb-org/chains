@@ -21,5 +21,6 @@
       "url": "https://subnets-test.avax.network/letsplayfair",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

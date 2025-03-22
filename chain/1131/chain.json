@@ -15,5 +15,6 @@
   "networkId": 1131,
   "slip44": 1,
   "icon": null,
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

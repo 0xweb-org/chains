@@ -22,5 +22,6 @@
   "shortName": "ncfg",
   "chainId": 2032,
   "networkId": 2032,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

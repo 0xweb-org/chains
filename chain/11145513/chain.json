@@ -25,7 +25,7 @@
   "shortName": "bless-sepolia",
   "chainId": 11145513,
   "networkId": 11145513,
-  "icon": "./chain/11145513/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "blockscout",
@@ -42,5 +42,6 @@
         "url": "https://blessnet-sepolia-testnet.bridge.caldera.xyz"
       }
     ]
-  }
+  },
+  "tvl": 0
 }

@@ -14,7 +14,7 @@
   "shortName": "mvm",
   "chainId": 73927,
   "networkId": 73927,
-  "icon": "./chain/73927/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "mvmscan",
@@ -22,5 +22,6 @@
       "icon": "mvm",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

@@ -14,7 +14,7 @@
   "shortName": "auptick",
   "chainId": 117,
   "networkId": 117,
-  "icon": "./chain/117/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "Uptick Explorer",
@@ -22,5 +22,6 @@
       "icon": "uptick",
       "standard": "none"
     }
-  ]
+  ],
+  "tvl": 0
 }

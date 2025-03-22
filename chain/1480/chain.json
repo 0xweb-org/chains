@@ -16,7 +16,7 @@
   "shortName": "vana",
   "chainId": 1480,
   "networkId": 1480,
-  "icon": "./chain/1480/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "Vana Block Explorer",
@@ -24,5 +24,6 @@
       "icon": "vana",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

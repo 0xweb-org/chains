@@ -16,5 +16,6 @@
   "chainId": 2525,
   "networkId": 2525,
   "explorers": [],
-  "status": "active"
+  "status": "active",
+  "tvl": 29507
 }

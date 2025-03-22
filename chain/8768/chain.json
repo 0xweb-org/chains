@@ -16,5 +16,6 @@
   "infoURL": "https://tmychain.org/",
   "shortName": "tmy",
   "chainId": 8768,
-  "networkId": 8768
+  "networkId": 8768,
+  "tvl": 0
 }

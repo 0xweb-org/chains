@@ -15,7 +15,7 @@
   "chainId": 373737,
   "networkId": 373737,
   "slip44": 1,
-  "icon": null,
+  "icon": "./chain/373737/logo.png",
   "explorers": [
     {
       "name": "HAP EVM Explorer (Blockscout)",
@@ -23,5 +23,6 @@
       "standard": "none",
       "icon": "hap"
     }
-  ]
+  ],
+  "tvl": 0
 }

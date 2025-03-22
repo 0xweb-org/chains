@@ -16,5 +16,6 @@
   "shortName": "GEN",
   "chainId": 10101,
   "networkId": 10101,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

@@ -14,5 +14,6 @@
   "shortName": "cyclec",
   "chainId": 1228,
   "networkId": 1228,
-  "icon": "./chain/1228/logo.png"
+  "icon": "./chain/1228/logo.png",
+  "tvl": 0
 }

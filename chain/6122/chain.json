@@ -17,5 +17,6 @@
     "chain": "eip155-1"
   },
   "status": "incubating",
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

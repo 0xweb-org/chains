@@ -32,5 +32,6 @@
       "url": "https://testnet.phronscan.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

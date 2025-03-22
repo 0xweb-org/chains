@@ -20,5 +20,6 @@
   "shortName": "fhe",
   "chainId": 228,
   "networkId": 228,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

@@ -16,5 +16,6 @@
   "chainId": 6699,
   "networkId": 6699,
   "status": "incubating",
-  "icon": "./chain/6699/logo.png"
+  "icon": "./chain/6699/logo.png",
+  "tvl": 0
 }

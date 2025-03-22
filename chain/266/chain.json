@@ -23,5 +23,6 @@
   "chainId": 266,
   "networkId": 266,
   "status": "incubating",
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

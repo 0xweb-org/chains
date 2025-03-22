@@ -34,5 +34,6 @@
       }
     ]
   },
-  "icon": "./chain/1088/logo.png"
+  "icon": "./chain/1088/logo.png",
+  "tvl": 31808352
 }

@@ -14,7 +14,7 @@
   "shortName": "blx",
   "chainId": 879151,
   "networkId": 879151,
-  "icon": null,
+  "icon": "./chain/879151/logo.png",
   "explorers": [
     {
       "name": "BlocX Mainnet Explorer",
@@ -22,5 +22,6 @@
       "icon": "blx",
       "standard": "none"
     }
-  ]
+  ],
+  "tvl": 0
 }

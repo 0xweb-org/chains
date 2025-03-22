@@ -15,5 +15,6 @@
   "shortName": "kot",
   "chainId": 6,
   "networkId": 6,
-  "slip44": 1
+  "slip44": 1,
+  "tvl": 0
 }

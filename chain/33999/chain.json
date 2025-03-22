@@ -13,5 +13,6 @@
   "chainId": 33999,
   "networkId": 33999,
   "status": "incubating",
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

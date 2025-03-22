@@ -15,5 +15,6 @@
   "infoURL": "https://diode.io/prenet",
   "shortName": "diode",
   "chainId": 15,
-  "networkId": 15
+  "networkId": 15,
+  "tvl": 0
 }

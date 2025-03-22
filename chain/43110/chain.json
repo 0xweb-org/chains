@@ -16,5 +16,6 @@
   "shortName": "avaeth",
   "chainId": 43110,
   "networkId": 43110,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

@@ -14,5 +14,6 @@
   "networkId": 646,
   "icon": "./chain/646/logo.png",
   "explorers": [],
-  "status": "deprecated"
+  "status": "deprecated",
+  "tvl": 0
 }

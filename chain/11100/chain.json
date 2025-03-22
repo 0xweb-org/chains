@@ -14,5 +14,6 @@
   "shortName": "BOL",
   "chainId": 11100,
   "networkId": 11100,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

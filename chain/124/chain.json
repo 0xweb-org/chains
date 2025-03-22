@@ -14,5 +14,6 @@
     "symbol": "DWU",
     "decimals": 18
   },
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

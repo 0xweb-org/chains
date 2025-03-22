@@ -40,5 +40,6 @@
         "url": "https://app.optimism.io/bridge/deposit"
       }
     ]
-  }
+  },
+  "tvl": 0
 }

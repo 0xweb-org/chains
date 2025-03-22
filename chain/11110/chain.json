@@ -15,7 +15,7 @@
   "shortName": "astra",
   "chainId": 11110,
   "networkId": 11110,
-  "icon": null,
+  "icon": "./chain/11110/logo.png",
   "explorers": [
     {
       "name": "Astra EVM Explorer (Blockscout)",
@@ -29,5 +29,6 @@
       "standard": "none",
       "icon": "astra"
     }
-  ]
+  ],
+  "tvl": 0
 }

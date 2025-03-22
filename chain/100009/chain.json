@@ -26,5 +26,6 @@
       "standard": "none"
     }
   ],
-  "icon": "./chain/100009/logo.png"
+  "icon": "./chain/100009/logo.png",
+  "tvl": 0
 }

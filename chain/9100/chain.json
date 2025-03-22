@@ -15,5 +15,6 @@
   "shortName": "GENEC",
   "chainId": 9100,
   "networkId": 9100,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

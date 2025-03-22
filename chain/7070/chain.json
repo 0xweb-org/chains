@@ -1,7 +1,7 @@
 {
   "name": "Planq Mainnet",
   "chain": "Planq",
-  "icon": "./chain/7070/logo.png",
+  "icon": null,
   "rpc": [
     "https://evm-rpc.planq.network"
   ],
@@ -26,5 +26,6 @@
       "url": "https://explorer.planq.network",
       "standard": "none"
     }
-  ]
+  ],
+  "tvl": 25670
 }

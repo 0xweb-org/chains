@@ -14,5 +14,6 @@
   "shortName": "mintme",
   "chainId": 24734,
   "networkId": 37480,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

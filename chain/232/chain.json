@@ -19,5 +19,6 @@
     "chain": "eip155-1",
     "bridges": []
   },
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

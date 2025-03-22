@@ -17,5 +17,6 @@
   "shortName": "EDI",
   "chainId": 211,
   "networkId": 0,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

@@ -14,5 +14,6 @@
   "shortName": "panarchy",
   "chainId": 2013,
   "networkId": 1,
-  "icon": "./chain/2013/logo.png"
+  "icon": "./chain/2013/logo.png",
+  "tvl": 0
 }

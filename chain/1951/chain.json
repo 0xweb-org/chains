@@ -14,5 +14,6 @@
   "networkId": 1951,
   "icon": "./chain/1951/logo.png",
   "faucets": [],
-  "infoURL": ""
+  "infoURL": "",
+  "tvl": 0
 }

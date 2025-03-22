@@ -1,7 +1,7 @@
 {
   "name": "Bitkub Chain",
   "chain": "BKC",
-  "icon": "./chain/96/logo.png",
+  "icon": null,
   "rpc": [
     "https://rpc.bitkubchain.io",
     "wss://wss.bitkubchain.io"
@@ -26,5 +26,6 @@
   ],
   "redFlags": [
     "reusedChainId"
-  ]
+  ],
+  "tvl": 90908
 }

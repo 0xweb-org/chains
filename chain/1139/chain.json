@@ -15,5 +15,6 @@
   "shortName": "MATH",
   "chainId": 1139,
   "networkId": 1139,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

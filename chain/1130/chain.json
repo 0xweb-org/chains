@@ -15,5 +15,6 @@
   "networkId": 1130,
   "slip44": 1130,
   "icon": "./chain/1130/logo.png",
-  "explorers": []
+  "explorers": [],
+  "tvl": 75450
 }

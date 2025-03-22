@@ -36,5 +36,6 @@
       "url": "https://testnet.avascan.info",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

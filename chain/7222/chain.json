@@ -15,5 +15,6 @@
   "chainId": 7222,
   "networkId": 7222,
   "icon": "./chain/7222/logo.png",
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

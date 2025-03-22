@@ -26,5 +26,6 @@
         "url": "https://zkevm-bridge-rpc.thefirechain.com"
       }
     ]
-  }
+  },
+  "tvl": 0
 }

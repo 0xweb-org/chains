@@ -15,7 +15,7 @@
   "shortName": "ZKFair-Mainnet",
   "chainId": 42766,
   "networkId": 42766,
-  "icon": "./chain/42766/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "blockscout",
@@ -32,5 +32,6 @@
         "url": "https://wallet.zkfair.io"
       }
     ]
-  }
+  },
+  "tvl": 107082
 }

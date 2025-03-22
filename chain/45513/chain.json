@@ -23,7 +23,7 @@
   "shortName": "bless",
   "chainId": 45513,
   "networkId": 45513,
-  "icon": "./chain/45513/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "blockscout",
@@ -40,5 +40,6 @@
         "url": "https://blessnet.bridge.caldera.xyz"
       }
     ]
-  }
+  },
+  "tvl": 0
 }

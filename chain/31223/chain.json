@@ -21,5 +21,6 @@
       "url": "https://scan.cloudtx.finance",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

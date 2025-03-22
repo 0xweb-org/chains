@@ -26,5 +26,6 @@
       "url": "https://subnets-test.avax.network/masatestnet",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

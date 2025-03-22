@@ -15,5 +15,6 @@
   "networkId": 8888881,
   "slip44": 1,
   "icon": "./chain/8888881/logo.png",
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

@@ -23,5 +23,6 @@
   "shortName": "blaze",
   "chainId": 57054,
   "networkId": 57054,
-  "icon": "./chain/57054/logo.png"
+  "icon": "./chain/57054/logo.png",
+  "tvl": 0
 }

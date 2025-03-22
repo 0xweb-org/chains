@@ -15,5 +15,6 @@
   "shortName": "E-Dollar",
   "chainId": 8087,
   "networkId": 8087,
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

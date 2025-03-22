@@ -18,5 +18,6 @@
   "slip44": 1,
   "icon": "./chain/110110/logo.png",
   "explorers": [],
-  "redFlags": []
+  "redFlags": [],
+  "tvl": 0
 }

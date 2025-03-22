@@ -14,5 +14,6 @@
   "chainId": 2045,
   "networkId": 2045,
   "icon": "./chain/2045/logo.png",
-  "explorers": []
+  "explorers": [],
+  "tvl": 0
 }

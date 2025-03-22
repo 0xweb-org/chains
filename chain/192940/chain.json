@@ -20,5 +20,6 @@
   "shortName": "fhet",
   "chainId": 192940,
   "networkId": 192940,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

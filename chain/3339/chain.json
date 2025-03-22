@@ -16,5 +16,6 @@
   "networkId": 3339,
   "slip44": 1,
   "status": "incubating",
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

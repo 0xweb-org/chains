@@ -1,7 +1,7 @@
 {
   "name": "Bitrock Mainnet",
   "chain": "Bitrock",
-  "icon": "./chain/7171/logo.png",
+  "icon": null,
   "rpc": [
     "https://connect.bit-rock.io",
     "https://brockrpc.io"
@@ -22,5 +22,6 @@
       "url": "https://brockscan.io",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 115051
 }

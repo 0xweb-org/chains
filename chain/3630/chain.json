@@ -14,5 +14,6 @@
   "shortName": "TYCON",
   "chainId": 3630,
   "networkId": 3630,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

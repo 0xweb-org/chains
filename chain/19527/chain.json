@@ -15,5 +15,6 @@
   "chainId": 19527,
   "networkId": 19527,
   "explorers": [],
-  "icon": "./chain/19527/logo.png"
+  "icon": "./chain/19527/logo.png",
+  "tvl": 0
 }

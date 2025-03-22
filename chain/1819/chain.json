@@ -31,5 +31,6 @@
       "url": "https://testnet.cubescan.network",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

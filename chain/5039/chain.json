@@ -29,5 +29,6 @@
       "url": "https://subnets-test.avax.network/onigiri",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

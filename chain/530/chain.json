@@ -14,12 +14,13 @@
   "shortName": "pundiai",
   "chainId": 530,
   "networkId": 530,
-  "icon": "./chain/530/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "PundiScan Explorer",
       "url": "https://pundiscan.io/evm",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

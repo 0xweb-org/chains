@@ -2,7 +2,7 @@
   "name": "OTC",
   "chain": "OTC",
   "faucets": [],
-  "icon": null,
+  "icon": "./chain/175/logo.png",
   "rpc": [
     "https://rpc.otc.run",
     "wss://rpc.otc.run"
@@ -16,5 +16,6 @@
   "shortName": "OTC",
   "chainId": 175,
   "networkId": 175,
-  "slip44": 511
+  "slip44": 511,
+  "tvl": 0
 }

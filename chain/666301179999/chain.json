@@ -19,5 +19,6 @@
   "shortName": "SmartPay",
   "chainId": 666301179999,
   "networkId": 666301179999,
-  "icon": "./chain/666301179999/logo.png"
+  "icon": "./chain/666301179999/logo.png",
+  "tvl": 0
 }

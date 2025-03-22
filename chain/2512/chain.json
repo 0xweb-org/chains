@@ -13,5 +13,6 @@
   "shortName": "K2-testnet",
   "chainId": 2512,
   "networkId": 2512,
-  "status": "incubating"
+  "status": "incubating",
+  "tvl": 0
 }

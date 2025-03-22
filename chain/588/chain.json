@@ -32,5 +32,6 @@
     ]
   },
   "status": "deprecated",
-  "icon": "./chain/588/logo.png"
+  "icon": "./chain/588/logo.png",
+  "tvl": 0
 }

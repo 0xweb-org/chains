@@ -16,5 +16,6 @@
   "infoURL": "https://polis.tech",
   "shortName": "olympus",
   "chainId": 333999,
-  "networkId": 333999
+  "networkId": 333999,
+  "tvl": 0
 }

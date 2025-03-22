@@ -16,5 +16,6 @@
   "shortName": "ETL",
   "chainId": 111,
   "networkId": 111,
-  "icon": null
+  "icon": null,
+  "tvl": 0
 }

@@ -16,12 +16,13 @@
   "shortName": "zq2-proto-testnet",
   "chainId": 33103,
   "networkId": 33103,
-  "icon": "./chain/33103/logo.png",
+  "icon": null,
   "explorers": [
     {
       "name": "Zilliqa 2 EVM proto-testnet explorer",
       "url": "https://explorer.zq2-prototestnet.zilliqa.com",
       "standard": "EIP3091"
     }
-  ]
+  ],
+  "tvl": 0
 }

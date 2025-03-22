@@ -14,7 +14,7 @@
   "shortName": "tfilenova",
   "chainId": 5675,
   "networkId": 5675,
-  "icon": null,
+  "icon": "./chain/5675/logo.png",
   "explorers": [
     {
       "name": "filenova testnet explorer",
@@ -22,5 +22,6 @@
       "icon": "filenova",
       "standard": "none"
     }
-  ]
+  ],
+  "tvl": 0
 }
