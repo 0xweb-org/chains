@@ -3,9 +3,10 @@
 
 name: Daily Build and Push
 
-# on:
-#   schedule:
-#     - cron: '15 3 * * 1' # every Monday at 03:15 UTC
+on:
+  workflow_dispatch:
+# schedule:
+#   - cron: '15 3 * * 1' # every Monday at 03:15 UTC
 
 jobs:
   build-publish:
