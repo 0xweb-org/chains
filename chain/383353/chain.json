@@ -1,20 +1,13 @@
 {
-  "name": "CheeseChain",
-  "title": "CheeseChain",
-  "chain": "CHEESE",
-  "rpc": [
-    "https://rpc.cheesechain.xyz"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "CHEESE",
-    "symbol": "CHEESE",
-    "decimals": 18
-  },
-  "infoURL": "https://cheesechain.xyz",
-  "shortName": "CheeseChain",
   "chainId": 383353,
-  "networkId": 383353,
   "icon": "./chain/383353/logo.png",
-  "tvl": 0
+  "www": "https://cheesechain.xyz",
+  "name": "CheeseChain",
+  "platform": "CheeseChain",
+  "chainToken": "CHEESE",
+  "endpoints": [
+    {
+      "url": "https://rpc.cheesechain.xyz"
+    }
+  ]
 }

@@ -1,9 +1,7 @@
 {
   "name": "Reapchain Testnet",
   "chain": "REAP",
-  "rpc": [
-    "https://test-eth.reapchain.org"
-  ],
+  "rpc": [],
   "faucets": [
     "http://faucet.reapchain.com"
   ],
@@ -18,7 +16,12 @@
   "chainId": 221231,
   "networkId": 221231,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmevQ8jmDWHmdnUQg6BpoMwVB3NhpzS75adbMnKL78Ls2h",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "Reapchain Testnet Dashboard",

@@ -1,9 +1,7 @@
 {
   "name": "Lisinski",
   "chain": "CRO",
-  "rpc": [
-    "https://rpc-bitfalls1.lisinski.online"
-  ],
+  "rpc": [],
   "faucets": [
     "https://pipa.lisinski.online"
   ],
@@ -16,6 +14,5 @@
   "shortName": "lisinski",
   "chainId": 385,
   "networkId": 385,
-  "icon": null,
   "tvl": 0
 }

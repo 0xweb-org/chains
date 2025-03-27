@@ -1,9 +1,7 @@
 {
   "name": "Fuse Sparknet",
   "chain": "fuse",
-  "rpc": [
-    "https://rpc.fusespark.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://get.fusespark.io"
   ],
@@ -16,6 +14,5 @@
   "shortName": "spark",
   "chainId": 123,
   "networkId": 123,
-  "icon": null,
   "tvl": 0
 }

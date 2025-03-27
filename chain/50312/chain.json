@@ -1,32 +1,19 @@
 {
+  "chainId": 50312,
+  "icon": "./chain/50312/logo.png",
+  "www": "https://somnia.network",
   "name": "Somnia Testnet",
-  "chain": "Somnia",
-  "rpc": [
-    "https://dream-rpc.somnia.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Somnia Testnet",
-    "symbol": "STT",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "SomniaTestnet",
+  "chainToken": "STT",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://dream-rpc.somnia.network"
     }
   ],
-  "infoURL": "https://somnia.network",
-  "shortName": "SomniaTestnet",
-  "chainId": 50312,
-  "networkId": 50312,
-  "icon": "./chain/50312/logo.png",
   "explorers": [
     {
       "name": "Somnia Testnet",
-      "url": "https://somnia-testnet.socialscan.io",
-      "icon": "somnia",
-      "standard": "EIP3091"
+      "url": "https://somnia-testnet.socialscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

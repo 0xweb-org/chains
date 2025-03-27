@@ -1,10 +1,7 @@
 {
   "name": "Huobi ECO Chain Testnet",
   "chain": "Heco",
-  "rpc": [
-    "https://http-testnet.hecochain.com",
-    "wss://ws-testnet.hecochain.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://scan-testnet.hecochain.com/faucet"
   ],
@@ -17,6 +14,5 @@
   "shortName": "hecot",
   "chainId": 256,
   "networkId": 256,
-  "icon": null,
   "tvl": 0
 }

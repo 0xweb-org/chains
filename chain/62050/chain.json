@@ -1,10 +1,7 @@
 {
   "name": "Optopia Mainnet",
   "chain": "ETH",
-  "rpc": [
-    "https://rpc-mainnet.optopia.ai",
-    "https://rpc-mainnet-2.optopia.ai"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",

@@ -1,20 +1,14 @@
 {
-  "name": "Esa",
-  "chain": "Esa",
-  "rpc": [
-    "http://65.108.151.70:8545"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Esa",
-    "symbol": "Esa",
-    "decimals": 18
-  },
-  "infoURL": "https://esculap.us",
-  "shortName": "Esa",
   "chainId": 83278,
-  "networkId": 83278,
   "icon": "./chain/83278/logo.png",
-  "explorers": [],
-  "tvl": 0
+  "www": "https://esculap.us",
+  "name": "Esa",
+  "platform": "Esa",
+  "chainToken": "Esa",
+  "endpoints": [
+    {
+      "url": "http://65.108.151.70:8545"
+    }
+  ],
+  "explorers": []
 }

@@ -1,9 +1,7 @@
 {
   "name": "Darwinia Pangolin Testnet",
   "chain": "pangolin",
-  "rpc": [
-    "https://pangolin-rpc.darwinia.network"
-  ],
+  "rpc": [],
   "faucets": [
     "https://docs.darwinia.network/pangolin-testnet-1e9ac8b09e874e8abd6a7f18c096ca6a"
   ],
@@ -24,6 +22,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

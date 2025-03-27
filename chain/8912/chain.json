@@ -1,9 +1,7 @@
 {
   "name": "Algen Testnet",
   "chain": "ALG",
-  "rpc": [
-    "https://rpc.test.algen.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "ALG",

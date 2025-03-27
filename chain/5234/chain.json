@@ -1,9 +1,7 @@
 {
   "name": "Humanode Mainnet",
   "chain": "HMND",
-  "rpc": [
-    "https://explorer-rpc-http.mainnet.stages.humanode.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "eHMND",
@@ -14,7 +12,12 @@
   "shortName": "hmnd",
   "chainId": 5234,
   "networkId": 5234,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://bafybeihuskzfwqogwvutaxil6sztmvpiavzbrzwjwpn6w2i4j3jysbybra",
+    "width": 1043,
+    "height": 1043,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "Subscan",

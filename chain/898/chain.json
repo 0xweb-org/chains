@@ -1,9 +1,7 @@
 {
   "name": "MAXI Chain Testnet",
   "chain": "MAXI",
-  "rpc": [
-    "https://rpc-testnet.maxi.network"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.maxi.network"
   ],

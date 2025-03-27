@@ -1,29 +1,22 @@
 {
-  "name": "Exosama Network",
-  "chain": "EXN",
-  "rpc": [
-    "https://rpc.exosama.com",
-    "wss://rpc.exosama.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Sama Token",
-    "symbol": "SAMA",
-    "decimals": 18
-  },
-  "infoURL": "https://moonsama.com",
-  "shortName": "exn",
   "chainId": 2109,
-  "networkId": 2109,
-  "slip44": 2109,
   "icon": "./chain/2109/logo.png",
+  "www": "https://moonsama.com",
+  "name": "Exosama Network",
+  "platform": "exn",
+  "chainToken": "SAMA",
+  "endpoints": [
+    {
+      "url": "https://rpc.exosama.com"
+    },
+    {
+      "url": "wss://rpc.exosama.com"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://explorer.exosama.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://explorer.exosama.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

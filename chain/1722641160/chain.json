@@ -1,38 +1,22 @@
 {
-  "name": "Silicon zkEVM Sepolia Testnet",
-  "title": "Silicon zkEVM Sepolia Testnet",
-  "chain": "Silicon",
-  "rpc": [
-    "https://rpc-sepolia.silicon.network",
-    "https://silicon-testnet.nodeinfra.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Sepolia Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://docs.silicon.network",
-  "shortName": "silicon-sepolia-testnet",
   "chainId": 1722641160,
-  "networkId": 1722641160,
-  "icon": null,
+  "icon": "ipfs://QmTEnk2fosqbY6HQW5vySrLGbopJfeni9ThZ6R9sVefbnq",
+  "www": "https://docs.silicon.network",
+  "name": "Silicon zkEVM Sepolia Testnet",
+  "platform": "silicon-sepolia-testnet",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://rpc-sepolia.silicon.network"
+    },
+    {
+      "url": "https://silicon-testnet.nodeinfra.com"
+    }
+  ],
   "explorers": [
     {
       "name": "siliconscope-sepolia",
-      "url": "https://scope-sepolia.silicon.network",
-      "standard": "EIP3091"
+      "url": "https://scope-sepolia.silicon.network"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-11155111",
-    "bridges": [
-      {
-        "url": "https://bridge-sepolia.silicon.network"
-      }
-    ]
-  },
-  "status": "active",
-  "tvl": 0
+  ]
 }

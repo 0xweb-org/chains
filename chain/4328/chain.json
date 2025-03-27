@@ -2,11 +2,7 @@
   "name": "Bobafuji Testnet",
   "chain": "Bobafuji Testnet",
   "status": "deprecated",
-  "rpc": [
-    "https://testnet.avax.boba.network",
-    "wss://wss.testnet.avax.boba.network",
-    "https://replica.testnet.avax.boba.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Boba Token",
@@ -34,6 +30,5 @@
       }
     ]
   },
-  "icon": null,
   "tvl": 0
 }

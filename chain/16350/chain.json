@@ -1,9 +1,7 @@
 {
   "name": "Incentiv Devnet",
   "chain": "Incentiv",
-  "rpc": [
-    "https://rpc.ankr.com/incentiv_devnet"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.incentiv-dev.ankr.network"
   ],
@@ -17,6 +15,5 @@
   "chainId": 16350,
   "networkId": 16350,
   "slip44": 1,
-  "icon": null,
   "tvl": 0
 }

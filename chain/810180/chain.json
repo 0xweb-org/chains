@@ -1,38 +1,22 @@
 {
-  "name": "zkLink Nova Mainnet",
-  "chain": "ETH",
-  "rpc": [
-    "https://rpc.zklink.io",
-    "wss://rpc.zklink.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://zklink.io",
-  "shortName": "zklink-nova",
   "chainId": 810180,
-  "networkId": 810180,
-  "slip44": 1,
   "icon": "./chain/810180/logo.png",
+  "www": "https://zklink.io",
+  "name": "zkLink Nova Mainnet",
+  "platform": "zklink-nova",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.zklink.io"
+    },
+    {
+      "url": "wss://rpc.zklink.io"
+    }
+  ],
   "explorers": [
     {
       "name": "zkLink Nova Block Explorer",
-      "url": "https://explorer.zklink.io",
-      "icon": "zklink-nova",
-      "standard": "EIP3091"
+      "url": "https://explorer.zklink.io"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-59144",
-    "bridges": [
-      {
-        "url": "https://portal.zklink.io"
-      }
-    ]
-  },
-  "tvl": 620258
+  ]
 }

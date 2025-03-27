@@ -2,9 +2,7 @@
   "name": "XPLA Verse",
   "chain": "XPLA Verse",
   "icon": "./chain/7300/logo.png",
-  "rpc": [
-    "https://rpc-xpla-verse.xpla.dev"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "OAS",

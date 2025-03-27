@@ -6,9 +6,7 @@
   "networkId": 7208,
   "infoURL": "https://nexera.network",
   "shortName": "nxra-mainnet",
-  "rpc": [
-    "https://rpc.nexera.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "NXRA",

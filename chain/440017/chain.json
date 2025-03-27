@@ -1,10 +1,7 @@
 {
   "name": "Graphite Mainnet",
   "chain": "Graphite",
-  "rpc": [
-    "https://anon-entrypoint-1.atgraphite.com",
-    "wss://ws-anon-entrypoint-1.atgraphite.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Graphite",

@@ -1,28 +1,19 @@
 {
-  "name": "EVOLVE Testnet",
-  "chain": "EVO",
-  "icon": "./chain/14324/logo.png",
-  "rpc": [
-    "https://testnet-rpc.evolveblockchain.io"
-  ],
-  "faucets": [
-    "https://faucet.evolveblockchain.io"
-  ],
-  "nativeCurrency": {
-    "name": "Evolve",
-    "symbol": "EVO",
-    "decimals": 18
-  },
-  "infoURL": "https://evolveblockchain.io",
-  "shortName": "evo",
   "chainId": 14324,
-  "networkId": 14324,
+  "icon": "./chain/14324/logo.png",
+  "www": "https://evolveblockchain.io",
+  "name": "EVOLVE Testnet",
+  "platform": "evo",
+  "chainToken": "EVO",
+  "endpoints": [
+    {
+      "url": "https://testnet-rpc.evolveblockchain.io"
+    }
+  ],
   "explorers": [
     {
       "name": "Evolve Testnet Explorer",
-      "url": "https://testnet.evolveblockchain.io",
-      "standard": "EIP3091"
+      "url": "https://testnet.evolveblockchain.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,28 +1,14 @@
 {
+  "chainId": 88811,
+  "icon": "ipfs://QmRb2rWanyBTKS5KyrmrbXPNy9zovpxfLRxz9FPPiuRgfg",
+  "www": "https://units.network",
   "name": "Unit Zero Mainnet",
-  "chain": "Unit Zero",
-  "icon": null,
-  "rpc": [
-    "https://rpc.unit0.dev"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "UNIT0",
-    "symbol": "UNIT0",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "unit0",
+  "chainToken": "UNIT0",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://rpc.unit0.dev"
     }
   ],
-  "infoURL": "https://units.network",
-  "shortName": "unit0-mainnet",
-  "chainId": 88811,
-  "networkId": 88811,
-  "explorers": [],
-  "tvl": 0
+  "explorers": []
 }

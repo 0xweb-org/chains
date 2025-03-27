@@ -1,9 +1,7 @@
 {
   "name": "Skynet",
   "chain": "Skynet",
-  "rpc": [
-    "http://rpc.skynet.io"
-  ],
+  "rpc": [],
   "nativeCurrency": {
     "name": "SkyUSD",
     "symbol": "sUSD",
@@ -30,6 +28,5 @@
       }
     ]
   },
-  "icon": null,
   "tvl": 0
 }

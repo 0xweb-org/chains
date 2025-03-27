@@ -2,10 +2,7 @@
   "name": "Form Testnet",
   "title": "Form Testnet",
   "chain": "formtestnet",
-  "rpc": [
-    "https://sepolia-rpc.form.network/http",
-    "wss://sepolia-rpc.form.network/ws"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"
@@ -42,6 +39,5 @@
       }
     ]
   },
-  "icon": null,
   "tvl": 0
 }

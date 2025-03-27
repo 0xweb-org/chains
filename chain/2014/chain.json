@@ -1,28 +1,19 @@
 {
-  "name": "NOW Chain Testnet",
-  "chain": "NOW",
-  "icon": "./chain/2014/logo.png",
-  "rpc": [
-    "https://rpc-testnet.nowscan.io"
-  ],
-  "faucets": [
-    "https://faucet.nowchain.co"
-  ],
-  "nativeCurrency": {
-    "name": "NOW Coin",
-    "symbol": "NOW",
-    "decimals": 18
-  },
-  "infoURL": "https://nowchain.co",
-  "shortName": "tnow",
   "chainId": 2014,
-  "networkId": 2014,
+  "icon": "./chain/2014/logo.png",
+  "www": "https://nowchain.co",
+  "name": "NOW Chain Testnet",
+  "platform": "tnow",
+  "chainToken": "NOW",
+  "endpoints": [
+    {
+      "url": "https://rpc-testnet.nowscan.io"
+    }
+  ],
   "explorers": [
     {
       "name": "nowscan testnet",
-      "url": "https://testnet.nowscan.io",
-      "standard": "EIP3091"
+      "url": "https://testnet.nowscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

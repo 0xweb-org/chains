@@ -1,27 +1,19 @@
 {
-  "name": "Metacces Testnet",
-  "chain": "Metacces Testnet",
-  "icon": null,
-  "rpc": [
-    "https://tapi.accesscan.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Metacces",
-    "symbol": "ACCES",
-    "decimals": 18
-  },
-  "infoURL": "https://metacces.com",
-  "shortName": "ACCESt",
   "chainId": 1260,
-  "networkId": 1260,
+  "icon": "ipfs://QmbpYHpqR68uuJZCwm1CXtN51zi744qWzZ32ob9BKfgFTV",
+  "www": "https://metacces.com",
+  "name": "Metacces Testnet",
+  "platform": "ACCESt",
+  "chainToken": "ACCES",
+  "endpoints": [
+    {
+      "url": "https://tapi.accesscan.io"
+    }
+  ],
   "explorers": [
     {
       "name": "accesscan",
-      "url": "https://testnet.accesscan.io",
-      "icon": "metacces",
-      "standard": "EIP3091"
+      "url": "https://testnet.accesscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

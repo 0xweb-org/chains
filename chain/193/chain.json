@@ -1,9 +1,7 @@
 {
   "name": "Crypto Emergency",
   "chain": "CEM",
-  "rpc": [
-    "https://cemchain.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Crypto Emergency",
@@ -21,6 +19,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

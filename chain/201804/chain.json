@@ -1,9 +1,7 @@
 {
   "name": "Mythical Chain",
   "chain": "MYTH",
-  "rpc": [
-    "https://chain-rpc.mythicalgames.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Mythos",

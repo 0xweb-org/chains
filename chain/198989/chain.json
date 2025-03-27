@@ -1,9 +1,7 @@
 {
   "name": "Lydia Coin Testnet",
   "chain": "LYDIA-TESTNET",
-  "rpc": [
-    "https://testnet-rpc.lydiacoins.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.lydiacoins.com/"
   ],
@@ -16,6 +14,5 @@
   "shortName": "lydia-testnet",
   "chainId": 198989,
   "networkId": 198989,
-  "icon": null,
   "tvl": 0
 }

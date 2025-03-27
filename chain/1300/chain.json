@@ -1,9 +1,7 @@
 {
   "name": "Glue Mainnet",
   "chain": "GLUE",
-  "rpc": [
-    "https://rpc.glue.net"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Glue",

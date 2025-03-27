@@ -1,26 +1,19 @@
 {
-  "name": "Godwoken Mainnet",
-  "chain": "GWT",
-  "rpc": [
-    "https://v1.mainnet.godwoken.io/rpc"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "pCKB",
-    "symbol": "pCKB",
-    "decimals": 18
-  },
-  "infoURL": "https://www.nervos.org",
-  "shortName": "gw-mainnet-v1",
   "chainId": 71402,
-  "networkId": 71402,
+  "icon": "./chain/71402/logo.png",
+  "www": "https://www.nervos.org",
+  "name": "Godwoken Mainnet",
+  "platform": "gw-mainnet-v1",
+  "chainToken": "pCKB",
+  "endpoints": [
+    {
+      "url": "https://v1.mainnet.godwoken.io/rpc"
+    }
+  ],
   "explorers": [
     {
       "name": "GWScan Block Explorer",
-      "url": "https://v1.gwscan.com",
-      "standard": "none"
+      "url": "https://v1.gwscan.com"
     }
-  ],
-  "icon": "./chain/71402/logo.png",
-  "tvl": 2496375
+  ]
 }

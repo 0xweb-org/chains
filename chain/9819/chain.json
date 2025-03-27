@@ -1,10 +1,7 @@
 {
   "name": "IMPERIUM MAINNET",
   "chain": "IMP",
-  "rpc": [
-    "https://data-aws-mainnet.imperiumchain.com",
-    "https://data-aws2-mainnet.imperiumchain.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.imperiumchain.com/"
   ],
@@ -17,7 +14,12 @@
   "shortName": "IMP",
   "chainId": 9819,
   "networkId": 9819,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmcNGLzKyc7Gu2dgpBFF6t3KJwFuKC79D56DW8GTc5DWRw",
+    "width": 200,
+    "height": 200,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "IMPERIUM Explorer",

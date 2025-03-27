@@ -1,36 +1,19 @@
 {
-  "name": "Lumia Mainnet",
-  "shortName": "lumia-mainnet",
-  "title": "Lumia Mainnet",
-  "chain": "ETH",
-  "icon": "./chain/994873017/logo.png",
-  "rpc": [
-    "https://mainnet-rpc.lumia.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Lumia",
-    "symbol": "LUMIA",
-    "decimals": 18
-  },
-  "infoURL": "https://lumia.org",
   "chainId": 994873017,
-  "networkId": 994873017,
+  "icon": "./chain/994873017/logo.png",
+  "www": "https://lumia.org",
+  "name": "Lumia Mainnet",
+  "platform": "lumia",
+  "chainToken": "LUMIA",
+  "endpoints": [
+    {
+      "url": "https://mainnet-rpc.lumia.org"
+    }
+  ],
   "explorers": [
     {
       "name": "Lumia Mainnet Explorer",
-      "url": "https://explorer.lumia.org",
-      "standard": "EIP3091"
+      "url": "https://explorer.lumia.org"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "https://bridge.lumia.org"
-      }
-    ]
-  },
-  "tvl": 0
+  ]
 }

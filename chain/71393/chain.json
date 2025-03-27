@@ -2,10 +2,7 @@
   "name": "Polyjuice Testnet",
   "chain": "CKB",
   "icon": "./chain/71393/logo.png",
-  "rpc": [
-    "https://godwoken-testnet-web3-rpc.ckbapp.dev",
-    "ws://godwoken-testnet-web3-rpc.ckbapp.dev/ws"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.nervos.org/"
   ],

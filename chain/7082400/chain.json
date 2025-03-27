@@ -1,32 +1,25 @@
 {
-  "name": "COTI Testnet",
-  "title": "COTI Testnet",
-  "chain": "COTI",
-  "icon": "./chain/7082400/logo.png",
-  "rpc": [
-    "https://testnet.coti.io/rpc",
-    "https://testnet-magnus-validator.coti.io/rpc",
-    "https://testnet-minor-validator.coti.io/rpc"
-  ],
-  "faucets": [
-    "https://faucet.coti.io"
-  ],
-  "nativeCurrency": {
-    "name": "COTI",
-    "symbol": "COTI",
-    "decimals": 18
-  },
-  "infoURL": "https://coti.io/",
-  "shortName": "coti-testnet",
   "chainId": 7082400,
-  "networkId": 7082400,
+  "icon": "./chain/7082400/logo.png",
+  "www": "https://coti.io/",
+  "name": "COTI Testnet",
+  "platform": "coti-testnet",
+  "chainToken": "COTI",
+  "endpoints": [
+    {
+      "url": "https://testnet.coti.io/rpc"
+    },
+    {
+      "url": "https://testnet-magnus-validator.coti.io/rpc"
+    },
+    {
+      "url": "https://testnet-minor-validator.coti.io/rpc"
+    }
+  ],
   "explorers": [
     {
       "name": "COTI Testnet Explorer",
-      "url": "https://testnet.cotiscan.io",
-      "icon": "ethernal",
-      "standard": "EIP3091"
+      "url": "https://testnet.cotiscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,9 +1,7 @@
 {
   "name": "SwissDLT",
   "chain": "SDLT",
-  "rpc": [
-    "https://rpc.swissdlt.ch"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "BCTS",

@@ -1,9 +1,7 @@
 {
   "name": "zeroone Mainnet Subnet",
   "chain": "ZEROONEMAI",
-  "rpc": [
-    "https://subnets.avax.network/zeroonemai/mainnet/rpc"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP1559"
@@ -26,6 +24,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

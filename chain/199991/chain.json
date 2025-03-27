@@ -1,28 +1,19 @@
 {
-  "name": "MAZZE Testnet",
-  "chain": "MAZZE Testnet",
-  "icon": "./chain/199991/logo.png",
-  "rpc": [
-    "https://testnet-rpc.mazze.io/"
-  ],
-  "faucets": [
-    "https://faucet.mazze.io/"
-  ],
-  "nativeCurrency": {
-    "name": "MAZZE Testnet",
-    "symbol": "MAZZE",
-    "decimals": 18
-  },
-  "infoURL": "https://mazze.io/",
-  "shortName": "MAZZE",
   "chainId": 199991,
-  "networkId": 199991,
+  "icon": "./chain/199991/logo.png",
+  "www": "https://mazze.io/",
+  "name": "MAZZE Testnet",
+  "platform": "MAZZE",
+  "chainToken": "MAZZE",
+  "endpoints": [
+    {
+      "url": "https://testnet-rpc.mazze.io/"
+    }
+  ],
   "explorers": [
     {
       "name": "MAZZE Testnet Explorer",
-      "url": "https://mazzescan.io",
-      "standard": "none"
+      "url": "https://mazzescan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

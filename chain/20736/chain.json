@@ -2,9 +2,7 @@
   "name": "P12 Chain",
   "chain": "P12",
   "icon": "./chain/20736/logo.png",
-  "rpc": [
-    "https://rpc-chain.p12.games"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Hooked P2",

@@ -1,33 +1,18 @@
 {
+  "chainId": 178,
+  "www": "https://abey.com",
   "name": "ABEY Testnet",
-  "chain": "ABEY",
-  "rpc": [
-    "https://testrpc.abeychain.com"
-  ],
-  "features": [
+  "platform": "abeyt",
+  "chainToken": "tABEY",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://testrpc.abeychain.com"
     }
   ],
-  "faucets": [
-    "https://testnet-faucet.abeychain.com"
-  ],
-  "nativeCurrency": {
-    "name": "ABEY",
-    "symbol": "tABEY",
-    "decimals": 18
-  },
-  "infoURL": "https://abey.com",
-  "shortName": "abeyt",
-  "chainId": 178,
-  "networkId": 178,
   "explorers": [
     {
       "name": "abeyscan-testnet",
-      "url": "https://testnet.abeyscan.com",
-      "standard": "EIP3091"
+      "url": "https://testnet.abeyscan.com"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

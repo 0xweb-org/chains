@@ -1,27 +1,22 @@
 {
-  "name": "Bear Network Chain Mainnet",
-  "chain": "BRNKC",
-  "icon": "./chain/641230/logo.png",
-  "rpc": [
-    "https://brnkc-mainnet.bearnetwork.net",
-    "https://brnkc-mainnet1.bearnetwork.net"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Bear Network Chain Native Token",
-    "symbol": "BRNKC",
-    "decimals": 18
-  },
-  "infoURL": "https://bearnetwork.net",
-  "shortName": "BRNKC",
   "chainId": 641230,
-  "networkId": 641230,
+  "icon": "./chain/641230/logo.png",
+  "www": "https://bearnetwork.net",
+  "name": "Bear Network Chain Mainnet",
+  "platform": "BRNKC",
+  "chainToken": "BRNKC",
+  "endpoints": [
+    {
+      "url": "https://brnkc-mainnet.bearnetwork.net"
+    },
+    {
+      "url": "https://brnkc-mainnet1.bearnetwork.net"
+    }
+  ],
   "explorers": [
     {
       "name": "brnkscan",
-      "url": "https://brnkscan.bearnetwork.net",
-      "standard": "EIP3091"
+      "url": "https://brnkscan.bearnetwork.net"
     }
-  ],
-  "tvl": 0
+  ]
 }

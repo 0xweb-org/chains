@@ -1,26 +1,18 @@
 {
-  "name": "Infinaeon",
-  "chain": "Infinaeon",
-  "rpc": [
-    "https://rpc.infinaeon.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ethereum",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "hhttps://rpc.infinaeon.com",
-  "shortName": "Infinaeon",
   "chainId": 420000,
-  "networkId": 420000,
+  "www": "hhttps://rpc.infinaeon.com",
+  "name": "Infinaeon",
+  "platform": "Infinaeon",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.infinaeon.com"
+    }
+  ],
   "explorers": [
     {
       "name": "tracehawk",
-      "url": "https://explorer.infinaeon.com",
-      "standard": "none"
+      "url": "https://explorer.infinaeon.com"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

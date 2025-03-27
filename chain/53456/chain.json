@@ -3,11 +3,7 @@
   "title": "BirdLayer",
   "chain": "BirdLayer",
   "icon": "./chain/53456/logo.png",
-  "rpc": [
-    "https://rpc.birdlayer.xyz",
-    "https://rpc1.birdlayer.xyz",
-    "wss://rpc.birdlayer.xyz/ws"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",

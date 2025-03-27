@@ -1,35 +1,37 @@
 {
-  "name": "opBNB Mainnet",
-  "icon": null,
-  "chain": "opBNB",
-  "rpc": [
-    "https://opbnb-mainnet-rpc.bnbchain.org",
-    "https://opbnb-mainnet.nodereal.io/v1/64a9df0874fb4a93b9d0a3849de012d3",
-    "wss://opbnb-mainnet.nodereal.io/ws/v1/64a9df0874fb4a93b9d0a3849de012d3",
-    "https://opbnb-mainnet.nodereal.io/v1/e9a36765eb8a40b9bd12e680a1fd2bc5",
-    "wss://opbnb-mainnet.nodereal.io/ws/v1/e9a36765eb8a40b9bd12e680a1fd2bc5",
-    "https://opbnb-rpc.publicnode.com",
-    "wss://opbnb-rpc.publicnode.com",
-    "https://opbnb.drpc.org",
-    "wss://opbnb.drpc.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "BNB Chain Native Token",
-    "symbol": "BNB",
-    "decimals": 18
-  },
-  "infoURL": "https://opbnb.bnbchain.org/en",
-  "shortName": "obnb",
   "chainId": 204,
-  "networkId": 204,
-  "slip44": 714,
+  "icon": "ipfs://bafybeib75gwytvblyvjpfminitr3i6mpat3a624udfsqsl5nysf5vuuvie",
+  "www": "https://opbnb.bnbchain.org/en",
+  "name": "opBNB Mainnet",
+  "platform": "obnb",
+  "chainToken": "BNB",
+  "endpoints": [
+    {
+      "url": "https://opbnb-mainnet-rpc.bnbchain.org"
+    },
+    {
+      "url": "https://opbnb-mainnet.nodereal.io/v1/64a9df0874fb4a93b9d0a3849de012d3"
+    },
+    {
+      "url": "wss://opbnb-mainnet.nodereal.io/ws/v1/64a9df0874fb4a93b9d0a3849de012d3"
+    },
+    {
+      "url": "https://opbnb-mainnet.nodereal.io/v1/e9a36765eb8a40b9bd12e680a1fd2bc5"
+    },
+    {
+      "url": "wss://opbnb-mainnet.nodereal.io/ws/v1/e9a36765eb8a40b9bd12e680a1fd2bc5"
+    },
+    {
+      "url": "https://opbnb-rpc.publicnode.com"
+    },
+    {
+      "url": "wss://opbnb-rpc.publicnode.com"
+    }
+  ],
   "explorers": [
     {
       "name": "opbnbscan",
-      "url": "https://mainnet.opbnbscan.com",
-      "standard": "EIP3091"
+      "url": "https://mainnet.opbnbscan.com"
     }
-  ],
-  "tvl": 25297008
+  ]
 }

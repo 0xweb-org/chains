@@ -2,14 +2,7 @@
   "name": "Filecoin - Mainnet",
   "chain": "FIL",
   "icon": "./chain/314/logo.png",
-  "rpc": [
-    "https://api.node.glif.io/",
-    "https://rpc.ankr.com/filecoin",
-    "https://filecoin-mainnet.chainstacklabs.com/rpc/v1",
-    "https://filfox.info/rpc/v1",
-    "https://filecoin.drpc.org",
-    "wss://filecoin.drpc.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "filecoin",

@@ -1,9 +1,7 @@
 {
   "name": "DAX CHAIN",
   "chain": "DAX",
-  "rpc": [
-    "https://rpc.prodax.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Prodax",
@@ -14,6 +12,5 @@
   "shortName": "dax",
   "chainId": 142,
   "networkId": 142,
-  "icon": null,
   "tvl": 0
 }

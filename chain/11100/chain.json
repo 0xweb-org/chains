@@ -1,19 +1,13 @@
 {
-  "name": "Bool Network Beta Mainnet",
-  "chain": "BOOL",
-  "rpc": [
-    "https://beta-rpc-node-http.bool.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "BOL",
-    "symbol": "BOL",
-    "decimals": 18
-  },
-  "infoURL": "https://bool.network/",
-  "shortName": "BOL",
   "chainId": 11100,
-  "networkId": 11100,
-  "icon": null,
-  "tvl": 0
+  "icon": "ipfs://QmPVnYRhenXH8X9NF3vy7oU1sHnoBoNU2xDU68uBqWoy3b",
+  "www": "https://bool.network/",
+  "name": "Bool Network Beta Mainnet",
+  "platform": "BOL",
+  "chainToken": "BOL",
+  "endpoints": [
+    {
+      "url": "https://beta-rpc-node-http.bool.network"
+    }
+  ]
 }

@@ -1,9 +1,7 @@
 {
   "name": "GitAGI Atlas Testnet",
   "chain": "GitAGI",
-  "rpc": [
-    "https://rpc.gitagi.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "GitAGI",
@@ -14,6 +12,5 @@
   "shortName": "atlas",
   "chainId": 210049,
   "networkId": 210049,
-  "icon": null,
   "tvl": 0
 }

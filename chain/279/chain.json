@@ -2,9 +2,7 @@
   "name": "BPX Chain",
   "chain": "BPX",
   "icon": "./chain/279/logo.png",
-  "rpc": [
-    "https://rpc.bpxchain.cc"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"

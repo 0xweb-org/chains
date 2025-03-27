@@ -1,9 +1,7 @@
 {
   "name": "LayerEdge testnet",
   "chain": "LayerEdge",
-  "rpc": [
-    "https://testnet-rpc.layeredge.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://testnet-faucet.layeredge.io"
   ],

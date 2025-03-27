@@ -2,9 +2,7 @@
   "name": "Condrieu",
   "title": "Ethereum Verkle Testnet Condrieu",
   "chain": "ETH",
-  "rpc": [
-    "https://rpc.condrieu.ethdevops.io:8545"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.condrieu.ethdevops.io"
   ],
@@ -25,6 +23,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

@@ -1,9 +1,7 @@
 {
   "name": "Tabi Testnet",
   "chain": "TabiNetwork",
-  "rpc": [
-    "https://rpc.testnet.tabichain.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.testnet.tabichain.com"
   ],
@@ -23,6 +21,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

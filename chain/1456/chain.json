@@ -1,9 +1,7 @@
 {
   "name": "ZKBase Mainnet",
   "chain": "ETH",
-  "rpc": [
-    "https://mainnet-rpc.zkbase.app"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",

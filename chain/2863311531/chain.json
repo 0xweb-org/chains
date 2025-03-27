@@ -1,28 +1,19 @@
 {
-  "name": "Ancient8 Testnet (deprecated)",
-  "status": "deprecated",
-  "chain": "Ancient8",
-  "icon": "./chain/2863311531/logo.png",
-  "rpc": [
-    "https://rpc-testnet.ancient8.gg"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://ancient8.gg/",
-  "shortName": "a8old",
   "chainId": 2863311531,
-  "networkId": 2863311531,
-  "slip44": 1,
+  "icon": "./chain/2863311531/logo.png",
+  "www": "https://ancient8.gg/",
+  "name": "Ancient8 Testnet (deprecated)",
+  "platform": "a8old",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://rpc-testnet.ancient8.gg"
+    }
+  ],
   "explorers": [
     {
       "name": "a8scan-testnet",
-      "url": "https://testnet.a8scan.io",
-      "standard": "EIP3091"
+      "url": "https://testnet.a8scan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

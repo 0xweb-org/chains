@@ -2,10 +2,7 @@
   "name": "Eventum Testnet",
   "title": "Eventum Testnet",
   "chain": "eventum-testnet",
-  "rpc": [
-    "https://testnet-rpc.eh-dev.app",
-    "wss://testnet-ws.eh-dev.app"
-  ],
+  "rpc": [],
   "nativeCurrency": {
     "name": "Ether",
     "symbol": "ETH",
@@ -34,6 +31,5 @@
     ]
   },
   "status": "active",
-  "icon": null,
   "tvl": 0
 }

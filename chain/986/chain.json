@@ -1,9 +1,7 @@
 {
   "name": "LAGOM Mainnet",
   "chain": "LAGOM Mainnet",
-  "rpc": [
-    "https://rpc1.lagom.mainnet.zeeve.net"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "LAGO",
@@ -21,6 +19,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

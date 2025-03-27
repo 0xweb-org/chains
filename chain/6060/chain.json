@@ -1,34 +1,19 @@
 {
+  "chainId": 6060,
+  "icon": "./chain/6060/logo.png",
+  "www": "https://www.versatizecoin.com/",
   "name": "BC Hyper Chain Testnet",
-  "chain": "BC Hyper Chain",
-  "rpc": [
-    "https://rpc.bchscan.io"
-  ],
-  "features": [
+  "platform": "BCH",
+  "chainToken": "TVTCN",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://rpc.bchscan.io"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "TEST VERSATIZE COIN",
-    "symbol": "TVTCN",
-    "decimals": 18
-  },
-  "infoURL": "https://www.versatizecoin.com/",
-  "shortName": "BCH",
-  "chainId": 6060,
-  "networkId": 6060,
-  "icon": "./chain/6060/logo.png",
   "explorers": [
     {
       "name": "bcexplorer testnet",
-      "url": "https://testnet.bchscan.io",
-      "standard": "EIP3091"
+      "url": "https://testnet.bchscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

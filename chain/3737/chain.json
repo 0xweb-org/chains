@@ -1,9 +1,7 @@
 {
   "name": "Crossbell",
   "chain": "Crossbell",
-  "rpc": [
-    "https://rpc.crossbell.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.crossbell.io"
   ],

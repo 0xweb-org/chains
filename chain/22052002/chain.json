@@ -1,26 +1,19 @@
 {
-  "name": "Excelon Mainnet",
-  "chain": "XLON",
-  "icon": "./chain/22052002/logo.png",
-  "rpc": [
-    "https://edgewallet1.xlon.org/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Excelon",
-    "symbol": "xlon",
-    "decimals": 18
-  },
-  "infoURL": "https://xlon.org",
-  "shortName": "xlon",
   "chainId": 22052002,
-  "networkId": 22052002,
+  "icon": "./chain/22052002/logo.png",
+  "www": "https://xlon.org",
+  "name": "Excelon Mainnet",
+  "platform": "xlon",
+  "chainToken": "xlon",
+  "endpoints": [
+    {
+      "url": "https://edgewallet1.xlon.org/"
+    }
+  ],
   "explorers": [
     {
       "name": "Excelon explorer",
-      "url": "https://explorer.excelon.io",
-      "standard": "EIP3091"
+      "url": "https://explorer.excelon.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

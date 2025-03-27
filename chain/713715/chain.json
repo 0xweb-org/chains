@@ -1,35 +1,26 @@
 {
-  "name": "Sei Devnet",
-  "chain": "Sei",
-  "rpc": [
-    "https://evm-rpc-arctic-1.sei-apis.com",
-    "https://evm-rpc.arctic-1.seinetwork.io"
-  ],
-  "faucets": [
-    "https://sei-faucet.nima.enterprises",
-    "https://sei-evm.faucetme.pro"
-  ],
-  "nativeCurrency": {
-    "name": "Sei",
-    "symbol": "SEI",
-    "decimals": 18
-  },
-  "infoURL": "https://www.sei.io",
-  "shortName": "sei-devnet",
   "chainId": 713715,
-  "networkId": 713715,
   "icon": "./chain/713715/logo.png",
+  "www": "https://www.sei.io",
+  "name": "Sei Devnet",
+  "platform": "sei-devnet",
+  "chainToken": "SEI",
+  "endpoints": [
+    {
+      "url": "https://evm-rpc-arctic-1.sei-apis.com"
+    },
+    {
+      "url": "https://evm-rpc.arctic-1.seinetwork.io"
+    }
+  ],
   "explorers": [
     {
       "name": "Seistream",
-      "url": "https://seistream.app",
-      "standard": "none"
+      "url": "https://seistream.app"
     },
     {
       "name": "Seitrace",
-      "url": "https://seitrace.com",
-      "standard": "EIP3091"
+      "url": "https://seitrace.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,40 +1,28 @@
 {
-  "name": "Scroll",
-  "chain": "ETH",
-  "status": "active",
-  "rpc": [
-    "https://rpc.scroll.io",
-    "https://rpc.ankr.com/scroll",
-    "https://scroll-mainnet.chainstacklabs.com",
-    "https://scroll-rpc.publicnode.com",
-    "wss://scroll-rpc.publicnode.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://scroll.io",
-  "shortName": "scr",
   "chainId": 534352,
-  "networkId": 534352,
+  "icon": "./chain/534352/logo.png",
+  "www": "https://scroll.io",
+  "name": "Scroll",
+  "platform": "scr",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.scroll.io"
+    },
+    {
+      "url": "https://rpc.ankr.com/scroll"
+    },
+    {
+      "url": "https://scroll-mainnet.chainstacklabs.com"
+    },
+    {
+      "url": "wss://scroll-rpc.publicnode.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Scrollscan",
-      "url": "https://scrollscan.com",
-      "standard": "EIP3091"
+      "url": "https://scrollscan.com"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "https://scroll.io/bridge"
-      }
-    ]
-  },
-  "icon": "./chain/534352/logo.png",
-  "tvl": 88201518
+  ]
 }

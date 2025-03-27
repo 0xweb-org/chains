@@ -1,9 +1,7 @@
 {
   "name": "Mitosis Testnet",
   "chain": "Mitosis Testnet",
-  "rpc": [
-    "https://rpc.testnet.mitosis.org"
-  ],
+  "rpc": [],
   "faucets": [
     "https://testnet.mitosis.org/faucet"
   ],
@@ -23,6 +21,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

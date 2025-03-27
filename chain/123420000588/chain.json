@@ -2,10 +2,7 @@
   "name": "volmex",
   "title": "Volmex",
   "chain": "volmex",
-  "rpc": [
-    "https://rpc.volmex.t.raas.gelato.cloud",
-    "wss://ws.volmex.t.raas.gelato.cloud"
-  ],
+  "rpc": [],
   "nativeCurrency": {
     "name": "Ether",
     "symbol": "ETH",
@@ -33,6 +30,5 @@
       }
     ]
   },
-  "icon": null,
   "tvl": 0
 }

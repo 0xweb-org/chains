@@ -1,27 +1,18 @@
 {
-  "name": "Etho Protocol",
-  "chain": "ETHO",
-  "rpc": [
-    "https://rpc.ethoprotocol.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Etho Protocol",
-    "symbol": "ETHO",
-    "decimals": 18
-  },
-  "infoURL": "https://ethoprotocol.com",
-  "shortName": "etho",
   "chainId": 1313114,
-  "networkId": 1313114,
-  "slip44": 1313114,
+  "www": "https://ethoprotocol.com",
+  "name": "Etho Protocol",
+  "platform": "etho",
+  "chainToken": "ETHO",
+  "endpoints": [
+    {
+      "url": "https://rpc.ethoprotocol.com"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://explorer.ethoprotocol.com",
-      "standard": "none"
+      "url": "https://explorer.ethoprotocol.com"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

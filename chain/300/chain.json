@@ -1,42 +1,19 @@
 {
-  "name": "zkSync Sepolia Testnet",
-  "chain": "ETH",
-  "rpc": [
-    "https://sepolia.era.zksync.dev",
-    "https://zksync-sepolia.drpc.org",
-    "wss://zksync-sepolia.drpc.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://zksync.io/",
-  "shortName": "zksync-sepolia",
   "chainId": 300,
-  "networkId": 300,
-  "slip44": 1,
   "icon": "./chain/300/logo.png",
+  "www": "https://zksync.io/",
+  "name": "zkSync Sepolia Testnet",
+  "platform": "zksync-sepolia",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://sepolia.era.zksync.dev"
+    }
+  ],
   "explorers": [
     {
       "name": "zkSync Block Explorer",
-      "url": "https://sepolia.explorer.zksync.io",
-      "icon": "zksync-era",
-      "standard": "EIP3091"
+      "url": "https://sepolia.explorer.zksync.io"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-11155111",
-    "bridges": [
-      {
-        "url": "https://bridge.zksync.io/"
-      }
-    ]
-  },
-  "redFlags": [
-    "reusedChainId"
-  ],
-  "tvl": 0
+  ]
 }

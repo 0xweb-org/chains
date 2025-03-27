@@ -1,26 +1,19 @@
 {
-  "name": "DCpay Mainnet",
-  "chain": "DCpay",
-  "icon": "./chain/21223/logo.png",
-  "rpc": [
-    "https://rpc.dcpay.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "DCP",
-    "symbol": "DCP",
-    "decimals": 18
-  },
-  "infoURL": "https://dcpay.io",
-  "shortName": "DCPm",
   "chainId": 21223,
-  "networkId": 21223,
+  "icon": "./chain/21223/logo.png",
+  "www": "https://dcpay.io",
+  "name": "DCpay Mainnet",
+  "platform": "DCPm",
+  "chainToken": "DCP",
+  "endpoints": [
+    {
+      "url": "https://rpc.dcpay.io"
+    }
+  ],
   "explorers": [
     {
       "name": "DCpay Mainnet Explorer",
-      "url": "https://mainnet.dcpay.io",
-      "standard": "EIP3091"
+      "url": "https://mainnet.dcpay.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

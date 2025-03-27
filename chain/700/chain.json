@@ -1,9 +1,7 @@
 {
   "name": "Star Social Testnet",
   "chain": "SNS",
-  "rpc": [
-    "https://avastar.cc/ext/bc/C/rpc"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Social",
@@ -22,6 +20,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

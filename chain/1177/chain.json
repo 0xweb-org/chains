@@ -1,9 +1,7 @@
 {
   "name": "Smart Host Teknoloji TESTNET",
   "chain": "SHT",
-  "rpc": [
-    "https://s2.tl.web.tr:4041"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Smart Host Teknoloji TESTNET",
@@ -23,7 +21,12 @@
   "chainId": 1177,
   "networkId": 1177,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmTrLGHyQ1Le25Q7EgNSF5Qq8D2SocKvroDkLqurdBuSQQ",
+    "width": 1655,
+    "height": 1029,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "Smart Host Teknoloji TESTNET Explorer",

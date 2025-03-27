@@ -3,9 +3,7 @@
   "title": "Step Test Network",
   "chain": "STEP",
   "icon": "./chain/12345/logo.png",
-  "rpc": [
-    "https://rpc.testnet.step.network"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.step.network"
   ],

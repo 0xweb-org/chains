@@ -6,10 +6,7 @@
   "networkId": 940,
   "slip44": 1,
   "infoURL": "https://pulsechain.com/",
-  "rpc": [
-    "https://rpc.v2.testnet.pulsechain.com/",
-    "wss://rpc.v2.testnet.pulsechain.com/"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.v2.testnet.pulsechain.com/"
   ],
@@ -19,6 +16,5 @@
     "symbol": "tPLS",
     "decimals": 18
   },
-  "icon": null,
   "tvl": 0
 }

@@ -1,29 +1,28 @@
 {
-  "name": "Unique",
-  "icon": "./chain/8880/logo.png",
-  "chain": "UNQ",
-  "rpc": [
-    "https://rpc.unique.network",
-    "https://eu-rpc.unique.network",
-    "https://asia-rpc.unique.network",
-    "https://us-rpc.unique.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Unique",
-    "symbol": "UNQ",
-    "decimals": 18
-  },
-  "infoURL": "https://unique.network",
-  "shortName": "unq",
   "chainId": 8880,
-  "networkId": 8880,
+  "icon": "./chain/8880/logo.png",
+  "www": "https://unique.network",
+  "name": "Unique",
+  "platform": "unq",
+  "chainToken": "UNQ",
+  "endpoints": [
+    {
+      "url": "https://rpc.unique.network"
+    },
+    {
+      "url": "https://eu-rpc.unique.network"
+    },
+    {
+      "url": "https://asia-rpc.unique.network"
+    },
+    {
+      "url": "https://us-rpc.unique.network"
+    }
+  ],
   "explorers": [
     {
       "name": "Unique Scan",
-      "url": "https://uniquescan.io/unique",
-      "standard": "none"
+      "url": "https://uniquescan.io/unique"
     }
-  ],
-  "tvl": 0
+  ]
 }

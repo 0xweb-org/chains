@@ -1,29 +1,22 @@
 {
-  "name": "SKALE Titan Hub",
-  "chain": "parallel-stormy-spica",
-  "icon": "./chain/1350216234/logo.png",
-  "rpc": [
-    "https://mainnet.skalenodes.com/v1/parallel-stormy-spica",
-    "wss://mainnet.skalenodes.com/v1/ws/parallel-stormy-spica"
-  ],
-  "faucets": [
-    "https://sfuel.skale.network/"
-  ],
-  "nativeCurrency": {
-    "name": "sFUEL",
-    "symbol": "sFUEL",
-    "decimals": 18
-  },
-  "infoURL": "",
-  "shortName": "titan-mainnet",
   "chainId": 1350216234,
-  "networkId": 1350216234,
+  "icon": "./chain/1350216234/logo.png",
+  "www": "",
+  "name": "SKALE Titan Hub",
+  "platform": "titan",
+  "chainToken": "sFUEL",
+  "endpoints": [
+    {
+      "url": "https://mainnet.skalenodes.com/v1/parallel-stormy-spica"
+    },
+    {
+      "url": "wss://mainnet.skalenodes.com/v1/ws/parallel-stormy-spica"
+    }
+  ],
   "explorers": [
     {
       "name": "Blockscout",
-      "url": "https://parallel-stormy-spica.explorer.mainnet.skalenodes.com",
-      "standard": "EIP3091"
+      "url": "https://parallel-stormy-spica.explorer.mainnet.skalenodes.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

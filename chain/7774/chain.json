@@ -1,10 +1,13 @@
 {
   "name": "GDCC MAINNET",
   "chain": "GDCC",
-  "icon": null,
-  "rpc": [
-    "https://mainnet-rpc-1.gdccscan.io"
-  ],
+  "icon": {
+    "url": "ipfs://QmY4vp1mJoGpUiuWbRVenNiDZC17wSyyueGPK9A5QyK1M2",
+    "width": 72,
+    "height": 72,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "GDCC",

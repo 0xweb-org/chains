@@ -1,30 +1,25 @@
 {
-  "name": "XT Smart Chain Mainnet",
-  "chain": "XSC",
-  "icon": "./chain/520/logo.png",
-  "rpc": [
-    "https://datarpc1.xsc.pub",
-    "https://datarpc2.xsc.pub",
-    "https://datarpc3.xsc.pub"
-  ],
-  "faucets": [
-    "https://xsc.pub/faucet"
-  ],
-  "nativeCurrency": {
-    "name": "XT Smart Chain Native Token",
-    "symbol": "XT",
-    "decimals": 18
-  },
-  "infoURL": "https://xsc.pub/",
-  "shortName": "xt",
   "chainId": 520,
-  "networkId": 1024,
+  "icon": "./chain/520/logo.png",
+  "www": "https://xsc.pub/",
+  "name": "XT Smart Chain Mainnet",
+  "platform": "xt",
+  "chainToken": "XT",
+  "endpoints": [
+    {
+      "url": "https://datarpc1.xsc.pub"
+    },
+    {
+      "url": "https://datarpc2.xsc.pub"
+    },
+    {
+      "url": "https://datarpc3.xsc.pub"
+    }
+  ],
   "explorers": [
     {
       "name": "xscscan",
-      "url": "https://xscscan.pub",
-      "standard": "EIP3091"
+      "url": "https://xscscan.pub"
     }
-  ],
-  "tvl": 0
+  ]
 }

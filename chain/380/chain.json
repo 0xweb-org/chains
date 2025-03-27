@@ -1,10 +1,7 @@
 {
   "name": "ZKAmoeba Testnet",
   "chain": "FIL",
-  "rpc": [
-    "https://rpc.testnet.zkamoeba.com:4050/",
-    "https://rpc1.testnet.zkamoeba.com:4050/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "filecoin",

@@ -1,26 +1,19 @@
 {
-  "name": "Elux Chain",
-  "chain": "ELUX",
-  "icon": "./chain/2907/logo.png",
-  "rpc": [
-    "https://rpc.eluxscan.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Elux Chain",
-    "symbol": "ELUX",
-    "decimals": 18
-  },
-  "infoURL": "https://eluxscan.com",
-  "shortName": "ELUX",
   "chainId": 2907,
-  "networkId": 2907,
+  "icon": "./chain/2907/logo.png",
+  "www": "https://eluxscan.com",
+  "name": "Elux Chain",
+  "platform": "ELUX",
+  "chainToken": "ELUX",
+  "endpoints": [
+    {
+      "url": "https://rpc.eluxscan.com"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://eluxscan.com",
-      "standard": "none"
+      "url": "https://eluxscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

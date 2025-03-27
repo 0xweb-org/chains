@@ -1,39 +1,19 @@
 {
-  "name": "Proof of Play - Apex",
   "chainId": 70700,
-  "shortName": "pop-apex",
-  "chain": "ETH",
-  "networkId": 70700,
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "rpc": [
-    "https://rpc.apex.proofofplay.com"
+  "icon": "./chain/70700/logo.png",
+  "www": "https://proofofplay.com",
+  "name": "Proof of Play - Apex",
+  "platform": "pop-apex",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.apex.proofofplay.com"
+    }
   ],
-  "faucets": [],
   "explorers": [
     {
       "name": "Proof of Play Apex Explorer",
-      "url": "https://explorer.apex.proofofplay.com",
-      "icon": "pop-apex",
-      "standard": "EIP3091"
+      "url": "https://explorer.apex.proofofplay.com"
     }
-  ],
-  "infoURL": "https://proofofplay.com",
-  "icon": "./chain/70700/logo.png",
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-42161",
-    "bridges": [
-      {
-        "url": "https://bridge.arbitrum.io"
-      },
-      {
-        "url": "https://relay.link/bridge/apex/"
-      }
-    ]
-  },
-  "tvl": 0
+  ]
 }

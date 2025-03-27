@@ -14,7 +14,12 @@
   "chainId": 1131,
   "networkId": 1131,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmdR3YL9F95ajwVwfxAGoEzYwm9w7JNsPSfUPjSaQogVjK",
+    "width": 512,
+    "height": 512,
+    "format": "svg"
+  },
   "explorers": [],
   "tvl": 0
 }

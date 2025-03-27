@@ -1,9 +1,7 @@
 {
   "name": "Harmony Mainnet Shard 2",
   "chain": "Harmony",
-  "rpc": [
-    "https://api.s2.t.hmny.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "ONE",
@@ -23,6 +21,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

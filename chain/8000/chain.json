@@ -1,9 +1,7 @@
 {
   "name": "Teleport",
   "chain": "Teleport",
-  "rpc": [
-    "https://evm-rpc.teleport.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Tele",
@@ -14,7 +12,12 @@
   "shortName": "teleport",
   "chainId": 8000,
   "networkId": 8000,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmdP1sLnsmW9dwnfb1GxAXU1nHDzCvWBQNumvMXpdbCSuz",
+    "width": 390,
+    "height": 390,
+    "format": "svg"
+  },
   "explorers": [
     {
       "name": "Teleport EVM Explorer (Blockscout)",

@@ -1,44 +1,30 @@
 {
-  "name": "Avalanche C-Chain",
-  "chain": "AVAX",
+  "chainId": 43114,
   "icon": "./chain/43114/logo.png",
-  "rpc": [
-    "https://api.avax.network/ext/bc/C/rpc",
-    "https://avalanche-c-chain-rpc.publicnode.com",
-    "wss://avalanche-c-chain-rpc.publicnode.com"
-  ],
-  "features": [
+  "www": "https://www.avax.network/",
+  "name": "Avalanche C-Chain",
+  "platform": "avax",
+  "chainToken": "AVAX",
+  "endpoints": [
     {
-      "name": "EIP1559"
+      "url": "https://avalanche-c-chain-rpc.publicnode.com"
+    },
+    {
+      "url": "wss://avalanche-c-chain-rpc.publicnode.com"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Avalanche",
-    "symbol": "AVAX",
-    "decimals": 18
-  },
-  "infoURL": "https://www.avax.network/",
-  "shortName": "avax",
-  "chainId": 43114,
-  "networkId": 43114,
-  "slip44": 9005,
   "explorers": [
     {
       "name": "Etherscan",
-      "url": "https://snowscan.xyz",
-      "standard": "EIP3091"
+      "url": "https://snowscan.xyz"
     },
     {
       "name": "Routescan",
-      "url": "https://snowtrace.io",
-      "standard": "EIP3091"
+      "url": "https://snowtrace.io"
     },
     {
       "name": "Avascan",
-      "url": "https://avascan.info",
-      "standard": "EIP3091"
+      "url": "https://avascan.info"
     }
-  ],
-  "tvl": 1392150503
+  ]
 }

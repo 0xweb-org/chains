@@ -1,37 +1,19 @@
 {
+  "chainId": 332,
+  "icon": "ipfs://Qmd7omPxrehSuxHHPMYd5Nr7nfrtjKdRJQEhDLfTb87w8G",
+  "www": "https://www.omaxcoin.com/",
   "name": "Omax Testnet",
-  "chain": "Omax Chain",
-  "rpc": [
-    "https://testapi.omaxray.com"
-  ],
-  "features": [
+  "platform": "omaxt",
+  "chainToken": "OMAX",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://testapi.omaxray.com"
     }
   ],
-  "faucets": [
-    "https://faucet.omaxray.com/"
-  ],
-  "nativeCurrency": {
-    "name": "OMAX TESTCOIN",
-    "symbol": "OMAX",
-    "decimals": 18
-  },
-  "infoURL": "https://www.omaxcoin.com/",
-  "shortName": "omaxt",
-  "chainId": 332,
-  "networkId": 332,
-  "icon": null,
   "explorers": [
     {
       "name": "Omax Chain Explorer",
-      "url": "https://testnet.omaxscan.com",
-      "icon": "omaxray",
-      "standard": "EIP3091"
+      "url": "https://testnet.omaxscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

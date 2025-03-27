@@ -1,10 +1,13 @@
 {
   "name": "MXC Wannsee zkEVM Testnet",
   "chain": "MXC zkEVM",
-  "icon": null,
-  "rpc": [
-    "https://wannsee-rpc.mxc.com"
-  ],
+  "icon": {
+    "url": "ipfs://QmdGCthKA11K9kCZJdbTP5WPAyq1wiRZ3REn6KG58MrWaE",
+    "width": 159,
+    "height": 159,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "MXC Wannsee zkEVM Testnet",

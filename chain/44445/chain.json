@@ -1,9 +1,7 @@
 {
   "name": "Quantum Network",
   "chain": "Quantum",
-  "rpc": [
-    "https://rpcqtm.avescoin.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Quantum",
@@ -14,7 +12,12 @@
   "shortName": "QTM",
   "chainId": 44445,
   "networkId": 44445,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmeKQVv2QneHaaggw2NfpZ7DGMdjVhPywTdse5RzCs4oGn",
+    "width": 232,
+    "height": 232,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "Quantum Explorer",

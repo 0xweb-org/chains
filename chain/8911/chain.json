@@ -1,9 +1,7 @@
 {
   "name": "Algen",
   "chain": "ALG",
-  "rpc": [
-    "https://rpc.algen.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "ALG",

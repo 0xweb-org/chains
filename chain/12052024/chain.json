@@ -1,9 +1,7 @@
 {
   "name": "Memento Testnet",
   "chain": "Memento",
-  "rpc": [
-    "https://test-rpc.mementoblockchain.com/IRkghvI3FfEArEJMr4zC/rpc"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",
@@ -21,6 +19,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

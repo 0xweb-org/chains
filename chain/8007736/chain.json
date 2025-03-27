@@ -1,9 +1,7 @@
 {
   "name": "Plian Mainnet Subchain 1",
   "chain": "Plian",
-  "rpc": [
-    "https://mainnet.plian.io/child_0"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Plian Token",
@@ -25,6 +23,5 @@
     "chain": "eip155-2099156",
     "type": "L2"
   },
-  "icon": null,
   "tvl": 0
 }

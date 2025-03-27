@@ -1,31 +1,19 @@
 {
+  "chainId": 420042,
+  "icon": "ipfs://QmRRoNvamJavpaFsxS1PPxyxDZ7q8akcdeNrrQXWmg2fux",
+  "www": "https://vsgofficial.com",
   "name": "Vector Smart Chain",
-  "chain": "VSC",
-  "icon": null,
-  "rpc": [
-    "https://rpc.vscblockchain.org"
-  ],
-  "features": [
+  "platform": "vsg",
+  "chainToken": "VSG",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://rpc.vscblockchain.org"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Vector Smart Gas",
-    "symbol": "VSG",
-    "decimals": 18
-  },
-  "infoURL": "https://vsgofficial.com",
-  "shortName": "vsg",
-  "chainId": 420042,
-  "networkId": 420042,
   "explorers": [
     {
       "name": "vscexplorer",
-      "url": "https://explorer.vscblockchain.org",
-      "standard": "EIP3091"
+      "url": "https://explorer.vscblockchain.org"
     }
-  ],
-  "tvl": 0
+  ]
 }

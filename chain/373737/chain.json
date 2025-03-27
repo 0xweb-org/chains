@@ -1,28 +1,19 @@
 {
-  "name": "HAPchain Testnet",
-  "chain": "HAPchain",
-  "rpc": [
-    "https://jsonrpc-test.hap.land"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "HAP",
-    "symbol": "HAP",
-    "decimals": 18
-  },
-  "infoURL": "https://hap.land",
-  "shortName": "hap-testnet",
   "chainId": 373737,
-  "networkId": 373737,
-  "slip44": 1,
   "icon": "./chain/373737/logo.png",
+  "www": "https://hap.land",
+  "name": "HAPchain Testnet",
+  "platform": "hap-testnet",
+  "chainToken": "HAP",
+  "endpoints": [
+    {
+      "url": "https://jsonrpc-test.hap.land"
+    }
+  ],
   "explorers": [
     {
       "name": "HAP EVM Explorer (Blockscout)",
-      "url": "https://blockscout-test.hap.land",
-      "standard": "none",
-      "icon": "hap"
+      "url": "https://blockscout-test.hap.land"
     }
-  ],
-  "tvl": 0
+  ]
 }

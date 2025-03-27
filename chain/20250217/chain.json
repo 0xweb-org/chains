@@ -1,34 +1,18 @@
 {
+  "chainId": 20250217,
+  "www": "https://x-phere.com/",
   "name": "Xphere Mainnet",
-  "chain": "Xphere",
-  "icon": null,
-  "features": [
+  "platform": "xp",
+  "chainToken": "XP",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://en-bkk.x-phere.com"
     }
   ],
-  "rpc": [
-    "https://en-bkk.x-phere.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Xphere",
-    "symbol": "XP",
-    "decimals": 18
-  },
-  "infoURL": "https://x-phere.com/",
-  "shortName": "xp",
-  "chainId": 20250217,
-  "networkId": 20250217,
   "explorers": [
     {
       "name": "Tamsa",
-      "url": "https://xp.tamsa.io",
-      "standard": "EIP3091"
+      "url": "https://xp.tamsa.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,31 +1,24 @@
 {
-  "name": "ThunderCore Testnet",
-  "chain": "TST",
-  "rpc": [
-    "https://testnet-rpc.thundercore.com",
-    "https://thundercore-testnet.drpc.org",
-    "wss://thundercore-testnet.drpc.org"
-  ],
-  "faucets": [
-    "https://faucet-testnet.thundercore.com"
-  ],
-  "nativeCurrency": {
-    "name": "ThunderCore Testnet Token",
-    "symbol": "TST",
-    "decimals": 18
-  },
-  "infoURL": "https://thundercore.com",
-  "shortName": "TST",
   "chainId": 18,
-  "networkId": 18,
-  "slip44": 1,
+  "www": "https://thundercore.com",
+  "name": "ThunderCore Testnet",
+  "platform": "TST",
+  "chainToken": "TST",
+  "endpoints": [
+    {
+      "url": "https://testnet-rpc.thundercore.com"
+    },
+    {
+      "url": "https://thundercore-testnet.drpc.org"
+    },
+    {
+      "url": "wss://thundercore-testnet.drpc.org"
+    }
+  ],
   "explorers": [
     {
       "name": "thundercore-blockscout-testnet",
-      "url": "https://explorer-testnet.thundercore.com",
-      "standard": "EIP3091"
+      "url": "https://explorer-testnet.thundercore.com"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

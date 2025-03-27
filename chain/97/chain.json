@@ -1,16 +1,7 @@
 {
   "name": "BNB Smart Chain Testnet",
   "chain": "BSC",
-  "rpc": [
-    "https://data-seed-prebsc-1-s1.bnbchain.org:8545",
-    "https://data-seed-prebsc-2-s1.bnbchain.org:8545",
-    "https://data-seed-prebsc-1-s2.bnbchain.org:8545",
-    "https://data-seed-prebsc-2-s2.bnbchain.org:8545",
-    "https://data-seed-prebsc-1-s3.bnbchain.org:8545",
-    "https://data-seed-prebsc-2-s3.bnbchain.org:8545",
-    "https://bsc-testnet-rpc.publicnode.com",
-    "wss://bsc-testnet-rpc.publicnode.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://testnet.bnbchain.org/faucet-smart"
   ],
@@ -31,6 +22,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

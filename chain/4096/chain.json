@@ -1,10 +1,13 @@
 {
   "name": "Bitindi Testnet",
   "chain": "BNI",
-  "icon": null,
-  "rpc": [
-    "https://testnet-rpc.bitindi.org"
-  ],
+  "icon": {
+    "url": "ipfs://QmRAFFPiLiSgjGTs9QaZdnR9fsDgyUdTejwSxcnPXo292s",
+    "width": 60,
+    "height": 72,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [
     "https://faucet.bitindi.org"
   ],

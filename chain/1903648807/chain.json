@@ -1,9 +1,7 @@
 {
   "name": "Gemuchain Testnet",
   "chain": "Gemuchain",
-  "rpc": [
-    "https://gemutest-rpc.gemuchain.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.gemuchain.io/"
   ],
@@ -32,6 +30,5 @@
       }
     ]
   },
-  "icon": null,
   "tvl": 0
 }

@@ -2,9 +2,7 @@
   "name": "Shinarium Mainnet",
   "chain": "Shinarium",
   "icon": "./chain/214/logo.png",
-  "rpc": [
-    "https://mainnet.shinarium.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Shina Inu",

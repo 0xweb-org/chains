@@ -1,10 +1,13 @@
 {
   "name": "Double-A Chain Testnet",
   "chain": "AAC",
-  "icon": null,
-  "rpc": [
-    "https://rpc-testnet.acuteangle.com"
-  ],
+  "icon": {
+    "url": "ipfs://QmRUrz4dULaoaMpnqd8qXT7ehwz3aaqnYKY4ePsy7isGaF",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [
     "https://scan-testnet.acuteangle.com/faucet"
   ],

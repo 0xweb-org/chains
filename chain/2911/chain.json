@@ -1,36 +1,19 @@
 {
-  "name": "HYCHAIN",
   "chainId": 2911,
-  "shortName": "hychain",
-  "chain": "ETH",
-  "networkId": 2911,
-  "nativeCurrency": {
-    "name": "TOPIA",
-    "symbol": "TOPIA",
-    "decimals": 18
-  },
-  "rpc": [
-    "https://rpc.hychain.com/http"
-  ],
-  "faucets": [],
-  "infoURL": "https://www.hychain.com",
   "icon": "./chain/2911/logo.png",
+  "www": "https://www.hychain.com",
+  "name": "HYCHAIN",
+  "platform": "hychain",
+  "chainToken": "TOPIA",
+  "endpoints": [
+    {
+      "url": "https://rpc.hychain.com/http"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://explorer.hychain.com",
-      "icon": "hychain",
-      "standard": "EIP3091"
+      "url": "https://explorer.hychain.com"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "https://bridge.hychain.com"
-      }
-    ]
-  },
-  "tvl": 0
+  ]
 }

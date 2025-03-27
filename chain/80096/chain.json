@@ -1,26 +1,19 @@
 {
-  "name": "Hizoco mainnet",
-  "chain": "HZC",
-  "icon": "./chain/80096/logo.png",
-  "rpc": [
-    "https://hizoco.net/rpc"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Hizoco",
-    "symbol": "HZC",
-    "decimals": 18
-  },
-  "infoURL": "http://hizoco.net",
-  "shortName": "hzc",
   "chainId": 80096,
-  "networkId": 80096,
+  "icon": "./chain/80096/logo.png",
+  "www": "http://hizoco.net",
+  "name": "Hizoco mainnet",
+  "platform": "hzc",
+  "chainToken": "HZC",
+  "endpoints": [
+    {
+      "url": "https://hizoco.net/rpc"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://hizoco.net:38443",
-      "standard": "none"
+      "url": "https://hizoco.net:38443"
     }
-  ],
-  "tvl": 0
+  ]
 }

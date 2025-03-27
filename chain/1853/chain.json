@@ -1,10 +1,7 @@
 {
   "name": "HighOctane Subnet",
   "chain": "HighOctane Subnet",
-  "rpc": [
-    "https://subnets.avax.network/highoctane/mainnet/rpc",
-    "wss://subnets.avax.network/highoctane/mainnet/ws"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "HighOctane",

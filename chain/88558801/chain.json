@@ -2,9 +2,7 @@
   "name": "Backstop Testnet",
   "chain": "backstopTestnet",
   "icon": "./chain/88558801/logo.png",
-  "rpc": [
-    "https://testnet.rpc.backstop.technology"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Backstop Testnet 1",

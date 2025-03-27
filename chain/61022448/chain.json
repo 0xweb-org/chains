@@ -1,9 +1,7 @@
 {
   "name": "dKargo Warehouse Testnet",
   "chain": "dKargo Warehouse",
-  "rpc": [
-    "https://warehouse-full01.dkargo.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "dKargo",
@@ -14,6 +12,5 @@
   "shortName": "dkargowarehouse",
   "chainId": 61022448,
   "networkId": 61022448,
-  "icon": null,
   "tvl": 0
 }

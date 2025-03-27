@@ -1,9 +1,7 @@
 {
   "name": "NeoX Testnet T3",
   "chain": "NeoX",
-  "rpc": [
-    "https://neoxseed1.ngd.network/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Gas",
@@ -14,7 +12,12 @@
   "shortName": "neox",
   "chainId": 12227331,
   "networkId": 12227331,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmR3iCrjrW814fyv79UeVimDT4fTeBQcpYgMYxv1U6W15u",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "neox-scan",

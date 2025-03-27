@@ -1,10 +1,7 @@
 {
   "name": "Acala Network",
   "chain": "ACA",
-  "rpc": [
-    "https://eth-rpc-acala.aca-api.network",
-    "wss://eth-rpc-acala.aca-api.network"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"
@@ -31,6 +28,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

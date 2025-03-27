@@ -1,26 +1,19 @@
 {
-  "name": "PandoProject Mainnet",
-  "chain": "PandoProject",
-  "icon": "./chain/3601/logo.png",
-  "rpc": [
-    "https://eth-rpc-api.pandoproject.org/rpc"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "pando-token",
-    "symbol": "PTX",
-    "decimals": 18
-  },
-  "infoURL": "https://www.pandoproject.org/",
-  "shortName": "pando-mainnet",
   "chainId": 3601,
-  "networkId": 3601,
+  "icon": "./chain/3601/logo.png",
+  "www": "https://www.pandoproject.org/",
+  "name": "PandoProject Mainnet",
+  "platform": "pando",
+  "chainToken": "PTX",
+  "endpoints": [
+    {
+      "url": "https://eth-rpc-api.pandoproject.org/rpc"
+    }
+  ],
   "explorers": [
     {
       "name": "Pando Mainnet Explorer",
-      "url": "https://explorer.pandoproject.org",
-      "standard": "none"
+      "url": "https://explorer.pandoproject.org"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,10 +1,13 @@
 {
   "name": "AgentLayer Testnet",
   "chain": "AgentLayer",
-  "icon": null,
-  "rpc": [
-    "https://testnet-rpc.agentlayer.xyz"
-  ],
+  "icon": {
+    "url": "ipfs://QmSj6SSWmBiRjnjZQPb17kvhGDmB9xAGRkG13RwPuXLTCT",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Agent",

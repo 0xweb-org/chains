@@ -2,9 +2,7 @@
   "name": "Polis Mainnet",
   "chain": "Olympus",
   "icon": "./chain/333999/logo.png",
-  "rpc": [
-    "https://rpc.polis.tech"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.polis.tech"
   ],

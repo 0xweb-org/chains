@@ -1,28 +1,19 @@
 {
-  "name": "Origin Testnet",
-  "chain": "Origin",
-  "rpc": [
-    "https://json-rpc.origin.uptick.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Origin",
-    "symbol": "UOC",
-    "decimals": 18
-  },
-  "infoURL": "https://www.uptick.network",
-  "shortName": "auoc",
   "chainId": 1170,
-  "networkId": 1170,
-  "slip44": 1,
-  "icon": null,
+  "icon": "ipfs://QmRGJ6PqYHDTWuUQ6xfnK8S82NzRXiMjTnSGat9qtLuaLP",
+  "www": "https://www.uptick.network",
+  "name": "Origin Testnet",
+  "platform": "auoc",
+  "chainToken": "UOC",
+  "endpoints": [
+    {
+      "url": "https://json-rpc.origin.uptick.network"
+    }
+  ],
   "explorers": [
     {
       "name": "Origin Explorer",
-      "url": "https://evm-explorer.origin.uptick.network",
-      "icon": "origin",
-      "standard": "none"
+      "url": "https://evm-explorer.origin.uptick.network"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -2,10 +2,7 @@
   "name": "Living Assets Mainnet",
   "chain": "LAS",
   "icon": "./chain/1440/logo.png",
-  "rpc": [
-    "https://beta.mainnet.livingassets.io/rpc",
-    "https://gamma.mainnet.livingassets.io/rpc"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "LAS",

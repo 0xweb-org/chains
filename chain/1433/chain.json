@@ -3,9 +3,7 @@
   "title": "Rikeza Network Mainnet",
   "chain": "Rikeza",
   "icon": "./chain/1433/logo.png",
-  "rpc": [
-    "https://rpc.rikscan.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Rikeza",

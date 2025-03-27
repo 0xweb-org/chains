@@ -4,12 +4,7 @@
   "title": "Astar zkEVM Testnet zKatana",
   "chain": "ETH",
   "icon": "./chain/1261120/logo.png",
-  "rpc": [
-    "https://rpc.zkatana.gelato.digital",
-    "https://rpc.startale.com/zkatana",
-    "https://astar-zkatana.drpc.org",
-    "wss://astar-zkatana.drpc.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Sepolia Ether",

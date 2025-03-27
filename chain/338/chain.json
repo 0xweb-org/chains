@@ -1,31 +1,24 @@
 {
-  "name": "Cronos Testnet",
-  "chain": "CRO",
-  "rpc": [
-    "https://evm-t3.cronos.org",
-    "https://cronos-testnet.drpc.org",
-    "wss://cronos-testnet.drpc.org"
-  ],
-  "faucets": [
-    "https://cronos.org/faucet"
-  ],
-  "nativeCurrency": {
-    "name": "Cronos Test Coin",
-    "symbol": "TCRO",
-    "decimals": 18
-  },
-  "infoURL": "https://cronos.org",
-  "shortName": "tcro",
   "chainId": 338,
-  "networkId": 338,
-  "slip44": 1,
+  "www": "https://cronos.org",
+  "name": "Cronos Testnet",
+  "platform": "tcro",
+  "chainToken": "TCRO",
+  "endpoints": [
+    {
+      "url": "https://evm-t3.cronos.org"
+    },
+    {
+      "url": "https://cronos-testnet.drpc.org"
+    },
+    {
+      "url": "wss://cronos-testnet.drpc.org"
+    }
+  ],
   "explorers": [
     {
       "name": "Cronos Testnet Explorer",
-      "url": "https://explorer.cronos.org/testnet",
-      "standard": "none"
+      "url": "https://explorer.cronos.org/testnet"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

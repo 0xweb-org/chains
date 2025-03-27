@@ -1,9 +1,7 @@
 {
   "name": "QEasyWeb3 Testnet",
   "chain": "QET",
-  "rpc": [
-    "https://qeasyweb3.com"
-  ],
+  "rpc": [],
   "faucets": [
     "http://faucet.qeasyweb3.com"
   ],
@@ -24,6 +22,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

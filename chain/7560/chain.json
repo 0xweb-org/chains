@@ -1,38 +1,28 @@
 {
-  "name": "Cyber Mainnet",
-  "chain": "Cyber",
-  "rpc": [
-    "https://cyber.alt.technology/",
-    "wss://cyber-ws.alt.technology/",
-    "https://rpc.cyber.co/",
-    "wss://rpc.cyber.co/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "icon": "./chain/7560/logo.png",
-  "infoURL": "https://cyber.co/",
-  "shortName": "cyeth",
   "chainId": 7560,
-  "networkId": 7560,
+  "icon": "./chain/7560/logo.png",
+  "www": "https://cyber.co/",
+  "name": "Cyber Mainnet",
+  "platform": "cyeth",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://cyber.alt.technology/"
+    },
+    {
+      "url": "wss://cyber-ws.alt.technology/"
+    },
+    {
+      "url": "https://rpc.cyber.co/"
+    },
+    {
+      "url": "wss://rpc.cyber.co/"
+    }
+  ],
   "explorers": [
     {
       "name": "Cyber Mainnet Explorer",
-      "url": "https://cyberscan.co",
-      "standard": "EIP3091"
+      "url": "https://cyberscan.co"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "https://cyber.co/bridge"
-      }
-    ]
-  },
-  "tvl": 5374664
+  ]
 }

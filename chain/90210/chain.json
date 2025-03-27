@@ -2,9 +2,7 @@
   "name": "Beverly Hills",
   "title": "Ethereum multi-client Verkle Testnet Beverly Hills",
   "chain": "ETH",
-  "rpc": [
-    "https://rpc.beverlyhills.ethdevops.io:8545"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.beverlyhills.ethdevops.io"
   ],
@@ -25,6 +23,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

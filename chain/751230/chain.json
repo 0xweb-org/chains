@@ -1,29 +1,19 @@
 {
-  "name": "Bear Network Chain Testnet",
-  "chain": "BRNKCTEST",
-  "icon": "./chain/751230/logo.png",
-  "rpc": [
-    "https://brnkc-test.bearnetwork.net"
-  ],
-  "faucets": [
-    "https://faucet.bearnetwork.net"
-  ],
-  "nativeCurrency": {
-    "name": "Bear Network Chain Testnet Token",
-    "symbol": "tBRNKC",
-    "decimals": 18
-  },
-  "infoURL": "https://bearnetwork.net",
-  "shortName": "BRNKCTEST",
   "chainId": 751230,
-  "networkId": 751230,
-  "slip44": 1,
+  "icon": "./chain/751230/logo.png",
+  "www": "https://bearnetwork.net",
+  "name": "Bear Network Chain Testnet",
+  "platform": "BRNKCTEST",
+  "chainToken": "tBRNKC",
+  "endpoints": [
+    {
+      "url": "https://brnkc-test.bearnetwork.net"
+    }
+  ],
   "explorers": [
     {
       "name": "brnktestscan",
-      "url": "https://brnktest-scan.bearnetwork.net",
-      "standard": "EIP3091"
+      "url": "https://brnktest-scan.bearnetwork.net"
     }
-  ],
-  "tvl": 0
+  ]
 }

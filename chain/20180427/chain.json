@@ -1,27 +1,19 @@
 {
-  "name": "Stability Testnet",
-  "chain": "stabilityTestnet",
-  "icon": "./chain/20180427/logo.png",
-  "rpc": [
-    "https://free.testnet.stabilityprotocol.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "FREE",
-    "symbol": "FREE",
-    "decimals": 18
-  },
-  "infoURL": "https://stabilityprotocol.com",
-  "shortName": "stabilitytestnet",
   "chainId": 20180427,
-  "networkId": 20180427,
-  "slip44": 1,
+  "icon": "./chain/20180427/logo.png",
+  "www": "https://stabilityprotocol.com",
+  "name": "Stability Testnet",
+  "platform": "stabilitytestnet",
+  "chainToken": "FREE",
+  "endpoints": [
+    {
+      "url": "https://free.testnet.stabilityprotocol.com"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://stability-testnet.blockscout.com",
-      "standard": "EIP3091"
+      "url": "https://stability-testnet.blockscout.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

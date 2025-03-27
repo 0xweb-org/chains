@@ -2,9 +2,7 @@
   "name": "ConnectorManager",
   "chain": "Rangers",
   "icon": "./chain/38400/logo.png",
-  "rpc": [
-    "https://cm.rangersprotocol.com/api/jsonrpc"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Rangers Protocol Gas",

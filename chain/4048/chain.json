@@ -1,26 +1,19 @@
 {
-  "name": "GAN Testnet",
-  "chain": "GAN",
-  "icon": "./chain/4048/logo.png",
-  "rpc": [
-    "https://rpc.gpu.net"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "GP Token",
-    "symbol": "GP",
-    "decimals": 18
-  },
-  "infoURL": "https://docs.gpu.net/",
-  "shortName": "GANTestnet",
   "chainId": 4048,
-  "networkId": 4048,
+  "icon": "./chain/4048/logo.png",
+  "www": "https://docs.gpu.net/",
+  "name": "GAN Testnet",
+  "platform": "GANTestnet",
+  "chainToken": "GP",
+  "endpoints": [
+    {
+      "url": "https://rpc.gpu.net"
+    }
+  ],
   "explorers": [
     {
       "name": "ganscan",
-      "url": "https://ganscan.gpu.net",
-      "standard": "none"
+      "url": "https://ganscan.gpu.net"
     }
-  ],
-  "tvl": 0
+  ]
 }

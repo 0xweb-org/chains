@@ -1,9 +1,7 @@
 {
   "name": "CONET Sebolia Testnet",
   "chain": "CONET",
-  "rpc": [
-    "https://rpc1.conet.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "CONET Sebolia",

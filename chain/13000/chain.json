@@ -1,9 +1,7 @@
 {
   "name": "SPS",
   "chain": "SPS",
-  "rpc": [
-    "https://rpc.ssquad.games"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "ECG",
@@ -21,6 +19,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

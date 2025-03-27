@@ -1,10 +1,7 @@
 {
   "name": "KLYNTAR",
   "chain": "KLY",
-  "rpc": [
-    "https://evm.klyntar.org/kly_evm_rpc",
-    "https://evm.klyntarscan.org/kly_evm_rpc"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "KLYNTAR",
@@ -23,7 +20,12 @@
   "shortName": "kly",
   "chainId": 7331,
   "networkId": 7331,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmaDr9R6dKnZLsogRxojjq4dwXuXcudR8UeTZ8Nq553K4u",
+    "width": 400,
+    "height": 400,
+    "format": "png"
+  },
   "explorers": [],
   "status": "incubating",
   "tvl": 0

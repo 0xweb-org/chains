@@ -1,26 +1,19 @@
 {
-  "name": "Numbers Mainnet",
-  "chain": "NUM",
-  "icon": "./chain/10507/logo.png",
-  "rpc": [
-    "https://mainnetrpc.num.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "NUM Token",
-    "symbol": "NUM",
-    "decimals": 18
-  },
-  "infoURL": "https://numbersprotocol.io",
-  "shortName": "Jade",
   "chainId": 10507,
-  "networkId": 10507,
+  "icon": "./chain/10507/logo.png",
+  "www": "https://numbersprotocol.io",
+  "name": "Numbers Mainnet",
+  "platform": "Jade",
+  "chainToken": "NUM",
+  "endpoints": [
+    {
+      "url": "https://mainnetrpc.num.network"
+    }
+  ],
   "explorers": [
     {
       "name": "ethernal",
-      "url": "https://mainnet.num.network",
-      "standard": "EIP3091"
+      "url": "https://mainnet.num.network"
     }
-  ],
-  "tvl": 0
+  ]
 }

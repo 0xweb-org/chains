@@ -1,9 +1,7 @@
 {
   "name": "CENNZnet Nikau",
   "chain": "CENNZnet",
-  "rpc": [
-    "https://nikau.centrality.me/public"
-  ],
+  "rpc": [],
   "faucets": [
     "https://app-faucet.centrality.me"
   ],

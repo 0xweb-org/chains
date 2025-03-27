@@ -14,7 +14,12 @@
   "shortName": "dhobyghaut",
   "chainId": 90001,
   "networkId": 90001,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmUve9vX4k6rtTX5dJZhXTGBGUosFccMZL9E349gdTHNkV",
+    "width": 64,
+    "height": 64,
+    "format": "jpg"
+  },
   "explorers": [
     {
       "name": "PundiScan Explorer",

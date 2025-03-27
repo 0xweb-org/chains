@@ -13,7 +13,12 @@
   "shortName": "silicon-sepolia-testnet-deprecated",
   "chainId": 1414,
   "networkId": 1414,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmTEnk2fosqbY6HQW5vySrLGbopJfeni9ThZ6R9sVefbnq",
+    "width": 800,
+    "height": 800,
+    "format": "png"
+  },
   "explorers": [],
   "parent": {
     "type": "L2",

@@ -2,11 +2,7 @@
   "name": "Dogechain Mainnet",
   "chain": "DC",
   "icon": "./chain/2000/logo.png",
-  "rpc": [
-    "https://rpc.dogechain.dog",
-    "https://rpc01-sg.dogechain.dog",
-    "https://rpc.ankr.com/dogechain"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Dogecoin",

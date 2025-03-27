@@ -1,13 +1,7 @@
 {
   "name": "Atleta Olympia",
   "chain": "Atleta Testnet Olympia",
-  "rpc": [
-    "https://testnet-rpc.atleta.network",
-    "https://rpc.ankr.com/atleta_olympia",
-    "wss://testnet-rpc.atleta.network",
-    "https://atleta-testnet.htw.tech/",
-    "https://public-atleta.nownodes.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://app-olympia.atleta.network/faucet"
   ],

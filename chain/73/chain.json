@@ -1,9 +1,7 @@
 {
   "name": "FNCY",
   "chain": "FNCY",
-  "rpc": [
-    "https://fncy-seed1.fncy.world"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet-testnet.fncy.world"
   ],
@@ -16,7 +14,12 @@
   "shortName": "FNCY",
   "chainId": 73,
   "networkId": 73,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmfXCh6UnaEHn3Evz7RFJ3p2ggJBRm9hunDHegeoquGuhD",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "fncy scan",

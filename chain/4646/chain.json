@@ -2,10 +2,7 @@
   "name": "MST Chain",
   "title": "MST Chain",
   "chain": "MST",
-  "rpc": [
-    "https://mariorpc.mstblockchain.com",
-    "https://craftrpc.mstblockchain.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "MST",

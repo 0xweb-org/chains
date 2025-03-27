@@ -1,9 +1,7 @@
 {
   "name": "Peperium Chain Testnet",
   "chain": "PERIUM",
-  "rpc": [
-    "https://rpc-testnet.peperium.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Peperium Chain Testnet",
@@ -15,7 +13,12 @@
   "chainId": 4001,
   "networkId": 4001,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://Qmag2hr5DQghRzKPN3oUFBkjWzqd5CndQzZeb5LfoiMCXf",
+    "width": 160,
+    "height": 160,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "Peperium Chain Explorer",

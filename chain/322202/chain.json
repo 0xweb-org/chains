@@ -1,28 +1,19 @@
 {
-  "name": "Parex Mainnet",
-  "title": "Parex Mainnet",
-  "chain": "Parex",
-  "rpc": [
-    "https://mainnet-rpc.parex.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "PAREX",
-    "symbol": "PRX",
-    "decimals": 18
-  },
-  "infoURL": "https://parex.network",
-  "shortName": "parex",
   "chainId": 322202,
-  "networkId": 322202,
   "icon": "./chain/322202/logo.png",
+  "www": "https://parex.network",
+  "name": "Parex Mainnet",
+  "platform": "parex",
+  "chainToken": "PRX",
+  "endpoints": [
+    {
+      "url": "https://mainnet-rpc.parex.network"
+    }
+  ],
   "explorers": [
     {
       "name": "Parex Mainnet Explorer",
-      "url": "https://scan.parex.network",
-      "icon": "parexmain",
-      "standard": "EIP3091"
+      "url": "https://scan.parex.network"
     }
-  ],
-  "tvl": 78588
+  ]
 }

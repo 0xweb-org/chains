@@ -1,12 +1,7 @@
 {
   "name": "Darwinia Network",
   "chain": "darwinia",
-  "rpc": [
-    "https://rpc.darwinia.network",
-    "https://darwinia-rpc.dcdao.box",
-    "https://darwinia-rpc.dwellir.com",
-    "https://darwinia.rpc.subquery.network/public"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Darwinia Network Native Token",
@@ -24,6 +19,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

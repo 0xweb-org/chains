@@ -1,10 +1,7 @@
 {
   "name": "Tritanium Testnet",
   "chain": "TRITANIUM",
-  "rpc": [
-    "https://nodetestnet-station-one.tritanium.network/",
-    "https://nodetestnet-station-two.tritanium.network/"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.tritanium.network"
   ],
@@ -18,7 +15,12 @@
   "chainId": 5353,
   "networkId": 5353,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmRm6gcEPJmU9a86zrmyP7FALTN4Toz9HrnrL2Kwg6FPeh",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "TRITANIUM Testnet Explorer",

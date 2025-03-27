@@ -3,9 +3,7 @@
   "title": "Wadzchain Mainnet",
   "chain": "Wadzchain-Mainnet",
   "icon": "./chain/171717/logo.png",
-  "rpc": [
-    "https://rpc.wadzchain.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "WadzChain Token",

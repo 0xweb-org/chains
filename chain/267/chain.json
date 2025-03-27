@@ -3,9 +3,7 @@
   "title": "Neura Testnet",
   "chain": "NEURA",
   "icon": "./chain/267/logo.png",
-  "rpc": [
-    "https://rpc.ankr.com/neura_testnet"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"

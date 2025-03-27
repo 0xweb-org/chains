@@ -1,9 +1,7 @@
 {
   "name": "Teleport Testnet",
   "chain": "Teleport",
-  "rpc": [
-    "https://evm-rpc.testnet.teleport.network"
-  ],
+  "rpc": [],
   "faucets": [
     "https://chain-docs.teleport.network/testnet/faucet.html"
   ],
@@ -17,7 +15,12 @@
   "chainId": 8001,
   "networkId": 8001,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmdP1sLnsmW9dwnfb1GxAXU1nHDzCvWBQNumvMXpdbCSuz",
+    "width": 390,
+    "height": 390,
+    "format": "svg"
+  },
   "explorers": [
     {
       "name": "Teleport EVM Explorer (Blockscout)",

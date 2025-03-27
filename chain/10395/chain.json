@@ -2,9 +2,7 @@
   "name": "WorldLand Testnet",
   "chain": "Worldland",
   "icon": "./chain/10395/logo.png",
-  "rpc": [
-    "https://gwangju.worldland.foundation"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Worldland",

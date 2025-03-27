@@ -1,9 +1,7 @@
 {
   "name": "Rufus",
   "chain": "rufus",
-  "rpc": [
-    "https://rufus.calderachain.xyz/http"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Dogelon",

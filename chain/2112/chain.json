@@ -1,9 +1,7 @@
 {
   "name": "UCHAIN Mainnet",
   "chain": "UCHAIN",
-  "rpc": [
-    "https://rpc.uchain.link/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "UCASH",

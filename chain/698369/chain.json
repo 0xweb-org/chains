@@ -17,7 +17,12 @@
   "shortName": "goldpn",
   "chainId": 698369,
   "networkId": 698369,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://bafkreidaurpqgf3mmudm2foh5a45xyughike2y2pltb323ad5ywo4gtc3q",
+    "width": 256,
+    "height": 256,
+    "format": "svg"
+  },
   "explorers": [],
   "tvl": 0
 }

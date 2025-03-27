@@ -1,26 +1,19 @@
 {
-  "name": "Mtt Mainnet",
-  "chain": "MTT",
-  "rpc": [
-    "https://evm-rpc.mtt.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Mtt mainnet native coin",
-    "symbol": "MTT",
-    "decimals": 18
-  },
-  "infoURL": "https://mtt.network",
-  "shortName": "mtt-mainnet",
   "chainId": 6880,
-  "networkId": 6880,
-  "icon": null,
+  "icon": "ipfs://QmRwyxmvNEJBJwXDFAAGSaoUqTLjdthwzhKx3rjyKRR6ZL",
+  "www": "https://mtt.network",
+  "name": "Mtt Mainnet",
+  "platform": "mtt",
+  "chainToken": "MTT",
+  "endpoints": [
+    {
+      "url": "https://evm-rpc.mtt.network"
+    }
+  ],
   "explorers": [
     {
       "name": "Mtt explorer",
-      "url": "https://explorer.mtt.network",
-      "standard": "EIP3091"
+      "url": "https://explorer.mtt.network"
     }
-  ],
-  "tvl": 0
+  ]
 }

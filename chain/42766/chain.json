@@ -1,37 +1,19 @@
 {
-  "name": "ZKFair Mainnet",
-  "title": "ZKFair Mainnet",
-  "chain": "ZKFair",
-  "rpc": [
-    "https://rpc.zkfair.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "USDC Token",
-    "symbol": "USDC",
-    "decimals": 18
-  },
-  "infoURL": "https://zkfair.io",
-  "shortName": "ZKFair-Mainnet",
   "chainId": 42766,
-  "networkId": 42766,
-  "icon": null,
+  "icon": "ipfs://QmVb682D4mUXkKNP28xxJDNgSYbDLvEc3kVYx7TQxEa6Cw",
+  "www": "https://zkfair.io",
+  "name": "ZKFair Mainnet",
+  "platform": "ZKFair-Mainnet",
+  "chainToken": "USDC",
+  "endpoints": [
+    {
+      "url": "https://rpc.zkfair.io"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://scan.zkfair.io",
-      "icon": "zkfair",
-      "standard": "EIP3091"
+      "url": "https://scan.zkfair.io"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "https://wallet.zkfair.io"
-      }
-    ]
-  },
-  "tvl": 107082
+  ]
 }

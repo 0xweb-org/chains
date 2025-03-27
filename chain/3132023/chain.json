@@ -1,9 +1,7 @@
 {
   "name": "Sahara AI",
   "chain": "Sahara",
-  "rpc": [
-    "https://mainnet.saharalabs.ai"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Sahara AI",

@@ -1,26 +1,19 @@
 {
-  "name": "Poodl Mainnet",
-  "chain": "Poodl",
-  "icon": "./chain/15259/logo.png",
-  "rpc": [
-    "https://rpc.poodl.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Poodl",
-    "symbol": "POODL",
-    "decimals": 18
-  },
-  "infoURL": "https://poodl.org",
-  "shortName": "poodle",
   "chainId": 15259,
-  "networkId": 15259,
+  "icon": "./chain/15259/logo.png",
+  "www": "https://poodl.org",
+  "name": "Poodl Mainnet",
+  "platform": "poodle",
+  "chainToken": "POODL",
+  "endpoints": [
+    {
+      "url": "https://rpc.poodl.org"
+    }
+  ],
   "explorers": [
     {
       "name": "Poodl Mainnet Explorer",
-      "url": "https://explorer.poodl.org",
-      "standard": "EIP3091"
+      "url": "https://explorer.poodl.org"
     }
-  ],
-  "tvl": 0
+  ]
 }

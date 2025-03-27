@@ -1,27 +1,19 @@
 {
-  "name": "ADF Chain Testnet",
-  "chain": "ADF Chain Testnet",
-  "icon": "./chain/1212/logo.png",
-  "rpc": [
-    "https://testnet.adftechnology.com/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ADDFILL Testnet",
-    "symbol": "tADF",
-    "decimals": 18
-  },
-  "infoURL": "https://www.adfstarworld.com/",
-  "shortName": "tADF",
   "chainId": 1212,
-  "networkId": 1212,
+  "icon": "./chain/1212/logo.png",
+  "www": "https://www.adfstarworld.com/",
+  "name": "ADF Chain Testnet",
+  "platform": "tADF",
+  "chainToken": "tADF",
+  "endpoints": [
+    {
+      "url": "https://testnet.adftechnology.com/"
+    }
+  ],
   "explorers": [
     {
       "name": "ADF Testnet explorer",
-      "url": "https://testnet-explorer.adftechnology.com",
-      "standard": "EIP3091"
+      "url": "https://testnet-explorer.adftechnology.com"
     }
-  ],
-  "status": "active",
-  "tvl": 0
+  ]
 }

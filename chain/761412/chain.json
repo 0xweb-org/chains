@@ -1,26 +1,19 @@
 {
-  "name": "Miexs Smartchain",
-  "chain": "MiexsSmartchain",
-  "icon": "./chain/761412/logo.png",
-  "rpc": [
-    "https://mainnet-rpc.miexs.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Miexs Coin",
-    "symbol": "MIX",
-    "decimals": 18
-  },
-  "infoURL": "https://miexs.com",
-  "shortName": "Miexs",
   "chainId": 761412,
-  "networkId": 761412,
+  "icon": "./chain/761412/logo.png",
+  "www": "https://miexs.com",
+  "name": "Miexs Smartchain",
+  "platform": "Miexs",
+  "chainToken": "MIX",
+  "endpoints": [
+    {
+      "url": "https://mainnet-rpc.miexs.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Miexs Smartchain Explorer",
-      "url": "https://miexs.com",
-      "standard": "EIP3091"
+      "url": "https://miexs.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

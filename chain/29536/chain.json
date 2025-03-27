@@ -1,9 +1,7 @@
 {
   "name": "KaiChain Testnet",
   "chain": "KaiChain",
-  "rpc": [
-    "https://testnet-rpc.kaichain.net"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.kaichain.net"
   ],
@@ -23,6 +21,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

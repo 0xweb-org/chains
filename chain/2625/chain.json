@@ -1,9 +1,7 @@
 {
   "name": "Whitechain Testnet",
   "chain": "WBT",
-  "rpc": [
-    "https://rpc-testnet.whitechain.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://testnet.whitechain.io/faucet"
   ],

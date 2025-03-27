@@ -1,9 +1,7 @@
 {
   "name": "Coinbit Mainnet",
   "chain": "Coinbit",
-  "rpc": [
-    "https://coinbit-rpc-mainnet.chain.sbcrypto.app"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Gas IDR",

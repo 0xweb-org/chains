@@ -1,42 +1,40 @@
 {
-  "name": "Boba Network",
-  "chain": "ETH",
-  "rpc": [
-    "https://mainnet.boba.network",
-    "https://replica.boba.network",
-    "https://boba-ethereum.gateway.tenderly.co",
-    "https://gateway.tenderly.co/public/boba-ethereum",
-    "wss://boba-ethereum.gateway.tenderly.co/",
-    "wss://gateway.tenderly.co/public/boba-ethereum",
-    "https://boba-eth.drpc.org",
-    "wss://boba-eth.drpc.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://boba.network",
-  "shortName": "Boba",
   "chainId": 288,
-  "networkId": 288,
+  "icon": "./chain/288/logo.png",
+  "www": "https://boba.network",
+  "name": "Boba Network",
+  "platform": "Boba",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://mainnet.boba.network"
+    },
+    {
+      "url": "https://replica.boba.network"
+    },
+    {
+      "url": "https://boba-ethereum.gateway.tenderly.co"
+    },
+    {
+      "url": "https://gateway.tenderly.co/public/boba-ethereum"
+    },
+    {
+      "url": "wss://boba-ethereum.gateway.tenderly.co/"
+    },
+    {
+      "url": "wss://gateway.tenderly.co/public/boba-ethereum"
+    },
+    {
+      "url": "https://boba-eth.drpc.org"
+    },
+    {
+      "url": "wss://boba-eth.drpc.org"
+    }
+  ],
   "explorers": [
     {
       "name": "Bobascan",
-      "url": "https://bobascan.com",
-      "standard": "none"
+      "url": "https://bobascan.com"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "https://gateway.boba.network"
-      }
-    ]
-  },
-  "icon": "./chain/288/logo.png",
-  "tvl": 1633233
+  ]
 }

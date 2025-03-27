@@ -2,9 +2,7 @@
   "name": "Dogechain Testnet",
   "chain": "DC",
   "icon": "./chain/568/logo.png",
-  "rpc": [
-    "https://rpc-testnet.dogechain.dog"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.dogechain.dog"
   ],

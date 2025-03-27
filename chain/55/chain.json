@@ -1,31 +1,22 @@
 {
-  "name": "Zyx Mainnet",
-  "chain": "ZYX",
-  "rpc": [
-    "https://rpc-1.zyx.network/",
-    "https://rpc-2.zyx.network/",
-    "https://rpc-3.zyx.network/",
-    "https://rpc-4.zyx.network/",
-    "https://rpc-5.zyx.network/",
-    "https://rpc-6.zyx.network/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Zyx",
-    "symbol": "ZYX",
-    "decimals": 18
-  },
-  "infoURL": "https://zyx.network/",
-  "shortName": "ZYX",
   "chainId": 55,
-  "networkId": 55,
+  "icon": "./chain/55/logo.png",
+  "www": "https://zyx.network/",
+  "name": "Zyx Mainnet",
+  "platform": "ZYX",
+  "chainToken": "ZYX",
+  "endpoints": [
+    {
+      "url": "https://rpc-1.zyx.network/"
+    },
+    {
+      "url": "https://rpc-2.zyx.network/"
+    }
+  ],
   "explorers": [
     {
       "name": "zyxscan",
-      "url": "https://zyxscan.com",
-      "standard": "none"
+      "url": "https://zyxscan.com"
     }
-  ],
-  "icon": "./chain/55/logo.png",
-  "tvl": 0
+  ]
 }

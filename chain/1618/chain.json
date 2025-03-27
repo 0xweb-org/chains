@@ -1,9 +1,7 @@
 {
   "name": "Catecoin Chain Mainnet",
   "chain": "Catechain",
-  "rpc": [
-    "https://send.catechain.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Catecoin",
@@ -14,6 +12,5 @@
   "shortName": "cate",
   "chainId": 1618,
   "networkId": 1618,
-  "icon": null,
   "tvl": 0
 }

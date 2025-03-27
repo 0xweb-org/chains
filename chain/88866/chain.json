@@ -1,28 +1,19 @@
 {
-  "name": "Matr1x Testnet",
-  "title": "Matr1x Testnet",
-  "chain": "Matr1x",
-  "rpc": [
-    "https://testnet-rpc.m1chain.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "MAX",
-    "symbol": "MAX",
-    "decimals": 18
-  },
-  "infoURL": "https://matr1x.io",
-  "shortName": "Matr1x-Testnet",
   "chainId": 88866,
-  "networkId": 88866,
   "icon": "./chain/88866/logo.png",
+  "www": "https://matr1x.io",
+  "name": "Matr1x Testnet",
+  "platform": "Matr1x-Testnet",
+  "chainToken": "MAX",
+  "endpoints": [
+    {
+      "url": "https://testnet-rpc.m1chain.io"
+    }
+  ],
   "explorers": [
     {
       "name": "matr1x testnet",
-      "url": "https://testnet-scan.m1chain.io",
-      "icon": "matr1x",
-      "standard": "EIP3091"
+      "url": "https://testnet-scan.m1chain.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

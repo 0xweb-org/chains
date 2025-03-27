@@ -1,54 +1,36 @@
 {
-  "name": "Gnosis",
-  "chain": "GNO",
-  "icon": "./chain/100/logo.png",
-  "rpc": [
-    "https://rpc.gnosischain.com",
-    "https://rpc.gnosis.gateway.fm",
-    "https://rpc.ankr.com/gnosis",
-    "https://gnosischain-rpc.gateway.pokt.network",
-    "https://gnosis-mainnet.public.blastapi.io",
-    "https://gnosis.api.onfinality.io/public",
-    "https://gnosis.blockpi.network/v1/rpc/public",
-    "https://web3endpoints.com/gnosischain-mainnet",
-    "https://gnosis.oat.farm",
-    "wss://rpc.gnosischain.com/wss",
-    "https://gnosis-rpc.publicnode.com",
-    "wss://gnosis-rpc.publicnode.com"
-  ],
-  "faucets": [
-    "https://gnosisfaucet.com",
-    "https://stakely.io/faucet/gnosis-chain-xdai",
-    "https://faucet.prussia.dev/xdai"
-  ],
-  "nativeCurrency": {
-    "name": "xDAI",
-    "symbol": "XDAI",
-    "decimals": 18
-  },
-  "infoURL": "https://docs.gnosischain.com",
-  "shortName": "gno",
   "chainId": 100,
-  "networkId": 100,
-  "slip44": 700,
+  "icon": "./chain/100/logo.png",
+  "www": "https://docs.gnosischain.com",
+  "name": "Gnosis",
+  "platform": "gno",
+  "chainToken": "XDAI",
+  "endpoints": [
+    {
+      "url": "https://gnosis-mainnet.public.blastapi.io"
+    },
+    {
+      "url": "https://gnosis.oat.farm"
+    },
+    {
+      "url": "wss://rpc.gnosischain.com/wss"
+    },
+    {
+      "url": "wss://gnosis-rpc.publicnode.com"
+    }
+  ],
   "explorers": [
     {
       "name": "gnosisscan",
-      "url": "https://gnosisscan.io",
-      "standard": "EIP3091"
+      "url": "https://gnosisscan.io"
     },
     {
       "name": "blockscout",
-      "url": "https://gnosis.blockscout.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://gnosis.blockscout.com"
     },
     {
       "name": "dexguru",
-      "url": "https://gnosis.dex.guru",
-      "icon": "dexguru",
-      "standard": "EIP3091"
+      "url": "https://gnosis.dex.guru"
     }
-  ],
-  "tvl": 306540817
+  ]
 }

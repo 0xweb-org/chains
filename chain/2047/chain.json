@@ -1,32 +1,22 @@
 {
-  "name": "Stratos Testnet",
-  "chain": "STOS",
-  "rpc": [
-    "https://web3-rpc-mesos.thestratos.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "STOS",
-    "symbol": "STOS",
-    "decimals": 18
-  },
-  "infoURL": "https://www.thestratos.org",
-  "shortName": "stos-testnet",
   "chainId": 2047,
-  "networkId": 2047,
-  "slip44": 1,
+  "www": "https://www.thestratos.org",
+  "name": "Stratos Testnet",
+  "platform": "stos-testnet",
+  "chainToken": "STOS",
+  "endpoints": [
+    {
+      "url": "https://web3-rpc-mesos.thestratos.org"
+    }
+  ],
   "explorers": [
     {
       "name": "Stratos EVM Explorer (Blockscout)",
-      "url": "https://web3-explorer-mesos.thestratos.org",
-      "standard": "none"
+      "url": "https://web3-explorer-mesos.thestratos.org"
     },
     {
       "name": "Stratos Cosmos Explorer (BigDipper)",
-      "url": "https://big-dipper-mesos.thestratos.org",
-      "standard": "none"
+      "url": "https://big-dipper-mesos.thestratos.org"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

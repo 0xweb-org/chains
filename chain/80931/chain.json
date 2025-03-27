@@ -1,27 +1,19 @@
 {
-  "name": "Forta Chain",
-  "chain": "Forta Chain",
-  "rpc": [
-    "https://rpc-forta-chain-8gj1qndmfc.t.conduit.xyz"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "FORT",
-    "symbol": "FORT",
-    "decimals": 18
-  },
-  "infoURL": "https://www.forta.org/",
-  "shortName": "forta",
   "chainId": 80931,
-  "networkId": 80931,
   "icon": "./chain/80931/logo.png",
+  "www": "https://www.forta.org/",
+  "name": "Forta Chain",
+  "platform": "forta",
+  "chainToken": "FORT",
+  "endpoints": [
+    {
+      "url": "https://rpc-forta-chain-8gj1qndmfc.t.conduit.xyz"
+    }
+  ],
   "explorers": [
     {
       "name": "Forta Chain Explorer",
-      "url": "https://explorer.forta.org",
-      "icon": "forta-chain",
-      "standard": "EIP3091"
+      "url": "https://explorer.forta.org"
     }
-  ],
-  "tvl": 0
+  ]
 }

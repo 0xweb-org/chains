@@ -1,32 +1,22 @@
 {
-  "name": "Tangle Testnet",
-  "chain": "Tangle Testnet",
-  "icon": "./chain/3799/logo.png",
-  "rpc": [
-    "https://testnet-rpc.tangle.tools",
-    "https://testnet-rpc-archive.tangle.tools",
-    "wss://testnet-rpc.tangle.tools",
-    "wss://testnet-rpc-archive.tangle.tools"
-  ],
-  "faucets": [
-    "https://faucet.tangle.tools"
-  ],
-  "nativeCurrency": {
-    "name": "Testnet Tangle Network Token",
-    "symbol": "tTNT",
-    "decimals": 18
-  },
-  "infoURL": "https://docs.tangle.tools",
-  "shortName": "tTangle",
   "chainId": 3799,
-  "networkId": 3799,
+  "icon": "./chain/3799/logo.png",
+  "www": "https://docs.tangle.tools",
+  "name": "Tangle Testnet",
+  "platform": "tTangle",
+  "chainToken": "tTNT",
+  "endpoints": [
+    {
+      "url": "https://testnet-rpc.tangle.tools"
+    },
+    {
+      "url": "wss://testnet-rpc.tangle.tools"
+    }
+  ],
   "explorers": [
     {
       "name": "ttntscan",
-      "url": "https://testnet-explorer.tangle.tools",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://testnet-explorer.tangle.tools"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,11 +1,13 @@
 {
   "name": "Mind Smart Chain Testnet",
   "chain": "tMIND",
-  "icon": null,
-  "rpc": [
-    "https://testnet-msc.mindchain.info/",
-    "wss://testnet-msc.mindchain.info/ws"
-  ],
+  "icon": {
+    "url": "ipfs://QmX2b4CzNyrNgy4ERBEteSS9MsuYNVYeq2sSMMiogGjbFP",
+    "width": 732,
+    "height": 732,
+    "format": "jpg"
+  },
+  "rpc": [],
   "faucets": [
     "https://faucet.mindchain.info/"
   ],

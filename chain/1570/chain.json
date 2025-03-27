@@ -1,31 +1,18 @@
 {
+  "chainId": 1570,
+  "www": "https://www.starworksglobal.com",
   "name": "StarCHAIN Testnet",
-  "chain": "StarCHAIN",
-  "rpc": [
-    "https://testnet-rpc1.starworksglobal.com"
-  ],
-  "features": [
+  "platform": "starchain-testnet",
+  "chainToken": "STARX",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://testnet-rpc1.starworksglobal.com"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "STARX",
-    "symbol": "STARX",
-    "decimals": 18
-  },
-  "infoURL": "https://www.starworksglobal.com",
-  "shortName": "starchain-testnet",
-  "chainId": 1570,
-  "networkId": 1570,
   "explorers": [
     {
       "name": "StarCHAIN Explorer",
-      "url": "https://testnet.starchainscan.io",
-      "standard": "EIP3091"
+      "url": "https://testnet.starchainscan.io"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

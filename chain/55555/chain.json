@@ -1,10 +1,13 @@
 {
   "name": "REI Chain Mainnet",
   "chain": "REI",
-  "icon": null,
-  "rpc": [
-    "https://rei-rpc.moonrhythm.io"
-  ],
+  "icon": {
+    "url": "ipfs://QmNy5d5knHVjJJS9g4kLsh9i73RTjckpKL6KZvRk6ptbhf",
+    "width": 591,
+    "height": 591,
+    "format": "svg"
+  },
+  "rpc": [],
   "faucets": [
     "http://kururu.finance/faucet?chainId=55555"
   ],
@@ -24,5 +27,5 @@
       "standard": "EIP3091"
     }
   ],
-  "tvl": 4159
+  "tvl": 4148
 }

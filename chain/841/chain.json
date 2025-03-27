@@ -3,8 +3,7 @@
   "chain": "TARA",
   "icon": "./chain/841/logo.png",
   "rpc": [
-    "https://rpc.mainnet.taraxa.io/",
-    "https://ws.mainnet.taraxa.io"
+    "https://rpc.mainnet.taraxa.io/"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -31,5 +30,5 @@
       "icon": "taraxa"
     }
   ],
-  "tvl": 1401791
+  "tvl": 1422077
 }

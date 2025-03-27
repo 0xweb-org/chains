@@ -1,33 +1,31 @@
 {
-  "name": "Syscoin Mainnet",
-  "chain": "SYS",
-  "rpc": [
-    "https://rpc.syscoin.org",
-    "https://rpc.ankr.com/syscoin/${ANKR_API_KEY}",
-    "https://syscoin.public-rpc.com",
-    "wss://rpc.syscoin.org/wss",
-    "https://syscoin-evm.publicnode.com",
-    "wss://syscoin-evm.publicnode.com"
-  ],
-  "faucets": [
-    "https://faucet.syscoin.org"
-  ],
-  "nativeCurrency": {
-    "name": "Syscoin",
-    "symbol": "SYS",
-    "decimals": 18
-  },
-  "infoURL": "https://www.syscoin.org",
-  "shortName": "sys",
   "chainId": 57,
-  "networkId": 57,
+  "icon": "./chain/57/logo.png",
+  "www": "https://www.syscoin.org",
+  "name": "Syscoin Mainnet",
+  "platform": "sys",
+  "chainToken": "SYS",
+  "endpoints": [
+    {
+      "url": "https://rpc.syscoin.org"
+    },
+    {
+      "url": "https://syscoin.public-rpc.com"
+    },
+    {
+      "url": "wss://rpc.syscoin.org/wss"
+    },
+    {
+      "url": "https://syscoin-evm.publicnode.com"
+    },
+    {
+      "url": "wss://syscoin-evm.publicnode.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Syscoin Block Explorer",
-      "url": "https://explorer.syscoin.org",
-      "standard": "EIP3091"
+      "url": "https://explorer.syscoin.org"
     }
-  ],
-  "icon": "./chain/57/logo.png",
-  "tvl": 10758
+  ]
 }

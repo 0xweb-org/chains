@@ -1,10 +1,7 @@
 {
   "name": "Avenium Testnet",
   "chain": "AVE",
-  "rpc": [
-    "https://eu-testnet.avenium.io/",
-    "https://connect-testnet.avenium.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet-testnet.avenium.io"
   ],
@@ -17,7 +14,12 @@
   "shortName": "tave",
   "chainId": 8886,
   "networkId": 8886,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmU5yJvjdeVGzNutn2U6wLWfHDGsDafLfZg7HRJ8ji3yfJ",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  },
   "status": "incubating",
   "explorers": [
     {

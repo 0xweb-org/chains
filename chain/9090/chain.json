@@ -1,9 +1,7 @@
 {
   "name": "Inco Gentry Testnet",
   "chain": "INCO",
-  "rpc": [
-    "https://testnet.inco.org"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.inco.org"
   ],
@@ -31,6 +29,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

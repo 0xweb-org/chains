@@ -2,9 +2,7 @@
   "name": "MagApe Testnet",
   "title": "MagApeChain",
   "chain": "MagApe",
-  "rpc": [
-    "https://testnet-api.magape.io/chain/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "MagApe",

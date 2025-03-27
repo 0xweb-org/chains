@@ -1,9 +1,7 @@
 {
   "name": "YMTECH-BESU Testnet",
   "chain": "YMTECH-BESU",
-  "rpc": [
-    "http://39.119.118.216:8545"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "ETH",
@@ -21,6 +19,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

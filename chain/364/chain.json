@@ -1,9 +1,7 @@
 {
   "name": "Theta Amber Testnet",
   "chain": "Theta",
-  "rpc": [
-    "https://eth-rpc-api-amber.thetatoken.org/rpc"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Theta Fuel",
@@ -22,6 +20,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

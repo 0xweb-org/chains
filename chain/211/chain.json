@@ -1,10 +1,7 @@
 {
   "name": "Freight Trust Network",
   "chain": "EDI",
-  "rpc": [
-    "http://13.57.207.168:3435",
-    "https://app.freighttrust.net/ftn/${API_KEY}"
-  ],
+  "rpc": [],
   "faucets": [
     "http://faucet.freight.sh"
   ],
@@ -17,6 +14,5 @@
   "shortName": "EDI",
   "chainId": 211,
   "networkId": 0,
-  "icon": null,
   "tvl": 0
 }

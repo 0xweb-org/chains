@@ -12,7 +12,12 @@
   "shortName": "hth",
   "chainId": 7118,
   "networkId": 7118,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmNR4Y3cUxefV7KGpGxMkjp5ofeJvbaUkR1GavsmTtK248",
+    "width": 1000,
+    "height": 1000,
+    "format": "png"
+  },
   "status": "incubating",
   "explorers": [],
   "tvl": 0

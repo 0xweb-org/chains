@@ -1,27 +1,19 @@
 {
-  "name": "Polynomia Sepolia",
-  "chain": "polynomialSepolia",
-  "rpc": [
-    "https://rpc.sepolia.polynomial.fi"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://polynomial.fi",
-  "shortName": "polynomialSepolia",
   "chainId": 80008,
-  "networkId": 80008,
   "icon": "./chain/80008/logo.png",
+  "www": "https://polynomial.fi",
+  "name": "Polynomia Sepolia",
+  "platform": "polynomialSepolia",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.sepolia.polynomial.fi"
+    }
+  ],
   "explorers": [
     {
       "name": "Polynomial Sepolia Explorer",
-      "url": "https://sepolia.polynomialscan.io",
-      "standard": "none",
-      "icon": "polynomialSepolia"
+      "url": "https://sepolia.polynomialscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

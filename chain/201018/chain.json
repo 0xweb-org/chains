@@ -1,10 +1,7 @@
 {
   "name": "Alaya Mainnet",
   "chain": "Alaya",
-  "rpc": [
-    "https://openapi.alaya.network/rpc",
-    "wss://openapi.alaya.network/ws"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "ATP",

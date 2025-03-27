@@ -3,10 +3,7 @@
   "title": "Cuckoo Chain",
   "chain": "CuckooAI",
   "icon": "./chain/1200/logo.png",
-  "rpc": [
-    "https://mainnet-rpc.cuckoo.network",
-    "wss://mainnet-rpc.cuckoo.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "CuckooAI",

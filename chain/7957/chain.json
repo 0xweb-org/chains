@@ -1,11 +1,7 @@
 {
   "name": "Exorium Testnet",
   "chain": "EXOR",
-  "rpc": [
-    "https://rpc-1-testnet.exorium.net",
-    "https://rpc-2-testnet.exorium.net",
-    "https://rpc-testnet.exoscan.net/"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet-testnet.exorium.net"
   ],
@@ -19,7 +15,12 @@
   "chainId": 7957,
   "networkId": 7957,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmTY2Z7AEEWxmzQyh7DFG8fyR3w6Y166GDJfi6o3xo6GgV",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "EXORIUM Testnet Explorer",

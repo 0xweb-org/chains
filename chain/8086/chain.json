@@ -2,9 +2,7 @@
   "name": "Bitcoin Chain",
   "chain": "BTC",
   "icon": "./chain/8086/logo.png",
-  "rpc": [
-    "https://rpc.bitcoinevm.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Bitcoin",

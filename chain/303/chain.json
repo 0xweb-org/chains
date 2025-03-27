@@ -1,9 +1,7 @@
 {
   "name": "Neurochain Testnet",
   "chain": "NCN",
-  "rpc": [
-    "https://nc-rpc-test1.neurochain.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Neurochain",
@@ -30,6 +28,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

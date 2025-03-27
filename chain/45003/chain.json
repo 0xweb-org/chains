@@ -1,9 +1,7 @@
 {
   "name": "Juneo Mainnet",
   "chain": "JUNE-Chain",
-  "rpc": [
-    "https://rpc.juneo-mainnet.network/ext/bc/JUNE/rpc"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "JUNE",

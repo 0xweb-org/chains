@@ -1,31 +1,22 @@
 {
-  "name": "SKALE Nebula Hub Testnet",
-  "title": "SKALE Nebula Hub Testnet",
-  "chain": "lanky-ill-funny-testnet",
-  "icon": "./chain/37084624/logo.png",
-  "rpc": [
-    "https://testnet.skalenodes.com/v1/lanky-ill-funny-testnet",
-    "wss://testnet.skalenodes.com/v1/ws/lanky-ill-funny-testnet"
-  ],
-  "faucets": [
-    "https://www.sfuelstation.com/"
-  ],
-  "nativeCurrency": {
-    "name": "sFUEL",
-    "symbol": "sFUEL",
-    "decimals": 18
-  },
-  "infoURL": "https://nebulachain.io/",
-  "shortName": "nebula-testnet",
   "chainId": 37084624,
-  "networkId": 37084624,
-  "slip44": 1,
+  "icon": "./chain/37084624/logo.png",
+  "www": "https://nebulachain.io/",
+  "name": "SKALE Nebula Hub Testnet",
+  "platform": "nebula-testnet",
+  "chainToken": "sFUEL",
+  "endpoints": [
+    {
+      "url": "https://testnet.skalenodes.com/v1/lanky-ill-funny-testnet"
+    },
+    {
+      "url": "wss://testnet.skalenodes.com/v1/ws/lanky-ill-funny-testnet"
+    }
+  ],
   "explorers": [
     {
       "name": "Blockscout",
-      "url": "https://lanky-ill-funny-testnet.explorer.testnet.skalenodes.com",
-      "standard": "EIP3091"
+      "url": "https://lanky-ill-funny-testnet.explorer.testnet.skalenodes.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

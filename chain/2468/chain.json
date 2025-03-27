@@ -1,10 +1,7 @@
 {
   "name": "Hybrid Chain Network Mainnet",
   "chain": "HYBRID",
-  "rpc": [
-    "https://coredata-mainnet.hybridchain.ai/",
-    "https://rpc-mainnet.hybridchain.ai"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet-testnet.hybridchain.ai"
   ],
@@ -17,7 +14,12 @@
   "shortName": "hrc",
   "chainId": 2468,
   "networkId": 2468,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmQDNdhPvCrrijEKC3G9Px5if2CHgdxq7Q2Pg66cy9xwbF",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "Hybrid Chain Explorer Mainnet",

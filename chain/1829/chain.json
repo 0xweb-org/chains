@@ -1,10 +1,7 @@
 {
   "name": "PlayBlock",
   "chain": "playblock",
-  "rpc": [
-    "https://rpc.playblock.io",
-    "wss://ws.playblock.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "PlayBlock",
@@ -32,6 +29,5 @@
       }
     ]
   },
-  "icon": null,
   "tvl": 0
 }

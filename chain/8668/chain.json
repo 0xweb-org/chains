@@ -1,26 +1,19 @@
 {
-  "name": "Hela Official Runtime Mainnet",
-  "chain": "Hela",
-  "icon": null,
-  "rpc": [
-    "https://mainnet-rpc.helachain.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Hela HLUSD",
-    "symbol": "HLUSD",
-    "decimals": 18
-  },
-  "infoURL": "https://helalabs.com",
-  "shortName": "hela",
   "chainId": 8668,
-  "networkId": 8668,
+  "icon": "ipfs://QmQbUVcaxFwY8gqMq1Jeup4NEyivo12QYhbLvVRvgXRBFb",
+  "www": "https://helalabs.com",
+  "name": "Hela Official Runtime Mainnet",
+  "platform": "hela",
+  "chainToken": "HLUSD",
+  "endpoints": [
+    {
+      "url": "https://mainnet-rpc.helachain.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Hela Official Runtime Mainnet Explorer",
-      "url": "https://mainnet-blockexplorer.helachain.com",
-      "standard": "EIP3091"
+      "url": "https://mainnet-blockexplorer.helachain.com"
     }
-  ],
-  "tvl": 117908
+  ]
 }

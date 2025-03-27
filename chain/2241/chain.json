@@ -2,10 +2,7 @@
   "name": "Krest Network",
   "chain": "Krest",
   "icon": "./chain/2241/logo.png",
-  "rpc": [
-    "https://erpc-krest.peaq.network",
-    "https://krest.unitedbloc.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Krest",

@@ -1,27 +1,19 @@
 {
-  "name": "Six Protocol",
-  "chain": "SIXNET",
-  "icon": "./chain/98/logo.png",
-  "rpc": [
-    "https://sixnet-rpc-evm.sixprotocol.net"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "SIX evm token",
-    "symbol": "SIX",
-    "decimals": 18
-  },
-  "infoURL": "https://six.network/",
-  "shortName": "six",
   "chainId": 98,
-  "networkId": 98,
+  "icon": "./chain/98/logo.png",
+  "www": "https://six.network/",
+  "name": "Six Protocol",
+  "platform": "six",
+  "chainToken": "SIX",
+  "endpoints": [
+    {
+      "url": "https://sixnet-rpc-evm.sixprotocol.net"
+    }
+  ],
   "explorers": [
     {
       "name": "SIX Scan",
-      "url": "https://sixscan.io/sixnet",
-      "standard": "none",
-      "icon": "six"
+      "url": "https://sixscan.io/sixnet"
     }
-  ],
-  "tvl": 0
+  ]
 }

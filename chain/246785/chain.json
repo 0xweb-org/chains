@@ -1,9 +1,7 @@
 {
   "name": "ARTIS Testnet tau1",
   "chain": "ARTIS",
-  "rpc": [
-    "https://rpc.tau1.artis.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "ARTIS tau1 Ether",
@@ -15,6 +13,5 @@
   "chainId": 246785,
   "networkId": 246785,
   "slip44": 1,
-  "icon": null,
   "tvl": 0
 }

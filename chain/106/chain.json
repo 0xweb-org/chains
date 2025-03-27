@@ -1,27 +1,22 @@
 {
-  "name": "Velas EVM Mainnet",
-  "chain": "Velas",
-  "icon": "./chain/106/logo.png",
-  "rpc": [
-    "https://evmexplorer.velas.com/rpc",
-    "https://explorer.velas.com/rpc"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Velas",
-    "symbol": "VLX",
-    "decimals": 18
-  },
-  "infoURL": "https://velas.com",
-  "shortName": "vlx",
   "chainId": 106,
-  "networkId": 106,
+  "icon": "./chain/106/logo.png",
+  "www": "https://velas.com",
+  "name": "Velas EVM Mainnet",
+  "platform": "vlx",
+  "chainToken": "VLX",
+  "endpoints": [
+    {
+      "url": "https://evmexplorer.velas.com/rpc"
+    },
+    {
+      "url": "https://explorer.velas.com/rpc"
+    }
+  ],
   "explorers": [
     {
       "name": "Velas Explorer",
-      "url": "https://evmexplorer.velas.com",
-      "standard": "EIP3091"
+      "url": "https://evmexplorer.velas.com"
     }
-  ],
-  "tvl": 1044780
+  ]
 }

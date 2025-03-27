@@ -1,27 +1,19 @@
 {
-  "name": "Avocado",
-  "chain": "Avocado",
-  "rpc": [
-    "https://rpc.avocado.instadapp.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "USDC",
-    "symbol": "USDC",
-    "decimals": 18
-  },
-  "infoURL": "https://avocado.instadapp.io",
-  "shortName": "avocado",
   "chainId": 634,
-  "networkId": 634,
   "icon": "./chain/634/logo.png",
+  "www": "https://avocado.instadapp.io",
+  "name": "Avocado",
+  "platform": "avocado",
+  "chainToken": "USDC",
+  "endpoints": [
+    {
+      "url": "https://rpc.avocado.instadapp.io"
+    }
+  ],
   "explorers": [
     {
       "name": "avoscan",
-      "url": "https://avoscan.co",
-      "icon": "avocado",
-      "standard": "none"
+      "url": "https://avoscan.co"
     }
-  ],
-  "tvl": 0
+  ]
 }

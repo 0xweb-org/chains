@@ -1,9 +1,7 @@
 {
   "name": "Empire Network",
   "chain": "EMPIRE",
-  "rpc": [
-    "https://rpc.empirenetwork.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Empire",
@@ -21,6 +19,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

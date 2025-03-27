@@ -2,9 +2,7 @@
   "name": "pointledger",
   "chain": "pointledger",
   "icon": "./chain/9889/logo.png",
-  "rpc": [
-    "https://rpc.pointledger.net"
-  ],
+  "rpc": [],
   "faucets": [],
   "features": [
     {

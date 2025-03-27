@@ -1,32 +1,23 @@
 {
-  "name": "Celo Mainnet",
   "chainId": 42220,
-  "shortName": "celo",
-  "chain": "CELO",
-  "networkId": 42220,
-  "nativeCurrency": {
-    "name": "CELO",
-    "symbol": "CELO",
-    "decimals": 18
-  },
-  "rpc": [
-    "https://forno.celo.org",
-    "wss://forno.celo.org/ws"
+  "icon": "./chain/42220/logo.png",
+  "www": "https://docs.celo.org/",
+  "name": "Celo Mainnet",
+  "platform": "celo",
+  "chainToken": "CELO",
+  "endpoints": [
+    {
+      "url": "wss://forno.celo.org/ws"
+    }
   ],
-  "faucets": [],
-  "infoURL": "https://docs.celo.org/",
   "explorers": [
     {
       "name": "Celoscan",
-      "url": "https://celoscan.io",
-      "standard": "EIP3091"
+      "url": "https://celoscan.io"
     },
     {
       "name": "blockscout",
-      "url": "https://explorer.celo.org",
-      "standard": "none"
+      "url": "https://explorer.celo.org"
     }
-  ],
-  "icon": "./chain/42220/logo.png",
-  "tvl": 76404664
+  ]
 }

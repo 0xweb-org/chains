@@ -10,9 +10,7 @@
     "symbol": "MO",
     "decimals": 18
   },
-  "rpc": [
-    "https://mainnet-rpc.mochain.app/"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.mochain.app/"
   ],

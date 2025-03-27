@@ -10,9 +10,7 @@
       "name": "EIP1559"
     }
   ],
-  "rpc": [
-    "https://rpc.basecamp.t.raas.gelato.cloud"
-  ],
+  "rpc": [],
   "faucets": [
     "https://www.campnetwork.xyz/faucet_l1"
   ],

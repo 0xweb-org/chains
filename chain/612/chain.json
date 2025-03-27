@@ -1,26 +1,19 @@
 {
-  "name": "EIOB Mainnet",
-  "chain": "EIOB",
-  "icon": "./chain/612/logo.png",
-  "rpc": [
-    "https://rpc.eiob.xyz"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "EIOB",
-    "symbol": "EIOB",
-    "decimals": 18
-  },
-  "infoURL": "",
-  "shortName": "eiob",
   "chainId": 612,
-  "networkId": 612,
+  "icon": "./chain/612/logo.png",
+  "www": "",
+  "name": "EIOB Mainnet",
+  "platform": "eiob",
+  "chainToken": "EIOB",
+  "endpoints": [
+    {
+      "url": "https://rpc.eiob.xyz"
+    }
+  ],
   "explorers": [
     {
       "name": "EIOB Explorer",
-      "url": "https://explorer.eiob.xyz",
-      "standard": "none"
+      "url": "https://explorer.eiob.xyz"
     }
-  ],
-  "tvl": 0
+  ]
 }

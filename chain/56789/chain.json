@@ -1,28 +1,19 @@
 {
-  "name": "VELO Labs Mainnet",
-  "chain": "NOVA chain",
-  "rpc": [
-    "https://nova.velo.org"
-  ],
-  "faucets": [
-    "https://nova-faucet.velo.org"
-  ],
-  "nativeCurrency": {
-    "name": "Nova",
-    "symbol": "NOVA",
-    "decimals": 18
-  },
-  "infoURL": "https://velo.org",
-  "shortName": "VELO",
   "chainId": 56789,
-  "networkId": 56789,
   "icon": "./chain/56789/logo.png",
+  "www": "https://velo.org",
+  "name": "VELO Labs Mainnet",
+  "platform": "VELO",
+  "chainToken": "NOVA",
+  "endpoints": [
+    {
+      "url": "https://nova.velo.org"
+    }
+  ],
   "explorers": [
     {
       "name": "novascan",
-      "url": "https://novascan.velo.org",
-      "standard": "EIP3091"
+      "url": "https://novascan.velo.org"
     }
-  ],
-  "tvl": 0
+  ]
 }

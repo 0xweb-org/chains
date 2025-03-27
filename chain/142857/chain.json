@@ -1,10 +1,13 @@
 {
   "name": "ICPlaza Mainnet",
   "chain": "ICPlaza",
-  "icon": null,
-  "rpc": [
-    "https://rpcmainnet.ic-plaza.org/"
-  ],
+  "icon": {
+    "url": "ipfs://QmQpKKwpqrx77VA4SJLEWhuv9eLFMcVV9uvxRCLb6gdgCX",
+    "width": 847,
+    "height": 906,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "ict",

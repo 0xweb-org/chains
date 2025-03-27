@@ -15,7 +15,12 @@
   "chainId": 63001,
   "networkId": 63001,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmU9H9JE1KtLh2Fxrd8EWTMjKGJBpgRWKUeEx7u6ic4kBY",
+    "width": 32,
+    "height": 32,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "eCredits TestNet Explorer",

@@ -2,9 +2,7 @@
   "name": "BLG Testnet",
   "chain": "BLG",
   "icon": "./chain/12321/logo.png",
-  "rpc": [
-    "https://rpc.blgchain.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.blgchain.com"
   ],

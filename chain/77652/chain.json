@@ -1,9 +1,7 @@
 {
   "name": "Carrchain Testnet",
   "chain": "Carrchain Testnet",
-  "rpc": [
-    "https://rpc-testnetcarrchain.artiffine.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet-testnetcarrchain.artiffine.com"
   ],
@@ -23,6 +21,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

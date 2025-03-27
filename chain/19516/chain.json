@@ -1,26 +1,19 @@
 {
-  "name": "SEC Mainnet",
-  "chain": "SEC",
-  "icon": "./chain/19516/logo.png",
-  "rpc": [
-    "https://rpc.secexplorer.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "SEP",
-    "symbol": "SEP",
-    "decimals": 18
-  },
-  "infoURL": "https://smartenergychain.org",
-  "shortName": "SECm",
   "chainId": 19516,
-  "networkId": 19516,
+  "icon": "./chain/19516/logo.png",
+  "www": "https://smartenergychain.org",
+  "name": "SEC Mainnet",
+  "platform": "SECm",
+  "chainToken": "SEP",
+  "endpoints": [
+    {
+      "url": "https://rpc.secexplorer.io"
+    }
+  ],
   "explorers": [
     {
       "name": "SEC Mainnet Explorer",
-      "url": "https://secexplorer.io",
-      "standard": "EIP3091"
+      "url": "https://secexplorer.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

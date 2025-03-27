@@ -1,9 +1,7 @@
 {
   "name": "SRICHAIN",
   "chain": "SRICHAIN",
-  "rpc": [
-    "https://rpc.sriscan.com/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "SRIX",
@@ -22,6 +20,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

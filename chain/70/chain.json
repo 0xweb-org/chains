@@ -1,12 +1,7 @@
 {
   "name": "Hoo Smart Chain",
   "chain": "HSC",
-  "rpc": [
-    "https://http-mainnet.hoosmartchain.com",
-    "https://http-mainnet2.hoosmartchain.com",
-    "wss://ws-mainnet.hoosmartchain.com",
-    "wss://ws-mainnet2.hoosmartchain.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Hoo Smart Chain Native Token",

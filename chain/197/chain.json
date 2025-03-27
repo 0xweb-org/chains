@@ -1,9 +1,7 @@
 {
   "name": "Neutrinos TestNet",
   "chain": "NEUTR",
-  "rpc": [
-    "https://testnet-rpc.neutrinoschain.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://neutrinoschain.com/faucet"
   ],
@@ -24,6 +22,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

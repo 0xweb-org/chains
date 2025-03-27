@@ -2,9 +2,7 @@
   "name": "Chiliz Scoville Testnet",
   "chain": "CHZ",
   "status": "deprecated",
-  "rpc": [
-    "https://scoville-rpc.chiliz.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://scoville-faucet.chiliz.com"
   ],

@@ -1,9 +1,7 @@
 {
   "name": "Ruby Smart Chain Testnet",
   "chain": "RUBY",
-  "rpc": [
-    "https://testnet-rchain.rubychain.io/"
-  ],
+  "rpc": [],
   "nativeCurrency": {
     "name": "RUBY Smart Chain Native Token",
     "symbol": "tRUBY",
@@ -17,7 +15,12 @@
   "chainId": 1912,
   "networkId": 1912,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmXGJevyPHHKT28hDfsJ9Cq2DQ2bAavdie37MEwFQUVCQz",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "RUBY Smart Chain Testnet Explorer",

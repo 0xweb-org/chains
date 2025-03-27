@@ -1,10 +1,7 @@
 {
   "name": "JuncaChain testnet",
   "chain": "JuncaChain testnet",
-  "rpc": [
-    "https://rpc-testnet.juncachain.com",
-    "wss://ws-testnet.juncachain.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet-testnet.juncachain.com"
   ],
@@ -25,6 +22,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

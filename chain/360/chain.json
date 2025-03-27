@@ -1,28 +1,22 @@
 {
-  "name": "Shape",
-  "chain": "ETH",
-  "rpc": [
-    "https://mainnet.shape.network",
-    "https://shape-mainnet.g.alchemy.com/public"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://shape.network",
-  "shortName": "shape",
   "chainId": 360,
-  "networkId": 360,
   "icon": "./chain/360/logo.png",
+  "www": "https://shape.network",
+  "name": "Shape",
+  "platform": "shape",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://mainnet.shape.network"
+    },
+    {
+      "url": "https://shape-mainnet.g.alchemy.com/public"
+    }
+  ],
   "explorers": [
     {
       "name": "shapescan",
-      "url": "https://shapescan.xyz",
-      "standard": "EIP3091"
+      "url": "https://shapescan.xyz"
     }
-  ],
-  "status": "active",
-  "tvl": 92337
+  ]
 }

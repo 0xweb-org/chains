@@ -2,9 +2,7 @@
   "name": "Monad Testnet",
   "chain": "MON",
   "icon": "./chain/10143/logo.png",
-  "rpc": [
-    "https://testnet-rpc.monad.xyz"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"

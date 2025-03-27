@@ -1,35 +1,19 @@
 {
-  "name": "Prom",
-  "chain": "Prom",
-  "icon": "./chain/227/logo.png",
-  "rpc": [
-    "https://prom-rpc.eu-north-2.gateway.fm"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Prom",
-    "symbol": "PROM",
-    "decimals": 18
-  },
-  "infoURL": "https://prom.io",
-  "shortName": "PROM",
   "chainId": 227,
-  "networkId": 227,
+  "icon": "./chain/227/logo.png",
+  "www": "https://prom.io",
+  "name": "Prom",
+  "platform": "PROM",
+  "chainToken": "PROM",
+  "endpoints": [
+    {
+      "url": "https://prom-rpc.eu-north-2.gateway.fm"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://prom-blockscout.eu-north-2.gateway.fm",
-      "standard": "EIP3091"
+      "url": "https://prom-blockscout.eu-north-2.gateway.fm"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "https://prom-bridge.eu-north-2.gateway.fm/"
-      }
-    ]
-  },
-  "tvl": 0
+  ]
 }

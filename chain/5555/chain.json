@@ -1,26 +1,19 @@
 {
-  "name": "Chain Verse Mainnet",
-  "chain": "CVERSE",
-  "icon": "./chain/5555/logo.png",
-  "rpc": [
-    "https://rpc.chainverse.info"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Oasys",
-    "symbol": "OAS",
-    "decimals": 18
-  },
-  "infoURL": "https://chainverse.info",
-  "shortName": "cverse",
   "chainId": 5555,
-  "networkId": 5555,
+  "icon": "./chain/5555/logo.png",
+  "www": "https://chainverse.info",
+  "name": "Chain Verse Mainnet",
+  "platform": "cverse",
+  "chainToken": "OAS",
+  "endpoints": [
+    {
+      "url": "https://rpc.chainverse.info"
+    }
+  ],
   "explorers": [
     {
       "name": "Chain Verse Explorer",
-      "url": "https://explorer.chainverse.info",
-      "standard": "EIP3091"
+      "url": "https://explorer.chainverse.info"
     }
-  ],
-  "tvl": 0
+  ]
 }

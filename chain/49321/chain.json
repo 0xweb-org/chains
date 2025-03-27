@@ -1,34 +1,19 @@
 {
+  "chainId": 49321,
+  "icon": "./chain/49321/logo.png",
+  "www": "https://gunbygunz.com",
   "name": "GUNZ Testnet",
-  "chain": "tGUN",
-  "rpc": [
-    "https://rpc.gunz.dev/ext/bc/ryk9vkvNuKtewME2PeCgybo9sdWXGmCkBrrx4VPuZPdVdAak8/rpc"
-  ],
-  "faucets": [],
-  "features": [
+  "platform": "Stork",
+  "chainToken": "GUN",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://rpc.gunz.dev/ext/bc/ryk9vkvNuKtewME2PeCgybo9sdWXGmCkBrrx4VPuZPdVdAak8/rpc"
     }
   ],
-  "nativeCurrency": {
-    "name": "GUN",
-    "symbol": "GUN",
-    "decimals": 18
-  },
-  "icon": "./chain/49321/logo.png",
-  "infoURL": "https://gunbygunz.com",
-  "shortName": "Stork",
-  "chainId": 49321,
-  "networkId": 49321,
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://testnet.gunzscan.io",
-      "standard": "EIP3091"
+      "url": "https://testnet.gunzscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

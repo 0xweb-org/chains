@@ -1,31 +1,22 @@
 {
-  "name": "Quadrans Blockchain Testnet",
-  "chain": "tQDC",
-  "icon": "./chain/10947/logo.png",
-  "rpc": [
-    "https://rpctest.quadrans.io",
-    "https://rpctest2.quadrans.io"
-  ],
-  "faucets": [
-    "https://faucetpage.quadrans.io"
-  ],
-  "nativeCurrency": {
-    "name": "Quadrans Testnet Coin",
-    "symbol": "tQDC",
-    "decimals": 18
-  },
-  "infoURL": "https://quadrans.io",
-  "shortName": "quadranstestnet",
   "chainId": 10947,
-  "networkId": 10947,
-  "slip44": 1,
+  "icon": "./chain/10947/logo.png",
+  "www": "https://quadrans.io",
+  "name": "Quadrans Blockchain Testnet",
+  "platform": "quadranstestnet",
+  "chainToken": "tQDC",
+  "endpoints": [
+    {
+      "url": "https://rpctest.quadrans.io"
+    },
+    {
+      "url": "https://rpctest2.quadrans.io"
+    }
+  ],
   "explorers": [
     {
       "name": "explorer",
-      "url": "https://explorer.testnet.quadrans.io",
-      "icon": "quadrans",
-      "standard": "EIP3091"
+      "url": "https://explorer.testnet.quadrans.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

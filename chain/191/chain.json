@@ -2,9 +2,7 @@
   "name": "FileFileGo",
   "chain": "FFG",
   "icon": "./chain/191/logo.png",
-  "rpc": [
-    "https://rpc.filefilego.com/rpc"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"

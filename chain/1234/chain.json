@@ -1,37 +1,19 @@
 {
-  "name": "Step Network",
-  "title": "Step Main Network",
-  "chain": "STEP",
-  "icon": "./chain/1234/logo.png",
-  "rpc": [
-    "https://rpc.step.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "FITFI",
-    "symbol": "FITFI",
-    "decimals": 18
-  },
-  "infoURL": "https://step.network",
-  "shortName": "step",
   "chainId": 1234,
-  "networkId": 1234,
+  "icon": "./chain/1234/logo.png",
+  "www": "https://step.network",
+  "name": "Step Network",
+  "platform": "step",
+  "chainToken": "FITFI",
+  "endpoints": [
+    {
+      "url": "https://rpc.step.network"
+    }
+  ],
   "explorers": [
     {
       "name": "StepScan",
-      "url": "https://stepscan.io",
-      "icon": "step",
-      "standard": "EIP3091"
+      "url": "https://stepscan.io"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-43114",
-    "bridges": [
-      {
-        "url": "https://bridge.step.network"
-      }
-    ]
-  },
-  "tvl": 0
+  ]
 }

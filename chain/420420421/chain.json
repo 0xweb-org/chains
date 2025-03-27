@@ -1,37 +1,18 @@
 {
+  "chainId": 420420421,
+  "www": "https://polkadot.network",
   "name": "Westend Asset Hub",
-  "chain": "WST",
-  "rpc": [
-    "https://westend-asset-hub-eth-rpc.polkadot.io"
-  ],
-  "faucets": [
-    "https://faucet.polkadot.io/westend"
-  ],
-  "nativeCurrency": {
-    "name": "Westies",
-    "symbol": "WND",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "wst",
+  "chainToken": "WND",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://westend-asset-hub-eth-rpc.polkadot.io"
     }
   ],
-  "infoURL": "https://polkadot.network",
-  "shortName": "wst",
-  "chainId": 420420421,
-  "networkId": 420420421,
   "explorers": [
     {
       "name": "subscan",
-      "icon": "subscan",
-      "url": "https://westend-asset-hub-eth-explorer.parity.io",
-      "standard": "EIP3091"
+      "url": "https://westend-asset-hub-eth-explorer.parity.io"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

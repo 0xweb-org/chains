@@ -1,27 +1,18 @@
 {
-  "name": "Pixie Chain Mainnet",
-  "chain": "PixieChain",
-  "rpc": [
-    "https://http-mainnet.chain.pixie.xyz",
-    "wss://ws-mainnet.chain.pixie.xyz"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Pixie Chain Native Token",
-    "symbol": "PIX",
-    "decimals": 18
-  },
-  "infoURL": "https://chain.pixie.xyz",
-  "shortName": "pixie-chain",
   "chainId": 6626,
-  "networkId": 6626,
+  "www": "https://chain.pixie.xyz",
+  "name": "Pixie Chain Mainnet",
+  "platform": "pixie-chain",
+  "chainToken": "PIX",
+  "endpoints": [
+    {
+      "url": "https://http-mainnet.chain.pixie.xyz"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://scan.chain.pixie.xyz",
-      "standard": "none"
+      "url": "https://scan.chain.pixie.xyz"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

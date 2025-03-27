@@ -1,32 +1,23 @@
 {
-  "name": "Kaia Mainnet",
-  "chain": "KAIA",
-  "rpc": [
-    "https://public-en.node.kaia.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "KAIA",
-    "symbol": "KAIA",
-    "decimals": 18
-  },
-  "infoURL": "https://kaia.io",
-  "shortName": "kaia-mainnet",
   "chainId": 8217,
-  "networkId": 8217,
-  "slip44": 8217,
+  "icon": "./chain/8217/logo.png",
+  "www": "https://kaia.io",
+  "name": "Kaia Mainnet",
+  "platform": "kaia",
+  "chainToken": "KAIA",
+  "endpoints": [
+    {
+      "url": "https://public-en.node.kaia.io"
+    }
+  ],
   "explorers": [
     {
       "name": "Kaiascope",
-      "url": "https://kaiascope.com",
-      "standard": "EIP3091"
+      "url": "https://kaiascope.com"
     },
     {
       "name": "Kaiascan",
-      "url": "https://kaiascan.io",
-      "standard": "EIP3091"
+      "url": "https://kaiascan.io"
     }
-  ],
-  "icon": "./chain/8217/logo.png",
-  "tvl": 74779401
+  ]
 }

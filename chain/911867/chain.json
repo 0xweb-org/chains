@@ -1,9 +1,7 @@
 {
   "name": "Odyssey Testnet",
   "chain": "ETH",
-  "rpc": [
-    "https://odyssey.ithaca.xyz"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",
@@ -30,6 +28,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

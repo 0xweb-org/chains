@@ -1,9 +1,7 @@
 {
   "name": "Vela1 Chain Mainnet",
   "chain": "VELA1",
-  "rpc": [
-    "https://rpc.velaverse.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "CLASS COIN",
@@ -21,6 +19,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

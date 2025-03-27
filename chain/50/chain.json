@@ -1,15 +1,7 @@
 {
   "name": "XDC Network",
   "chain": "XDC",
-  "rpc": [
-    "https://erpc.xinfin.network",
-    "https://rpc.xinfin.network",
-    "https://rpc1.xinfin.network",
-    "https://rpc.xdcrpc.com",
-    "https://erpc.xdcrpc.com",
-    "https://rpc.ankr.com/xdc",
-    "https://rpc.xdc.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "XinFin",

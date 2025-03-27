@@ -2,11 +2,7 @@
   "name": "MAAL Chain",
   "chain": "MAAL",
   "icon": "./chain/786/logo.png",
-  "rpc": [
-    "https://node1-mainnet.maalscan.io/",
-    "https://node2-mainnet.maalscan.io/",
-    "https://node3-mainnet.maalscan.io/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "MAAL",

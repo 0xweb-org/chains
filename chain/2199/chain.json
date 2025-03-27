@@ -1,10 +1,7 @@
 {
   "name": "Moonsama Network",
   "chain": "MSN",
-  "rpc": [
-    "https://rpc.moonsama.com",
-    "wss://rpc.moonsama.com/ws"
-  ],
+  "rpc": [],
   "faucets": [
     "https://multiverse.moonsama.com/faucet"
   ],

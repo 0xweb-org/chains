@@ -1,39 +1,52 @@
 {
-  "name": "Moonriver",
-  "chain": "MOON",
-  "icon": "./chain/1285/logo.png",
-  "rpc": [
-    "https://rpc.api.moonriver.moonbeam.network",
-    "wss://wss.api.moonriver.moonbeam.network",
-    "https://moonriver.public.blastapi.io",
-    "wss://moonriver.public.blastapi.io",
-    "https://moonriver-rpc.dwellir.com",
-    "wss://moonriver-rpc.dwellir.com",
-    "https://moonriver.api.onfinality.io/public",
-    "wss://moonriver.api.onfinality.io/public-ws",
-    "https://moonriver.unitedbloc.com",
-    "wss://moonriver.unitedbloc.com",
-    "https://moonriver-rpc.publicnode.com",
-    "wss://moonriver-rpc.publicnode.com",
-    "https://moonriver.drpc.org",
-    "wss://moonriver.drpc.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Moonriver",
-    "symbol": "MOVR",
-    "decimals": 18
-  },
-  "infoURL": "https://moonbeam.network/networks/moonriver/",
-  "shortName": "mriver",
   "chainId": 1285,
-  "networkId": 1285,
+  "icon": "./chain/1285/logo.png",
+  "www": "https://moonbeam.network/networks/moonriver/",
+  "name": "Moonriver",
+  "platform": "mriver",
+  "chainToken": "MOVR",
+  "endpoints": [
+    {
+      "url": "https://rpc.api.moonriver.moonbeam.network"
+    },
+    {
+      "url": "wss://wss.api.moonriver.moonbeam.network"
+    },
+    {
+      "url": "https://moonriver.public.blastapi.io"
+    },
+    {
+      "url": "wss://moonriver.public.blastapi.io"
+    },
+    {
+      "url": "https://moonriver-rpc.dwellir.com"
+    },
+    {
+      "url": "wss://moonriver-rpc.dwellir.com"
+    },
+    {
+      "url": "https://moonriver.api.onfinality.io/public"
+    },
+    {
+      "url": "wss://moonriver.api.onfinality.io/public-ws"
+    },
+    {
+      "url": "https://moonriver.unitedbloc.com"
+    },
+    {
+      "url": "wss://moonriver.unitedbloc.com"
+    },
+    {
+      "url": "https://moonriver.drpc.org"
+    },
+    {
+      "url": "wss://moonriver.drpc.org"
+    }
+  ],
   "explorers": [
     {
       "name": "moonscan",
-      "url": "https://moonriver.moonscan.io",
-      "standard": "none"
+      "url": "https://moonriver.moonscan.io"
     }
-  ],
-  "tvl": 2420825
+  ]
 }

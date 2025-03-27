@@ -3,10 +3,7 @@
   "chain": "staging-aware-chief-gianfar",
   "status": "deprecated",
   "icon": "./chain/1517929550/logo.png",
-  "rpc": [
-    "https://staging-v3.skalenodes.com/v1/staging-aware-chief-gianfar",
-    "wss://staging-v3.skalenodes.com/v1/ws/staging-aware-chief-gianfar"
-  ],
+  "rpc": [],
   "faucets": [
     "https://sfuel.dirtroad.dev/staging"
   ],

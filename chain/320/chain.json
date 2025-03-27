@@ -1,9 +1,7 @@
 {
   "name": "ZKcandy Mainnet",
   "chain": "ETH",
-  "rpc": [
-    "https://rpc.zkcandy.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",

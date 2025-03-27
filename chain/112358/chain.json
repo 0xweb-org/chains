@@ -1,28 +1,22 @@
 {
-  "name": "Metachain One Mainnet",
-  "chain": "METAO",
-  "icon": "./chain/112358/logo.png",
-  "rpc": [
-    "https://rpc.metachain.one",
-    "https://rpc2.metachain.one"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Metao",
-    "symbol": "METAO",
-    "decimals": 18
-  },
-  "infoURL": "https://metachain.one",
-  "shortName": "metao",
   "chainId": 112358,
-  "networkId": 112358,
+  "icon": "./chain/112358/logo.png",
+  "www": "https://metachain.one",
+  "name": "Metachain One Mainnet",
+  "platform": "metao",
+  "chainToken": "METAO",
+  "endpoints": [
+    {
+      "url": "https://rpc.metachain.one"
+    },
+    {
+      "url": "https://rpc2.metachain.one"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://explorer.metachain.one",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://explorer.metachain.one"
     }
-  ],
-  "tvl": 0
+  ]
 }

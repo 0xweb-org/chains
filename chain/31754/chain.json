@@ -1,10 +1,13 @@
 {
   "name": "Xchain Testnet",
   "chain": "Xchain",
-  "icon": null,
-  "rpc": [
-    "https://rpc.xchaintest.net"
-  ],
+  "icon": {
+    "url": "ipfs://bafybeia5n537fj2mkfcwmjfwktkmqrcwef3affdodhxnvmkg2gkvmbv2ke",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [
     "https://xchainfaucet.net"
   ],

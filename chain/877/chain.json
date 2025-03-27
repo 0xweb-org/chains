@@ -1,9 +1,7 @@
 {
   "name": "Dexit Network",
   "chain": "DXT",
-  "rpc": [
-    "https://dxt.dexit.network"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.dexit.network"
   ],
@@ -23,6 +21,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

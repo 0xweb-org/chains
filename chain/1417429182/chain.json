@@ -1,39 +1,19 @@
 {
-  "name": "Zephyr Testnet",
-  "title": "Zephyr Testnet",
-  "chain": "Zephyr-testnet",
-  "rpc": [
-    "https://zephyr-rpc.eu-north-2.gateway.fm"
-  ],
-  "faucets": [
-    "https://zephyr-faucet.eu-north-2.gateway.fm"
-  ],
-  "nativeCurrency": {
-    "name": "ZERO",
-    "symbol": "Z",
-    "decimals": 18
-  },
-  "infoURL": "https://zero.tech",
-  "shortName": "zephyr",
   "chainId": 1417429182,
-  "networkId": 1417429182,
   "icon": "./chain/1417429182/logo.png",
+  "www": "https://zero.tech",
+  "name": "Zephyr Testnet",
+  "platform": "zephyr",
+  "chainToken": "Z",
+  "endpoints": [
+    {
+      "url": "https://zephyr-rpc.eu-north-2.gateway.fm"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://zephyr-blockscout.eu-north-2.gateway.fm",
-      "icon": "zephyr",
-      "standard": "EIP3091"
+      "url": "https://zephyr-blockscout.eu-north-2.gateway.fm"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-11155111",
-    "bridges": [
-      {
-        "url": "https://zephyr-bridge.eu-north-2.gateway.fm"
-      }
-    ]
-  },
-  "tvl": 0
+  ]
 }

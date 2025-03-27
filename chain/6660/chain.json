@@ -2,9 +2,7 @@
   "name": "Latest Chain Testnet",
   "chain": "LATEST",
   "icon": "./chain/6660/logo.png",
-  "rpc": [
-    "https://testnet-rpc.latestcoin.io"
-  ],
+  "rpc": [],
   "faucets": [
     "http://faucet.latestchain.io"
   ],

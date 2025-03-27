@@ -2,9 +2,7 @@
   "name": "OptimusZ7 Testnet",
   "chain": "OptimusZ7",
   "icon": "./chain/97970/logo.png",
-  "rpc": [
-    "https://testnet-rpc.optimusz7.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.optimusz7.com"
   ],

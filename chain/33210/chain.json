@@ -1,9 +1,7 @@
 {
   "name": "Cloudverse Subnet",
   "chain": "CLOUDVERSE",
-  "rpc": [
-    "https://subnets.avax.network/cloudverse/mainnet/rpc"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP1559"
@@ -26,6 +24,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

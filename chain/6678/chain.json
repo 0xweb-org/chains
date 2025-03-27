@@ -1,26 +1,19 @@
 {
-  "name": "Edge Matrix Chain",
-  "chain": "EMC",
-  "icon": "./chain/6678/logo.png",
-  "rpc": [
-    "https://rpc1-mainnet.emc.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Edge Matrix Chain Token",
-    "symbol": "EMC",
-    "decimals": 18
-  },
-  "infoURL": "",
-  "shortName": "EMC",
   "chainId": 6678,
-  "networkId": 6678,
+  "icon": "./chain/6678/logo.png",
+  "www": "",
+  "name": "Edge Matrix Chain",
+  "platform": "EMC",
+  "chainToken": "EMC",
+  "endpoints": [
+    {
+      "url": "https://rpc1-mainnet.emc.network"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://emcscan.com",
-      "standard": "EIP3091"
+      "url": "https://emcscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

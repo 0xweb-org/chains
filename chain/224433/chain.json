@@ -1,9 +1,7 @@
 {
   "name": "CONET Cancun",
   "chain": "CONET Cancun",
-  "rpc": [
-    "https://rpc.conet.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "CONET Cancun",

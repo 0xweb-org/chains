@@ -1,27 +1,18 @@
 {
-  "name": "MetaBenz CHAIN",
-  "chain": "MetaBenz CHAIN",
-  "rpc": [
-    "https://rpc.metabenzscan.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "MBC",
-    "symbol": "MBC",
-    "decimals": 18
-  },
-  "infoURL": "https://metabenzscan.com",
-  "shortName": "metabenzscan",
   "chainId": 97766,
-  "networkId": 97766,
-  "slip44": 108,
+  "www": "https://metabenzscan.com",
+  "name": "MetaBenz CHAIN",
+  "platform": "metabenzscan",
+  "chainToken": "MBC",
+  "endpoints": [
+    {
+      "url": "https://rpc.metabenzscan.com"
+    }
+  ],
   "explorers": [
     {
       "name": "MetaBenz CHAIN",
-      "url": "https://metabenzscan.com",
-      "standard": "EIP3091"
+      "url": "https://metabenzscan.com"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

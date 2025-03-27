@@ -1,27 +1,19 @@
 {
-  "name": "ETP Mainnet",
-  "chain": "ETP",
-  "rpc": [
-    "https://rpc.etpscan.xyz"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ETP Chain Native Token",
-    "symbol": "ETP",
-    "decimals": 18
-  },
-  "infoURL": "https://www.etposchain.com",
-  "shortName": "ETP",
   "chainId": 20256789,
-  "networkId": 20256789,
   "icon": "./chain/20256789/logo.png",
+  "www": "https://www.etposchain.com",
+  "name": "ETP Mainnet",
+  "platform": "ETP",
+  "chainToken": "ETP",
+  "endpoints": [
+    {
+      "url": "https://rpc.etpscan.xyz"
+    }
+  ],
   "explorers": [
     {
       "name": "ETPScan",
-      "url": "https://etpscan.xyz",
-      "icon": "etpchain",
-      "standard": "EIP3091"
+      "url": "https://etpscan.xyz"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,29 +1,19 @@
 {
-  "name": "BitTorrent Chain Donau",
-  "chain": "BTTC",
-  "icon": "./chain/1029/logo.png",
-  "rpc": [
-    "https://pre-rpc.bt.io"
-  ],
-  "faucets": [
-    "https://testfaucet.bt.io"
-  ],
-  "nativeCurrency": {
-    "name": "BitTorrent",
-    "symbol": "BTT",
-    "decimals": 18
-  },
-  "infoURL": "https://bt.io",
-  "shortName": "tBTT",
   "chainId": 1029,
-  "networkId": 1029,
-  "slip44": 1,
+  "icon": "./chain/1029/logo.png",
+  "www": "https://bt.io",
+  "name": "BitTorrent Chain Donau",
+  "platform": "tBTT",
+  "chainToken": "BTT",
+  "endpoints": [
+    {
+      "url": "https://pre-rpc.bt.io"
+    }
+  ],
   "explorers": [
     {
       "name": "BitTorrent Chain Donau Explorer",
-      "url": "https://testnet.bttcscan.com",
-      "standard": "EIP3091"
+      "url": "https://testnet.bttcscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

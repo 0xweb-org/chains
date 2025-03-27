@@ -2,9 +2,7 @@
   "status": "deprecated",
   "name": "Santiment Intelligence Network DEPRECATED",
   "chain": "Santiment Intelligence Network DEPRECATED",
-  "rpc": [
-    "https://sanrchain-node.santiment.net"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "SANold",
@@ -15,7 +13,12 @@
   "shortName": "SANold",
   "chainId": 11888,
   "networkId": 11888,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmPLMg5mYD8XRknvYbDkD2x7FXxYan7MPTeUWZC2CihwDM",
+    "width": 2048,
+    "height": 2048,
+    "format": "png"
+  },
   "parent": {
     "chain": "eip155-1",
     "type": "L2",

@@ -1,9 +1,7 @@
 {
   "name": "Kalichain Testnet",
   "chain": "Kalichain",
-  "rpc": [
-    "https://rpc.kalichain.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "kalis",

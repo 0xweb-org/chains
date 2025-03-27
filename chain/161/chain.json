@@ -1,9 +1,7 @@
 {
   "name": "Armonia Eva Chain Testnet",
   "chain": "Wall-e",
-  "rpc": [
-    "https://testnet.evascan.io/api/eth-rpc/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Armonia Multichain Native Token",
@@ -22,6 +20,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

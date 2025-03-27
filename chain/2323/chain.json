@@ -1,13 +1,7 @@
 {
   "name": "SOMA Network Testnet",
   "chain": "SOMA",
-  "rpc": [
-    "https://data-testnet-v1.somanetwork.io/",
-    "https://testnet-au-server-2.somanetwork.io",
-    "https://testnet-au-server-1.somanetwork.io",
-    "https://testnet-sg-server-1.somanetwork.io",
-    "https://testnet-sg-server-2.somanetwork.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.somanetwork.io"
   ],
@@ -21,7 +15,12 @@
   "chainId": 2323,
   "networkId": 2323,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmadSU2tcyvuzssDYGJ4rVLag43QLnKwcBerZR2zKLVU2N",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "SOMA Testnet Explorer",

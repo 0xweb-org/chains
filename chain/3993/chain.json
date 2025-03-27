@@ -1,9 +1,7 @@
 {
   "name": "APEX Testnet",
   "chain": "ETH",
-  "rpc": [
-    "https://rpc-testnet.apexlayer.xyz"
-  ],
+  "rpc": [],
   "faucets": [
     "https://sepoliafaucet.com/"
   ],
@@ -17,7 +15,12 @@
   "chainId": 3993,
   "networkId": 3993,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://qmxhs7fvjanzwm14vjpbnmklre32gsiy9chsarrnbtfa1n",
+    "width": 1280,
+    "height": 1280,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "blockscout",

@@ -1,9 +1,7 @@
 {
   "name": "ZKBase Sepolia Testnet",
   "chain": "ETH",
-  "rpc": [
-    "https://sepolia-rpc.zkbase.app"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",

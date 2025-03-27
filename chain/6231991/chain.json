@@ -1,9 +1,7 @@
 {
   "name": "Block Chain LOL Berachain Testnet",
   "chain": "Block Chain LOL Berachain",
-  "rpc": [
-    "https://block-chain.alt.technology"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.block-chain.lol/"
   ],
@@ -23,6 +21,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

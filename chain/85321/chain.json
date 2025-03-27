@@ -1,26 +1,18 @@
 {
-  "name": "GDPR Testnet",
-  "chain": "GDPR",
-  "rpc": [
-    "https://rpc.testnet.gdprchain.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "GDPR",
-    "symbol": "GDPR",
-    "decimals": 18
-  },
-  "infoURL": "https://explorer.testnet.gdprchain.com",
-  "shortName": "gdpr-testnet",
   "chainId": 85321,
-  "networkId": 85321,
+  "www": "https://explorer.testnet.gdprchain.com",
+  "name": "GDPR Testnet",
+  "platform": "gdpr-testnet",
+  "chainToken": "GDPR",
+  "endpoints": [
+    {
+      "url": "https://rpc.testnet.gdprchain.com"
+    }
+  ],
   "explorers": [
     {
       "name": "GDPR Testnet Explorer (Blockscout)",
-      "url": "https://explorer.testnet.gdprchain.com",
-      "standard": "EIP3091"
+      "url": "https://explorer.testnet.gdprchain.com"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

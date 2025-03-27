@@ -1,72 +1,70 @@
 {
-  "name": "Ethereum Mainnet",
-  "chain": "ETH",
+  "chainId": 1,
   "icon": "./chain/1/logo.png",
-  "rpc": [
-    "https://mainnet.infura.io/v3/${INFURA_API_KEY}",
-    "wss://mainnet.infura.io/ws/v3/${INFURA_API_KEY}",
-    "https://api.mycryptoapi.com/eth",
-    "https://cloudflare-eth.com",
-    "https://ethereum-rpc.publicnode.com",
-    "wss://ethereum-rpc.publicnode.com",
-    "https://mainnet.gateway.tenderly.co",
-    "wss://mainnet.gateway.tenderly.co",
-    "https://rpc.blocknative.com/boost",
-    "https://rpc.flashbots.net",
-    "https://rpc.flashbots.net/fast",
-    "https://rpc.mevblocker.io",
-    "https://rpc.mevblocker.io/fast",
-    "https://rpc.mevblocker.io/noreverts",
-    "https://rpc.mevblocker.io/fullprivacy",
-    "https://eth.drpc.org",
-    "wss://eth.drpc.org",
-    "https://api.securerpc.com/v1"
-  ],
-  "features": [
+  "www": "https://ethereum.org",
+  "name": "Ethereum Mainnet",
+  "platform": "eth",
+  "chainToken": "ETH",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://ethereum-rpc.publicnode.com"
     },
     {
-      "name": "EIP1559"
+      "url": "wss://ethereum-rpc.publicnode.com"
+    },
+    {
+      "url": "https://mainnet.gateway.tenderly.co"
+    },
+    {
+      "url": "wss://mainnet.gateway.tenderly.co"
+    },
+    {
+      "url": "https://rpc.flashbots.net"
+    },
+    {
+      "url": "https://rpc.flashbots.net/fast"
+    },
+    {
+      "url": "https://rpc.mevblocker.io"
+    },
+    {
+      "url": "https://rpc.mevblocker.io/fast"
+    },
+    {
+      "url": "https://rpc.mevblocker.io/noreverts"
+    },
+    {
+      "url": "https://rpc.mevblocker.io/fullprivacy"
+    },
+    {
+      "url": "https://eth.drpc.org"
+    },
+    {
+      "url": "wss://eth.drpc.org"
+    },
+    {
+      "url": "https://api.securerpc.com/v1"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://ethereum.org",
-  "shortName": "eth",
-  "chainId": 1,
-  "networkId": 1,
-  "slip44": 60,
-  "ens": {
-    "registry": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e"
-  },
   "explorers": [
     {
       "name": "etherscan",
-      "url": "https://etherscan.io",
-      "standard": "EIP3091"
+      "url": "https://etherscan.io"
     },
     {
       "name": "blockscout",
-      "url": "https://eth.blockscout.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://eth.blockscout.com"
     },
     {
       "name": "dexguru",
-      "url": "https://ethereum.dex.guru",
-      "icon": "dexguru",
-      "standard": "EIP3091"
+      "url": "https://ethereum.dex.guru"
     },
     {
       "name": "Routescan",
-      "url": "https://ethereum.routescan.io",
-      "standard": "EIP3091"
+      "url": "https://ethereum.routescan.io"
     }
   ],
-  "tvl": 97949545361
+  "ens": {
+    "registry": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e"
+  }
 }

@@ -1,9 +1,7 @@
 {
   "name": "Gravity Alpha Testnet Sepolia",
   "chain": "Gravity",
-  "rpc": [
-    "https://rpc-sepolia.gravity.xyz"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Sepolia Gravity",

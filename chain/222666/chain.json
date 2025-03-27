@@ -1,9 +1,7 @@
 {
   "name": "DeepL Testnet",
   "chain": "DEEPL",
-  "rpc": [
-    "https://testnet.deeplnetwork.org"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.deeplnetwork.org"
   ],
@@ -24,7 +22,12 @@
   "shortName": "tdeepl",
   "chainId": 222666,
   "networkId": 222666,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://bafybeihjwgy4qja5cee452malk5hpb25pzpipfaka7hjcyb437ldodxzaq",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "DeepL Testnet Explorer",

@@ -1,9 +1,7 @@
 {
   "name": "Weber Governance Mainnet",
   "chain": "PTT",
-  "rpc": [
-    "https://chain.myweber.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "PALLET",

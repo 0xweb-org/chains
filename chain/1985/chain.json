@@ -1,9 +1,7 @@
 {
   "name": "SatoshIE",
   "chain": "TUSHY",
-  "rpc": [
-    "http://rpc.satosh.ie"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Tushy Token",
@@ -14,7 +12,12 @@
   "shortName": "satoshie",
   "chainId": 1985,
   "networkId": 1985,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmRHT4o9ihiY6nVkkRdwZjdugbEAQiXrrov3GS9a3GTuL7",
+    "width": 1024,
+    "height": 1024,
+    "format": "jpg"
+  },
   "explorers": [
     {
       "name": "mainnetexplorer",

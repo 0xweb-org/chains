@@ -1,11 +1,7 @@
 {
   "name": "Rollux Mainnet",
   "chain": "SYS",
-  "rpc": [
-    "https://rpc.rollux.com",
-    "wss://rpc.rollux.com/wss",
-    "https://rpc.ankr.com/rollux"
-  ],
+  "rpc": [],
   "faucets": [
     "https://rollux.id/faucet"
   ],
@@ -25,6 +21,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

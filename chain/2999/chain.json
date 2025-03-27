@@ -1,9 +1,7 @@
 {
   "name": "BitYuan Mainnet",
   "chain": "BTY",
-  "rpc": [
-    "https://mainnet.bityuan.com/eth"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "BTY",

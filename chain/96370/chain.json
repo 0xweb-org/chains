@@ -21,7 +21,12 @@
   "chainId": 96370,
   "networkId": 96370,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmZnE2ygPL2ZGuzHGvFCHmrqxwdurrhz3K1yPnwLzKbgay",
+    "width": 401,
+    "height": 400,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "LumozMainnetInfo",

@@ -2,9 +2,7 @@
   "name": "Zeniq",
   "chain": "ZENIQ",
   "icon": "./chain/383414847825/logo.png",
-  "rpc": [
-    "https://api.zeniq.network"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"

@@ -10,9 +10,7 @@
     "symbol": "GT",
     "decimals": 18
   },
-  "rpc": [
-    "https://testnet.gatenode.cc"
-  ],
+  "rpc": [],
   "faucets": [
     "https://www.gatescan.org/testnet/faucet"
   ],
@@ -24,6 +22,5 @@
     }
   ],
   "infoURL": "https://www.gatechain.io",
-  "icon": null,
   "tvl": 0
 }

@@ -1,9 +1,7 @@
 {
   "name": "HAPchain",
   "chain": "HAPchain",
-  "rpc": [
-    "https://jsonrpc.hap.land"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "HAP",

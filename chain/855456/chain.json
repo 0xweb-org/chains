@@ -1,10 +1,7 @@
 {
   "name": "Dodao",
   "chain": "EVMCC",
-  "rpc": [
-    "https://fraa-dancebox-3041-rpc.a.dancebox.tanssi.network",
-    "wss://fraa-dancebox-3041-rpc.a.dancebox.tanssi.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Dodao",

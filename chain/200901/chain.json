@@ -1,32 +1,34 @@
 {
-  "name": "Bitlayer Mainnet",
-  "chain": "Bitlayer",
-  "rpc": [
-    "https://rpc.bitlayer.org",
-    "https://rpc.bitlayer-rpc.com",
-    "https://rpc.ankr.com/bitlayer",
-    "https://rpc-bitlayer.rockx.com",
-    "wss://ws.bitlayer.org",
-    "wss://ws.bitlayer-rpc.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "BTC",
-    "symbol": "BTC",
-    "decimals": 18
-  },
-  "infoURL": "https://docs.bitlayer.org/",
-  "shortName": "btr",
   "chainId": 200901,
-  "networkId": 200901,
-  "slip44": 1,
-  "icon": null,
+  "icon": "ipfs://QmdWZ1frB47fr3tw31xE68C2Vocaw5Ef53LQ5WDNdNnNyG",
+  "www": "https://docs.bitlayer.org/",
+  "name": "Bitlayer Mainnet",
+  "platform": "btr",
+  "chainToken": "BTC",
+  "endpoints": [
+    {
+      "url": "https://rpc.bitlayer.org"
+    },
+    {
+      "url": "https://rpc.bitlayer-rpc.com"
+    },
+    {
+      "url": "https://rpc.ankr.com/bitlayer"
+    },
+    {
+      "url": "https://rpc-bitlayer.rockx.com"
+    },
+    {
+      "url": "wss://ws.bitlayer.org"
+    },
+    {
+      "url": "wss://ws.bitlayer-rpc.com"
+    }
+  ],
   "explorers": [
     {
       "name": "bitlayer mainnet scan",
-      "url": "https://www.btrscan.com",
-      "standard": "EIP3091"
+      "url": "https://www.btrscan.com"
     }
-  ],
-  "tvl": 387962448
+  ]
 }

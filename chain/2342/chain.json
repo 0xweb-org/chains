@@ -2,9 +2,7 @@
   "name": "Omnia Chain",
   "chain": "OMNIA",
   "icon": "./chain/2342/logo.png",
-  "rpc": [
-    "https://rpc.omniaverse.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://www.omniaverse.io"
   ],

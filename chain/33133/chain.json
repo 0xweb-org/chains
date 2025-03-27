@@ -1,20 +1,14 @@
 {
-  "name": "Entangle Testnet",
-  "chain": "NGL",
-  "icon": "./chain/33133/logo.png",
-  "rpc": [
-    "https://evm-testnet.entangle.fi"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Entangle",
-    "symbol": "NGL",
-    "decimals": 18
-  },
-  "infoURL": "https://www.entangle.fi",
-  "shortName": "tngl",
   "chainId": 33133,
-  "networkId": 33133,
-  "explorers": [],
-  "tvl": 0
+  "icon": "./chain/33133/logo.png",
+  "www": "https://www.entangle.fi",
+  "name": "Entangle Testnet",
+  "platform": "tngl",
+  "chainToken": "NGL",
+  "endpoints": [
+    {
+      "url": "https://evm-testnet.entangle.fi"
+    }
+  ],
+  "explorers": []
 }

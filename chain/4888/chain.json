@@ -1,36 +1,19 @@
 {
+  "chainId": 4888,
+  "icon": "./chain/4888/logo.png",
+  "www": "https://blackfort.com",
   "name": "BlackFort Exchange Network Testnet",
-  "chain": "BXNT",
-  "rpc": [
-    "https://rpc.blackfort.network/testnet/rpc"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "BlackFort Testnet Token",
-    "symbol": "BXNT",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "BXNT",
+  "chainToken": "BXNT",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://rpc.blackfort.network/testnet/rpc"
     }
   ],
-  "infoURL": "https://blackfort.com",
-  "shortName": "BXNT",
-  "chainId": 4888,
-  "networkId": 4888,
-  "slip44": 1,
-  "icon": "./chain/4888/logo.png",
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://testnet.blackfortscan.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://testnet.blackfortscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

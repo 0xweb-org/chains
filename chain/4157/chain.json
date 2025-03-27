@@ -3,9 +3,7 @@
   "title": "CrossFi Testnet",
   "chain": "XFI",
   "icon": "./chain/4157/logo.png",
-  "rpc": [
-    "https://rpc.testnet.ms"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "XFI",

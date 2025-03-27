@@ -1,27 +1,19 @@
 {
-  "name": "Shine Chain",
-  "chain": "SC20",
-  "rpc": [
-    "https://rpc.shinescan.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Shine",
-    "symbol": "SC20",
-    "decimals": 18
-  },
-  "infoURL": "https://shinechain.tech",
-  "shortName": "SC20",
   "chainId": 11221,
-  "networkId": 11221,
   "icon": "./chain/11221/logo.png",
+  "www": "https://shinechain.tech",
+  "name": "Shine Chain",
+  "platform": "SC20",
+  "chainToken": "SC20",
+  "endpoints": [
+    {
+      "url": "https://rpc.shinescan.io"
+    }
+  ],
   "explorers": [
     {
       "name": "shinescan",
-      "url": "https://shinescan.io",
-      "icon": "shine",
-      "standard": "none"
+      "url": "https://shinescan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

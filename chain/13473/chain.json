@@ -1,32 +1,19 @@
 {
-  "name": "Immutable zkEVM Testnet",
-  "chain": "Immutable zkEVM",
-  "rpc": [
-    "https://rpc.testnet.immutable.com",
-    "https://immutable-zkevm-testnet.drpc.org",
-    "wss://immutable-zkevm-testnet.drpc.org"
-  ],
-  "faucets": [
-    "https://docs.immutable.com/docs/zkEVM/guides/faucet"
-  ],
-  "nativeCurrency": {
-    "name": "Test IMX",
-    "symbol": "tIMX",
-    "decimals": 18
-  },
-  "infoURL": "https://www.immutable.com",
-  "shortName": "imx-testnet",
   "chainId": 13473,
-  "networkId": 13473,
-  "slip44": 1,
   "icon": "./chain/13473/logo.png",
+  "www": "https://www.immutable.com",
+  "name": "Immutable zkEVM Testnet",
+  "platform": "imx-testnet",
+  "chainToken": "tIMX",
+  "endpoints": [
+    {
+      "url": "https://rpc.testnet.immutable.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Immutable Testnet explorer",
-      "url": "https://explorer.testnet.immutable.com",
-      "standard": "EIP3091",
-      "icon": "immutable"
+      "url": "https://explorer.testnet.immutable.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

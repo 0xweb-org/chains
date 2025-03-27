@@ -1,13 +1,13 @@
 {
   "name": "Alphabet Mainnet",
   "chain": "Alphabet Network",
-  "icon": null,
-  "rpc": [
-    "https://londonpublic.alphabetnetwork.org",
-    "wss://londonpublic.alphabetnetwork.org/ws/",
-    "https://main-rpc.com",
-    "wss://main-rpc.com/ws/"
-  ],
+  "icon": {
+    "url": "ipfs://QmfTeudwVJcu7jzySBcpD9H5ZVK66nPJKRnicxend1bxfq",
+    "width": 500,
+    "height": 500,
+    "format": "svg"
+  },
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "ALT",

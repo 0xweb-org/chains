@@ -1,33 +1,23 @@
 {
-  "name": "Funki Sepolia Testnet",
-  "chain": "ETH",
-  "icon": "./chain/3397901/logo.png",
-  "rpc": [
-    "https://funki-testnet.alt.technology"
-  ],
-  "faucets": [
-    "https://funkichain.com/portfolio"
-  ],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://funkichain.com",
-  "shortName": "funkisepolia",
   "chainId": 3397901,
-  "networkId": 3397901,
+  "icon": "./chain/3397901/logo.png",
+  "www": "https://funkichain.com",
+  "name": "Funki Sepolia Testnet",
+  "platform": "funkisepolia",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://funki-testnet.alt.technology"
+    }
+  ],
   "explorers": [
     {
       "name": "Funki Sepolia Testnet Explorer",
-      "url": "https://testnet.funkiscan.io",
-      "standard": "none"
+      "url": "https://testnet.funkiscan.io"
     },
     {
       "name": "Funki Sepolia Sandbox Explorer",
-      "url": "https://sepolia-sandbox.funkichain.com",
-      "standard": "none"
+      "url": "https://sepolia-sandbox.funkichain.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

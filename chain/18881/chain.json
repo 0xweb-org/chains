@@ -2,9 +2,7 @@
   "name": "Ultra EVM Network Testnet",
   "chain": "Ultra",
   "icon": "./chain/18881/logo.png",
-  "rpc": [
-    "https://evm.test.ultra.eosusa.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ultra Token",

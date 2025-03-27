@@ -1,9 +1,7 @@
 {
   "name": "Mantle Testnet",
   "chain": "ETH",
-  "rpc": [
-    "https://rpc.testnet.mantle.xyz"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.testnet.mantle.xyz"
   ],
@@ -24,6 +22,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

@@ -1,9 +1,7 @@
 {
   "name": "EZChain C-Chain Mainnet",
   "chain": "EZC",
-  "rpc": [
-    "https://api.ezchain.com/ext/bc/C/rpc"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "EZChain",
@@ -14,7 +12,12 @@
   "shortName": "EZChain",
   "chainId": 2612,
   "networkId": 2612,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmPKJbYCFjGmY9X2cA4b9YQjWYHQncmKnFtKyQh9rHkFTb",
+    "width": 146,
+    "height": 48,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "ezchain",

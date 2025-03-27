@@ -1,11 +1,7 @@
 {
   "name": "POA Network Sokol",
   "chain": "POA",
-  "rpc": [
-    "https://sokol.poa.network",
-    "wss://sokol.poa.network/wss",
-    "ws://sokol.poa.network:8546"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "POA Sokol Ether",
@@ -24,6 +20,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

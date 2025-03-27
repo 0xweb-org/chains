@@ -2,9 +2,7 @@
   "name": "Shardeum Sphinx 1.X",
   "chain": "Shardeum",
   "icon": "./chain/8082/logo.png",
-  "rpc": [
-    "https://sphinx.shardeum.org/"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet-sphinx.shardeum.org/"
   ],

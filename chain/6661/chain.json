@@ -1,9 +1,7 @@
 {
   "name": "Cybria Mainnet",
   "chain": "CYBA",
-  "rpc": [
-    "https://rpc-mainnet.cybria.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Cybria",

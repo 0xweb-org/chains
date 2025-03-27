@@ -1,29 +1,21 @@
 {
-  "name": "Tanssi Demo",
-  "chain": "TANGO",
-  "rpc": [
-    "https://dancebox-3001.tanssi-api.network",
-    "wss://dancebox-3001.tanssi-api.network"
-  ],
-  "faucets": [
-    "https://apps.tanssi.network/demo"
-  ],
-  "nativeCurrency": {
-    "name": "TANGO",
-    "symbol": "TANGO",
-    "decimals": 18
-  },
-  "infoURL": "https://docs.tanssi.network/builders/tanssi-network/networks/dancebox/demo-evm-containerchain",
-  "shortName": "tango",
   "chainId": 5678,
-  "networkId": 5678,
+  "www": "https://docs.tanssi.network/builders/tanssi-network/networks/dancebox/demo-evm-containerchain",
+  "name": "Tanssi Demo",
+  "platform": "tango",
+  "chainToken": "TANGO",
+  "endpoints": [
+    {
+      "url": "https://dancebox-3001.tanssi-api.network"
+    },
+    {
+      "url": "wss://dancebox-3001.tanssi-api.network"
+    }
+  ],
   "explorers": [
     {
       "name": "BlockScout",
-      "url": "https://fra-dancebox-3001-bs.a.dancebox.tanssi.network",
-      "standard": "EIP3091"
+      "url": "https://fra-dancebox-3001-bs.a.dancebox.tanssi.network"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

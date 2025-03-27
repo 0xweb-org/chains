@@ -1,9 +1,7 @@
 {
   "name": "Ztc Mainnet",
   "chain": "ZTC",
-  "rpc": [
-    "https://zitcoin.us"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ztcer",
@@ -14,6 +12,5 @@
   "shortName": "ZTC",
   "chainId": 9998,
   "networkId": 9998,
-  "icon": null,
   "tvl": 0
 }

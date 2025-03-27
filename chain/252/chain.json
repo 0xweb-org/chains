@@ -1,29 +1,25 @@
 {
-  "name": "Fraxtal",
-  "chain": "FRAX",
-  "rpc": [
-    "https://rpc.frax.com",
-    "https://fraxtal-rpc.publicnode.com",
-    "wss://fraxtal-rpc.publicnode.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Frax Ether",
-    "symbol": "frxETH",
-    "decimals": 18
-  },
-  "infoURL": "https://mainnet.frax.com",
-  "shortName": "fraxtal",
   "chainId": 252,
-  "networkId": 252,
   "icon": "./chain/252/logo.png",
+  "www": "https://mainnet.frax.com",
+  "name": "Fraxtal",
+  "platform": "fraxtal",
+  "chainToken": "frxETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.frax.com"
+    },
+    {
+      "url": "https://fraxtal-rpc.publicnode.com"
+    },
+    {
+      "url": "wss://fraxtal-rpc.publicnode.com"
+    }
+  ],
   "explorers": [
     {
       "name": "fraxscan",
-      "url": "https://fraxscan.com",
-      "standard": "EIP3091"
+      "url": "https://fraxscan.com"
     }
-  ],
-  "status": "active",
-  "tvl": 102339973
+  ]
 }

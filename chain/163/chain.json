@@ -1,9 +1,7 @@
 {
   "name": "Lightstreams Mainnet",
   "chain": "PHT",
-  "rpc": [
-    "https://node.mainnet.lightstreams.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Lightstreams PHT",
@@ -14,6 +12,5 @@
   "shortName": "pht",
   "chainId": 163,
   "networkId": 163,
-  "icon": null,
   "tvl": 0
 }

@@ -2,9 +2,7 @@
   "name": "CrossFi Mainnet",
   "icon": "./chain/4158/logo.png",
   "chain": "crossfi",
-  "rpc": [
-    "https://rpc.mainnet.ms/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "CrossFi Token",
@@ -23,5 +21,5 @@
       "standard": "none"
     }
   ],
-  "tvl": 75978
+  "tvl": 76504
 }

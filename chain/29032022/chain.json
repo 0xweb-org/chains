@@ -1,10 +1,13 @@
 {
   "name": "Flachain Mainnet",
   "chain": "FLX",
-  "icon": null,
-  "rpc": [
-    "https://flachain.flaexchange.top/"
-  ],
+  "icon": {
+    "url": "ipfs://bafybeiadlvc4pfiykehyt2z67nvgt5w4vlov27olu5obvmryv4xzua4tae",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  },
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"

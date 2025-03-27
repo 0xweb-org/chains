@@ -1,9 +1,7 @@
 {
   "name": "Citronus",
   "chain": "Citronus",
-  "rpc": [
-    "https://rpc.citronus.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "CITRO",
@@ -14,7 +12,12 @@
   "shortName": "citro",
   "chainId": 50000,
   "networkId": 50000,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmdwQDr6vmBtXmK2TmknkEuZNoaDqTasFdZdu3DRw8b2ws",
+    "width": 24,
+    "height": 24,
+    "format": "svg"
+  },
   "explorers": [
     {
       "name": "citro",

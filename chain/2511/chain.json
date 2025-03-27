@@ -1,11 +1,14 @@
 {
   "name": "Karak Goerli",
   "chain": "Karak",
-  "icon": null,
+  "icon": {
+    "url": "ipfs://bafybeic3dihuytvtm2hnfo7lvsqf43eqbzobtkxn3o3pxptktifsefy7su",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  },
   "status": "deprecated",
-  "rpc": [
-    "https://goerli.node1.karak.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Karak",

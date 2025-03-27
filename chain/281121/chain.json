@@ -1,9 +1,7 @@
 {
   "name": "Social Smart Chain Mainnet",
   "chain": "SoChain",
-  "rpc": [
-    "https://socialsmartchain.digitalnext.business"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "SoChain",
@@ -15,6 +13,5 @@
   "chainId": 281121,
   "networkId": 281121,
   "explorers": [],
-  "icon": null,
   "tvl": 0
 }

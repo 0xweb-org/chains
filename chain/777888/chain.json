@@ -1,26 +1,18 @@
 {
-  "name": "Oone Chain Mainnet",
-  "chain": "OONE",
-  "rpc": [
-    "https://rpc.oonechain.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "OONE",
-    "symbol": "OONE",
-    "decimals": 18
-  },
-  "infoURL": "https://oonechain.com",
-  "shortName": "oone",
   "chainId": 777888,
-  "networkId": 777888,
+  "www": "https://oonechain.com",
+  "name": "Oone Chain Mainnet",
+  "platform": "oone",
+  "chainToken": "OONE",
+  "endpoints": [
+    {
+      "url": "https://rpc.oonechain.com"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://oonescan.com",
-      "standard": "none"
+      "url": "https://oonescan.com"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

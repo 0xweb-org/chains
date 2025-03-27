@@ -1,9 +1,7 @@
 {
   "name": "OKExChain Testnet",
   "chain": "okexchain",
-  "rpc": [
-    "https://exchaintestrpc.okex.org"
-  ],
+  "rpc": [],
   "faucets": [
     "https://www.okex.com/drawdex"
   ],
@@ -24,6 +22,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

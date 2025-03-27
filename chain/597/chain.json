@@ -1,28 +1,21 @@
 {
-  "name": "Acala Network Testnet",
-  "chain": "ACA",
-  "rpc": [
-    "https://eth-rpc-acala-testnet.aca-staging.network",
-    "wss://eth-rpc-acala-testnet.aca-staging.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Acala Token",
-    "symbol": "ACA",
-    "decimals": 18
-  },
-  "infoURL": "https://acala.network",
-  "shortName": "taca",
   "chainId": 597,
-  "networkId": 597,
-  "slip44": 1,
+  "www": "https://acala.network",
+  "name": "Acala Network Testnet",
+  "platform": "taca",
+  "chainToken": "ACA",
+  "endpoints": [
+    {
+      "url": "https://eth-rpc-acala-testnet.aca-staging.network"
+    },
+    {
+      "url": "wss://eth-rpc-acala-testnet.aca-staging.network"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://blockscout.acala-dev.aca-dev.network",
-      "standard": "EIP3091"
+      "url": "https://blockscout.acala-dev.aca-dev.network"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

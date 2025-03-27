@@ -1,9 +1,7 @@
 {
   "name": "Recall Testnet",
   "chain": "Recall Testnet",
-  "rpc": [
-    "https://evm.v013.node-0.testnet.recall.network"
-  ],
+  "rpc": [],
   "faucets": [
     "faucet.recall.network"
   ],
@@ -23,6 +21,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

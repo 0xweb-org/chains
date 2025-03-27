@@ -2,9 +2,7 @@
   "name": "ADIL Testnet",
   "chain": "ADIL",
   "icon": "./chain/7575/logo.png",
-  "rpc": [
-    "https://testnet.adilchain-rpc.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://testnet-faucet.adil-scan.io"
   ],

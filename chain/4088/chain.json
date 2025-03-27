@@ -2,9 +2,7 @@
   "name": "Zeroth Mainnet",
   "chain": "ZRH",
   "icon": "./chain/4088/logo.png",
-  "rpc": [
-    "https://my.zeroth.run"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "ZRH",

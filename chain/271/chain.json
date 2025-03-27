@@ -1,26 +1,19 @@
 {
-  "name": "EgonCoin Mainnet",
-  "chain": "EGON",
-  "icon": "./chain/271/logo.png",
-  "rpc": [
-    "https://rpc.egonscan.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "EgonCoin",
-    "symbol": "EGON",
-    "decimals": 18
-  },
-  "infoURL": "https://egonscan.com",
-  "shortName": "EGONm",
   "chainId": 271,
-  "networkId": 271,
+  "icon": "./chain/271/logo.png",
+  "www": "https://egonscan.com",
+  "name": "EgonCoin Mainnet",
+  "platform": "EGONm",
+  "chainToken": "EGON",
+  "endpoints": [
+    {
+      "url": "https://rpc.egonscan.com"
+    }
+  ],
   "explorers": [
     {
       "name": "EgonCoin Mainnet",
-      "url": "https://egonscan.com",
-      "standard": "EIP3091"
+      "url": "https://egonscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

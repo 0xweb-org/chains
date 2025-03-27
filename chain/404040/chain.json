@@ -2,9 +2,7 @@
   "name": "Tipboxcoin Mainnet",
   "chain": "TPBX",
   "icon": "./chain/404040/logo.png",
-  "rpc": [
-    "https://mainnet-rpc.tipboxcoin.net"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.tipboxcoin.net"
   ],

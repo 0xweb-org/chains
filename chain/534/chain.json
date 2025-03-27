@@ -1,10 +1,7 @@
 {
   "name": "Candle",
   "chain": "Candle",
-  "rpc": [
-    "https://candle-rpc.com/",
-    "https://rpc.cndlchain.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "CANDLE",
@@ -23,6 +20,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

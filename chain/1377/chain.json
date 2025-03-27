@@ -2,9 +2,7 @@
   "name": "Pingaksha testnet",
   "chain": "Pingaksha",
   "icon": "./chain/1377/logo.png",
-  "rpc": [
-    "https://testnet.ramestta.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Rama",

@@ -1,9 +1,7 @@
 {
   "name": "Evoz Mainnet",
   "chain": "Evoz",
-  "rpc": [
-    "https://rpc.evozscan.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Evoz Mainnet",

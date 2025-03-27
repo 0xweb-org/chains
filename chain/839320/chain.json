@@ -2,9 +2,7 @@
   "name": "PRM Testnet",
   "chain": "prm",
   "icon": "./chain/839320/logo.png",
-  "rpc": [
-    "https://testnet-rpc.prmscan.org"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.prmscan.org"
   ],

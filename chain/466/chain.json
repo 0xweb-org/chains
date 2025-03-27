@@ -1,10 +1,7 @@
 {
   "name": "AppChain",
   "chain": "AppChain",
-  "rpc": [
-    "https://rpc.appchain.xyz/http",
-    "wss://rpc.appchain.xyz/ws"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",

@@ -1,35 +1,19 @@
 {
+  "chainId": 33333,
+  "icon": "ipfs://QmeKQVv2QneHaaggw2NfpZ7DGMdjVhPywTdse5RzCs4oGn",
+  "www": "https://avescoin.io",
   "name": "Aves Mainnet",
-  "chain": "AVS",
-  "rpc": [
-    "https://rpc.avescoin.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Aves",
-    "symbol": "AVS",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "avs",
+  "chainToken": "AVS",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://rpc.avescoin.io"
     }
   ],
-  "infoURL": "https://avescoin.io",
-  "shortName": "avs",
-  "chainId": 33333,
-  "networkId": 33333,
-  "icon": null,
   "explorers": [
     {
       "name": "avescan",
-      "url": "https://avescan.io",
-      "icon": "avescan",
-      "standard": "EIP3091"
+      "url": "https://avescan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

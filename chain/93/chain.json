@@ -1,10 +1,13 @@
 {
   "name": "Garizon Stage3",
   "chain": "GAR",
-  "icon": null,
-  "rpc": [
-    "https://s3.garizon.net/rpc"
-  ],
+  "icon": {
+    "url": "ipfs://QmW3WRyuLZ95K8hvV2QN6rP5yWY98sSzWyVUxD2eUjXGrc",
+    "width": 1024,
+    "height": 613,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Garizon",

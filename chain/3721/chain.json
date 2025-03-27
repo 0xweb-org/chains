@@ -1,10 +1,13 @@
 {
   "name": "Xone Mainnet",
   "chain": "XOC",
-  "icon": null,
-  "rpc": [
-    "https://rpc.xone.org"
-  ],
+  "icon": {
+    "url": "ipfs://QmR3twvfhDES34nLhcVmUbAZpW4eynZoSfA2XpWUBnH7gB",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  },
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"

@@ -2,10 +2,7 @@
   "icon": "./chain/15/logo.png",
   "name": "Diode Prenet",
   "chain": "DIODE",
-  "rpc": [
-    "https://prenet.diode.io:8443/",
-    "wss://prenet.diode.io:8443/ws"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Diodes",

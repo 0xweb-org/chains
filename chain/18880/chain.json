@@ -1,9 +1,7 @@
 {
   "name": "EXPchain Testnet",
   "chain": "EXPCHAIN",
-  "rpc": [
-    "https://rpc1-testnet.expchain.ai"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "tZKJ",

@@ -1,9 +1,7 @@
 {
   "name": "Lamina1 Identity",
   "chain": "Lamina1 Identity",
-  "rpc": [
-    "https://subnets.avax.network/lamina1id/mainnet/rpc"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP1559"
@@ -27,6 +25,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

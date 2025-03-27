@@ -1,9 +1,7 @@
 {
   "name": "Story Testnet",
   "chain": "Story Testnet",
-  "rpc": [
-    "https://testnet.storyrpc.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.story.foundation"
   ],
@@ -23,6 +21,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

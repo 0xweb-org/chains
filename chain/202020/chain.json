@@ -1,9 +1,7 @@
 {
   "name": "Decimal Smart Chain Testnet",
   "chain": "tDSC",
-  "rpc": [
-    "https://testnet-val.decimalchain.com/web3/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Decimal",
@@ -23,7 +21,12 @@
   "chainId": 202020,
   "networkId": 202020,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmSgzwKnJJjys3Uq2aVVdwJ3NffLj3CXMVCph9uByTBegc",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "DSC Explorer Testnet",

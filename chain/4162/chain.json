@@ -1,31 +1,19 @@
 {
-  "name": "SX Rollup",
-  "chain": "SX",
-  "icon": "./chain/4162/logo.png",
-  "rpc": [
-    "https://rpc.sx-rollup.gelato.digital"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "SX Network",
-    "symbol": "SX",
-    "decimals": 18
-  },
-  "infoURL": "https://www.sx.technology",
-  "shortName": "SXR",
   "chainId": 4162,
-  "networkId": 4162,
+  "icon": "./chain/4162/logo.png",
+  "www": "https://www.sx.technology",
+  "name": "SX Rollup",
+  "platform": "SXR",
+  "chainToken": "SX",
+  "endpoints": [
+    {
+      "url": "https://rpc.sx-rollup.gelato.digital"
+    }
+  ],
   "explorers": [
     {
       "name": "SX L2 Explorer",
-      "url": "https://explorerl2.sx.technology",
-      "standard": "EIP3091",
-      "icon": "SX"
+      "url": "https://explorerl2.sx.technology"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1"
-  },
-  "tvl": 0
+  ]
 }

@@ -2,9 +2,7 @@
   "name": "Daily Network Testnet",
   "chain": "Daily Network",
   "icon": "./chain/825/logo.png",
-  "rpc": [
-    "https://rpc.testnet.dailycrypto.net"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Daily",

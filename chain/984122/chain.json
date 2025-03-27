@@ -1,35 +1,19 @@
 {
+  "chainId": 984122,
+  "icon": "./chain/984122/logo.png",
+  "www": "https://forma.art",
   "name": "Forma",
-  "chain": "Forma",
-  "rpc": [
-    "https://rpc.forma.art"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "TIA",
-    "symbol": "TIA",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "forma",
+  "chainToken": "TIA",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://rpc.forma.art"
     }
   ],
-  "infoURL": "https://forma.art",
-  "shortName": "forma",
-  "chainId": 984122,
-  "networkId": 984122,
-  "icon": "./chain/984122/logo.png",
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://explorer.forma.art",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://explorer.forma.art"
     }
-  ],
-  "tvl": 0
+  ]
 }

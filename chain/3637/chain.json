@@ -2,9 +2,7 @@
   "name": "Botanix Mainnet",
   "chain": "BTC",
   "icon": "./chain/3637/logo.png",
-  "rpc": [
-    "https://rpc.btxtestchain.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.btxtestchain.com"
   ],

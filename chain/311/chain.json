@@ -1,10 +1,7 @@
 {
   "name": "Omax Mainnet",
   "chain": "OMAX Chain",
-  "rpc": [
-    "https://mainapi.omaxray.com",
-    "https://mainapi.omaxscan.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.omaxray.com/"
   ],
@@ -17,7 +14,12 @@
   "shortName": "omax",
   "chainId": 311,
   "networkId": 311,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://Qmd7omPxrehSuxHHPMYd5Nr7nfrtjKdRJQEhDLfTb87w8G",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "Omax Chain Explorer",

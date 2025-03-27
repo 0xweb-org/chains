@@ -1,34 +1,29 @@
 {
-  "name": "Taiko Alethia",
-  "chain": "ETH",
-  "status": "active",
-  "icon": "./chain/167000/logo.png",
-  "rpc": [
-    "https://rpc.mainnet.taiko.xyz",
-    "https://taiko-rpc.publicnode.com",
-    "wss://taiko-rpc.publicnode.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://taiko.xyz",
-  "shortName": "tko-mainnet",
   "chainId": 167000,
-  "networkId": 167000,
+  "icon": "./chain/167000/logo.png",
+  "www": "https://taiko.xyz",
+  "name": "Taiko Alethia",
+  "platform": "tko",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.mainnet.taiko.xyz"
+    },
+    {
+      "url": "https://taiko-rpc.publicnode.com"
+    },
+    {
+      "url": "wss://taiko-rpc.publicnode.com"
+    }
+  ],
   "explorers": [
     {
       "name": "etherscan",
-      "url": "https://taikoscan.io",
-      "standard": "EIP3091"
+      "url": "https://taikoscan.io"
     },
     {
       "name": "Routescan",
-      "url": "https://taikoexplorer.com",
-      "standard": "EIP3091"
+      "url": "https://taikoexplorer.com"
     }
-  ],
-  "tvl": 186457581
+  ]
 }

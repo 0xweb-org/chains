@@ -1,9 +1,7 @@
 {
   "name": "Haymo Testnet",
   "chain": "tHYM",
-  "rpc": [
-    "https://testnet1.haymo.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "HAYMO",
@@ -15,6 +13,5 @@
   "chainId": 234666,
   "networkId": 234666,
   "slip44": 1,
-  "icon": null,
   "tvl": 0
 }

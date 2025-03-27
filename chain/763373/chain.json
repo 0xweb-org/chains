@@ -1,35 +1,18 @@
 {
+  "chainId": 763373,
+  "www": "https://inkonchain.com/",
   "name": "Ink Sepolia",
-  "chain": "ETH",
-  "rpc": [
-    "https://rpc-gel-sepolia.inkonchain.com",
-    "wss://ws-gel-sepolia.inkonchain.com"
-  ],
-  "faucets": [],
-  "features": [
+  "platform": "inksepolia",
+  "chainToken": "ETH",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "wss://ws-gel-sepolia.inkonchain.com"
     }
   ],
-  "nativeCurrency": {
-    "name": "Sepolia Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://inkonchain.com/",
-  "shortName": "inksepolia",
-  "chainId": 763373,
-  "networkId": 763373,
   "explorers": [
     {
       "name": "Ink Sepolia Explorer",
-      "url": "https://explorer-sepolia.inkonchain.com",
-      "standard": "EIP3091"
+      "url": "https://explorer-sepolia.inkonchain.com"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

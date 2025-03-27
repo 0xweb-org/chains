@@ -1,26 +1,19 @@
 {
-  "name": "ADIL Devnet",
-  "chain": "ADIL",
-  "icon": "./chain/123456/logo.png",
-  "rpc": [
-    "https://devnet.adilchain-rpc.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Devnet ADIL",
-    "symbol": "ADIL",
-    "decimals": 18
-  },
-  "infoURL": "https://adilchain.io",
-  "shortName": "dadil",
   "chainId": 123456,
-  "networkId": 123456,
+  "icon": "./chain/123456/logo.png",
+  "www": "https://adilchain.io",
+  "name": "ADIL Devnet",
+  "platform": "dadil",
+  "chainToken": "ADIL",
+  "endpoints": [
+    {
+      "url": "https://devnet.adilchain-rpc.io"
+    }
+  ],
   "explorers": [
     {
       "name": "ADIL Devnet Explorer",
-      "url": "https://devnet.adilchain-scan.io",
-      "standard": "EIP3091"
+      "url": "https://devnet.adilchain-scan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

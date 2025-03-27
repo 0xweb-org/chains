@@ -1,10 +1,13 @@
 {
   "name": "Patex",
   "chain": "ETH",
-  "icon": null,
-  "rpc": [
-    "https://rpc.patex.io/"
-  ],
+  "icon": {
+    "url": "ipfs://QmTNTSNn3t5WpSEzQmUYbkxYkBKaH6QahyVdVrRKyPHChr",
+    "width": 800,
+    "height": 800,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",

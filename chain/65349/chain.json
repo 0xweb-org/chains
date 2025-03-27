@@ -1,28 +1,22 @@
 {
-  "name": "CratD2C Testnet",
-  "chain": "CRATD2C",
-  "rpc": [
-    "https://cratd2c-testnet-node1.cratd2csmartchain.io/",
-    "https://cratd2c-testnet-node2.cratd2csmartchain.io/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "CRATD2C",
-    "symbol": "CRAT",
-    "decimals": 18
-  },
-  "infoURL": "https://cratd2csmartchain.io",
-  "shortName": "cratd2c-testnet",
   "chainId": 65349,
-  "networkId": 65349,
   "icon": "./chain/65349/logo.png",
+  "www": "https://cratd2csmartchain.io",
+  "name": "CratD2C Testnet",
+  "platform": "cratd2c-testnet",
+  "chainToken": "CRAT",
+  "endpoints": [
+    {
+      "url": "https://cratd2c-testnet-node1.cratd2csmartchain.io/"
+    },
+    {
+      "url": "https://cratd2c-testnet-node2.cratd2csmartchain.io/"
+    }
+  ],
   "explorers": [
     {
       "name": "Blockscout",
-      "url": "https://explorer-testnet.cratd2csmartchain.io",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://explorer-testnet.cratd2csmartchain.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

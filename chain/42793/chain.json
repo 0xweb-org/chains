@@ -1,31 +1,19 @@
 {
-  "name": "Etherlink Mainnet",
-  "chain": "Etherlink",
-  "icon": "./chain/42793/logo.png",
   "chainId": 42793,
-  "networkId": 42793,
-  "features": [
+  "icon": "./chain/42793/logo.png",
+  "www": "https://etherlink.com",
+  "name": "Etherlink Mainnet",
+  "platform": "etlk",
+  "chainToken": "XTZ",
+  "endpoints": [
     {
-      "name": "EIP1559"
+      "url": "https://node.mainnet.etherlink.com"
     }
   ],
-  "infoURL": "https://etherlink.com",
-  "shortName": "etlk",
-  "nativeCurrency": {
-    "name": "tez",
-    "symbol": "XTZ",
-    "decimals": 18
-  },
-  "rpc": [
-    "https://node.mainnet.etherlink.com"
-  ],
-  "faucets": [],
   "explorers": [
     {
       "name": "Etherlink Explorer",
-      "url": "https://explorer.etherlink.com",
-      "standard": "EIP3091"
+      "url": "https://explorer.etherlink.com"
     }
-  ],
-  "tvl": 7272464
+  ]
 }

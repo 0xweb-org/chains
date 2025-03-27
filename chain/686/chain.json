@@ -1,10 +1,7 @@
 {
   "name": "Karura Network",
   "chain": "KAR",
-  "rpc": [
-    "https://eth-rpc-karura.aca-api.network",
-    "wss://eth-rpc-karura.aca-api.network"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"
@@ -31,6 +28,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

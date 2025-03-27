@@ -1,9 +1,7 @@
 {
   "name": "Oone Chain Devnet",
   "chain": "OONE Devnet",
-  "rpc": [
-    "https://rpc.dev.oonechain.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://apps-test.adigium.com/faucet"
   ],
@@ -23,6 +21,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

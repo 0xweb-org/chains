@@ -2,9 +2,7 @@
   "name": "GIL Testnet",
   "chain": "GIL",
   "icon": "./chain/1452/logo.png",
-  "rpc": [
-    "https://rpc.giltestnet.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "GANG",

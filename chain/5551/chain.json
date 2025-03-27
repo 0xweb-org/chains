@@ -1,9 +1,7 @@
 {
   "name": "Nahmii 2 Mainnet",
   "chain": "Nahmii",
-  "rpc": [
-    "https://l2.nahmii.io"
-  ],
+  "rpc": [],
   "status": "active",
   "faucets": [],
   "nativeCurrency": {
@@ -33,5 +31,5 @@
       }
     ]
   },
-  "tvl": 64883
+  "tvl": 66546
 }

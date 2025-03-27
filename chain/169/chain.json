@@ -1,36 +1,25 @@
 {
+  "chainId": 169,
+  "icon": "./chain/169/logo.png",
+  "www": "https://pacific-info.manta.network",
   "name": "Manta Pacific Mainnet",
-  "chain": "Manta Pacific",
-  "rpc": [
-    "https://pacific-rpc.manta.network/http",
-    "https://manta-pacific.drpc.org",
-    "wss://manta-pacific.drpc.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "manta",
+  "chainToken": "ETH",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://pacific-rpc.manta.network/http"
     },
     {
-      "name": "EIP1559"
+      "url": "https://manta-pacific.drpc.org"
+    },
+    {
+      "url": "wss://manta-pacific.drpc.org"
     }
   ],
-  "infoURL": "https://pacific-info.manta.network",
-  "shortName": "manta",
-  "chainId": 169,
-  "networkId": 169,
-  "icon": "./chain/169/logo.png",
   "explorers": [
     {
       "name": "manta-pacific Explorer",
-      "url": "https://pacific-explorer.manta.network",
-      "standard": "EIP3091"
+      "url": "https://pacific-explorer.manta.network"
     }
-  ],
-  "tvl": 44531090
+  ]
 }

@@ -1,29 +1,28 @@
 {
-  "name": "Heima",
-  "chain": "Heima",
-  "rpc": [
-    "https://rpc.heima-parachain.heima.network",
-    "wss://rpc.heima-parachain.heima.network",
-    "https://litentry-rpc.dwellir.com",
-    "wss://litentry-rpc.dwellir.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Heima",
-    "symbol": "HEI",
-    "decimals": 18
-  },
-  "infoURL": "https://heima.network",
-  "shortName": "heima",
   "chainId": 212013,
-  "networkId": 212013,
   "icon": "./chain/212013/logo.png",
+  "www": "https://heima.network",
+  "name": "Heima",
+  "platform": "heima",
+  "chainToken": "HEI",
+  "endpoints": [
+    {
+      "url": "https://rpc.heima-parachain.heima.network"
+    },
+    {
+      "url": "wss://rpc.heima-parachain.heima.network"
+    },
+    {
+      "url": "https://litentry-rpc.dwellir.com"
+    },
+    {
+      "url": "wss://litentry-rpc.dwellir.com"
+    }
+  ],
   "explorers": [
     {
       "name": "heima statescan",
-      "url": "https://heima.statescan.io",
-      "standard": "none"
+      "url": "https://heima.statescan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

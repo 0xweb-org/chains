@@ -1,9 +1,7 @@
 {
   "name": "Ethos",
   "chain": "ETHOS",
-  "rpc": [
-    "https://rpc.ethos.cool"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.ethos.cool"
   ],

@@ -1,9 +1,7 @@
 {
   "name": "Vecno Mainnet",
   "chain": "VE",
-  "rpc": [
-    "https://rpc.vecno.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Vecno",
@@ -22,7 +20,12 @@
   "shortName": "ve",
   "chainId": 65357,
   "networkId": 65357,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmXPmM55AvkpEmqCvfP9YNQV1xsRdsPZDzwp6QHVThw6Wv",
+    "width": 200,
+    "height": 200,
+    "format": "svg"
+  },
   "explorers": [
     {
       "name": "vecno",

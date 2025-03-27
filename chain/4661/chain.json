@@ -1,10 +1,7 @@
 {
   "name": "AppChain Testnet",
   "chain": "AppChain Testnet",
-  "rpc": [
-    "https://appchaintestnet.rpc.caldera.xyz/http",
-    "wss://appchaintestnet.rpc.caldera.xyz/ws"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",

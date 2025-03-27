@@ -2,9 +2,7 @@
   "name": "TAO EVM Testnet",
   "chain": "TAO EVM",
   "icon": "./chain/10324/logo.png",
-  "rpc": [
-    "https://testnet-rpc.taoevm.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.taoevm.io"
   ],

@@ -1,9 +1,7 @@
 {
   "name": "Thinkium Testnet Chain 2",
   "chain": "Thinkium",
-  "rpc": [
-    "https://test2.thinkiumrpc.net/"
-  ],
+  "rpc": [],
   "faucets": [
     "https://www.thinkiumdev.net/faucet"
   ],
@@ -24,6 +22,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

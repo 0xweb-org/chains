@@ -1,9 +1,7 @@
 {
   "name": "GRVT Exchange",
   "chain": "ETH",
-  "rpc": [
-    "https://rpc.grvt.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "ETH",

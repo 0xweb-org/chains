@@ -1,10 +1,7 @@
 {
   "name": "Lumoz Testnet Alpha",
   "chain": "ETH",
-  "rpc": [
-    "https://alpha-us-http-geth.lumoz.org",
-    "https://alpha-hk-http-geth.lumoz.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Lumoz Test Token",
@@ -24,7 +21,12 @@
   "chainId": 51178,
   "networkId": 51178,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmZnE2ygPL2ZGuzHGvFCHmrqxwdurrhz3K1yPnwLzKbgay",
+    "width": 401,
+    "height": 400,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "LumozTestnetInfo",

@@ -1,27 +1,19 @@
 {
-  "name": "Chang Chain Foundation Mainnet",
-  "chain": "ChangChain",
-  "rpc": [
-    "https://rpc.cthscan.com/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Chang Coin Thailand",
-    "symbol": "CTH",
-    "decimals": 18
-  },
-  "infoURL": "https://changcoin.foundation/",
-  "shortName": "ChangChain",
   "chainId": 5858,
-  "networkId": 5858,
-  "icon": null,
+  "icon": "ipfs://QmbEytMCh2xFr7q87HjthX4K2MKmjfHih2mqS42tqTZoMy",
+  "www": "https://changcoin.foundation/",
+  "name": "Chang Chain Foundation Mainnet",
+  "platform": "ChangChain",
+  "chainToken": "CTH",
+  "endpoints": [
+    {
+      "url": "https://rpc.cthscan.com/"
+    }
+  ],
   "explorers": [
     {
       "name": "CTH Scan",
-      "url": "https://cthscan.com",
-      "standard": "EIP3091",
-      "icon": "blockscout"
+      "url": "https://cthscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

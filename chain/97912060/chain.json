@@ -2,9 +2,7 @@
   "name": "ChadChain",
   "chain": "CHAD",
   "status": "incubating",
-  "rpc": [
-    "https://rpc.chadchain.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "ChadChain",
@@ -16,6 +14,5 @@
   "chainId": 97912060,
   "networkId": 97912060,
   "explorers": [],
-  "icon": null,
   "tvl": 0
 }

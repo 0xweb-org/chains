@@ -1,9 +1,7 @@
 {
   "name": "DeepL Mainnet",
   "chain": "DEEPL",
-  "rpc": [
-    "https://rpc.deeplnetwork.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "DeepL",
@@ -22,7 +20,12 @@
   "shortName": "deepl",
   "chainId": 222555,
   "networkId": 222555,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://bafybeihjwgy4qja5cee452malk5hpb25pzpipfaka7hjcyb437ldodxzaq",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "DeepL Mainnet Explorer",

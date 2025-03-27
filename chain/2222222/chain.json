@@ -2,9 +2,7 @@
   "name": "Coinweb BNB shard",
   "title": "Coinweb BNB shard",
   "chain": "CWEB BNB",
-  "rpc": [
-    "https://api-cloud.coinweb.io/eth-rpc-service/bnb"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "CWEB",
@@ -23,6 +21,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

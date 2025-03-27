@@ -1,37 +1,22 @@
 {
-  "name": "Sophon",
-  "chain": "Sophon",
-  "rpc": [
-    "https://rpc.sophon.xyz",
-    "wss://rpc.sophon.xyz/ws"
-  ],
-  "nativeCurrency": {
-    "name": "Sophon",
-    "symbol": "SOPH",
-    "decimals": 18
-  },
-  "faucets": [],
-  "infoURL": "",
-  "shortName": "sophon",
   "chainId": 50104,
-  "networkId": 50104,
+  "icon": "./chain/50104/logo.png",
+  "www": "",
+  "name": "Sophon",
+  "platform": "sophon",
+  "chainToken": "SOPH",
+  "endpoints": [
+    {
+      "url": "https://rpc.sophon.xyz"
+    },
+    {
+      "url": "wss://rpc.sophon.xyz/ws"
+    }
+  ],
   "explorers": [
     {
       "name": "Sophon Block Explorer",
-      "url": "https://explorer.sophon.xyz",
-      "icon": "sophon-testnet",
-      "standard": "none"
+      "url": "https://explorer.sophon.xyz"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "https://portal.sophon.xyz/bridge"
-      }
-    ]
-  },
-  "icon": "./chain/50104/logo.png",
-  "tvl": 16703191
+  ]
 }

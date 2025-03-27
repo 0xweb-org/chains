@@ -1,26 +1,19 @@
 {
-  "name": "XferChain Mainnet",
-  "chain": "XferChain Mainnet",
-  "icon": "./chain/28125/logo.png",
-  "rpc": [
-    "https://rpc.xferchain.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Dapo",
-    "symbol": "Dapo",
-    "decimals": 18
-  },
-  "infoURL": "https://xferchain.org",
-  "shortName": "DPm",
   "chainId": 28125,
-  "networkId": 28125,
+  "icon": "./chain/28125/logo.png",
+  "www": "https://xferchain.org",
+  "name": "XferChain Mainnet",
+  "platform": "DPm",
+  "chainToken": "Dapo",
+  "endpoints": [
+    {
+      "url": "https://rpc.xferchain.org"
+    }
+  ],
   "explorers": [
     {
       "name": "XferChain Mainnet Explorer",
-      "url": "https://xferchain.org",
-      "standard": "EIP3091"
+      "url": "https://xferchain.org"
     }
-  ],
-  "tvl": 0
+  ]
 }

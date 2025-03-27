@@ -2,9 +2,7 @@
   "name": "Arthera Mainnet",
   "chain": "AA",
   "icon": "./chain/10242/logo.png",
-  "rpc": [
-    "https://rpc.arthera.net"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Arthera",

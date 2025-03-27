@@ -1,9 +1,7 @@
 {
   "name": "6Degree of Outreach - Testnet",
   "chain": "6DO",
-  "rpc": [
-    "https://rpc-testnet.6do.world"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "6Degree-Testnet Coin",

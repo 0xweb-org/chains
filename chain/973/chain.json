@@ -2,9 +2,7 @@
   "name": "Palm Smart Chain",
   "title": "Palm Smart Chain",
   "chain": "Palm",
-  "rpc": [
-    "https://rpc.palmsmartchain.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "PALM",
@@ -22,6 +20,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

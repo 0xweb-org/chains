@@ -1,26 +1,19 @@
 {
-  "name": "Edge Matrix Chain Sepolia",
-  "chain": "EMC Sepolia",
-  "icon": "./chain/99879/logo.png",
-  "rpc": [
-    "https://rpc1-sepolia.emc.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Edge Matrix Chain Token",
-    "symbol": "EMC",
-    "decimals": 18
-  },
-  "infoURL": "",
-  "shortName": "EMCSepolia",
   "chainId": 99879,
-  "networkId": 99879,
+  "icon": "./chain/99879/logo.png",
+  "www": "",
+  "name": "Edge Matrix Chain Sepolia",
+  "platform": "EMCSepolia",
+  "chainToken": "EMC",
+  "endpoints": [
+    {
+      "url": "https://rpc1-sepolia.emc.network"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://sepolia.emcscan.com",
-      "standard": "EIP3091"
+      "url": "https://sepolia.emcscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

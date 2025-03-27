@@ -1,10 +1,7 @@
 {
   "name": "Hazlor Testnet",
   "chain": "SCAS",
-  "rpc": [
-    "https://hatlas.rpc.hazlor.com:8545",
-    "wss://hatlas.rpc.hazlor.com:8546"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.hazlor.com"
   ],
@@ -25,6 +22,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

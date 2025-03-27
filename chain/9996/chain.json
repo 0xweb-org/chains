@@ -1,31 +1,22 @@
 {
-  "name": "Mind Smart Chain Mainnet",
-  "chain": "MIND",
-  "icon": null,
-  "rpc": [
-    "https://rpc-msc.mindchain.info/",
-    "https://seednode.mindchain.info",
-    "https://archive.mindchain.info/",
-    "https://mind-smart-chain.rpc.thirdweb.com",
-    "wss://archive.mindchain.info/ws",
-    "wss://seednode.mindchain.info/ws"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "MIND Coin",
-    "symbol": "MIND",
-    "decimals": 18
-  },
-  "infoURL": "https://mindchain.info",
-  "shortName": "MIND",
   "chainId": 9996,
-  "networkId": 9996,
+  "icon": "ipfs://QmX2b4CzNyrNgy4ERBEteSS9MsuYNVYeq2sSMMiogGjbFP",
+  "www": "https://mindchain.info",
+  "name": "Mind Smart Chain Mainnet",
+  "platform": "MIND",
+  "chainToken": "MIND",
+  "endpoints": [
+    {
+      "url": "https://mind-smart-chain.rpc.thirdweb.com"
+    },
+    {
+      "url": "wss://seednode.mindchain.info/ws"
+    }
+  ],
   "explorers": [
     {
       "name": "Mind Chain explorer",
-      "url": "https://mainnet.mindscan.info",
-      "standard": "EIP3091"
+      "url": "https://mainnet.mindscan.info"
     }
-  ],
-  "tvl": 0
+  ]
 }

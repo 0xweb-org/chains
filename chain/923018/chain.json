@@ -1,9 +1,7 @@
 {
   "name": "FNCY Testnet",
   "chain": "FNCY",
-  "rpc": [
-    "https://fncy-testnet-seed.fncy.world"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet-testnet.fncy.world"
   ],
@@ -17,7 +15,12 @@
   "chainId": 923018,
   "networkId": 923018,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmfXCh6UnaEHn3Evz7RFJ3p2ggJBRm9hunDHegeoquGuhD",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "fncy scan testnet",

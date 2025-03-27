@@ -1,10 +1,7 @@
 {
   "name": "TRUMPCHAIN",
   "chain": "trumpchain",
-  "rpc": [
-    "https://testnet.trumpchain.dev/http",
-    "wss://testnet.trumpchain.dev/ws"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Official Trump",

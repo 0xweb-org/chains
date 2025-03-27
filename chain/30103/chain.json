@@ -2,9 +2,7 @@
   "name": "Cerium Testnet",
   "chain": "CAU",
   "icon": "./chain/30103/logo.png",
-  "rpc": [
-    "https://cerium-rpc.canxium.net"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Canxium",

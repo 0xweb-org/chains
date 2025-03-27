@@ -1,10 +1,13 @@
 {
   "name": "Vention Smart Chain Mainnet",
   "chain": "VSC",
-  "icon": null,
-  "rpc": [
-    "https://mainnet-rpc.vention.network"
-  ],
+  "icon": {
+    "url": "ipfs://QmcNepHmbmHW1BZYM3MFqJW4awwhmDqhUPRXXmRnXwg1U4",
+    "width": 250,
+    "height": 250,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [
     "https://faucet.vention.network"
   ],

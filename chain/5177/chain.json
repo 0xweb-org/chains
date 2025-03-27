@@ -1,10 +1,8 @@
 {
   "name": "TLChain Network Mainnet",
   "chain": "TLC",
-  "icon": null,
-  "rpc": [
-    "https://mainnet-rpc.tlxscan.com/"
-  ],
+  "icon": "./chain/5177/logo.png",
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "TLChain Network",

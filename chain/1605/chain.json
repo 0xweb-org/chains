@@ -1,27 +1,19 @@
 {
-  "name": "Betherance",
-  "chain": "Beth",
-  "rpc": [
-    "https://rpc.bethscan.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Betherance",
-    "symbol": "BETH",
-    "decimals": 18
-  },
-  "infoURL": "https://rpc.bethscan.io",
-  "shortName": "Beth",
   "chainId": 1605,
-  "networkId": 1605,
   "icon": "./chain/1605/logo.png",
+  "www": "https://rpc.bethscan.io",
+  "name": "Betherance",
+  "platform": "Beth",
+  "chainToken": "BETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.bethscan.io"
+    }
+  ],
   "explorers": [
     {
       "name": "bethscan",
-      "url": "https://bethscan.io",
-      "icon": "betherance",
-      "standard": "none"
+      "url": "https://bethscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

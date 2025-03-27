@@ -1,12 +1,7 @@
 {
   "name": "World Chain Sepolia Testnet",
   "chain": "ETH",
-  "rpc": [
-    "https://worldchain-sepolia.g.alchemy.com/public",
-    "https://4801.rpc.thirdweb.com",
-    "https://worldchain-sepolia.gateway.tenderly.co",
-    "wss://worldchain-sepolia.gateway.tenderly.co"
-  ],
+  "rpc": [],
   "faucets": [
     "https://www.alchemy.com/faucets/world-chain-sepolia",
     "https://console.optimism.io/faucet"
@@ -43,6 +38,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

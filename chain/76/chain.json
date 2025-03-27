@@ -1,9 +1,7 @@
 {
   "name": "Mix",
   "chain": "MIX",
-  "rpc": [
-    "https://rpc2.mix-blockchain.org:8647"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Mix Ether",
@@ -15,6 +13,5 @@
   "chainId": 76,
   "networkId": 76,
   "slip44": 76,
-  "icon": null,
   "tvl": 0
 }

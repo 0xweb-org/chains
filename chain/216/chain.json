@@ -3,9 +3,7 @@
   "chainId": 216,
   "networkId": 216,
   "chain": "Happychain Testnet",
-  "rpc": [
-    "https://happy-testnet-sepolia.rpc.caldera.xyz/http"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Happy",
@@ -21,6 +19,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

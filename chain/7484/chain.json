@@ -1,11 +1,13 @@
 {
   "name": "Raba Network Mainnet",
   "chain": "Raba",
-  "icon": null,
-  "rpc": [
-    "https://rpc.x.raba.app/",
-    "wss://rpc.x.raba.app/ws/"
-  ],
+  "icon": {
+    "url": "ipfs://QmatP9qMHEYoXqRDyHMTyjYRQa6j6Gk7pmv1QLxQkvpGRP",
+    "width": 787,
+    "height": 750,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Raba",

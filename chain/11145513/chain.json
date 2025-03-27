@@ -1,10 +1,7 @@
 {
   "name": "Blessnet Sepolia",
   "chain": "ETH",
-  "rpc": [
-    "https://blessnet-sepolia-testnet.rpc.caldera.xyz/http",
-    "wss://blessnet-sepolia-testnet.rpc.caldera.xyz/ws"
-  ],
+  "rpc": [],
   "faucets": [
     "https://blessnet-sepolia-testnet.hub.caldera.xyz"
   ],
@@ -25,7 +22,12 @@
   "shortName": "bless-sepolia",
   "chainId": 11145513,
   "networkId": 11145513,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmUP7NPPrCe6N6k8RQh4KuSBU2xMvbyo6enCtzyE5v4bmQ",
+    "width": 600,
+    "height": 600,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "blockscout",

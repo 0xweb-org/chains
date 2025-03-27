@@ -1,45 +1,31 @@
 {
-  "name": "re.al",
-  "title": "re.al Real-World Assets network",
-  "chain": "re.al",
-  "rpc": [
-    "https://rpc.realforreal.gelato.digital",
-    "wss://ws.realforreal.gelato.digital",
-    "https://tangible-real.gateway.tenderly.co",
-    "https://real.drpc.org",
-    "wss://real.drpc.org"
-  ],
-  "nativeCurrency": {
-    "name": "re.al Ether",
-    "symbol": "reETH",
-    "decimals": 18
-  },
-  "infoURL": "https://re.al",
-  "faucets": [],
-  "shortName": "re-al",
   "chainId": 111188,
-  "networkId": 111188,
-  "slip44": 60,
   "icon": "./chain/111188/logo.png",
+  "www": "https://re.al",
+  "name": "re.al",
+  "platform": "re-al",
+  "chainToken": "reETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.realforreal.gelato.digital"
+    },
+    {
+      "url": "wss://ws.realforreal.gelato.digital"
+    },
+    {
+      "url": "https://tangible-real.gateway.tenderly.co"
+    },
+    {
+      "url": "https://real.drpc.org"
+    },
+    {
+      "url": "wss://real.drpc.org"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://explorer.re.al",
-      "icon": "real",
-      "standard": "EIP3091"
+      "url": "https://explorer.re.al"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "https://re.al/bridge"
-      },
-      {
-        "url": "https://bridge.gelato.network/bridge/real"
-      }
-    ]
-  },
-  "tvl": 629093
+  ]
 }

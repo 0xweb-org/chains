@@ -1,9 +1,7 @@
 {
   "name": "Alyx Chain Testnet",
   "chain": "Alyx Chain Testnet",
-  "rpc": [
-    "https://testnet-rpc.alyxchain.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.alyxchain.com"
   ],

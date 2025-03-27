@@ -1,19 +1,13 @@
 {
-  "name": "DeepSafe Beta Mainnet",
-  "chain": "DeepSafe",
-  "rpc": [
-    "https://betamainnet-rpc-node-http.deepsafe.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "DeepSafe Native Token",
-    "symbol": "DEF",
-    "decimals": 18
-  },
-  "infoURL": "https://deepsafe.network/",
-  "shortName": "DeepSafe",
   "chainId": 10011,
-  "networkId": 10011,
-  "icon": null,
-  "tvl": 0
+  "icon": "ipfs://QmQJi1wfrLzywtbvNetvc6hV6SL825qvgZSKe3coJv8JNm",
+  "www": "https://deepsafe.network/",
+  "name": "DeepSafe Beta Mainnet",
+  "platform": "DeepSafe",
+  "chainToken": "DEF",
+  "endpoints": [
+    {
+      "url": "https://betamainnet-rpc-node-http.deepsafe.network"
+    }
+  ]
 }

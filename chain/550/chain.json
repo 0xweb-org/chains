@@ -1,10 +1,7 @@
 {
   "name": "River",
   "chain": "river",
-  "rpc": [
-    "https://mainnet.rpc.river.build",
-    "https://towns-mainnet.calderachain.xyz/http"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",

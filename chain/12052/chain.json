@@ -1,9 +1,7 @@
 {
   "name": "Singularity ZERO Mainnet",
   "chain": "ZERO",
-  "rpc": [
-    "https://zerorpc.singularity.gold"
-  ],
+  "rpc": [],
   "faucets": [
     "https://zeroscan.singularity.gold"
   ],
@@ -24,6 +22,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

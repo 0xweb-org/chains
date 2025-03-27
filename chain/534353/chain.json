@@ -2,9 +2,7 @@
   "name": "Scroll Alpha Testnet",
   "chain": "ETH",
   "status": "deprecated",
-  "rpc": [
-    "https://alpha-rpc.scroll.io/l2"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",
@@ -28,6 +26,5 @@
     "chain": "eip155-5",
     "bridges": []
   },
-  "icon": null,
   "tvl": 0
 }

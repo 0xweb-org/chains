@@ -2,9 +2,7 @@
   "name": "ReDeFi Layer 2",
   "chain": "ReDeFi",
   "icon": "./chain/1899/logo.png",
-  "rpc": [
-    "https://layer2.redefi.world"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "RED",

@@ -1,9 +1,7 @@
 {
   "name": "Cypherium Mainnet",
   "chain": "CPH",
-  "rpc": [
-    "https://pubnodes.cypherium.io/rpc"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Cypherium",
@@ -21,6 +19,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

@@ -1,27 +1,19 @@
 {
-  "name": "OHO Mainnet",
-  "chain": "OHO",
-  "rpc": [
-    "https://mainnet.oho.ai"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "OHO",
-    "symbol": "OHO",
-    "decimals": 18
-  },
-  "infoURL": "https://oho.ai",
-  "shortName": "oho",
   "chainId": 39815,
-  "networkId": 39815,
-  "icon": null,
+  "icon": "ipfs://QmZt75xixnEtFzqHTrJa8kJkV4cTXmUZqeMeHM8BcvomQc",
+  "www": "https://oho.ai",
+  "name": "OHO Mainnet",
+  "platform": "oho",
+  "chainToken": "OHO",
+  "endpoints": [
+    {
+      "url": "https://mainnet.oho.ai"
+    }
+  ],
   "explorers": [
     {
       "name": "ohoscan",
-      "url": "https://ohoscan.com",
-      "icon": "ohoscan",
-      "standard": "EIP3091"
+      "url": "https://ohoscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,9 +1,7 @@
 {
   "name": "DOID",
   "chain": "DOID",
-  "rpc": [
-    "https://rpc.doid.tech"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "DOID",

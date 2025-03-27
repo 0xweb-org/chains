@@ -3,9 +3,7 @@
   "title": "SKALE Calypso Hub Testnet",
   "chain": "giant-half-dual-testnet",
   "icon": "./chain/974399131/logo.png",
-  "rpc": [
-    "https://testnet.skalenodes.com/v1/giant-half-dual-testnet"
-  ],
+  "rpc": [],
   "faucets": [
     "https://www.sfuelstation.com/"
   ],

@@ -2,9 +2,7 @@
   "name": "Rangers Protocol Mainnet",
   "chain": "Rangers",
   "icon": "./chain/2025/logo.png",
-  "rpc": [
-    "https://mainnet.rangersprotocol.com/api/jsonrpc"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Rangers Protocol Gas",

@@ -2,9 +2,7 @@
   "name": "Six Protocol Testnet",
   "chain": "FIVENET",
   "icon": "./chain/150/logo.png",
-  "rpc": [
-    "https://rpc-evm.fivenet.sixprotocol.net"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.sixprotocol.net"
   ],

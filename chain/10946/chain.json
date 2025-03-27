@@ -1,29 +1,22 @@
 {
-  "name": "Quadrans Blockchain",
-  "chain": "QDC",
-  "icon": "./chain/10946/logo.png",
-  "rpc": [
-    "https://rpc.quadrans.io",
-    "https://rpcna.quadrans.io",
-    "https://rpceu.quadrans.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Quadrans Coin",
-    "symbol": "QDC",
-    "decimals": 18
-  },
-  "infoURL": "https://quadrans.io",
-  "shortName": "quadrans",
   "chainId": 10946,
-  "networkId": 10946,
+  "icon": "./chain/10946/logo.png",
+  "www": "https://quadrans.io",
+  "name": "Quadrans Blockchain",
+  "platform": "quadrans",
+  "chainToken": "QDC",
+  "endpoints": [
+    {
+      "url": "https://rpc.quadrans.io"
+    },
+    {
+      "url": "https://rpceu.quadrans.io"
+    }
+  ],
   "explorers": [
     {
       "name": "explorer",
-      "url": "https://explorer.quadrans.io",
-      "icon": "quadrans",
-      "standard": "EIP3091"
+      "url": "https://explorer.quadrans.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,9 +1,7 @@
 {
   "name": "EthStorage L2 Mainnet",
   "chain": "EthStorage",
-  "rpc": [
-    "http://mainnet.l2.ethstorage.io:9540"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",
@@ -20,6 +18,5 @@
     "type": "L2",
     "chain": "eip155-1"
   },
-  "icon": null,
   "tvl": 0
 }

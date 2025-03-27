@@ -1,9 +1,7 @@
 {
   "name": "Kyoto Testnet",
   "chain": "KYOTO",
-  "rpc": [
-    "https://rpc.testnet.kyotoprotocol.io:8545"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.kyotoprotocol.io"
   ],
@@ -29,6 +27,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

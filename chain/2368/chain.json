@@ -2,9 +2,7 @@
   "name": "KiteAI Testnet",
   "chain": "KiteAI",
   "icon": "./chain/2368/logo.png",
-  "rpc": [
-    "https://rpc-testnet.gokite.ai"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.gokite.ai/"
   ],

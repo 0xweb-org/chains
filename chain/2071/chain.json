@@ -1,10 +1,13 @@
 {
   "name": "Metacces Mainnet",
   "chain": "Metacces Mainnet",
-  "icon": null,
-  "rpc": [
-    "https://oli.accesscan.io"
-  ],
+  "icon": {
+    "url": "ipfs://QmbpYHpqR68uuJZCwm1CXtN51zi744qWzZ32ob9BKfgFTV",
+    "width": 40,
+    "height": 38,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Metacces",

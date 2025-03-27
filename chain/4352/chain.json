@@ -3,10 +3,7 @@
   "title": "MemeCore",
   "chain": "MemeCore",
   "icon": "./chain/4352/logo.png",
-  "rpc": [
-    "https://rpc.memecore.net",
-    "wss://ws.memecore.net"
-  ],
+  "rpc": [],
   "nativeCurrency": {
     "name": "M",
     "symbol": "M",

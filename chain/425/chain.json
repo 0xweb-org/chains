@@ -1,35 +1,19 @@
 {
+  "chainId": 425,
+  "icon": "ipfs://QmVM1zLyWDZYyje5qWWfDdve1fmrDm69J9pSKhivb1zkCH",
+  "www": "https://stenix.org",
   "name": "Stenix Mainnet",
-  "chain": "STEN",
-  "rpc": [
-    "https://stenix.network/pub"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Stenix",
-    "symbol": "STEN",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "sten",
+  "chainToken": "STEN",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://stenix.network/pub"
     }
   ],
-  "infoURL": "https://stenix.org",
-  "shortName": "sten",
-  "chainId": 425,
-  "networkId": 425,
-  "icon": null,
   "explorers": [
     {
       "name": "stenscan",
-      "url": "https://stenscan.com",
-      "icon": "stenscan",
-      "standard": "none"
+      "url": "https://stenscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

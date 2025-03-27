@@ -1,9 +1,7 @@
 {
   "name": "Singularity ZERO Testnet",
   "chain": "ZERO",
-  "rpc": [
-    "https://betaenv.singularity.gold:18545"
-  ],
+  "rpc": [],
   "faucets": [
     "https://nft.singularity.gold"
   ],
@@ -24,6 +22,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

@@ -1,9 +1,7 @@
 {
   "name": "Joys Digital TestNet",
   "chain": "TOYS",
-  "rpc": [
-    "https://toys.joys.cash/"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.joys.digital/"
   ],
@@ -17,6 +15,5 @@
   "chainId": 99415706,
   "networkId": 99415706,
   "slip44": 1,
-  "icon": null,
   "tvl": 0
 }

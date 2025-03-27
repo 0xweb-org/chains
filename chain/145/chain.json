@@ -2,9 +2,7 @@
   "name": "SoraAI Testnet",
   "chain": "SETH",
   "icon": "./chain/145/logo.png",
-  "rpc": [
-    "https://rpc-testnet.soraai.bot"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"

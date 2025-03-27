@@ -1,9 +1,7 @@
 {
   "name": "Charmverse Testnet",
   "chain": "Charmverse Testnet",
-  "rpc": [
-    "https://rpc-charmverse-testnet-g6blnaebes.t.conduit.xyz"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "ETH",
@@ -14,6 +12,5 @@
   "shortName": "charmverse-testnet",
   "chainId": 5104,
   "networkId": 5104,
-  "icon": null,
   "tvl": 0
 }

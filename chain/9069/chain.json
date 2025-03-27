@@ -1,9 +1,7 @@
 {
   "name": "Apex Fusion - Nexus Mainnet",
   "chain": "Nexus Mainnet",
-  "rpc": [
-    "https://rpc.nexus.mainnet.apexfusion.org/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Apex Fusion Token",

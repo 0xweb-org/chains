@@ -1,10 +1,7 @@
 {
   "name": "Kinto Mainnet",
   "chain": "Kinto Mainnet",
-  "rpc": [
-    "https://rpc.kinto.xyz/http",
-    "https://kinto-mainnet.calderachain.xyz/http"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ethereum",

@@ -2,9 +2,7 @@
   "name": "MainnetZ Testnet",
   "chain": "NetZ",
   "icon": "./chain/9768/logo.png",
-  "rpc": [
-    "https://testnet-rpc.mainnetz.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.mainnetz.io"
   ],

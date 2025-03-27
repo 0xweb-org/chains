@@ -3,13 +3,7 @@
   "title": "Polygon Testnet Mumbai",
   "chain": "Polygon",
   "icon": "./chain/80001/logo.png",
-  "rpc": [
-    "https://rpc-mumbai.maticvigil.com",
-    "https://polygon-mumbai-bor-rpc.publicnode.com",
-    "wss://polygon-mumbai-bor-rpc.publicnode.com",
-    "https://polygon-mumbai.gateway.tenderly.co",
-    "wss://polygon-mumbai.gateway.tenderly.co"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.polygon.technology/"
   ],

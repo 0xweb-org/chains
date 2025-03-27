@@ -1,9 +1,7 @@
 {
   "name": "Beagle Messaging Chain",
   "chain": "BMC",
-  "rpc": [
-    "https://beagle.chat/eth"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.beagle.chat/"
   ],
@@ -23,6 +21,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

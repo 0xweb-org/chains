@@ -1,31 +1,21 @@
 {
-  "name": "Fluence",
-  "chain": "Fluence",
-  "rpc": [
-    "https://rpc.mainnet.fluence.dev/",
-    "wss://ws.mainnet.fluence.dev/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "FLT",
-    "symbol": "FLT",
-    "decimals": 18
-  },
-  "infoURL": "https://fluence.network/",
-  "shortName": "fluence",
   "chainId": 9999999,
-  "networkId": 9999999,
+  "www": "https://fluence.network/",
+  "name": "Fluence",
+  "platform": "fluence",
+  "chainToken": "FLT",
+  "endpoints": [
+    {
+      "url": "https://rpc.mainnet.fluence.dev/"
+    },
+    {
+      "url": "wss://ws.mainnet.fluence.dev/"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://blockscout.mainnet.fluence.dev",
-      "standard": "EIP3091"
+      "url": "https://blockscout.mainnet.fluence.dev"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1"
-  },
-  "icon": null,
-  "tvl": 986185
+  ]
 }

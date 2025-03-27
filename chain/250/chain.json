@@ -1,37 +1,32 @@
 {
-  "name": "Fantom Opera",
-  "chain": "FTM",
-  "rpc": [
-    "https://rpc.ftm.tools",
-    "https://fantom-rpc.publicnode.com",
-    "wss://fantom-rpc.publicnode.com",
-    "https://fantom.drpc.org",
-    "wss://fantom.drpc.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Fantom",
-    "symbol": "FTM",
-    "decimals": 18
-  },
-  "infoURL": "https://fantom.foundation",
-  "shortName": "ftm",
   "chainId": 250,
-  "networkId": 250,
   "icon": "./chain/250/logo.png",
+  "www": "https://fantom.foundation",
+  "name": "Fantom Opera",
+  "platform": "ftm",
+  "chainToken": "FTM",
+  "endpoints": [
+    {
+      "url": "https://fantom-rpc.publicnode.com"
+    },
+    {
+      "url": "wss://fantom-rpc.publicnode.com"
+    },
+    {
+      "url": "https://fantom.drpc.org"
+    },
+    {
+      "url": "wss://fantom.drpc.org"
+    }
+  ],
   "explorers": [
     {
       "name": "ftmscan",
-      "url": "https://ftmscan.com",
-      "icon": "ftmscan",
-      "standard": "EIP3091"
+      "url": "https://ftmscan.com"
     },
     {
       "name": "dexguru",
-      "url": "https://fantom.dex.guru",
-      "icon": "dexguru",
-      "standard": "EIP3091"
+      "url": "https://fantom.dex.guru"
     }
-  ],
-  "tvl": 30741319
+  ]
 }

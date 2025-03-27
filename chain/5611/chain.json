@@ -1,40 +1,41 @@
 {
-  "name": "opBNB Testnet",
-  "chain": "opBNB",
-  "icon": null,
-  "rpc": [
-    "https://opbnb-testnet-rpc.bnbchain.org",
-    "https://opbnb-testnet.nodereal.io/v1/64a9df0874fb4a93b9d0a3849de012d3",
-    "wss://opbnb-testnet.nodereal.io/ws/v1/64a9df0874fb4a93b9d0a3849de012d3",
-    "https://opbnb-testnet.nodereal.io/v1/e9a36765eb8a40b9bd12e680a1fd2bc5",
-    "wss://opbnb-testnet.nodereal.io/ws/v1/e9a36765eb8a40b9bd12e680a1fd2bc5",
-    "https://opbnb-testnet-rpc.publicnode.com",
-    "wss://opbnb-testnet-rpc.publicnode.com"
-  ],
-  "faucets": [
-    "https://testnet.bnbchain.org/faucet-smart"
-  ],
-  "nativeCurrency": {
-    "name": "BNB Chain Native Token",
-    "symbol": "tBNB",
-    "decimals": 18
-  },
-  "infoURL": "https://opbnb.bnbchain.org/en",
-  "shortName": "obnbt",
   "chainId": 5611,
-  "networkId": 5611,
-  "slip44": 1,
+  "icon": "ipfs://bafybeib75gwytvblyvjpfminitr3i6mpat3a624udfsqsl5nysf5vuuvie",
+  "www": "https://opbnb.bnbchain.org/en",
+  "name": "opBNB Testnet",
+  "platform": "obnbt",
+  "chainToken": "tBNB",
+  "endpoints": [
+    {
+      "url": "https://opbnb-testnet-rpc.bnbchain.org"
+    },
+    {
+      "url": "https://opbnb-testnet.nodereal.io/v1/64a9df0874fb4a93b9d0a3849de012d3"
+    },
+    {
+      "url": "wss://opbnb-testnet.nodereal.io/ws/v1/64a9df0874fb4a93b9d0a3849de012d3"
+    },
+    {
+      "url": "https://opbnb-testnet.nodereal.io/v1/e9a36765eb8a40b9bd12e680a1fd2bc5"
+    },
+    {
+      "url": "wss://opbnb-testnet.nodereal.io/ws/v1/e9a36765eb8a40b9bd12e680a1fd2bc5"
+    },
+    {
+      "url": "https://opbnb-testnet-rpc.publicnode.com"
+    },
+    {
+      "url": "wss://opbnb-testnet-rpc.publicnode.com"
+    }
+  ],
   "explorers": [
     {
       "name": "bscscan-opbnb-testnet",
-      "url": "https://opbnb-testnet.bscscan.com",
-      "standard": "EIP3091"
+      "url": "https://opbnb-testnet.bscscan.com"
     },
     {
       "name": "opbnbscan",
-      "url": "https://opbnbscan.com",
-      "standard": "EIP3091"
+      "url": "https://opbnbscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,27 +1,22 @@
 {
-  "name": "Oasis Emerald",
-  "chain": "Emerald",
-  "icon": "./chain/42262/logo.png",
-  "rpc": [
-    "https://emerald.oasis.io",
-    "wss://emerald.oasis.io/ws"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Emerald Rose",
-    "symbol": "ROSE",
-    "decimals": 18
-  },
-  "infoURL": "https://docs.oasis.io/dapp/emerald",
-  "shortName": "emerald",
   "chainId": 42262,
-  "networkId": 42262,
+  "icon": "./chain/42262/logo.png",
+  "www": "https://docs.oasis.io/dapp/emerald",
+  "name": "Oasis Emerald",
+  "platform": "emerald",
+  "chainToken": "ROSE",
+  "endpoints": [
+    {
+      "url": "https://emerald.oasis.io"
+    },
+    {
+      "url": "wss://emerald.oasis.io/ws"
+    }
+  ],
   "explorers": [
     {
       "name": "Oasis Emerald Explorer",
-      "url": "https://explorer.oasis.io/mainnet/emerald",
-      "standard": "EIP3091"
+      "url": "https://explorer.oasis.io/mainnet/emerald"
     }
-  ],
-  "tvl": 528764
+  ]
 }

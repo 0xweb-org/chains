@@ -1,42 +1,19 @@
 {
+  "chainId": 9369,
+  "icon": "./chain/9369/logo.png",
+  "www": "https://zero.tech",
   "name": "Z Chain",
-  "title": "Z Chain",
-  "chain": "Z",
-  "rpc": [
-    "https://rpc.zchain.org"
-  ],
-  "faucets": [],
-  "features": [
+  "platform": "z",
+  "chainToken": "Z",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://rpc.zchain.org"
     }
   ],
-  "nativeCurrency": {
-    "name": "Z",
-    "symbol": "Z",
-    "decimals": 18
-  },
-  "infoURL": "https://zero.tech",
-  "shortName": "z",
-  "chainId": 9369,
-  "networkId": 9369,
-  "icon": "./chain/9369/logo.png",
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://zscan.live",
-      "icon": "z",
-      "standard": "EIP3091"
+      "url": "https://zscan.live"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "bridge.zchain.org"
-      }
-    ]
-  },
-  "tvl": 0
+  ]
 }

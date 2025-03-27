@@ -1,9 +1,7 @@
 {
   "name": "GoldXChain Testnet",
   "chain": "GoldXTestnet",
-  "rpc": [
-    "https://testnet-rpc.goldxchain.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.goldxchain.io"
   ],
@@ -23,6 +21,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

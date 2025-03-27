@@ -1,9 +1,7 @@
 {
   "name": "Cascadia Testnet",
   "chain": "Cascadia",
-  "rpc": [
-    "https://testnet.cascadia.foundation"
-  ],
+  "rpc": [],
   "faucets": [
     "https://www.cascadia.foundation/faucet"
   ],

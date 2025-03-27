@@ -1,27 +1,19 @@
 {
-  "name": "AIOZ Network",
-  "chain": "AIOZ",
-  "icon": "./chain/168/logo.png",
-  "rpc": [
-    "https://eth-dataseed.aioz.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "AIOZ",
-    "symbol": "AIOZ",
-    "decimals": 18
-  },
-  "infoURL": "https://aioz.network",
-  "shortName": "aioz",
   "chainId": 168,
-  "networkId": 168,
-  "slip44": 60,
+  "icon": "./chain/168/logo.png",
+  "www": "https://aioz.network",
+  "name": "AIOZ Network",
+  "platform": "aioz",
+  "chainToken": "AIOZ",
+  "endpoints": [
+    {
+      "url": "https://eth-dataseed.aioz.network"
+    }
+  ],
   "explorers": [
     {
       "name": "AIOZ Network Explorer",
-      "url": "https://explorer.aioz.network",
-      "standard": "EIP3091"
+      "url": "https://explorer.aioz.network"
     }
-  ],
-  "tvl": 0
+  ]
 }

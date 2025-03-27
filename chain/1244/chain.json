@@ -2,9 +2,7 @@
   "name": "ARC Testnet",
   "chain": "ARC",
   "icon": "./chain/1244/logo.png",
-  "rpc": [
-    "https://rpc-test-1.archiechain.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.archiechain.io"
   ],

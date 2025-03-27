@@ -2,9 +2,7 @@
   "name": "Foundry Chain Testnet",
   "chain": "tFNC",
   "icon": "./chain/77238/logo.png",
-  "rpc": [
-    "https://testnet-rpc.foundryscan.org/"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.foundryscan.org"
   ],

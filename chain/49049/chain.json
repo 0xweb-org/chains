@@ -1,29 +1,22 @@
 {
-  "name": "Wireshape Floripa Testnet",
-  "title": "Wireshape Floripa Testnet",
-  "chain": "Wireshape",
-  "icon": "./chain/49049/logo.png",
-  "rpc": [
-    "https://rpc-floripa.wireshape.org",
-    "https://wireshape-floripa-testnet.rpc.thirdweb.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "WIRE",
-    "symbol": "WIRE",
-    "decimals": 18
-  },
-  "infoURL": "https://wireshape.org",
-  "shortName": "floripa",
   "chainId": 49049,
-  "networkId": 49049,
-  "slip44": 1,
+  "icon": "./chain/49049/logo.png",
+  "www": "https://wireshape.org",
+  "name": "Wireshape Floripa Testnet",
+  "platform": "floripa",
+  "chainToken": "WIRE",
+  "endpoints": [
+    {
+      "url": "https://rpc-floripa.wireshape.org"
+    },
+    {
+      "url": "https://wireshape-floripa-testnet.rpc.thirdweb.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Wire Explorer",
-      "url": "https://floripa-explorer.wireshape.org",
-      "standard": "EIP3091"
+      "url": "https://floripa-explorer.wireshape.org"
     }
-  ],
-  "tvl": 0
+  ]
 }

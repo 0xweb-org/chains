@@ -1,36 +1,19 @@
 {
-  "name": "Volcano Chain Mainnet",
-  "chain": "Volcano",
+  "chainId": 10085,
   "icon": "./chain/10085/logo.png",
-  "rpc": [
-    "https://mainnet.vchain.pro",
-    "wss://wss.mainnet.vchain.pro"
-  ],
-  "features": [
+  "www": "https://vex.pro",
+  "name": "Volcano Chain Mainnet",
+  "platform": "volcanochain",
+  "chainToken": "VC",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://mainnet.vchain.pro"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Volcano Coin",
-    "symbol": "VC",
-    "decimals": 18
-  },
-  "infoURL": "https://vex.pro",
-  "shortName": "volcanochain",
-  "chainId": 10085,
-  "networkId": 10085,
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://vchainscan.com",
-      "icon": "volcano",
-      "standard": "EIP3091"
+      "url": "https://vchainscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

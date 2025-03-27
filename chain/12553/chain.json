@@ -1,35 +1,19 @@
 {
-  "name": "RSS3 VSL Mainnet",
-  "chain": "RSS3",
-  "rpc": [
-    "https://rpc.rss3.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "RSS3",
-    "symbol": "RSS3",
-    "decimals": 18
-  },
-  "infoURL": "https://rss3.io",
-  "shortName": "rss3",
   "chainId": 12553,
-  "networkId": 12553,
   "icon": "./chain/12553/logo.png",
+  "www": "https://rss3.io",
+  "name": "RSS3 VSL Mainnet",
+  "platform": "rss3",
+  "chainToken": "RSS3",
+  "endpoints": [
+    {
+      "url": "https://rpc.rss3.io"
+    }
+  ],
   "explorers": [
     {
       "name": "RSS3 VSL Scan",
-      "url": "https://scan.rss3.io",
-      "standard": "EIP3091"
+      "url": "https://scan.rss3.io"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "https://explorer.rss3.io/bridge"
-      }
-    ]
-  },
-  "tvl": 0
+  ]
 }

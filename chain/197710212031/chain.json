@@ -1,9 +1,7 @@
 {
   "name": "Haradev Testnet",
   "chain": "Ntity",
-  "rpc": [
-    "https://blockchain.haradev.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ntity Haradev",

@@ -1,47 +1,19 @@
 {
-  "name": "Lumia Testnet",
-  "shortName": "lumiatestnet",
-  "title": "Lumia Testnet",
-  "chain": "ETH",
+  "chainId": 1952959480,
   "icon": "./chain/1952959480/logo.png",
-  "rpc": [
-    "https://testnet-rpc.lumia.org"
-  ],
-  "faucets": [
-    "https://testnet-faucet.lumia.org"
-  ],
-  "nativeCurrency": {
-    "name": "Lumia",
-    "symbol": "LUMIA",
-    "decimals": 18
-  },
-  "features": [
+  "www": "https://lumia.org",
+  "name": "Lumia Testnet",
+  "platform": "lumiatestnet",
+  "chainToken": "LUMIA",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://testnet-rpc.lumia.org"
     }
   ],
-  "infoURL": "https://lumia.org",
-  "chainId": 1952959480,
-  "networkId": 1952959480,
   "explorers": [
     {
       "name": "Lumia Testnet Explorer",
-      "url": "https://testnet-explorer.lumia.org",
-      "icon": "lumia",
-      "standard": "EIP3091"
+      "url": "https://testnet-explorer.lumia.org"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "https://testnet-bridge.lumia.org"
-      }
-    ]
-  },
-  "tvl": 0
+  ]
 }

@@ -1,26 +1,19 @@
 {
-  "name": "Stratis Mainnet",
-  "chain": "Stratis",
-  "rpc": [
-    "https://rpc.stratisevm.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Stratis",
-    "symbol": "STRAX",
-    "decimals": 18
-  },
-  "infoURL": "https://www.stratisplatform.com",
-  "shortName": "stratis",
   "chainId": 105105,
-  "networkId": 105105,
   "icon": "./chain/105105/logo.png",
+  "www": "https://www.stratisplatform.com",
+  "name": "Stratis Mainnet",
+  "platform": "stratis",
+  "chainToken": "STRAX",
+  "endpoints": [
+    {
+      "url": "https://rpc.stratisevm.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Stratis Explorer",
-      "url": "https://explorer.stratisevm.com",
-      "standard": "EIP3091"
+      "url": "https://explorer.stratisevm.com"
     }
-  ],
-  "tvl": 827466
+  ]
 }

@@ -1,11 +1,7 @@
 {
   "name": "XDC Apothem Network",
   "chain": "XDC",
-  "rpc": [
-    "https://rpc.apothem.network",
-    "https://erpc.apothem.network",
-    "https://apothem.xdcrpc.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.apothem.network",
     "https://faucet.blocksscan.io",

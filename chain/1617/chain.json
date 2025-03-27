@@ -1,9 +1,7 @@
 {
   "name": "Ethereum Inscription Mainnet",
   "chain": "ETINS",
-  "rpc": [
-    "https://rpc.etins.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ethereum Inscription",
@@ -29,6 +27,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

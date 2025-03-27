@@ -2,9 +2,7 @@
   "name": "HashKey Chain Testnet",
   "title": "HashKey Chain Testnet",
   "chain": "HashKey Chain Testnet",
-  "rpc": [
-    "https://hashkeychain-testnet.alt.technology"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "HashKey EcoPoints",
@@ -27,6 +25,5 @@
     "type": "L2",
     "chain": "eip155-11155111"
   },
-  "icon": null,
   "tvl": 0
 }

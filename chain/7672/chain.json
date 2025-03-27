@@ -1,28 +1,21 @@
 {
-  "name": "The Root Network - Porcini Testnet",
-  "chain": "TRN",
-  "rpc": [
-    "https://porcini.rootnet.app/archive",
-    "wss://porcini.rootnet.app/archive/ws"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "XRP",
-    "symbol": "XRP",
-    "decimals": 6
-  },
-  "infoURL": "https://www.futureverse.com/technology/root",
-  "shortName": "trn-porcini",
   "chainId": 7672,
-  "networkId": 7672,
-  "slip44": 1,
+  "www": "https://www.futureverse.com/technology/root",
+  "name": "The Root Network - Porcini Testnet",
+  "platform": "trn-porcini",
+  "chainToken": "XRP",
+  "endpoints": [
+    {
+      "url": "https://porcini.rootnet.app/archive"
+    },
+    {
+      "url": "wss://porcini.rootnet.app/archive/ws"
+    }
+  ],
   "explorers": [
     {
       "name": "rootnet",
-      "url": "https://explorer.rootnet.cloud",
-      "standard": "EIP3091"
+      "url": "https://explorer.rootnet.cloud"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

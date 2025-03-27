@@ -1,33 +1,29 @@
 {
-  "name": "Mode",
-  "chain": "ETH",
-  "rpc": [
-    "https://mainnet.mode.network",
-    "https://mode.drpc.org",
-    "wss://mode.drpc.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://docs.mode.network/",
-  "shortName": "mode",
   "chainId": 34443,
-  "networkId": 34443,
   "icon": "./chain/34443/logo.png",
+  "www": "https://docs.mode.network/",
+  "name": "Mode",
+  "platform": "mode",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://mainnet.mode.network"
+    },
+    {
+      "url": "https://mode.drpc.org"
+    },
+    {
+      "url": "wss://mode.drpc.org"
+    }
+  ],
   "explorers": [
     {
       "name": "modescout",
-      "url": "https://explorer.mode.network",
-      "standard": "none"
+      "url": "https://explorer.mode.network"
     },
     {
       "name": "Routescan",
-      "url": "https://modescan.io",
-      "standard": "none"
+      "url": "https://modescan.io"
     }
-  ],
-  "tvl": 273303015
+  ]
 }

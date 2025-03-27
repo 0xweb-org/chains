@@ -1,9 +1,7 @@
 {
   "name": "PremiumBlock",
   "chain": "PBLK",
-  "rpc": [
-    "https://rpc.premiumblock.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Premium Block",
@@ -26,6 +24,5 @@
       "name": "EIP1559"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

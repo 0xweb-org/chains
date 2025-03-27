@@ -2,10 +2,13 @@
   "name": "COINSEC Network",
   "title": "COINSEC Network",
   "chain": "coinsecnetwork",
-  "icon": null,
-  "rpc": [
-    "https://mainnet-rpc.coinsec.network"
-  ],
+  "icon": {
+    "url": "ipfs://QmeUyBe58BPndt6SpH9Tn1a8AYpNtHbMVhVyZt8Ppc4HTB",
+    "width": 200,
+    "height": 200,
+    "format": "svg"
+  },
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "COINSEC",

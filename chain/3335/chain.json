@@ -1,31 +1,19 @@
 {
-  "name": "QuarkChain L2 Beta Testnet",
-  "chain": "QuarkChain",
-  "rpc": [
-    "https://rpc.beta.testnet.l2.quarkchain.io:8545"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "QKC",
-    "symbol": "QKC",
-    "decimals": 18
-  },
-  "infoURL": "https://www.quarkchain.io",
-  "shortName": "qkcl2-b",
   "chainId": 3335,
-  "networkId": 3335,
-  "slip44": 1,
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-11155111"
-  },
+  "icon": "./chain/3335/logo.png",
+  "www": "https://www.quarkchain.io",
+  "name": "QuarkChain L2 Beta Testnet",
+  "platform": "qkcl2-b",
+  "chainToken": "QKC",
+  "endpoints": [
+    {
+      "url": "https://rpc.beta.testnet.l2.quarkchain.io:8545"
+    }
+  ],
   "explorers": [
     {
       "name": "quarkchain-beta-test",
-      "url": "https://explorer.beta.testnet.l2.quarkchain.io",
-      "standard": "EIP3091"
+      "url": "https://explorer.beta.testnet.l2.quarkchain.io"
     }
-  ],
-  "icon": "./chain/3335/logo.png",
-  "tvl": 0
+  ]
 }

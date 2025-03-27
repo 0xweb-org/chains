@@ -1,9 +1,7 @@
 {
   "name": "Venidium Testnet",
   "chain": "XVM",
-  "rpc": [
-    "https://rpc-evm-testnet.venidium.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Venidium",
@@ -22,6 +20,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

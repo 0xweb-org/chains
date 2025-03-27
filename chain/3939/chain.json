@@ -1,28 +1,19 @@
 {
-  "name": "DOS Testnet",
-  "chain": "DOS",
-  "rpc": [
-    "https://test.doschain.com/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "DOS",
-    "symbol": "DOS",
-    "decimals": 18
-  },
-  "infoURL": "http://doschain.io/",
-  "shortName": "dost",
   "chainId": 3939,
-  "networkId": 3939,
-  "slip44": 1,
-  "icon": null,
+  "icon": "ipfs://QmV2Nowzo81F6pi2qFcHePA4MwmmdMKBMUzBJUrxcymxx4",
+  "www": "http://doschain.io/",
+  "name": "DOS Testnet",
+  "platform": "dost",
+  "chainToken": "DOS",
+  "endpoints": [
+    {
+      "url": "https://test.doschain.com/"
+    }
+  ],
   "explorers": [
     {
       "name": "DOScan-Test",
-      "url": "https://test.doscan.io",
-      "icon": "doschain",
-      "standard": "EIP3091"
+      "url": "https://test.doscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

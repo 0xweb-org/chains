@@ -1,10 +1,13 @@
 {
   "name": "Dot Blox",
   "chain": "DTBX",
-  "icon": null,
-  "rpc": [
-    "https://rpc.dotblox.io"
-  ],
+  "icon": {
+    "url": "ipfs://QmZy2TMY881ghRxXJA7VyRA8Zhj2LJJ86DpHRZs3VQZqoJ",
+    "width": 53,
+    "height": 53,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Dot Blox",

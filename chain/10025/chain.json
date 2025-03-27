@@ -1,26 +1,19 @@
 {
-  "name": "AEON Chain",
-  "chain": "AEON Chain",
-  "icon": "./chain/10025/logo.png",
-  "rpc": [
-    "https://node.aeon.xyz/rpc"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "AEON Token",
-    "symbol": "AEON",
-    "decimals": 18
-  },
-  "infoURL": "",
-  "shortName": "aeon",
   "chainId": 10025,
-  "networkId": 10025,
+  "icon": "./chain/10025/logo.png",
+  "www": "",
+  "name": "AEON Chain",
+  "platform": "aeon",
+  "chainToken": "AEON",
+  "endpoints": [
+    {
+      "url": "https://node.aeon.xyz/rpc"
+    }
+  ],
   "explorers": [
     {
       "name": "AEON Explorer",
-      "url": "https://scan.aeon.xyz",
-      "standard": "none"
+      "url": "https://scan.aeon.xyz"
     }
-  ],
-  "tvl": 0
+  ]
 }

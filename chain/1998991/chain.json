@@ -1,25 +1,14 @@
 {
-  "name": "Xphere Testnet",
-  "chain": "Xphere Testnet",
+  "chainId": 1998991,
   "icon": "./chain/1998991/logo.png",
-  "rpc": [
-    "http://testnet.x-phere.com"
-  ],
-  "features": [
+  "www": "https://x-phere.com/",
+  "name": "Xphere Testnet",
+  "platform": "xp-test",
+  "chainToken": "XPT",
+  "endpoints": [
     {
-      "name": "EIP1559"
+      "url": "http://testnet.x-phere.com"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Xphere Testnet",
-    "symbol": "XPT",
-    "decimals": 18
-  },
-  "infoURL": "https://x-phere.com/",
-  "shortName": "xp-test",
-  "chainId": 1998991,
-  "networkId": 1998991,
-  "explorers": [],
-  "tvl": 0
+  "explorers": []
 }

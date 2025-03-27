@@ -1,26 +1,19 @@
 {
-  "name": "Digit Soul Smart Chain 2",
-  "chain": "DS2",
-  "rpc": [
-    "https://dgs-rpc.digitsoul.co.th"
-  ],
-  "faucets": [],
-  "icon": "./chain/363636/logo.png",
-  "nativeCurrency": {
-    "name": "Digit Coin",
-    "symbol": "DGC",
-    "decimals": 18
-  },
-  "infoURL": "",
-  "shortName": "DS2",
   "chainId": 363636,
-  "networkId": 363636,
+  "icon": "./chain/363636/logo.png",
+  "www": "",
+  "name": "Digit Soul Smart Chain 2",
+  "platform": "DS2",
+  "chainToken": "DGC",
+  "endpoints": [
+    {
+      "url": "https://dgs-rpc.digitsoul.co.th"
+    }
+  ],
   "explorers": [
     {
       "name": "Digit Soul Explorer",
-      "url": "https://dgs-exp.digitsoul.co.th",
-      "standard": "EIP3091"
+      "url": "https://dgs-exp.digitsoul.co.th"
     }
-  ],
-  "tvl": 0
+  ]
 }

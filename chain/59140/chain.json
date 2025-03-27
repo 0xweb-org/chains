@@ -2,12 +2,7 @@
   "name": "Linea Goerli",
   "title": "Linea Goerli Testnet",
   "chain": "ETH",
-  "rpc": [
-    "https://rpc.goerli.linea.build",
-    "wss://rpc.goerli.linea.build",
-    "https://linea-goerli.infura.io/v3/${INFURA_API_KEY}",
-    "wss://linea-goerli.infura.io/ws/v3/${INFURA_API_KEY}"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucetlink.to/goerli"
   ],

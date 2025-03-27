@@ -1,49 +1,46 @@
 {
-  "name": "Base",
-  "chain": "ETH",
-  "rpc": [
-    "https://mainnet.base.org/",
-    "https://developer-access-mainnet.base.org/",
-    "https://base.gateway.tenderly.co",
-    "wss://base.gateway.tenderly.co",
-    "https://base-rpc.publicnode.com",
-    "wss://base-rpc.publicnode.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://base.org",
-  "shortName": "base",
   "chainId": 8453,
-  "networkId": 8453,
   "icon": "./chain/8453/logo.png",
+  "www": "https://base.org",
+  "name": "Base",
+  "platform": "base",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://mainnet.base.org/"
+    },
+    {
+      "url": "https://developer-access-mainnet.base.org/"
+    },
+    {
+      "url": "https://base.gateway.tenderly.co"
+    },
+    {
+      "url": "wss://base.gateway.tenderly.co"
+    },
+    {
+      "url": "https://base-rpc.publicnode.com"
+    },
+    {
+      "url": "wss://base-rpc.publicnode.com"
+    }
+  ],
   "explorers": [
     {
       "name": "basescan",
-      "url": "https://basescan.org",
-      "standard": "EIP3091"
+      "url": "https://basescan.org"
     },
     {
       "name": "basescout",
-      "url": "https://base.blockscout.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://base.blockscout.com"
     },
     {
       "name": "dexguru",
-      "url": "https://base.dex.guru",
-      "icon": "dexguru",
-      "standard": "EIP3091"
+      "url": "https://base.dex.guru"
     },
     {
       "name": "Routescan",
-      "url": "https://base.superscan.network",
-      "standard": "EIP3091"
+      "url": "https://base.superscan.network"
     }
-  ],
-  "status": "active",
-  "tvl": 3679268520
+  ]
 }

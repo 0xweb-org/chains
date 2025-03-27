@@ -2,9 +2,7 @@
   "name": "Syndicate Chain",
   "title": "Syndicate Chain",
   "chain": "Syndicate",
-  "rpc": [
-    "https://rpc-mainnet.syndicate.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",

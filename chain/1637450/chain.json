@@ -1,9 +1,7 @@
 {
   "name": "Xterio Testnet",
   "chain": "Xterio Testnet",
-  "rpc": [
-    "https://xterio-testnet.alt.technology"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "tBNB",
@@ -21,6 +19,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

@@ -1,9 +1,7 @@
 {
   "name": "Pirl",
   "chain": "PIRL",
-  "rpc": [
-    "https://wallrpc.pirl.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Pirl Ether",
@@ -15,6 +13,5 @@
   "chainId": 3125659152,
   "networkId": 3125659152,
   "slip44": 164,
-  "icon": null,
   "tvl": 0
 }

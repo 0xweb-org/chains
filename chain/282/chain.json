@@ -1,9 +1,7 @@
 {
   "name": "Deprecated Cronos zkEVM Testnet",
   "chain": "deprecatedCronosZkEVMTestnet",
-  "rpc": [
-    "https://deprecated.testnet.zkevm.cronos.org"
-  ],
+  "rpc": [],
   "faucets": [
     "https://zkevm.cronos.org/faucet"
   ],
@@ -25,6 +23,5 @@
     }
   ],
   "status": "deprecated",
-  "icon": null,
   "tvl": 0
 }

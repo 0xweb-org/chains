@@ -1,32 +1,21 @@
 {
-  "name": "Syscoin Tanenbaum Testnet",
-  "chain": "SYS",
-  "rpc": [
-    "https://rpc.tanenbaum.io",
-    "wss://rpc.tanenbaum.io/wss",
-    "https://syscoin-tanenbaum-evm.publicnode.com",
-    "wss://syscoin-tanenbaum-evm.publicnode.com"
-  ],
-  "faucets": [
-    "https://faucet.tanenbaum.io"
-  ],
-  "nativeCurrency": {
-    "name": "Testnet Syscoin",
-    "symbol": "tSYS",
-    "decimals": 18
-  },
-  "infoURL": "https://syscoin.org",
-  "shortName": "tsys",
   "chainId": 5700,
-  "networkId": 5700,
-  "slip44": 1,
+  "www": "https://syscoin.org",
+  "name": "Syscoin Tanenbaum Testnet",
+  "platform": "tsys",
+  "chainToken": "tSYS",
+  "endpoints": [
+    {
+      "url": "https://rpc.tanenbaum.io"
+    },
+    {
+      "url": "wss://rpc.tanenbaum.io/wss"
+    }
+  ],
   "explorers": [
     {
       "name": "Syscoin Testnet Block Explorer",
-      "url": "https://tanenbaum.io",
-      "standard": "EIP3091"
+      "url": "https://tanenbaum.io"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

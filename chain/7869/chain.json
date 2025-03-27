@@ -1,28 +1,18 @@
 {
-  "name": "Powerloom Mainnet V2",
-  "chain": "Powerloom Mainnet V2",
-  "rpc": [
-    "https://rpc-v2.powerloom.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Powerloom Token",
-    "symbol": "POWER",
-    "decimals": 18
-  },
-  "infoURL": "https://powerloom.network",
-  "shortName": "powerloom",
   "chainId": 7869,
-  "networkId": 7869,
-  "icon": null,
-  "status": "active",
+  "www": "https://powerloom.network",
+  "name": "Powerloom Mainnet V2",
+  "platform": "powerloom",
+  "chainToken": "POWER",
+  "endpoints": [
+    {
+      "url": "https://rpc-v2.powerloom.network"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://explorer-v2.powerloom.network",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://explorer-v2.powerloom.network"
     }
-  ],
-  "tvl": 0
+  ]
 }

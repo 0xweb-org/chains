@@ -1,35 +1,22 @@
 {
+  "chainId": 7,
+  "icon": "./chain/7/logo.png",
+  "www": "https://thaichain.io",
   "name": "ThaiChain",
-  "chain": "TCH",
-  "rpc": [
-    "https://rpc.dome.cloud",
-    "https://rpc.thaichain.org"
-  ],
-  "faucets": [],
-  "features": [
+  "platform": "tch",
+  "chainToken": "TCH",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://rpc.dome.cloud"
     },
     {
-      "name": "EIP1559"
+      "url": "https://rpc.thaichain.org"
     }
   ],
-  "nativeCurrency": {
-    "name": "ThaiChain Ether",
-    "symbol": "TCH",
-    "decimals": 18
-  },
-  "infoURL": "https://thaichain.io",
-  "shortName": "tch",
-  "chainId": 7,
-  "networkId": 7,
-  "icon": "./chain/7/logo.png",
   "explorers": [
     {
       "name": "Thaichain Explorer",
-      "url": "https://exp.thaichain.org",
-      "standard": "EIP3091"
+      "url": "https://exp.thaichain.org"
     }
-  ],
-  "tvl": 0
+  ]
 }

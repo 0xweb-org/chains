@@ -3,10 +3,7 @@
   "title": "Cuckoo AI Testnet Sepolia",
   "chain": "CuckooAI",
   "icon": "./chain/1210/logo.png",
-  "rpc": [
-    "https://testnet-rpc.cuckoo.network",
-    "wss://testnet-rpc.cuckoo.network"
-  ],
+  "rpc": [],
   "faucets": [
     "https://cuckoo.network/portal/faucet/"
   ],

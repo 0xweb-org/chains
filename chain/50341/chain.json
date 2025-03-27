@@ -1,32 +1,18 @@
 {
-  "name": "Reddio Devnet",
-  "title": "Reddio Sepolia L2 Rollup Devnet",
-  "chain": "ETH",
-  "rpc": [
-    "https://reddio-dev.reddio.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Red",
-    "symbol": "RED",
-    "decimals": 18
-  },
-  "infoURL": "https://www.reddio.com",
-  "shortName": "reddio-devnet",
   "chainId": 50341,
-  "networkId": 50341,
-  "slip44": 1,
+  "www": "https://www.reddio.com",
+  "name": "Reddio Devnet",
+  "platform": "reddio-devnet",
+  "chainToken": "RED",
+  "endpoints": [
+    {
+      "url": "https://reddio-dev.reddio.com"
+    }
+  ],
   "explorers": [
     {
       "name": "L2scan",
-      "url": "https://reddio-devnet.l2scan.co",
-      "standard": "EIP3091"
+      "url": "https://reddio-devnet.l2scan.co"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-11155111"
-  },
-  "icon": null,
-  "tvl": 0
+  ]
 }

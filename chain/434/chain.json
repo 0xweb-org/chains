@@ -1,9 +1,7 @@
 {
   "name": "Boyaa Mainnet",
   "chain": "BYC",
-  "rpc": [
-    "https://evm-rpc.mainnet.boyaa.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Boyaa mainnet native coin",
@@ -14,7 +12,12 @@
   "shortName": "BYC",
   "chainId": 434,
   "networkId": 434,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://bafybeiapootrvggtigdlvgvk6srfseplpuowsqq3zpyup4j5yj5moxuala",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "Boyaa explorer",

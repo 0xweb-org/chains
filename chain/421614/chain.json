@@ -1,45 +1,28 @@
 {
-  "name": "Arbitrum Sepolia",
-  "title": "Arbitrum Sepolia Rollup Testnet",
-  "chain": "ETH",
-  "rpc": [
-    "https://sepolia-rollup.arbitrum.io/rpc",
-    "https://arbitrum-sepolia.infura.io/v3/${INFURA_API_KEY}",
-    "https://arbitrum-sepolia-rpc.publicnode.com",
-    "wss://arbitrum-sepolia-rpc.publicnode.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Sepolia Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://arbitrum.io",
-  "shortName": "arb-sep",
   "chainId": 421614,
-  "networkId": 421614,
-  "slip44": 1,
+  "www": "https://arbitrum.io",
+  "name": "Arbitrum Sepolia",
+  "platform": "arb-sep",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://sepolia-rollup.arbitrum.io/rpc"
+    },
+    {
+      "url": "https://arbitrum-sepolia-rpc.publicnode.com"
+    },
+    {
+      "url": "wss://arbitrum-sepolia-rpc.publicnode.com"
+    }
+  ],
   "explorers": [
     {
       "name": "arbiscan-sepolia",
-      "url": "https://sepolia.arbiscan.io",
-      "standard": "EIP3091"
+      "url": "https://sepolia.arbiscan.io"
     },
     {
       "name": "Arbitrum Sepolia Rollup Testnet Explorer",
-      "url": "https://sepolia-explorer.arbitrum.io",
-      "standard": "EIP3091"
+      "url": "https://sepolia-explorer.arbitrum.io"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-11155111",
-    "bridges": [
-      {
-        "url": "https://bridge.arbitrum.io"
-      }
-    ]
-  },
-  "icon": null,
-  "tvl": 0
+  ]
 }

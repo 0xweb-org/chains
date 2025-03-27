@@ -1,9 +1,7 @@
 {
   "name": "Astar",
   "chain": "ASTR",
-  "rpc": [
-    "https://rpc.astar.network:8545"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Astar",
@@ -29,5 +27,5 @@
       "standard": "EIP3091"
     }
   ],
-  "tvl": 24178365
+  "tvl": 24680460
 }

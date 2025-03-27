@@ -1,26 +1,19 @@
 {
-  "name": "One World Chain Mainnet",
-  "chain": "One World Chain",
-  "icon": "./chain/309075/logo.png",
-  "rpc": [
-    "https://mainnet-rpc.oneworldchain.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "OWCT",
-    "symbol": "OWCT",
-    "decimals": 18
-  },
-  "infoURL": "https://oneworldchain.org",
-  "shortName": "OWCTm",
   "chainId": 309075,
-  "networkId": 309075,
+  "icon": "./chain/309075/logo.png",
+  "www": "https://oneworldchain.org",
+  "name": "One World Chain Mainnet",
+  "platform": "OWCTm",
+  "chainToken": "OWCT",
+  "endpoints": [
+    {
+      "url": "https://mainnet-rpc.oneworldchain.org"
+    }
+  ],
   "explorers": [
     {
       "name": "One World Chain Mainnet Explorer",
-      "url": "https://mainnet.oneworldchain.org",
-      "standard": "EIP3091"
+      "url": "https://mainnet.oneworldchain.org"
     }
-  ],
-  "tvl": 0
+  ]
 }

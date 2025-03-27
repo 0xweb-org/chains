@@ -2,9 +2,7 @@
   "name": "Bitcoin Protocol Testnet",
   "chain": "BTCP Testnet",
   "icon": "./chain/1227/logo.png",
-  "rpc": [
-    "https://testnet-chain.btcprotocol.io/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "BTC Protocol",

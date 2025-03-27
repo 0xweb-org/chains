@@ -1,10 +1,7 @@
 {
   "name": "BOSagora Mainnet",
   "chain": "ETH",
-  "rpc": [
-    "https://mainnet.bosagora.org",
-    "https://rpc.bosagora.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "BOSAGORA",

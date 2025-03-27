@@ -1,9 +1,7 @@
 {
   "name": "IRIShub Testnet",
   "chain": "IRIShub",
-  "rpc": [
-    "https://evmrpc.nyancat.irisnet.org"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"
@@ -23,7 +21,12 @@
   "chainId": 16688,
   "networkId": 16688,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmRaSx7AX1VDgcqjwLgSDP4WZmKBHPdHhbjkcEEXPA2Fnc",
+    "width": 1062,
+    "height": 822,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "IRISHub Testnet Cosmos Explorer (IOBScan)",

@@ -1,9 +1,7 @@
 {
   "name": "Morph Testnet",
   "chain": "ETH",
-  "rpc": [
-    "https://rpc-testnet.morphl2.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",
@@ -31,6 +29,5 @@
       }
     ]
   },
-  "icon": null,
   "tvl": 0
 }

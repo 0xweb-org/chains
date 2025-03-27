@@ -1,9 +1,7 @@
 {
   "name": "Acria IntelliChain",
   "chain": "AIC",
-  "rpc": [
-    "https://aic.acria.ai"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "ACRIA",
@@ -29,6 +27,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

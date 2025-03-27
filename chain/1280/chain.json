@@ -1,26 +1,18 @@
 {
-  "name": "HALO Mainnet",
-  "chain": "HALO",
-  "rpc": [
-    "https://nodes.halo.land"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "HALO",
-    "symbol": "HO",
-    "decimals": 18
-  },
-  "infoURL": "https://halo.land/#/",
-  "shortName": "HO",
   "chainId": 1280,
-  "networkId": 1280,
+  "www": "https://halo.land/#/",
+  "name": "HALO Mainnet",
+  "platform": "HO",
+  "chainToken": "HO",
+  "endpoints": [
+    {
+      "url": "https://nodes.halo.land"
+    }
+  ],
   "explorers": [
     {
       "name": "HALOexplorer",
-      "url": "https://browser.halo.land",
-      "standard": "none"
+      "url": "https://browser.halo.land"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

@@ -1,27 +1,19 @@
 {
-  "name": "ReDeFi Layer 1",
-  "chain": "ReDeFi",
-  "icon": "./chain/47803/logo.png",
-  "rpc": [
-    "https://layer1.redefi.world"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "BAX",
-    "symbol": "BAX",
-    "decimals": 18
-  },
-  "infoURL": "https://redefi.world",
-  "shortName": "bax",
   "chainId": 47803,
-  "networkId": 47803,
-  "slip44": 47803,
+  "icon": "./chain/47803/logo.png",
+  "www": "https://redefi.world",
+  "name": "ReDeFi Layer 1",
+  "platform": "bax",
+  "chainToken": "BAX",
+  "endpoints": [
+    {
+      "url": "https://layer1.redefi.world"
+    }
+  ],
   "explorers": [
     {
       "name": "ReDeFi Scan",
-      "url": "https://scanlayer1.redefi.world",
-      "standard": "EIP3091"
+      "url": "https://scanlayer1.redefi.world"
     }
-  ],
-  "tvl": 0
+  ]
 }

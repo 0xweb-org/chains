@@ -1,9 +1,7 @@
 {
   "name": "Bulletin Subnet",
   "chain": "BULLETIN",
-  "rpc": [
-    "https://subnets.avax.network/bulletin/testnet/rpc"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP1559"
@@ -27,6 +25,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

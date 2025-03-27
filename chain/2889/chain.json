@@ -1,27 +1,19 @@
 {
-  "name": "Aarma Mainnet",
-  "chain": "Aarma",
-  "rpc": [
-    "https://aarmarpc.com/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Aarma",
-    "symbol": "ARMA",
-    "decimals": 18
-  },
-  "infoURL": "https://aarmachain.com",
-  "shortName": "ARMA",
   "chainId": 2889,
-  "networkId": 2889,
   "icon": "./chain/2889/logo.png",
+  "www": "https://aarmachain.com",
+  "name": "Aarma Mainnet",
+  "platform": "ARMA",
+  "chainToken": "ARMA",
+  "endpoints": [
+    {
+      "url": "https://aarmarpc.com/"
+    }
+  ],
   "explorers": [
     {
       "name": "aarmascan",
-      "url": "https://aarmascan.com",
-      "icon": "arma",
-      "standard": "none"
+      "url": "https://aarmascan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

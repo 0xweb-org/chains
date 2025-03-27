@@ -1,26 +1,19 @@
 {
-  "name": "BounceBit Mainnet",
-  "chain": "BounceBit",
-  "rpc": [
-    "https://fullnode-mainnet.bouncebitapi.com/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "BounceBit",
-    "symbol": "BB",
-    "decimals": 18
-  },
-  "infoURL": "https://bouncebit.io",
-  "shortName": "bouncebit-mainnet",
   "chainId": 6001,
-  "networkId": 6001,
   "icon": "./chain/6001/logo.png",
+  "www": "https://bouncebit.io",
+  "name": "BounceBit Mainnet",
+  "platform": "bouncebit",
+  "chainToken": "BB",
+  "endpoints": [
+    {
+      "url": "https://fullnode-mainnet.bouncebitapi.com/"
+    }
+  ],
   "explorers": [
     {
       "name": "BBScan Mainnet Explorer",
-      "url": "https://bbscan.io",
-      "standard": "none"
+      "url": "https://bbscan.io"
     }
-  ],
-  "tvl": 52569977
+  ]
 }

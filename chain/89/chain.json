@@ -1,9 +1,7 @@
 {
   "name": "Viction Testnet",
   "chain": "Viction",
-  "rpc": [
-    "https://rpc-testnet.viction.xyz"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Viction",
@@ -15,6 +13,5 @@
   "chainId": 89,
   "networkId": 89,
   "slip44": 1,
-  "icon": null,
   "tvl": 0
 }

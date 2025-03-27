@@ -1,29 +1,19 @@
 {
-  "name": "Wirex Pay Mainnet",
-  "chain": "WirexPay",
-  "icon": "./chain/31415/logo.png",
-  "rpc": [
-    "https://rpc.wirexpaychain.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ethereum",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://docs.wirexpaychain.com/tech/wirex-pay-chain",
-  "shortName": "wpay",
   "chainId": 31415,
-  "networkId": 31415,
+  "icon": "./chain/31415/logo.png",
+  "www": "https://docs.wirexpaychain.com/tech/wirex-pay-chain",
+  "name": "Wirex Pay Mainnet",
+  "platform": "wpay",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.wirexpaychain.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Wirex Pay Explorer",
-      "url": "https://blockscout.wirexpaychain.com",
-      "standard": "EIP3091"
+      "url": "https://blockscout.wirexpaychain.com"
     }
-  ],
-  "redFlags": [
-    "reusedChainId"
-  ],
-  "tvl": 0
+  ]
 }

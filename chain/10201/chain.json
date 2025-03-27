@@ -1,11 +1,7 @@
 {
   "name": "MaxxChain Mainnet",
   "chain": "MaxxChain",
-  "rpc": [
-    "https://rpc.maxxchain.org",
-    "https://rpc1.maxxchain.org",
-    "https://rpc2.maxxchain.org"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.maxxchain.org"
   ],
@@ -14,7 +10,12 @@
     "symbol": "PWR",
     "decimals": 18
   },
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmRhQG9TZrXDdbQeTzBmjg3pqgwaD5TKVZj8k4kaz8AoZx",
+    "width": 1021,
+    "height": 1021,
+    "format": "png"
+  },
   "infoURL": "https://www.maxxchain.org/",
   "shortName": "PWR",
   "chainId": 10201,

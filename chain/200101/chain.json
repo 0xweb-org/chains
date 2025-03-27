@@ -2,10 +2,7 @@
   "name": "Milkomeda C1 Testnet",
   "chain": "milkTAda",
   "icon": "./chain/200101/logo.png",
-  "rpc": [
-    "https://rpc-devnet-cardano-evm.c1.milkomeda.com",
-    "wss://rpc-devnet-cardano-evm.c1.milkomeda.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "milkTAda",

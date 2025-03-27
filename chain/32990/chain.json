@@ -1,28 +1,19 @@
 {
-  "name": "Zilliqa EVM Isolated Server",
-  "chain": "ZIL",
-  "rpc": [
-    "https://zilliqa-isolated-server.zilliqa.com/"
-  ],
-  "faucets": [
-    "https://dev-wallet.zilliqa.com/faucet?network=isolated_server"
-  ],
-  "nativeCurrency": {
-    "name": "Zilliqa",
-    "symbol": "ZIL",
-    "decimals": 18
-  },
-  "infoURL": "https://www.zilliqa.com/",
-  "shortName": "zil-isolated-server",
   "chainId": 32990,
-  "networkId": 32990,
-  "icon": null,
+  "icon": "ipfs://QmTREXNgGtUhSoxFsrkhTe5LUnDBTKL5byaX8kpET6UuKp",
+  "www": "https://www.zilliqa.com/",
+  "name": "Zilliqa EVM Isolated Server",
+  "platform": "zil-isolated-server",
+  "chainToken": "ZIL",
+  "endpoints": [
+    {
+      "url": "https://zilliqa-isolated-server.zilliqa.com/"
+    }
+  ],
   "explorers": [
     {
       "name": "Zilliqa EVM Isolated Server Explorer",
-      "url": "https://devex.zilliqa.com/?network=https://zilliqa-isolated-server.zilliqa.com",
-      "standard": "none"
+      "url": "https://devex.zilliqa.com/?network=https://zilliqa-isolated-server.zilliqa.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

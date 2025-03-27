@@ -1,28 +1,25 @@
 {
-  "name": "Telos EVM Mainnet",
-  "chain": "TLOS",
-  "rpc": [
-    "https://rpc.telos.net",
-    "https://telos.drpc.org",
-    "wss://telos.drpc.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Telos",
-    "symbol": "TLOS",
-    "decimals": 18
-  },
-  "infoURL": "https://telos.net",
-  "shortName": "TelosEVM",
   "chainId": 40,
-  "networkId": 40,
+  "icon": "./chain/40/logo.png",
+  "www": "https://telos.net",
+  "name": "Telos EVM Mainnet",
+  "platform": "TelosEVM",
+  "chainToken": "TLOS",
+  "endpoints": [
+    {
+      "url": "https://rpc.telos.net"
+    },
+    {
+      "url": "https://telos.drpc.org"
+    },
+    {
+      "url": "wss://telos.drpc.org"
+    }
+  ],
   "explorers": [
     {
       "name": "teloscan",
-      "url": "https://teloscan.io",
-      "standard": "EIP3091"
+      "url": "https://teloscan.io"
     }
-  ],
-  "icon": "./chain/40/logo.png",
-  "tvl": 17638686
+  ]
 }

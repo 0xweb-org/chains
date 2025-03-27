@@ -1,40 +1,26 @@
 {
+  "chainId": 4913,
+  "icon": "./chain/4913/logo.png",
+  "www": "https://api3.org/oev/",
   "name": "OEV Network",
-  "chain": "oev-network",
-  "rpc": [
-    "https://oev.rpc.api3.org",
-    "https://oev-network.calderachain.xyz/http"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "oev-network",
+  "chainToken": "ETH",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://oev.rpc.api3.org"
     },
     {
-      "name": "EIP1559"
+      "url": "https://oev-network.calderachain.xyz/http"
     }
   ],
-  "infoURL": "https://api3.org/oev/",
-  "shortName": "oev-network",
-  "chainId": 4913,
-  "networkId": 4913,
-  "icon": "./chain/4913/logo.png",
   "explorers": [
     {
       "name": "OEV Network Explorer",
-      "url": "https://oev.explorer.api3.org",
-      "standard": "EIP3091"
+      "url": "https://oev.explorer.api3.org"
     },
     {
       "name": "OEV Network Caldera Explorer",
-      "url": "https://oev-network.calderaexplorer.xyz",
-      "standard": "EIP3091"
+      "url": "https://oev-network.calderaexplorer.xyz"
     }
-  ],
-  "tvl": 0
+  ]
 }

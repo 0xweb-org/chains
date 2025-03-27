@@ -2,10 +2,7 @@
   "name": "Taraxa Testnet",
   "chain": "TARA",
   "icon": "./chain/842/logo.png",
-  "rpc": [
-    "https://rpc.testnet.taraxa.io/",
-    "https://ws.testnet.taraxa.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://explorer.testnet.taraxa.io/faucet"
   ],

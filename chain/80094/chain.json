@@ -1,35 +1,35 @@
 {
-  "name": "Berachain",
-  "chain": "Berachain",
-  "rpc": [
-    "https://rpc.berachain.com",
-    "https://berachain-rpc.publicnode.com",
-    "wss://berachain-rpc.publicnode.com",
-    "https://rpc.berachain-apis.com",
-    "wss://rpc.berachain-apis.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "BERA Token",
-    "symbol": "BERA",
-    "decimals": 18
-  },
-  "infoURL": "https://www.berachain.com",
-  "shortName": "berachain",
   "chainId": 80094,
-  "networkId": 80094,
   "icon": "./chain/80094/logo.png",
+  "www": "https://www.berachain.com",
+  "name": "Berachain",
+  "platform": "berachain",
+  "chainToken": "BERA",
+  "endpoints": [
+    {
+      "url": "https://rpc.berachain.com"
+    },
+    {
+      "url": "https://berachain-rpc.publicnode.com"
+    },
+    {
+      "url": "wss://berachain-rpc.publicnode.com"
+    },
+    {
+      "url": "https://rpc.berachain-apis.com"
+    },
+    {
+      "url": "wss://rpc.berachain-apis.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Berascan",
-      "url": "https://berascan.com",
-      "standard": "EIP3091"
+      "url": "https://berascan.com"
     },
     {
       "name": "Beratrail",
-      "url": "https://beratrail.io",
-      "standard": "EIP3091"
+      "url": "https://beratrail.io"
     }
-  ],
-  "tvl": 6351701788
+  ]
 }

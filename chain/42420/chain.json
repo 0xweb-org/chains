@@ -1,9 +1,7 @@
 {
   "name": "Asset Chain Mainnet",
   "chain": "Asset Chain",
-  "rpc": [
-    "https://mainnet-rpc.assetchain.org"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.assetchain.org"
   ],

@@ -1,9 +1,7 @@
 {
   "name": "Aves Testnet",
   "chain": "AVST",
-  "rpc": [
-    "https://test.rpc.avescoin.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "AvesT",
@@ -23,7 +21,12 @@
   "chainId": 333331,
   "networkId": 333331,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmeKQVv2QneHaaggw2NfpZ7DGMdjVhPywTdse5RzCs4oGn",
+    "width": 232,
+    "height": 232,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "avescan",

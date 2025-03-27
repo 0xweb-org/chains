@@ -1,37 +1,22 @@
 {
-  "name": "Redstone",
-  "chain": "ETH",
-  "rpc": [
-    "https://rpc.redstonechain.com",
-    "wss://rpc.redstonechain.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://redstone.xyz",
-  "shortName": "redstone",
   "chainId": 690,
-  "networkId": 690,
   "icon": "./chain/690/logo.png",
+  "www": "https://redstone.xyz",
+  "name": "Redstone",
+  "platform": "redstone",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.redstonechain.com"
+    },
+    {
+      "url": "wss://rpc.redstonechain.com"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://explorer.redstone.xyz",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://explorer.redstone.xyz"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "https://redstone.xyz/deposit"
-      }
-    ]
-  },
-  "tvl": 26932
+  ]
 }

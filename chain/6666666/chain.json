@@ -1,10 +1,13 @@
 {
   "name": "Safe(AnWang) Testnet",
   "chain": "Safe(AnWang)",
-  "icon": null,
-  "rpc": [
-    "https://rpc-testnet.anwang.com"
-  ],
+  "icon": {
+    "url": "ipfs://QmahJhdaLfGwBStQ9q9K4Mc73vLNqFV1otWCsT2ZKsMavv",
+    "width": 768,
+    "height": 768,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "SAFE(AnWang)",

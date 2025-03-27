@@ -1,10 +1,7 @@
 {
   "name": "Warden Testnet",
   "chain": "WARD",
-  "rpc": [
-    "https://evm.chiado.wardenprotocol.org",
-    "wss://evm-ws.chiado.wardenprotocol.org"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.chiado.wardenprotocol.org"
   ],

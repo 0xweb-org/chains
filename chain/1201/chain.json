@@ -1,9 +1,7 @@
 {
   "name": "Evanesco Testnet",
   "chain": "Evanesco Testnet",
-  "rpc": [
-    "https://seed5.evanesco.org:8547"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "AVIS",
@@ -15,6 +13,5 @@
   "chainId": 1201,
   "networkId": 1201,
   "slip44": 1,
-  "icon": null,
   "tvl": 0
 }

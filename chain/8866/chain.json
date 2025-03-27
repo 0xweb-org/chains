@@ -1,26 +1,19 @@
 {
-  "name": "SuperLumio",
-  "chain": "SuperLumio",
-  "icon": "./chain/8866/logo.png",
-  "rpc": [
-    "https://mainnet.lumio.io/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://lumio.io/",
-  "shortName": "superlumio",
   "chainId": 8866,
-  "networkId": 8866,
+  "icon": "./chain/8866/logo.png",
+  "www": "https://lumio.io/",
+  "name": "SuperLumio",
+  "platform": "superlumio",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://mainnet.lumio.io/"
+    }
+  ],
   "explorers": [
     {
       "name": "Lumio explorer",
-      "url": "https://explorer.lumio.io",
-      "standard": "none"
+      "url": "https://explorer.lumio.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

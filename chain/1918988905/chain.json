@@ -1,26 +1,18 @@
 {
-  "name": "RARI Chain Testnet",
-  "chain": "RARI",
-  "rpc": [
-    "https://testnet.rpc.rarichain.org/http"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ethereum",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://rarichain.org/",
-  "shortName": "rari-testnet",
   "chainId": 1918988905,
-  "networkId": 1918988905,
+  "www": "https://rarichain.org/",
+  "name": "RARI Chain Testnet",
+  "platform": "rari-testnet",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://testnet.rpc.rarichain.org/http"
+    }
+  ],
   "explorers": [
     {
       "name": "rarichain-testnet-explorer",
-      "url": "https://explorer.rarichain.org",
-      "standard": "EIP3091"
+      "url": "https://explorer.rarichain.org"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

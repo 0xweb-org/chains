@@ -1,26 +1,19 @@
 {
-  "name": "Oasys Testnet",
-  "chain": "Oasys",
-  "icon": "./chain/9372/logo.png",
-  "rpc": [
-    "https://rpc.testnet.oasys.games"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "OAS",
-    "symbol": "OAS",
-    "decimals": 18
-  },
-  "infoURL": "https://oasys.games",
-  "shortName": "OAS_TEST",
   "chainId": 9372,
-  "networkId": 9372,
+  "icon": "./chain/9372/logo.png",
+  "www": "https://oasys.games",
+  "name": "Oasys Testnet",
+  "platform": "OAS_TEST",
+  "chainToken": "OAS",
+  "endpoints": [
+    {
+      "url": "https://rpc.testnet.oasys.games"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://explorer.testnet.oasys.games",
-      "standard": "EIP3091"
+      "url": "https://explorer.testnet.oasys.games"
     }
-  ],
-  "tvl": 0
+  ]
 }

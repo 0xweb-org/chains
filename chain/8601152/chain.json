@@ -1,9 +1,7 @@
 {
   "name": "Waterfall 8 Test Network",
   "chain": "Waterfall Testnet8",
-  "rpc": [
-    "https://rpc.testnet8.waterfall.network/"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.testnet8.waterfall.network"
   ],

@@ -1,28 +1,19 @@
 {
-  "name": "DeepBrainChain Mainnet",
-  "chain": "DeepBrainChain",
-  "rpc": [
-    "https://rpc.dbcwallet.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "DeepBrainChain",
-    "symbol": "DBC",
-    "decimals": 18
-  },
-  "infoURL": "https://www.deepbrainchain.org",
-  "shortName": "DBC",
   "chainId": 19880818,
-  "networkId": 19880818,
   "icon": "./chain/19880818/logo.png",
-  "slip44": 1,
+  "www": "https://www.deepbrainchain.org",
+  "name": "DeepBrainChain Mainnet",
+  "platform": "DBC",
+  "chainToken": "DBC",
+  "endpoints": [
+    {
+      "url": "https://rpc.dbcwallet.io"
+    }
+  ],
   "explorers": [
     {
       "name": "DeepBrainChain Mainnet",
-      "url": "https://www.dbcscan.io",
-      "icon": "dbc",
-      "standard": "EIP3091"
+      "url": "https://www.dbcscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

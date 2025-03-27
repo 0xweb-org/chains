@@ -1,9 +1,7 @@
 {
   "name": "OpTrust Mainnet",
   "chain": "OpTrust",
-  "rpc": [
-    "https://rpc.optrust.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "BSC",
@@ -14,7 +12,12 @@
   "shortName": "optrust",
   "chainId": 537,
   "networkId": 537,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmYktPMo4tdQhMA9nRJBVckjzHcFLbpHbTVNSpGUUPEP8J",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "OpTrust explorer",

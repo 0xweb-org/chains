@@ -3,10 +3,7 @@
   "title": "DODOchain testnet",
   "chain": "DODOchain",
   "icon": "./chain/53457/logo.png",
-  "rpc": [
-    "https://dodochain-testnet.alt.technology",
-    "wss://dodochain-testnet.alt.technology/ws"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "DODO",

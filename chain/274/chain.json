@@ -1,36 +1,22 @@
 {
-  "name": "LaChain",
-  "chain": "LaChain",
+  "chainId": 274,
   "icon": "./chain/274/logo.png",
-  "rpc": [
-    "https://rpc1.mainnet.lachain.network",
-    "https://rpc2.mainnet.lachain.network",
-    "https://lachain.rpc-nodes.cedalio.dev"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "LaCoin",
-    "symbol": "LAC",
-    "decimals": 18
-  },
-  "features": [
+  "www": "",
+  "name": "LaChain",
+  "platform": "lachain",
+  "chainToken": "LAC",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://rpc1.mainnet.lachain.network"
     },
     {
-      "name": "EIP1559"
+      "url": "https://rpc2.mainnet.lachain.network"
     }
   ],
-  "infoURL": "",
-  "shortName": "lachain",
-  "chainId": 274,
-  "networkId": 274,
   "explorers": [
     {
       "name": "LaChain Explorer",
-      "url": "https://explorer.lachain.network",
-      "standard": "EIP3091"
+      "url": "https://explorer.lachain.network"
     }
-  ],
-  "tvl": 1482335
+  ]
 }

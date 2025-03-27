@@ -1,9 +1,7 @@
 {
   "name": "GeneChain",
   "chain": "GeneChain",
-  "rpc": [
-    "https://rpc.genechain.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "RNA",
@@ -21,6 +19,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

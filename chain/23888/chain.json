@@ -1,10 +1,13 @@
 {
   "name": "Blast Testnet",
   "chain": "ETH",
-  "icon": null,
-  "rpc": [
-    "http://testnet-rpc.blastblockchain.com"
-  ],
+  "icon": {
+    "url": "ipfs://QmdHpjiepU2Q4bt4kR48tKHPgaQW57Sb6UVFgLh4MCyg6U",
+    "width": 595,
+    "height": 582,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",

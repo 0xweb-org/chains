@@ -1,9 +1,7 @@
 {
   "name": "4GoodNetwork",
   "chain": "4GN",
-  "rpc": [
-    "https://chain.deptofgood.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "APTA",
@@ -14,6 +12,5 @@
   "shortName": "bloqs4good",
   "chainId": 846000,
   "networkId": 846000,
-  "icon": null,
   "tvl": 0
 }

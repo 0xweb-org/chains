@@ -1,30 +1,25 @@
 {
-  "name": "Dragonfly Mainnet (Hexapod)",
-  "chain": "Dragonfly",
-  "icon": "./chain/78281/logo.png",
-  "rpc": [
-    "https://dragonfly-rpc.switch.ch",
-    "https://dragonfly-rpc.kore-technologies.ch",
-    "https://dragonfly-rpc.phoenix-systems.io",
-    "https://dragonfly-rpc.block-spirit.ch"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Dragonfly",
-    "symbol": "DFLY",
-    "decimals": 18
-  },
-  "infoURL": "https://hexapod.network",
-  "shortName": "dfly",
   "chainId": 78281,
-  "networkId": 78281,
+  "icon": "./chain/78281/logo.png",
+  "www": "https://hexapod.network",
+  "name": "Dragonfly Mainnet (Hexapod)",
+  "platform": "dfly",
+  "chainToken": "DFLY",
+  "endpoints": [
+    {
+      "url": "https://dragonfly-rpc.kore-technologies.ch"
+    },
+    {
+      "url": "https://dragonfly-rpc.phoenix-systems.io"
+    },
+    {
+      "url": "https://dragonfly-rpc.block-spirit.ch"
+    }
+  ],
   "explorers": [
     {
       "name": "Dragonfly Blockscout",
-      "url": "https://blockscout.dragonfly.hexapod.network",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://blockscout.dragonfly.hexapod.network"
     }
-  ],
-  "tvl": 0
+  ]
 }

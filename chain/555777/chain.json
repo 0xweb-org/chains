@@ -1,9 +1,7 @@
 {
   "name": "Xsolla ZK Sepolia Testnet",
   "chain": "Xsolla ZK Sepolia",
-  "rpc": [
-    "https://zkrpc-sepolia.xsollazk.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://xsollazk.com/faucet"
   ],

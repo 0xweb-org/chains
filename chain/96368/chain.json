@@ -2,9 +2,7 @@
   "name": "Lux Testnet",
   "chain": "Lux",
   "icon": "./chain/96368/logo.png",
-  "rpc": [
-    "https://api.lux-test.network"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.lux-test.network"
   ],

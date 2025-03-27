@@ -1,20 +1,12 @@
 {
-  "name": "Expanse Network",
-  "chain": "EXP",
-  "rpc": [
-    "https://node.expanse.tech"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Expanse Network Ether",
-    "symbol": "EXP",
-    "decimals": 18
-  },
-  "infoURL": "https://expanse.tech",
-  "shortName": "exp",
   "chainId": 2,
-  "networkId": 1,
-  "slip44": 40,
-  "icon": null,
-  "tvl": 0
+  "www": "https://expanse.tech",
+  "name": "Expanse Network",
+  "platform": "exp",
+  "chainToken": "EXP",
+  "endpoints": [
+    {
+      "url": "https://node.expanse.tech"
+    }
+  ]
 }

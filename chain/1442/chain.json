@@ -2,11 +2,7 @@
   "name": "Polygon zkEVM Testnet",
   "title": "Polygon zkEVM Testnet",
   "chain": "Polygon",
-  "rpc": [
-    "https://rpc.public.zkevm-test.net",
-    "https://polygon-zkevm-testnet.drpc.org",
-    "wss://polygon-zkevm-testnet.drpc.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",
@@ -25,6 +21,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

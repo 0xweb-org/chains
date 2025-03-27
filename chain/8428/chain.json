@@ -1,28 +1,22 @@
 {
-  "name": "THAT Mainnet",
-  "chain": "THAT",
-  "rpc": [
-    "https://api.thatchain.io",
-    "https://api.thatchain.io/mainnet"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "THAT",
-    "symbol": "THAT",
-    "decimals": 18
-  },
-  "infoURL": "https://that.website",
-  "shortName": "THAT",
   "chainId": 8428,
-  "networkId": 8428,
   "icon": "./chain/8428/logo.png",
+  "www": "https://that.website",
+  "name": "THAT Mainnet",
+  "platform": "THAT",
+  "chainToken": "THAT",
+  "endpoints": [
+    {
+      "url": "https://api.thatchain.io"
+    },
+    {
+      "url": "https://api.thatchain.io/mainnet"
+    }
+  ],
   "explorers": [
     {
       "name": "THAT Explorer",
-      "url": "https://that.blockscout.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://that.blockscout.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

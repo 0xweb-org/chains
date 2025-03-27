@@ -1,9 +1,7 @@
 {
   "name": "EZChain C-Chain Testnet",
   "chain": "EZC",
-  "rpc": [
-    "https://testnet-api.ezchain.com/ext/bc/C/rpc"
-  ],
+  "rpc": [],
   "faucets": [
     "https://testnet-faucet.ezchain.com"
   ],
@@ -17,7 +15,12 @@
   "chainId": 2613,
   "networkId": 2613,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmPKJbYCFjGmY9X2cA4b9YQjWYHQncmKnFtKyQh9rHkFTb",
+    "width": 146,
+    "height": 48,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "ezchain",

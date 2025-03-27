@@ -1,9 +1,7 @@
 {
   "name": "Posichain Devnet Shard 0",
   "chain": "PSC",
-  "rpc": [
-    "https://api.s0.d.posichain.org"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.posichain.org/"
   ],
@@ -23,6 +21,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

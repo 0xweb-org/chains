@@ -1,10 +1,7 @@
 {
   "name": " Privix Chain Testnet",
   "chain": "PRIVIX",
-  "rpc": [
-    "https://testnet-rpc.privixchain.xyz/",
-    "wss://testnet-rpc.privixchain.xyz/ws"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.privixchain.xyz"
   ],

@@ -1,10 +1,7 @@
 {
   "name": "Atleta Network",
   "chain": "Atleta",
-  "rpc": [
-    "https://rpc.mainnet.atleta.network",
-    "wss://rpc.mainnet.atleta.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Atla",

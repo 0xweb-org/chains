@@ -1,44 +1,38 @@
 {
-  "name": "Blast",
-  "status": "active",
-  "chain": "ETH",
-  "rpc": [
-    "https://rpc.blast.io",
-    "https://rpc.ankr.com/blast",
-    "https://blast.din.dev/rpc",
-    "https://blastl2-mainnet.public.blastapi.io",
-    "https://blast.blockpi.network/v1/rpc/public",
-    "https://blast-rpc.publicnode.com",
-    "wss://blast-rpc.publicnode.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://blast.io/",
-  "shortName": "blastmainnet",
   "chainId": 81457,
-  "networkId": 81457,
   "icon": "./chain/81457/logo.png",
+  "www": "https://blast.io/",
+  "name": "Blast",
+  "platform": "blast",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.blast.io"
+    },
+    {
+      "url": "https://rpc.ankr.com/blast"
+    },
+    {
+      "url": "https://blast.din.dev/rpc"
+    },
+    {
+      "url": "https://blastl2-mainnet.public.blastapi.io"
+    },
+    {
+      "url": "https://blast-rpc.publicnode.com"
+    },
+    {
+      "url": "wss://blast-rpc.publicnode.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Blastscan",
-      "url": "https://blastscan.io",
-      "icon": "blast",
-      "standard": "EIP3091"
+      "url": "https://blastscan.io"
     },
     {
       "name": "Blast Explorer",
-      "url": "https://blastexplorer.io",
-      "icon": "blast",
-      "standard": "EIP3091"
+      "url": "https://blastexplorer.io"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1"
-  },
-  "tvl": 160765883
+  ]
 }

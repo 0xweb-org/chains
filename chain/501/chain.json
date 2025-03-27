@@ -1,27 +1,19 @@
 {
-  "name": "Columbus Test Network",
-  "chain": "CAM",
-  "rpc": [
-    "https://columbus.camino.network/ext/bc/C/rpc"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Camino",
-    "symbol": "CAM",
-    "decimals": 18
-  },
-  "infoURL": "https://camino.network/",
-  "shortName": "Columbus",
   "chainId": 501,
-  "networkId": 1001,
-  "slip44": 1,
   "icon": "./chain/501/logo.png",
+  "www": "https://camino.network/",
+  "name": "Columbus Test Network",
+  "platform": "Columbus",
+  "chainToken": "CAM",
+  "endpoints": [
+    {
+      "url": "https://columbus.camino.network/ext/bc/C/rpc"
+    }
+  ],
   "explorers": [
     {
       "name": "blockexplorer",
-      "url": "https://suite.camino.network/explorer",
-      "standard": "none"
+      "url": "https://suite.camino.network/explorer"
     }
-  ],
-  "tvl": 0
+  ]
 }

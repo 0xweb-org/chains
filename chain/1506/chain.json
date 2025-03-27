@@ -1,9 +1,7 @@
 {
   "name": "Sherpax Mainnet",
   "chain": "Sherpax Mainnet",
-  "rpc": [
-    "https://mainnet.sherpax.io/rpc"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "KSX",
@@ -21,6 +19,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

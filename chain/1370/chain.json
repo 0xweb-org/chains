@@ -1,28 +1,22 @@
 {
-  "name": "Ramestta Mainnet",
-  "chain": "Ramestta",
-  "icon": "./chain/1370/logo.png",
-  "rpc": [
-    "https://blockchain.ramestta.com",
-    "https://blockchain2.ramestta.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Rama",
-    "symbol": "RAMA",
-    "decimals": 18
-  },
-  "infoURL": "https://www.ramestta.com",
-  "shortName": "RAMA",
   "chainId": 1370,
-  "networkId": 1370,
+  "icon": "./chain/1370/logo.png",
+  "www": "https://www.ramestta.com",
+  "name": "Ramestta Mainnet",
+  "platform": "RAMA",
+  "chainToken": "RAMA",
+  "endpoints": [
+    {
+      "url": "https://blockchain.ramestta.com"
+    },
+    {
+      "url": "https://blockchain2.ramestta.com"
+    }
+  ],
   "explorers": [
     {
       "name": "ramascan",
-      "url": "https://ramascan.com",
-      "icon": "ramestta",
-      "standard": "EIP3091"
+      "url": "https://ramascan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

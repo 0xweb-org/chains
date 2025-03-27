@@ -1,28 +1,22 @@
 {
-  "name": "BORAchain mainnet",
-  "chain": "BORA",
-  "icon": "./chain/77001/logo.png",
-  "rpc": [
-    "https://public-node.api.boraportal.com/bora/mainnet",
-    "https://public-node.api.boraportal.io/bora/mainnet"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "BORA",
-    "symbol": "BORA",
-    "decimals": 18
-  },
-  "infoURL": "https://www.boraportal.com",
-  "shortName": "BORAchain",
   "chainId": 77001,
-  "networkId": 77001,
-  "slip44": 8217,
+  "icon": "./chain/77001/logo.png",
+  "www": "https://www.boraportal.com",
+  "name": "BORAchain mainnet",
+  "platform": "BORAchain",
+  "chainToken": "BORA",
+  "endpoints": [
+    {
+      "url": "https://public-node.api.boraportal.com/bora/mainnet"
+    },
+    {
+      "url": "https://public-node.api.boraportal.io/bora/mainnet"
+    }
+  ],
   "explorers": [
     {
       "name": "BORAchainscope",
-      "url": "https://scope.boraportal.com",
-      "standard": "EIP3091"
+      "url": "https://scope.boraportal.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,20 +1,13 @@
 {
-  "name": "Energi Mainnet",
-  "chain": "NRG",
-  "rpc": [
-    "https://nodeapi.energi.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Energi",
-    "symbol": "NRG",
-    "decimals": 18
-  },
-  "infoURL": "https://www.energi.world/",
-  "shortName": "nrg",
   "chainId": 39797,
-  "networkId": 39797,
-  "slip44": 39797,
   "icon": "./chain/39797/logo.png",
-  "tvl": 361895
+  "www": "https://www.energi.world/",
+  "name": "Energi Mainnet",
+  "platform": "nrg",
+  "chainToken": "NRG",
+  "endpoints": [
+    {
+      "url": "https://nodeapi.energi.network"
+    }
+  ]
 }

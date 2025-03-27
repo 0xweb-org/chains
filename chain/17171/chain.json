@@ -1,28 +1,19 @@
 {
-  "name": "G8Chain Mainnet",
-  "chain": "G8C",
-  "icon": null,
-  "rpc": [
-    "https://mainnet-rpc.oneg8.network"
-  ],
-  "faucets": [
-    "https://faucet.oneg8.network"
-  ],
-  "nativeCurrency": {
-    "name": "G8Chain",
-    "symbol": "G8C",
-    "decimals": 18
-  },
-  "infoURL": "https://oneg8.one",
-  "shortName": "G8Cm",
   "chainId": 17171,
-  "networkId": 17171,
+  "icon": "ipfs://QmbkCVC5vZpVAfq8SuPXR9PhpTRS2m8w6LGqBkhXAvmie6",
+  "www": "https://oneg8.one",
+  "name": "G8Chain Mainnet",
+  "platform": "G8Cm",
+  "chainToken": "G8C",
+  "endpoints": [
+    {
+      "url": "https://mainnet-rpc.oneg8.network"
+    }
+  ],
   "explorers": [
     {
       "name": "G8Chain",
-      "url": "https://mainnet.oneg8.network",
-      "standard": "EIP3091"
+      "url": "https://mainnet.oneg8.network"
     }
-  ],
-  "tvl": 0
+  ]
 }

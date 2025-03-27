@@ -1,34 +1,22 @@
 {
+  "chainId": 2187,
+  "icon": "ipfs://Qmbk23C5vXpGBfq8SuPXR1PrfWER2m8w6LGqBkhXAvxia9",
+  "www": "https://game7.io/",
   "name": "Game7",
-  "title": "Game7",
-  "chain": "Game7",
-  "rpc": [
-    "https://mainnet-rpc.game7.io",
-    "wss://mainnet-rpc.game7.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "G7",
-    "symbol": "G7",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "g7",
+  "chainToken": "G7",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://mainnet-rpc.game7.io"
+    },
+    {
+      "url": "wss://mainnet-rpc.game7.io"
     }
   ],
-  "infoURL": "https://game7.io/",
-  "shortName": "g7",
-  "chainId": 2187,
-  "networkId": 2187,
-  "icon": null,
   "explorers": [
     {
       "name": "Blockscout",
-      "url": "https://mainnet.game7.io",
-      "icon": "game7",
-      "standard": "EIP3091"
+      "url": "https://mainnet.game7.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

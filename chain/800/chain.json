@@ -2,9 +2,7 @@
   "name": "Lucid Blockchain",
   "chain": "Lucid",
   "icon": "./chain/800/logo.png",
-  "rpc": [
-    "https://rpc.lucidcoin.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.lucidcoin.io"
   ],

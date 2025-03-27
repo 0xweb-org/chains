@@ -1,9 +1,7 @@
 {
   "name": "RUNEVM Testnet",
   "chain": "RuneVM",
-  "rpc": [
-    "https://rpc.runevm.io/"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.runevm.io/"
   ],
@@ -23,6 +21,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

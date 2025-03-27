@@ -1,9 +1,7 @@
 {
   "name": "U2U Solaris Mainnet",
   "chain": "u2u",
-  "rpc": [
-    "https://rpc-mainnet.u2u.xyz"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "U2U Network",

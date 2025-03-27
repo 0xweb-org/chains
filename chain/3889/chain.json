@@ -1,35 +1,19 @@
 {
+  "chainId": 3889,
+  "icon": "ipfs://QmUaXcPewLuQtY5a7xPTzJyVdjkH487VfV7gSR8UXrbxQ3",
+  "www": "https://kalychain.io",
   "name": "KalyChain Testnet",
-  "chain": "KLC",
-  "icon": null,
-  "rpc": [
-    "https://testnetrpc.kalychain.io/rpc"
-  ],
-  "features": [
+  "platform": "kalytestnet",
+  "chainToken": "KLC",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://testnetrpc.kalychain.io/rpc"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "KalyCoin",
-    "symbol": "KLC",
-    "decimals": 18
-  },
-  "infoURL": "https://kalychain.io",
-  "shortName": "kalytestnet",
-  "chainId": 3889,
-  "networkId": 3889,
-  "slip44": 1,
   "explorers": [
     {
       "name": "KalyScan",
-      "url": "https://testnet.kalyscan.io",
-      "standard": "EIP3091"
+      "url": "https://testnet.kalyscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

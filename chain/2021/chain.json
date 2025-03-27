@@ -1,50 +1,50 @@
 {
+  "chainId": 2021,
+  "icon": "ipfs://QmWCSXYLigYE6qEiese4cso2icgKQyosV3x1adtxJnRyJ9",
+  "www": "https://edgeware.io",
   "name": "Edgeware EdgeEVM Mainnet",
-  "chain": "EDG",
-  "icon": null,
-  "rpc": [
-    "https://edgeware-evm.jelliedowl.net",
-    "https://edgeware-evm0.jelliedowl.net",
-    "https://edgeware-evm1.jelliedowl.net",
-    "https://edgeware-evm2.jelliedowl.net",
-    "https://edgeware-evm3.jelliedowl.net",
-    "wss://edgeware.jelliedowl.net",
-    "wss://edgeware-rpc0.jelliedowl.net",
-    "wss://edgeware-rpc1.jelliedowl.net",
-    "wss://edgeware-rpc2.jelliedowl.net",
-    "wss://edgeware-rpc3.jelliedowl.net"
-  ],
-  "features": [
+  "platform": "edg",
+  "chainToken": "EDG",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://edgeware-evm.jelliedowl.net"
     },
     {
-      "name": "EIP1559"
+      "url": "https://edgeware-evm0.jelliedowl.net"
+    },
+    {
+      "url": "https://edgeware-evm1.jelliedowl.net"
+    },
+    {
+      "url": "https://edgeware-evm2.jelliedowl.net"
+    },
+    {
+      "url": "https://edgeware-evm3.jelliedowl.net"
+    },
+    {
+      "url": "wss://edgeware.jelliedowl.net"
+    },
+    {
+      "url": "wss://edgeware-rpc0.jelliedowl.net"
+    },
+    {
+      "url": "wss://edgeware-rpc1.jelliedowl.net"
+    },
+    {
+      "url": "wss://edgeware-rpc2.jelliedowl.net"
+    },
+    {
+      "url": "wss://edgeware-rpc3.jelliedowl.net"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Edgeware",
-    "symbol": "EDG",
-    "decimals": 18
-  },
-  "infoURL": "https://edgeware.io",
-  "shortName": "edg",
-  "chainId": 2021,
-  "networkId": 2021,
-  "slip44": 523,
   "explorers": [
     {
       "name": "Edgscan EdgeEVM explorer by Bharathcoorg",
-      "url": "https://edgscan.live",
-      "standard": "EIP3091"
+      "url": "https://edgscan.live"
     },
     {
       "name": "Edgscan EdgeWASM explorer by Bharathcoorg",
-      "url": "https://edgscan.ink",
-      "standard": "none",
-      "icon": "edgscan"
+      "url": "https://edgscan.ink"
     }
-  ],
-  "tvl": 0
+  ]
 }

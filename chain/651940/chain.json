@@ -1,26 +1,19 @@
 {
-  "name": "ALL Mainnet",
-  "chain": "ALL",
-  "icon": "./chain/651940/logo.png",
-  "rpc": [
-    "https://mainnet-rpc.alltra.global"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ALL",
-    "symbol": "ALL",
-    "decimals": 18
-  },
-  "infoURL": "https://alltra.world",
-  "shortName": "ALL",
   "chainId": 651940,
-  "networkId": 651940,
+  "icon": "./chain/651940/logo.png",
+  "www": "https://alltra.world",
+  "name": "ALL Mainnet",
+  "platform": "ALL",
+  "chainToken": "ALL",
+  "endpoints": [
+    {
+      "url": "https://mainnet-rpc.alltra.global"
+    }
+  ],
   "explorers": [
     {
       "name": "Alltra SmartChain Explorer",
-      "url": "https://alltra.global",
-      "standard": "EIP3091"
+      "url": "https://alltra.global"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,10 +1,7 @@
 {
   "name": "Xenon Chain Testnet",
   "chain": "XEN",
-  "rpc": [
-    "https://testnet-chain.xenonchain.com/",
-    "https://testnet-dev.xenonchain.com/"
-  ],
+  "rpc": [],
   "faucets": [
     "https://xfaucet.xenonchain.com"
   ],
@@ -17,7 +14,12 @@
   "shortName": "xenon",
   "chainId": 2941,
   "networkId": 2941,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmNSoxDnj6MV8mPJWiuzzLbATcbk5op11NTwMTdzcr272F",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  },
   "slip44": 1,
   "explorers": [
     {

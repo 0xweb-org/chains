@@ -1,28 +1,19 @@
 {
-  "name": "Lisk",
-  "chain": "ETH",
-  "icon": "./chain/1135/logo.png",
-  "rpc": [
-    "https://rpc.api.lisk.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://lisk.com",
-  "shortName": "lisk",
   "chainId": 1135,
-  "networkId": 1135,
-  "slip44": 134,
+  "icon": "./chain/1135/logo.png",
+  "www": "https://lisk.com",
+  "name": "Lisk",
+  "platform": "lisk",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.api.lisk.com"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://blockscout.lisk.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://blockscout.lisk.com"
     }
-  ],
-  "tvl": 2922454
+  ]
 }

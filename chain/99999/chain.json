@@ -1,9 +1,7 @@
 {
   "name": "UB Smart Chain",
   "chain": "USC",
-  "rpc": [
-    "https://rpc.uschain.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "UBC",
@@ -14,6 +12,5 @@
   "shortName": "usc",
   "chainId": 99999,
   "networkId": 99999,
-  "icon": null,
   "tvl": 0
 }

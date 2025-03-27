@@ -1,9 +1,7 @@
 {
   "name": "Furtheon",
   "chain": "Furtheon Network",
-  "rpc": [
-    "https://rpc.furtheon.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Furtheon",
@@ -21,6 +19,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

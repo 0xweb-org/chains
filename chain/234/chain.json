@@ -1,34 +1,18 @@
 {
+  "chainId": 234,
+  "www": "https://jumbochain.org",
   "name": "ProtoJumbo Testnet",
-  "chain": "Jumbo",
-  "rpc": [
-    "https://testnode.jumbochain.org"
-  ],
-  "faucets": [
-    "https://protojumbo.jumbochain.org/faucet-smart"
-  ],
-  "nativeCurrency": {
-    "name": "JNFTC",
-    "symbol": "JNFTC",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "ProtoJumbo",
+  "chainToken": "JNFTC",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://testnode.jumbochain.org"
     }
   ],
-  "infoURL": "https://jumbochain.org",
-  "shortName": "ProtoJumbo",
-  "chainId": 234,
-  "networkId": 234,
-  "slip44": 1,
   "explorers": [
     {
       "name": "ProtoJumbo",
-      "url": "https://protojumbo.jumbochain.org",
-      "standard": "EIP3091"
+      "url": "https://protojumbo.jumbochain.org"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

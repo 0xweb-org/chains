@@ -1,36 +1,19 @@
 {
+  "chainId": 88817,
+  "icon": "ipfs://QmRb2rWanyBTKS5KyrmrbXPNy9zovpxfLRxz9FPPiuRgfg",
+  "www": "https://units.network",
   "name": "Unit Zero Testnet",
-  "chain": "Unit Zero",
-  "icon": null,
-  "rpc": [
-    "https://rpc-testnet.unit0.dev"
-  ],
-  "faucets": [
-    "https://faucet-testnet.unit0.dev"
-  ],
-  "nativeCurrency": {
-    "name": "UNIT0",
-    "symbol": "UNIT0",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "unit0-testnet",
+  "chainToken": "UNIT0",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://rpc-testnet.unit0.dev"
     }
   ],
-  "infoURL": "https://units.network",
-  "shortName": "unit0-testnet",
-  "chainId": 88817,
-  "networkId": 88817,
   "explorers": [
     {
       "name": "explorer-testnet",
-      "url": "https://explorer-testnet.unit0.dev",
-      "standard": "EIP3091"
+      "url": "https://explorer-testnet.unit0.dev"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,15 +1,7 @@
 {
   "name": "Optimism Goerli Testnet",
   "chain": "ETH",
-  "rpc": [
-    "https://goerli.optimism.io",
-    "https://optimism-goerli-rpc.publicnode.com",
-    "wss://optimism-goerli-rpc.publicnode.com",
-    "https://optimism-goerli.gateway.tenderly.co",
-    "wss://optimism-goerli.gateway.tenderly.co",
-    "https://optimism-testnet.drpc.org",
-    "wss://optimism-testnet.drpc.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Goerli Ether",
@@ -29,6 +21,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

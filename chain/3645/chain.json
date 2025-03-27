@@ -1,26 +1,19 @@
 {
-  "name": "iChain Testnet",
-  "chain": "iChain Testnet",
-  "icon": null,
-  "rpc": [
-    "https://istanbul.ichainscan.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ISLAMICOIN",
-    "symbol": "ISLAMI",
-    "decimals": 18
-  },
-  "infoURL": "https://islamicoin.finance",
-  "shortName": "ISLAMIT",
   "chainId": 3645,
-  "networkId": 3645,
+  "icon": "ipfs://QmcumhDxUyoLTHkcMKgPqkpGnnjwSTqE2KGFnDXXFY8mMo",
+  "www": "https://islamicoin.finance",
+  "name": "iChain Testnet",
+  "platform": "ISLAMIT",
+  "chainToken": "ISLAMI",
+  "endpoints": [
+    {
+      "url": "https://istanbul.ichainscan.com"
+    }
+  ],
   "explorers": [
     {
       "name": "iChainscan",
-      "url": "https://test.ichainscan.com",
-      "standard": "EIP3091"
+      "url": "https://test.ichainscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

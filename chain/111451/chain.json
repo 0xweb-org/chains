@@ -2,10 +2,7 @@
   "name": "eGold Chain Testnet",
   "chain": "EGC",
   "icon": "./chain/111451/logo.png",
-  "rpc": [
-    "https://rpc-testnet.egoldchain.com",
-    "wss://rpc-testnet.egoldchain.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Aurum",

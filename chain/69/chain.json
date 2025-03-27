@@ -2,9 +2,7 @@
   "name": "Optimism Kovan",
   "title": "Optimism Testnet Kovan",
   "chain": "ETH",
-  "rpc": [
-    "https://kovan.optimism.io/"
-  ],
+  "rpc": [],
   "faucets": [
     "http://fauceth.komputing.org?chain=69&address=${ADDRESS}"
   ],
@@ -25,6 +23,5 @@
   "chainId": 69,
   "networkId": 69,
   "slip44": 1,
-  "icon": null,
   "tvl": 0
 }

@@ -1,26 +1,19 @@
 {
-  "name": "Canxium Mainnet",
-  "chain": "CAU",
-  "icon": "./chain/3003/logo.png",
-  "rpc": [
-    "https://rpc.canxium.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Canxium",
-    "symbol": "CAU",
-    "decimals": 18
-  },
-  "infoURL": "https://canxium.org",
-  "shortName": "cau",
   "chainId": 3003,
-  "networkId": 3003,
+  "icon": "./chain/3003/logo.png",
+  "www": "https://canxium.org",
+  "name": "Canxium Mainnet",
+  "platform": "cau",
+  "chainToken": "CAU",
+  "endpoints": [
+    {
+      "url": "https://rpc.canxium.org"
+    }
+  ],
   "explorers": [
     {
       "name": "canxium explorer",
-      "url": "https://explorer.canxium.org",
-      "standard": "none"
+      "url": "https://explorer.canxium.org"
     }
-  ],
-  "tvl": 0
+  ]
 }

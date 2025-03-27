@@ -1,21 +1,16 @@
 {
-  "name": "DuckChain Mainnet",
-  "title": "DuckChain Mainnet",
-  "chain": "DuckChain",
-  "icon": "./chain/5545/logo.png",
-  "rpc": [
-    "https://rpc.duckchain.io",
-    "https://rpc-hk.duckchain.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "TON",
-    "symbol": "TON",
-    "decimals": 18
-  },
-  "infoURL": "https://duckchain.io",
-  "shortName": "Duck-Chain-Mainnet",
   "chainId": 5545,
-  "networkId": 5545,
-  "tvl": 0
+  "icon": "./chain/5545/logo.png",
+  "www": "https://duckchain.io",
+  "name": "DuckChain Mainnet",
+  "platform": "Duck-Chain-Mainnet",
+  "chainToken": "TON",
+  "endpoints": [
+    {
+      "url": "https://rpc.duckchain.io"
+    },
+    {
+      "url": "https://rpc-hk.duckchain.io"
+    }
+  ]
 }

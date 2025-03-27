@@ -1,11 +1,13 @@
 {
   "name": "Defi Oracle Meta Testnet",
   "chain": "dfiometatest",
-  "icon": null,
-  "rpc": [
-    "https://rpc.public-2138.defi-oracle.io",
-    "wss://rpc.public-2138.defi-oracle.io"
-  ],
+  "icon": {
+    "url": "ipfs://QmYrMRnjQJcNkYq9AvZ2FQ9kzYj9szzP4YDmyNA1ybd8xE",
+    "width": 1000,
+    "height": 1043,
+    "format": "png"
+  },
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"

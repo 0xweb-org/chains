@@ -1,19 +1,13 @@
 {
-  "name": "SatoshiVM Alpha Mainnet",
-  "chain": "SatoshiVM",
-  "rpc": [
-    "https://alpha-rpc-node-http.svmscan.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "BTC",
-    "symbol": "BTC",
-    "decimals": 18
-  },
-  "infoURL": "https://www.satoshivm.io/",
-  "shortName": "SAVM",
   "chainId": 3109,
-  "networkId": 3109,
   "icon": "./chain/3109/logo.png",
-  "tvl": 395851
+  "www": "https://www.satoshivm.io/",
+  "name": "SatoshiVM Alpha Mainnet",
+  "platform": "SAVM",
+  "chainToken": "BTC",
+  "endpoints": [
+    {
+      "url": "https://alpha-rpc-node-http.svmscan.io"
+    }
+  ]
 }

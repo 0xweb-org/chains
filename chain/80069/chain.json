@@ -1,20 +1,14 @@
 {
-  "name": "Berachain Bepolia",
-  "chain": "Berachain",
-  "rpc": [
-    "https://bepolia.rpc.berachain.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Testnet BERA Token",
-    "symbol": "BERA",
-    "decimals": 18
-  },
-  "infoURL": "https://www.berachain.com",
-  "shortName": "berachain-bepolia",
   "chainId": 80069,
-  "networkId": 80069,
   "icon": "./chain/80069/logo.png",
-  "explorers": [],
-  "tvl": 0
+  "www": "https://www.berachain.com",
+  "name": "Berachain Bepolia",
+  "platform": "berachain-bepolia",
+  "chainToken": "BERA",
+  "endpoints": [
+    {
+      "url": "https://bepolia.rpc.berachain.com"
+    }
+  ],
+  "explorers": []
 }

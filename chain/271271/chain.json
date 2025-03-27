@@ -1,29 +1,19 @@
 {
-  "name": "EgonCoin Testnet",
-  "chain": "EGON",
-  "icon": "./chain/271271/logo.png",
-  "rpc": [
-    "https://rpctest.egonscan.com"
-  ],
-  "faucets": [
-    "https://faucet.egonscan.com"
-  ],
-  "nativeCurrency": {
-    "name": "EgonCoin",
-    "symbol": "EGON",
-    "decimals": 18
-  },
-  "infoURL": "https://egonscan.com",
-  "shortName": "EGONt",
   "chainId": 271271,
-  "networkId": 271271,
-  "slip44": 1,
+  "icon": "./chain/271271/logo.png",
+  "www": "https://egonscan.com",
+  "name": "EgonCoin Testnet",
+  "platform": "EGONt",
+  "chainToken": "EGON",
+  "endpoints": [
+    {
+      "url": "https://rpctest.egonscan.com"
+    }
+  ],
   "explorers": [
     {
       "name": "EgonCoin Testnet",
-      "url": "https://testnet.egonscan.com",
-      "standard": "EIP3091"
+      "url": "https://testnet.egonscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

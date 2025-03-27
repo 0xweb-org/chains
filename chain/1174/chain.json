@@ -1,26 +1,18 @@
 {
-  "name": "Litheum Test Network",
-  "chain": "Litheum",
-  "rpc": [
-    "https://testnet.litheum.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Lith",
-    "symbol": "LTH",
-    "decimals": 18
-  },
-  "infoURL": "https://litheum.com",
-  "shortName": "lith",
   "chainId": 1174,
-  "networkId": 1174,
+  "www": "https://litheum.com",
+  "name": "Litheum Test Network",
+  "platform": "lith",
+  "chainToken": "LTH",
+  "endpoints": [
+    {
+      "url": "https://testnet.litheum.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Litheum Test Network Explorer",
-      "url": "https://explorer.litheum.com",
-      "standard": "EIP3091"
+      "url": "https://explorer.litheum.com"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

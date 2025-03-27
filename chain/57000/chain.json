@@ -1,13 +1,7 @@
 {
   "name": "Rollux Testnet",
   "chain": "SYS",
-  "rpc": [
-    "https://rpc-tanenbaum.rollux.com",
-    "https://rpc.ankr.com/rollux_testnet/${ANKR_API_KEY}",
-    "wss://rpc-tanenbaum.rollux.com/wss",
-    "https://rollux.rpc.tanenbaum.io",
-    "wss://rollux.rpc.tanenbaum.io/wss"
-  ],
+  "rpc": [],
   "faucets": [
     "https://rollux.id/faucetapp"
   ],
@@ -28,6 +22,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

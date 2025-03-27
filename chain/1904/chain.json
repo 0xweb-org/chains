@@ -1,9 +1,7 @@
 {
   "name": "Sports Chain Network",
   "chain": "SCN",
-  "rpc": [
-    "https://rpc.sportschainnetwork.xyz/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "SCN",
@@ -14,7 +12,12 @@
   "shortName": "SCN",
   "chainId": 1904,
   "networkId": 1904,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmdW7XfRgeyoaHXEvXp8MaVteonankR32CxhL3K5Yc2uQM",
+    "width": 345,
+    "height": 321,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "blockscout",

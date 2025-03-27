@@ -1,9 +1,7 @@
 {
   "name": "Canto Tesnet",
   "chain": "Canto",
-  "rpc": [
-    "https://testnet-archive.plexnode.wtf"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Testnet Canto",
@@ -28,6 +26,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

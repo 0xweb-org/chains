@@ -2,9 +2,7 @@
   "name": "PublicMint Testnet",
   "title": "Public Mint Testnet",
   "chain": "PublicMint",
-  "rpc": [
-    "https://rpc.tst.publicmint.io:8545"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "USD",
@@ -23,6 +21,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

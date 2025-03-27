@@ -1,9 +1,7 @@
 {
   "name": "Flow EVM Testnet",
   "chain": "Flow",
-  "rpc": [
-    "https://testnet.evm.nodes.onflow.org"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.flow.com/fund-account"
   ],

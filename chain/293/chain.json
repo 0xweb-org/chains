@@ -1,36 +1,19 @@
 {
+  "chainId": 293,
+  "icon": "ipfs://bafybeid7ggekwk5knwlxsesk4zomwrtg2mmcfwfqjtywghvljfbmukn2yu",
+  "www": "https://davinci.bz",
   "name": "DaVinci",
-  "chain": "DCOIN",
-  "rpc": [
-    "https://rpc.davinci.bz"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "DaVinci",
-    "symbol": "DCOIN",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "davinci",
+  "chainToken": "DCOIN",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://rpc.davinci.bz"
     }
   ],
-  "infoURL": "https://davinci.bz",
-  "shortName": "davinci",
-  "chainId": 293,
-  "networkId": 293,
-  "icon": null,
   "explorers": [
     {
       "name": "davinciscan",
-      "icon": "blockscout",
-      "url": "https://mainnet-explorer.davinci.bz",
-      "standard": "EIP3091"
+      "url": "https://mainnet-explorer.davinci.bz"
     }
-  ],
-  "status": "active",
-  "tvl": 0
+  ]
 }

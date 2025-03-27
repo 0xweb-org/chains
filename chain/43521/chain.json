@@ -3,10 +3,7 @@
   "title": "MemeCore Testnet Formicarium",
   "chain": "MemeCore",
   "icon": "./chain/43521/logo.png",
-  "rpc": [
-    "https://rpc.formicarium.memecore.net",
-    "wss://ws.formicarium.memecore.net"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.memecore.com/formicarium"
   ],

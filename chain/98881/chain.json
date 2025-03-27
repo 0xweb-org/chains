@@ -2,9 +2,7 @@
   "name": "Ebi Chain",
   "title": "Ebi Chain",
   "chain": "Ebi",
-  "rpc": [
-    "https://rpc.ebi.xyz"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",
@@ -16,6 +14,5 @@
   "chainId": 98881,
   "networkId": 98881,
   "status": "incubating",
-  "icon": null,
   "tvl": 0
 }

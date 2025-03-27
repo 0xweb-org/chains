@@ -1,9 +1,7 @@
 {
   "name": "Lambda Testnet",
   "chain": "Lambda",
-  "rpc": [
-    "https://evm.lambda.top/"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.lambda.top"
   ],
@@ -17,7 +15,12 @@
   "chainId": 92001,
   "networkId": 92001,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmWsoME6LCghQTpGYf7EnUojaDdYo7kfkWVjE6VvNtkjwy",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "Lambda EVM Explorer",

@@ -1,9 +1,7 @@
 {
   "name": "Lumoz Quidditch Testnet",
   "chain": "ETH",
-  "rpc": [
-    "https://quidditch-rpc.lumoz.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Lumoz Quidditch Testnet Token",
@@ -23,7 +21,12 @@
   "chainId": 58680,
   "networkId": 58680,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmZnE2ygPL2ZGuzHGvFCHmrqxwdurrhz3K1yPnwLzKbgay",
+    "width": 401,
+    "height": 400,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "LumozQuidditchTestnetInfo",

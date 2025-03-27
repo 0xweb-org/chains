@@ -1,9 +1,7 @@
 {
   "name": "Uzmi Network Mainnet",
   "chain": "UZMI",
-  "rpc": [
-    "https://network.uzmigames.com.br/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "UZMI",
@@ -14,6 +12,5 @@
   "shortName": "UZMI",
   "chainId": 5315,
   "networkId": 5315,
-  "icon": null,
   "tvl": 0
 }

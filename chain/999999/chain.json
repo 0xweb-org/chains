@@ -1,35 +1,19 @@
 {
-  "name": "AmChain",
-  "title": "AMC",
-  "chain": "AmChain",
+  "chainId": 999999,
   "icon": "./chain/999999/logo.png",
-  "rpc": [
-    "https://node1.amchain.net"
-  ],
-  "features": [
+  "www": "https://hewe.io/",
+  "name": "AmChain",
+  "platform": "AMC",
+  "chainToken": "AMC",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://node1.amchain.net"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "AMC",
-    "symbol": "AMC",
-    "decimals": 18
-  },
-  "infoURL": "https://hewe.io/",
-  "shortName": "AMC",
-  "chainId": 999999,
-  "networkId": 999999,
   "explorers": [
     {
       "name": "AMCAmChain explorer",
-      "url": "https://explorer.amchain.net",
-      "standard": "none"
+      "url": "https://explorer.amchain.net"
     }
-  ],
-  "tvl": 0
+  ]
 }

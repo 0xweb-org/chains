@@ -1,7 +1,12 @@
 {
   "name": "ResinCoin Mainnet",
   "chain": "RESIN",
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmTBszPzBeWPhjozf4TxpL2ws1NkG9yJvisx9h6MFii1zb",
+    "width": 460,
+    "height": 460,
+    "format": "png"
+  },
   "rpc": [],
   "faucets": [],
   "nativeCurrency": {

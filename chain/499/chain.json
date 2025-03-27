@@ -1,9 +1,7 @@
 {
   "name": "Rupaya",
   "chain": "RUPX",
-  "rpc": [
-    "https://rpc.rupaya.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.rupaya.io"
   ],
@@ -24,6 +22,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

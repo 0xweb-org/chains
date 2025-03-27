@@ -1,27 +1,22 @@
 {
-  "name": "CAGA mainnet",
-  "chain": "CAGA",
-  "rpc": [
-    "https://cagamainnet.com",
-    "wss://cagamainnet.com/ws"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "CAGA",
-    "symbol": "CAGA",
-    "decimals": 18
-  },
-  "infoURL": "https://www.cagacrypto.com/",
-  "shortName": "caga-mainnet",
   "chainId": 72888,
-  "networkId": 72888,
   "icon": "./chain/72888/logo.png",
+  "www": "https://www.cagacrypto.com/",
+  "name": "CAGA mainnet",
+  "platform": "caga",
+  "chainToken": "CAGA",
+  "endpoints": [
+    {
+      "url": "https://cagamainnet.com"
+    },
+    {
+      "url": "wss://cagamainnet.com/ws"
+    }
+  ],
   "explorers": [
     {
       "name": "caga",
-      "url": "https://explorer.cagamainnet.com",
-      "standard": "EIP3091"
+      "url": "https://explorer.cagamainnet.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

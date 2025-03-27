@@ -1,26 +1,19 @@
 {
-  "name": "Ecrox Chain Mainnet",
-  "chain": "Ecrox Chain",
-  "rpc": [
-    "https://mainnet-rpc.ecroxscan.com/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ECROX COIN",
-    "symbol": "ECROX",
-    "decimals": 18
-  },
-  "infoURL": "https://ecroxcoin.io/",
-  "shortName": "ecrox",
-  "icon": "./chain/988207/logo.png",
   "chainId": 988207,
-  "networkId": 988207,
+  "icon": "./chain/988207/logo.png",
+  "www": "https://ecroxcoin.io/",
+  "name": "Ecrox Chain Mainnet",
+  "platform": "ecrox",
+  "chainToken": "ECROX",
+  "endpoints": [
+    {
+      "url": "https://mainnet-rpc.ecroxscan.com/"
+    }
+  ],
   "explorers": [
     {
       "name": "Ecrox Chain Explorer",
-      "url": "https://ecroxscan.com",
-      "standard": "EIP3091"
+      "url": "https://ecroxscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

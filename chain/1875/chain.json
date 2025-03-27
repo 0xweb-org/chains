@@ -1,9 +1,7 @@
 {
   "name": "Whitechain",
   "chain": "WBT",
-  "rpc": [
-    "https://rpc.whitechain.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "WhiteBIT Coin",

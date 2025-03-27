@@ -1,26 +1,18 @@
 {
-  "name": "Arcadia Mainnet",
-  "chain": "Arcadia",
-  "rpc": [
-    "https://arcadia.khalani.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "AIP",
-    "symbol": "AIP",
-    "decimals": 18
-  },
-  "infoURL": "https://khalani.network",
-  "shortName": "aip",
   "chainId": 4278608,
-  "networkId": 4278608,
+  "www": "https://khalani.network",
+  "name": "Arcadia Mainnet",
+  "platform": "aip",
+  "chainToken": "AIP",
+  "endpoints": [
+    {
+      "url": "https://arcadia.khalani.network"
+    }
+  ],
   "explorers": [
     {
       "name": "Arcadia Mainnet Explorer",
-      "url": "https://explorer.arcadia.khalani.network",
-      "standard": "EIP3091"
+      "url": "https://explorer.arcadia.khalani.network"
     }
-  ],
-  "tvl": 0,
-  "icon": null
+  ]
 }

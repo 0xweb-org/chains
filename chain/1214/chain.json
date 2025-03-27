@@ -1,9 +1,7 @@
 {
   "name": "EnterChain Mainnet",
   "chain": "ENTER",
-  "rpc": [
-    "https://tapi.entercoin.net/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "EnterCoin",
@@ -14,7 +12,12 @@
   "shortName": "enter",
   "chainId": 1214,
   "networkId": 1214,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://Qmb2UYVc1MjLPi8vhszWRxqBJYoYkWQVxDJRSmtrgk6j2E",
+    "width": 64,
+    "height": 64,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "Enter Explorer - Expenter",

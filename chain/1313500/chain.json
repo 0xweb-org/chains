@@ -1,9 +1,7 @@
 {
   "name": "Xerom",
   "chain": "XERO",
-  "rpc": [
-    "https://rpc.xerom.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Xerom Ether",
@@ -14,6 +12,5 @@
   "shortName": "xero",
   "chainId": 1313500,
   "networkId": 1313500,
-  "icon": null,
   "tvl": 0
 }

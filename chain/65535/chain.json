@@ -1,35 +1,19 @@
 {
-  "name": "CyberChain Mainnet",
-  "chain": "XCC",
+  "chainId": 65535,
   "icon": "./chain/65535/logo.png",
-  "rpc": [
-    "https://rpc.cyberchain.xyz/"
-  ],
-  "features": [
+  "www": "https://cyberchain.xyz",
+  "name": "CyberChain Mainnet",
+  "platform": "xcc",
+  "chainToken": "XCC",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://rpc.cyberchain.xyz/"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "XCC",
-    "symbol": "XCC",
-    "decimals": 18
-  },
-  "infoURL": "https://cyberchain.xyz",
-  "shortName": "xcc",
-  "chainId": 65535,
-  "networkId": 65535,
-  "slip44": 60,
   "explorers": [
     {
       "name": "CyberChain explorer",
-      "url": "https://scan.cyberchain.xyz",
-      "standard": "EIP3091"
+      "url": "https://scan.cyberchain.xyz"
     }
-  ],
-  "tvl": 0
+  ]
 }

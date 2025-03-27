@@ -2,9 +2,7 @@
   "name": "Torus Mainnet",
   "chain": "TQF",
   "icon": "./chain/8192/logo.png",
-  "rpc": [
-    "https://rpc.toruschain.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "TQF",

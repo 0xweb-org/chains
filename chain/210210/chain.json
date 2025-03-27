@@ -1,10 +1,7 @@
 {
   "name": "Sorian Testnet",
   "chain": "tSOR",
-  "rpc": [
-    "https://testnet-rpc.sorian.io",
-    "https://testnet.rpc.sorian.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "icon": "./chain/210210/logo.png",
   "nativeCurrency": {

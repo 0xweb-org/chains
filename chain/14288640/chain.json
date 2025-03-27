@@ -1,10 +1,7 @@
 {
   "name": "Anduschain Mainnet",
   "chain": "anduschain",
-  "rpc": [
-    "https://rpc.anduschain.io/rpc",
-    "wss://rpc.anduschain.io/ws"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "DAON",
@@ -23,6 +20,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

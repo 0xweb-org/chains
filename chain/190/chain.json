@@ -1,9 +1,7 @@
 {
   "name": "CMDAO BBQ Chain",
   "chain": "Underchain 1",
-  "rpc": [
-    "https://bbqchain-rpc.commudao.xyz"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "CommuDAO",
@@ -21,6 +19,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

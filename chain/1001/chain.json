@@ -1,34 +1,23 @@
 {
-  "name": "Kaia Kairos Testnet",
-  "chain": "KAIA",
-  "rpc": [
-    "https://public-en-kairos.node.kaia.io"
-  ],
-  "faucets": [
-    "https://faucet.kaia.io"
-  ],
-  "nativeCurrency": {
-    "name": "KAIA",
-    "symbol": "KAIA",
-    "decimals": 18
-  },
-  "infoURL": "https://kaia.io/",
-  "shortName": "kaia-kairos",
   "chainId": 1001,
-  "networkId": 1001,
-  "slip44": 1,
+  "icon": "./chain/1001/logo.png",
+  "www": "https://kaia.io/",
+  "name": "Kaia Kairos Testnet",
+  "platform": "kaia-kairos",
+  "chainToken": "KAIA",
+  "endpoints": [
+    {
+      "url": "https://public-en-kairos.node.kaia.io"
+    }
+  ],
   "explorers": [
     {
       "name": "Kaiascope",
-      "url": "https://kairos.kaiascope.com",
-      "standard": "EIP3091"
+      "url": "https://kairos.kaiascope.com"
     },
     {
       "name": "Kaiascan",
-      "url": "https://kairos.kaiascan.io",
-      "standard": "EIP3091"
+      "url": "https://kairos.kaiascan.io"
     }
-  ],
-  "icon": "./chain/1001/logo.png",
-  "tvl": 0
+  ]
 }

@@ -1,9 +1,7 @@
 {
   "name": "Apex Fusion - Nexus testnet",
   "chain": "Nexus testnet",
-  "rpc": [
-    "https://rpc.nexus.testnet.apexfusion.org/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Apex Fusion Token",

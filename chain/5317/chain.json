@@ -1,9 +1,7 @@
 {
   "name": "OpTrust Testnet",
   "chain": "OpTrust",
-  "rpc": [
-    "https://rpctest.optrust.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "TestBSC",
@@ -14,7 +12,12 @@
   "shortName": "toptrust",
   "chainId": 5317,
   "networkId": 5317,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmYktPMo4tdQhMA9nRJBVckjzHcFLbpHbTVNSpGUUPEP8J",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "OpTrust Testnet explorer",

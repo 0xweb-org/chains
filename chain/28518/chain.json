@@ -1,37 +1,19 @@
 {
-  "name": "Vizing Mainnet",
-  "title": "Vizing Mainnet",
-  "chain": "Vizing Mainnet",
-  "rpc": [
-    "https://rpc.vizing.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://vizing.com",
-  "shortName": "Vizing",
   "chainId": 28518,
-  "networkId": 28518,
-  "icon": null,
+  "icon": "ipfs://QmPgpWfGsAZ5UHekWFR8rioadVe3Wox8idFyeVxuv9N4Vo",
+  "www": "https://vizing.com",
+  "name": "Vizing Mainnet",
+  "platform": "Vizing",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.vizing.com"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://explorer.vizing.com",
-      "icon": "vizing",
-      "standard": "EIP3091"
+      "url": "https://explorer.vizing.com"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "https://bridge.vizing.com"
-      }
-    ]
-  },
-  "tvl": 0
+  ]
 }

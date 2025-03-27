@@ -1,36 +1,23 @@
 {
-  "name": "Neon EVM Devnet",
-  "chain": "Solana",
-  "rpc": [
-    "https://devnet.neonevm.org",
-    "https://neon-evm-devnet.drpc.org",
-    "wss://neon-evm-devnet.drpc.org"
-  ],
-  "faucets": [
-    "https://neonfaucet.org"
-  ],
-  "icon": "./chain/245022926/logo.png",
-  "nativeCurrency": {
-    "name": "Neon",
-    "symbol": "NEON",
-    "decimals": 18
-  },
-  "infoURL": "https://neon-labs.org",
-  "shortName": "neonevm-devnet",
   "chainId": 245022926,
-  "networkId": 245022926,
+  "icon": "./chain/245022926/logo.png",
+  "www": "https://neon-labs.org",
+  "name": "Neon EVM Devnet",
+  "platform": "neonevm-devnet",
+  "chainToken": "NEON",
+  "endpoints": [
+    {
+      "url": "https://devnet.neonevm.org"
+    }
+  ],
   "explorers": [
     {
       "name": "neonscan",
-      "url": "https://devnet.neonscan.org",
-      "standard": "EIP3091"
+      "url": "https://devnet.neonscan.org"
     },
     {
       "name": "blockscout",
-      "url": "https://neon-devnet.blockscout.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://neon-devnet.blockscout.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

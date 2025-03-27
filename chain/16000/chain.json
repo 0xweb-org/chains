@@ -1,9 +1,7 @@
 {
   "name": "MetaDot Mainnet",
   "chain": "MTT",
-  "rpc": [
-    "https://mainnet.metadot.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "MetaDot Token",
@@ -14,6 +12,5 @@
   "shortName": "mtt",
   "chainId": 16000,
   "networkId": 16000,
-  "icon": null,
   "tvl": 0
 }

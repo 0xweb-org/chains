@@ -1,26 +1,18 @@
 {
-  "name": "Smart Layer Network Testnet",
-  "chain": "SLN",
-  "rpc": [
-    "https://rpc.test.smartlayer.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Service Unit Token",
-    "symbol": "SU",
-    "decimals": 18
-  },
-  "infoURL": "https://www.smartlayer.network/",
-  "shortName": "tSLN",
   "chainId": 82459,
-  "networkId": 82459,
+  "www": "https://www.smartlayer.network/",
+  "name": "Smart Layer Network Testnet",
+  "platform": "tSLN",
+  "chainToken": "SU",
+  "endpoints": [
+    {
+      "url": "https://rpc.test.smartlayer.network"
+    }
+  ],
   "explorers": [
     {
       "name": "SLN Testnet Explorer",
-      "url": "https://explorer.test.smartlayer.network",
-      "standard": "EIP3091"
+      "url": "https://explorer.test.smartlayer.network"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

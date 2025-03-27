@@ -1,9 +1,7 @@
 {
   "name": "BIZ Smart Chain Testnet",
   "chain": "BIZT Testnet",
-  "rpc": [
-    "https://rpc-testnet.bizex.io/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "tBIZT",
@@ -23,7 +21,12 @@
   "chainId": 808080,
   "networkId": 808080,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmNnaDZRoMz9aoho35TGHBY5zD16P39cgPpw3z3jnkDHHB",
+    "width": 104,
+    "height": 104,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "BIZ Smart Chain Testnet Explorer",

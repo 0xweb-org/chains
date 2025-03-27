@@ -1,10 +1,7 @@
 {
   "name": "Qubetics Testnet",
   "chain": "Qubetics Testnet",
-  "rpc": [
-    "https://alphatestnet-evm-rpc.qubetics.work/",
-    "wss://wss-testnet-nodes.shidoscan.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://alphatestnet-explorer.qubetics.work/faucet"
   ],

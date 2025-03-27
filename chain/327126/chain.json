@@ -1,26 +1,19 @@
 {
-  "name": "WABA Chain Testnet",
-  "chain": "WABA Mainnet",
-  "icon": "./chain/327126/logo.png",
-  "rpc": [
-    "https://rpc.wabaworld.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "WABA",
-    "symbol": "WABA",
-    "decimals": 18
-  },
-  "infoURL": "https://www.wabanetwork.org",
-  "shortName": "waba",
   "chainId": 327126,
-  "networkId": 327126,
+  "icon": "./chain/327126/logo.png",
+  "www": "https://www.wabanetwork.org",
+  "name": "WABA Chain Testnet",
+  "platform": "waba",
+  "chainToken": "WABA",
+  "endpoints": [
+    {
+      "url": "https://rpc.wabaworld.com"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://explorer.wabaworld.com",
-      "standard": "none"
+      "url": "https://explorer.wabaworld.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

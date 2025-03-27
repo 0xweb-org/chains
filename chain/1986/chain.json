@@ -1,9 +1,7 @@
 {
   "name": "SatoshIE Testnet",
   "chain": "TUSHY",
-  "rpc": [
-    "http://testnet.satosh.ie"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Tushy Token",
@@ -15,7 +13,12 @@
   "chainId": 1986,
   "networkId": 1986,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmRHT4o9ihiY6nVkkRdwZjdugbEAQiXrrov3GS9a3GTuL7",
+    "width": 1024,
+    "height": 1024,
+    "format": "jpg"
+  },
   "explorers": [
     {
       "name": "testnetexplorer",

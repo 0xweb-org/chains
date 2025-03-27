@@ -2,9 +2,7 @@
   "name": "UPTN Testnet",
   "chain": "UPTN",
   "icon": "./chain/6118/logo.png",
-  "rpc": [
-    "https://node-api.alp.uptn.io/v1/ext/rpc"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP1559"

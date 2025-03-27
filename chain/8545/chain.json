@@ -1,9 +1,7 @@
 {
   "name": "Chakra Testnet",
   "chain": "Chakra Testnet",
-  "rpc": [
-    "https://rpcv1-dn-1.chakrachain.io/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Chakra",
@@ -15,6 +13,5 @@
   "chainId": 8545,
   "networkId": 8545,
   "explorers": [],
-  "icon": null,
   "tvl": 0
 }

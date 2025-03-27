@@ -3,9 +3,7 @@
   "chainId": 16481,
   "networkId": 16481,
   "chain": "Pivotal",
-  "rpc": [
-    "https://sepolia.pivotalprotocol.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "shortName": "pivotal-sepolia",
   "nativeCurrency": {
@@ -21,6 +19,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

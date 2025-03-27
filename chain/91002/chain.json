@@ -3,9 +3,7 @@
   "title": "Nautilus Trition Testnet",
   "chain": "ETH",
   "icon": "./chain/91002/logo.png",
-  "rpc": [
-    "https://triton.api.nautchain.xyz"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.eclipse.builders"
   ],

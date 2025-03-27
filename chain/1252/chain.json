@@ -1,9 +1,7 @@
 {
   "name": "CIC Chain Testnet",
   "chain": "CICT",
-  "rpc": [
-    "https://testapi.cicscan.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://cicfaucet.com"
   ],

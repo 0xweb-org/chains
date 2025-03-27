@@ -1,9 +1,7 @@
 {
   "name": "Metal Tahoe C-Chain",
   "chain": "Metal",
-  "rpc": [
-    "https://tahoe.metalblockchain.org/ext/bc/C/rpc"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Metal",
@@ -22,6 +20,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

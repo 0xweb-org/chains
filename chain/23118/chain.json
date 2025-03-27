@@ -1,9 +1,7 @@
 {
   "name": "Opside Testnet",
   "chain": "Opside",
-  "rpc": [
-    "https://testrpc.opside.network"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.opside.network"
   ],
@@ -17,7 +15,12 @@
   "chainId": 23118,
   "networkId": 23118,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmeCyZeibUoHNoYGzy1GkzH2uhxyRHKvH51PdaUMer4VTo",
+    "width": 591,
+    "height": 591,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "opsideInfo",

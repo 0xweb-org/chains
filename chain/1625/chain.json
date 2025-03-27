@@ -1,57 +1,30 @@
 {
+  "chainId": 1625,
+  "icon": "./chain/1625/logo.png",
+  "www": "https://gravity.xyz",
   "name": "Gravity Alpha Mainnet",
-  "chain": "Gravity",
-  "rpc": [
-    "https://rpc.gravity.xyz",
-    "https://rpc.ankr.com/gravity"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Gravity",
-    "symbol": "G",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "gravity",
+  "chainToken": "G",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://rpc.gravity.xyz"
     },
     {
-      "name": "EIP1559"
-    },
-    {
-      "name": "EIP1108"
+      "url": "https://rpc.ankr.com/gravity"
     }
   ],
-  "infoURL": "https://gravity.xyz",
-  "shortName": "gravity",
-  "chainId": 1625,
-  "networkId": 1625,
-  "icon": "./chain/1625/logo.png",
   "explorers": [
     {
       "name": "Gravity Alpha Mainnet Explorer",
-      "url": "https://explorer.gravity.xyz",
-      "standard": "EIP3091"
+      "url": "https://explorer.gravity.xyz"
     },
     {
       "name": "gscan",
-      "url": "https://gscan.xyz",
-      "standard": "EIP3091"
+      "url": "https://gscan.xyz"
     },
     {
       "name": "OKLink",
-      "url": "https://www.oklink.com/gravity-alpha",
-      "standard": "EIP3091"
+      "url": "https://www.oklink.com/gravity-alpha"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "https://bridge.gravity.xyz"
-      }
-    ]
-  },
-  "tvl": 2298482
+  ]
 }

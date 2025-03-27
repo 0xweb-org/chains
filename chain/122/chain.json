@@ -1,29 +1,25 @@
 {
-  "name": "Fuse Mainnet",
-  "chain": "FUSE",
-  "rpc": [
-    "https://rpc.fuse.io",
-    "https://fuse.drpc.org",
-    "wss://fuse.drpc.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Fuse",
-    "symbol": "FUSE",
-    "decimals": 18
-  },
-  "infoURL": "https://fuse.io/",
-  "shortName": "fuse",
   "chainId": 122,
-  "networkId": 122,
   "icon": "./chain/122/logo.png",
+  "www": "https://fuse.io/",
+  "name": "Fuse Mainnet",
+  "platform": "fuse",
+  "chainToken": "FUSE",
+  "endpoints": [
+    {
+      "url": "https://rpc.fuse.io"
+    },
+    {
+      "url": "https://fuse.drpc.org"
+    },
+    {
+      "url": "wss://fuse.drpc.org"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://explorer.fuse.io",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://explorer.fuse.io"
     }
-  ],
-  "tvl": 712568
+  ]
 }

@@ -2,10 +2,7 @@
   "name": "Argochain Testnet",
   "chain": "Argochain",
   "icon": "./chain/1298/logo.png",
-  "rpc": [
-    "https://rpc-testnet.devolvedai.com",
-    "https://test-rpc.devolvedai.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.argoscan.net"
   ],

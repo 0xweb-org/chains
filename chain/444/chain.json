@@ -2,9 +2,7 @@
   "name": "Synapse Chain Testnet",
   "status": "active",
   "chain": "ETH",
-  "rpc": [
-    "https://sepolia.synapseprotocol.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Sepolia ETH",
@@ -35,6 +33,5 @@
       }
     ]
   },
-  "icon": null,
   "tvl": 0
 }

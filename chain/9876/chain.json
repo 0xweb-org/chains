@@ -1,10 +1,13 @@
 {
   "name": "BinaryChain Testnet",
   "chain": "BinaryChain",
-  "icon": null,
-  "rpc": [
-    "https://rpctestnet.binarychain.org"
-  ],
+  "icon": {
+    "url": "ipfs://bafybeifb4vnpn3jv7cfdlne2dwhe6agdnpgmu46a7nbc5divjuyaznkyay",
+    "width": 2000,
+    "height": 2000,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [
     "https://faucet.testnet.binarychain.org"
   ],

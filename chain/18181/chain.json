@@ -1,10 +1,13 @@
 {
   "name": "G8Chain Testnet",
   "chain": "G8C",
-  "icon": null,
-  "rpc": [
-    "https://testnet-rpc.oneg8.network"
-  ],
+  "icon": {
+    "url": "ipfs://QmbkCVC5vZpVAfq8SuPXR9PhpTRS2m8w6LGqBkhXAvmie6",
+    "width": 80,
+    "height": 80,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [
     "https://faucet.oneg8.network"
   ],

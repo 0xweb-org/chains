@@ -1,30 +1,19 @@
 {
-  "name": "Ronin Mainnet",
-  "title": "Ronin",
-  "chain": "ronin",
-  "rpc": [
-    "https://api.roninchain.com/rpc"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "RON",
-    "symbol": "RON",
-    "decimals": 18
-  },
-  "infoURL": "https://roninchain.com",
-  "shortName": "ron",
   "chainId": 2020,
-  "networkId": 2020,
-  "redFlags": [
-    "reusedChainId"
+  "icon": "./chain/2020/logo.png",
+  "www": "https://roninchain.com",
+  "name": "Ronin Mainnet",
+  "platform": "ron",
+  "chainToken": "RON",
+  "endpoints": [
+    {
+      "url": "https://api.roninchain.com/rpc"
+    }
   ],
   "explorers": [
     {
       "name": "Ronin Block Explorer",
-      "url": "https://app.roninchain.com",
-      "standard": "EIP3091"
+      "url": "https://app.roninchain.com"
     }
-  ],
-  "icon": "./chain/2020/logo.png",
-  "tvl": 69352133
+  ]
 }

@@ -1,27 +1,19 @@
 {
-  "name": "B2 Hub Mainnet",
-  "chain": "B2",
-  "rpc": [
-    "https://hub-rpc.bsquared.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "BSquared Token",
-    "symbol": "B2",
-    "decimals": 18
-  },
-  "infoURL": "https://www.bsquared.network",
-  "shortName": "B2Hub-mainnet",
   "chainId": 213,
-  "networkId": 213,
   "icon": "./chain/213/logo.png",
+  "www": "https://www.bsquared.network",
+  "name": "B2 Hub Mainnet",
+  "platform": "B2Hub",
+  "chainToken": "B2",
+  "endpoints": [
+    {
+      "url": "https://hub-rpc.bsquared.network"
+    }
+  ],
   "explorers": [
     {
       "name": "B2 Hub Mainnet Explorer",
-      "url": "https://hub-explorer.bsquared.network",
-      "icon": "bsquare",
-      "standard": "EIP3091"
+      "url": "https://hub-explorer.bsquared.network"
     }
-  ],
-  "tvl": 0
+  ]
 }

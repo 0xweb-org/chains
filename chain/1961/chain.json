@@ -1,10 +1,7 @@
 {
   "name": "Selendra Network Mainnet",
   "chain": "SEL",
-  "rpc": [
-    "https://rpc.selendra.org",
-    "https://rpc2.selendra.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Selendra",

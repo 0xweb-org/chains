@@ -1,9 +1,7 @@
 {
   "name": "Btachain",
   "chain": "btachain",
-  "rpc": [
-    "https://dataseed1.btachain.com/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Bitcoin Asset",
@@ -14,6 +12,5 @@
   "shortName": "bta",
   "chainId": 1657,
   "networkId": 1657,
-  "icon": null,
   "tvl": 0
 }

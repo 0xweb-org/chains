@@ -1,9 +1,7 @@
 {
   "name": "Space Subnet",
   "chain": "SPACE",
-  "rpc": [
-    "https://subnets.avax.network/space/mainnet/rpc"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP1559"

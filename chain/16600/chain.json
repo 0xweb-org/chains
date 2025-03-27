@@ -1,9 +1,7 @@
 {
   "name": "0G-Newton-Testnet",
   "chain": "0G-Testnet",
-  "rpc": [
-    "https://evmrpc-testnet.0g.ai"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.0g.ai"
   ],

@@ -1,10 +1,7 @@
 {
   "name": "Crab Network",
   "chain": "crab",
-  "rpc": [
-    "https://crab-rpc.darwinia.network",
-    "https://crab-rpc.dcdao.box"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Crab Network Native Token",
@@ -23,5 +20,5 @@
     }
   ],
   "icon": "./chain/44/logo.png",
-  "tvl": 169212
+  "tvl": 169361
 }

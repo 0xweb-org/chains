@@ -2,9 +2,7 @@
   "name": "Lisk Sepolia Testnet",
   "chain": "ETH",
   "icon": "./chain/4202/logo.png",
-  "rpc": [
-    "https://rpc.sepolia-api.lisk.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://app.optimism.io/faucet"
   ],

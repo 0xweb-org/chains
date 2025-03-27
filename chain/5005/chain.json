@@ -1,7 +1,12 @@
 {
   "name": "Treasurenet Testnet",
   "chain": "Treasurenet Testnet",
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmTcNX8ukHkXiVfVah1W8Sed3vtGN95Sq2QSimfLuHva6B",
+    "width": 1844,
+    "height": 1920,
+    "format": "png"
+  },
   "rpc": [
     "https://node0.testnet.treasurenet.io",
     "https://node1.testnet.treasurenet.io",

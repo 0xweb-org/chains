@@ -1,35 +1,19 @@
 {
-  "name": "JFINPOS",
-  "chain": "JFINPOS",
+  "chainId": 3502,
   "icon": "./chain/3502/logo.png",
-  "rpc": [
-    "https://rpc.jfinpos.com"
-  ],
-  "faucets": [],
-  "features": [
+  "www": "https://jfinpos.com",
+  "name": "JFINPOS",
+  "platform": "jzero",
+  "chainToken": "JPOS",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://rpc.jfinpos.com"
     }
   ],
-  "nativeCurrency": {
-    "name": "JFINPOS",
-    "symbol": "JPOS",
-    "decimals": 18
-  },
-  "infoURL": "https://jfinpos.com",
-  "shortName": "jzero",
-  "chainId": 3502,
-  "networkId": 3502,
   "explorers": [
     {
       "name": "JFINPOS Explorer",
-      "url": "https://exp.jfinpos.com",
-      "icon": "jfinpos",
-      "standard": "EIP3091"
+      "url": "https://exp.jfinpos.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

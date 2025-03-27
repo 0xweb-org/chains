@@ -1,27 +1,19 @@
 {
-  "name": "Lestnet",
-  "chain": "LETH",
-  "rpc": [
-    "https://service.lestnet.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Lestnet Ether",
-    "symbol": "LETH",
-    "decimals": 18
-  },
-  "infoURL": "https://lestnet.org",
-  "shortName": "leth",
   "chainId": 21363,
-  "networkId": 21363,
   "icon": "./chain/21363/logo.png",
+  "www": "https://lestnet.org",
+  "name": "Lestnet",
+  "platform": "leth",
+  "chainToken": "LETH",
+  "endpoints": [
+    {
+      "url": "https://service.lestnet.org"
+    }
+  ],
   "explorers": [
     {
       "name": "Lestnet Explorer",
-      "url": "https://explore.lestnet.org",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://explore.lestnet.org"
     }
-  ],
-  "tvl": 0
+  ]
 }

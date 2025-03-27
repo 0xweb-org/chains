@@ -2,10 +2,13 @@
   "name": "Bahamut horizon",
   "title": "Bahamut horizon",
   "chain": "Bahamut",
-  "icon": null,
-  "rpc": [
-    "https://horizon-fastex-testnet.zeeve.net"
-  ],
+  "icon": {
+    "url": "ipfs://QmSemioP83RXnDWwTZbet8VpwJxcFRboX4B3pcdhLZGodP",
+    "width": 200,
+    "height": 200,
+    "format": "png"
+  },
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"

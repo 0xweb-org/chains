@@ -1,27 +1,19 @@
 {
-  "name": "Symplexia Smart Chain",
-  "chain": "Plexchain",
-  "rpc": [
-    "https://plex-rpc.plexfinance.us"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Plex Native Token",
-    "symbol": "PLEX",
-    "decimals": 18
-  },
-  "infoURL": "https://plexfinance.us/",
-  "shortName": "Plexchain",
   "chainId": 1149,
-  "networkId": 1149,
-  "icon": null,
+  "icon": "ipfs://QmcXzfMNSQ7SZzKemNquVoXyG5ergdqCGeLWjRYETGBTUM",
+  "www": "https://plexfinance.us/",
+  "name": "Symplexia Smart Chain",
+  "platform": "Plexchain",
+  "chainToken": "PLEX",
+  "endpoints": [
+    {
+      "url": "https://plex-rpc.plexfinance.us"
+    }
+  ],
   "explorers": [
     {
       "name": "Plexchain Explorer",
-      "url": "https://explorer.plexfinance.us",
-      "icon": "plexchain",
-      "standard": "EIP3091"
+      "url": "https://explorer.plexfinance.us"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,9 +1,7 @@
 {
   "name": "Xpla Mainnet",
   "chain": "XPLA",
-  "rpc": [
-    "https://dimension-evm-rpc.xpla.dev"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "XPLA",

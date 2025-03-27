@@ -1,28 +1,19 @@
 {
-  "name": "Puppynet",
-  "chain": "Puppynet",
-  "icon": "./chain/157/logo.png",
-  "rpc": [
-    "https://puppynet.shibrpc.com"
-  ],
-  "faucets": [
-    "https://shibarium.shib.io/faucet"
-  ],
-  "nativeCurrency": {
-    "name": "BONE",
-    "symbol": "BONE",
-    "decimals": 18
-  },
-  "infoURL": "https://shibariumecosystem.com",
-  "shortName": "puppynet",
   "chainId": 157,
-  "networkId": 157,
+  "icon": "./chain/157/logo.png",
+  "www": "https://shibariumecosystem.com",
+  "name": "Puppynet",
+  "platform": "puppynet",
+  "chainToken": "BONE",
+  "endpoints": [
+    {
+      "url": "https://puppynet.shibrpc.com"
+    }
+  ],
   "explorers": [
     {
       "name": "puppyscan",
-      "url": "https://puppyscan.shib.io",
-      "standard": "none"
+      "url": "https://puppyscan.shib.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

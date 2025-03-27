@@ -1,29 +1,19 @@
 {
-  "name": "Vine Testnet",
-  "chain": "VINE",
-  "rpc": [
-    "https://rpc-testnet.vne.network"
-  ],
-  "faucets": [
-    "https://vne.network/rose"
-  ],
-  "nativeCurrency": {
-    "name": "VINE",
-    "symbol": "VNE",
-    "decimals": 18
-  },
-  "infoURL": "https://www.peer.inc",
-  "shortName": "VINE",
   "chainId": 601,
-  "networkId": 601,
-  "icon": null,
+  "icon": "ipfs://QmTPbbhH4CkQiQWm4JUh3J9o5w79vXjFZaMBW4DKNuSVU3",
+  "www": "https://www.peer.inc",
+  "name": "Vine Testnet",
+  "platform": "VINE",
+  "chainToken": "VNE",
+  "endpoints": [
+    {
+      "url": "https://rpc-testnet.vne.network"
+    }
+  ],
   "explorers": [
     {
       "name": "Vine Explorer",
-      "url": "https://vne.network/rose",
-      "standard": "none",
-      "icon": "vine"
+      "url": "https://vne.network/rose"
     }
-  ],
-  "tvl": 0
+  ]
 }

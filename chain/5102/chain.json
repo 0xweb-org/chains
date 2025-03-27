@@ -1,9 +1,7 @@
 {
   "name": "SIC Testnet",
   "chain": "SIC Testnet",
-  "rpc": [
-    "https://rpc-sic-testnet-zvr7tlkzsi.t.conduit.xyz"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "ETH",
@@ -21,6 +19,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

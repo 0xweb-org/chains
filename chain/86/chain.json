@@ -9,9 +9,7 @@
     "symbol": "GT",
     "decimals": 18
   },
-  "rpc": [
-    "https://evm.gatenode.cc"
-  ],
+  "rpc": [],
   "faucets": [
     "https://www.gatescan.org/faucet"
   ],
@@ -23,6 +21,5 @@
     }
   ],
   "infoURL": "https://www.gatechain.io",
-  "icon": null,
   "tvl": 0
 }

@@ -1,28 +1,18 @@
 {
-  "name": "Vana Satori Testnet",
-  "chain": "Satori",
-  "rpc": [
-    "http://rpc.satori.vana.org"
-  ],
-  "faucets": [
-    "https://faucet.vana.org"
-  ],
-  "nativeCurrency": {
-    "name": "DAT",
-    "symbol": "DAT",
-    "decimals": 18
-  },
-  "infoURL": "https://satori.vana.org",
-  "shortName": "satori",
   "chainId": 14801,
-  "networkId": 14801,
+  "www": "https://satori.vana.org",
+  "name": "Vana Satori Testnet",
+  "platform": "satori",
+  "chainToken": "DAT",
+  "endpoints": [
+    {
+      "url": "http://rpc.satori.vana.org"
+    }
+  ],
   "explorers": [
     {
       "name": "satoriscan",
-      "url": "https://satori.vanascan.io",
-      "standard": "EIP3091"
+      "url": "https://satori.vanascan.io"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

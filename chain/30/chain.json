@@ -1,34 +1,26 @@
 {
-  "name": "Rootstock Mainnet",
-  "chain": "Rootstock",
-  "rpc": [
-    "https://public-node.rsk.co",
-    "https://mycrypto.rsk.co"
-  ],
-  "faucets": [],
-  "icon": "./chain/30/logo.png",
-  "nativeCurrency": {
-    "name": "Smart Bitcoin",
-    "symbol": "RBTC",
-    "decimals": 18
-  },
-  "infoURL": "https://rootstock.io",
-  "shortName": "rsk",
   "chainId": 30,
-  "networkId": 30,
-  "slip44": 137,
+  "icon": "./chain/30/logo.png",
+  "www": "https://rootstock.io",
+  "name": "Rootstock Mainnet",
+  "platform": "rsk",
+  "chainToken": "RBTC",
+  "endpoints": [
+    {
+      "url": "https://public-node.rsk.co"
+    },
+    {
+      "url": "https://mycrypto.rsk.co"
+    }
+  ],
   "explorers": [
     {
       "name": "Rootstock Explorer",
-      "url": "https://explorer.rsk.co",
-      "standard": "EIP3091"
+      "url": "https://explorer.rsk.co"
     },
     {
       "name": "blockscout",
-      "url": "https://rootstock.blockscout.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://rootstock.blockscout.com"
     }
-  ],
-  "tvl": 192964914
+  ]
 }

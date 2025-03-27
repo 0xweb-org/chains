@@ -1,23 +1,14 @@
 {
-  "name": "Humanode Testnet 5 Israfel",
-  "chain": "Humanode Testnet 5",
-  "rpc": [
-    "https://explorer-rpc-http.testnet5.stages.humanode.io"
-  ],
-  "faucets": [
-    "https://t.me/HumanodeTestnet5FaucetBot"
-  ],
-  "nativeCurrency": {
-    "name": "eHMND",
-    "symbol": "eHMND",
-    "decimals": 18
-  },
-  "infoURL": "https://humanode.io",
-  "shortName": "hmnd-t5",
   "chainId": 14853,
-  "networkId": 14853,
-  "slip44": 1,
-  "icon": null,
-  "explorers": [],
-  "tvl": 0
+  "icon": "ipfs://bafybeihuskzfwqogwvutaxil6sztmvpiavzbrzwjwpn6w2i4j3jysbybra",
+  "www": "https://humanode.io",
+  "name": "Humanode Testnet 5 Israfel",
+  "platform": "hmnd-t5",
+  "chainToken": "eHMND",
+  "endpoints": [
+    {
+      "url": "https://explorer-rpc-http.testnet5.stages.humanode.io"
+    }
+  ],
+  "explorers": []
 }

@@ -1,28 +1,22 @@
 {
-  "name": "MetaDAP Enterprise Testnet",
-  "title": "MetaDAP Enterprise Testnet",
-  "chain": "MetaDAP",
-  "icon": "./chain/119139/logo.png",
-  "faucets": [],
-  "rpc": [
-    "https://rpc.testnet.chain.metadap.io",
-    "wss://rpc-ws.testnet.chain.metadap.io"
-  ],
-  "nativeCurrency": {
-    "name": "DAP",
-    "symbol": "DAP",
-    "decimals": 18
-  },
-  "infoURL": "https://metadap.io/",
-  "shortName": "MetaDAP-T",
   "chainId": 119139,
-  "networkId": 119139,
+  "icon": "./chain/119139/logo.png",
+  "www": "https://metadap.io/",
+  "name": "MetaDAP Enterprise Testnet",
+  "platform": "MetaDAP-T",
+  "chainToken": "DAP",
+  "endpoints": [
+    {
+      "url": "https://rpc.testnet.chain.metadap.io"
+    },
+    {
+      "url": "wss://rpc-ws.testnet.chain.metadap.io"
+    }
+  ],
   "explorers": [
     {
       "name": "MetaDAP Enterprise Testnet explorer",
-      "url": "https://explorer.testnet.chain.metadap.io",
-      "standard": "none"
+      "url": "https://explorer.testnet.chain.metadap.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

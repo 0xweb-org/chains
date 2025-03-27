@@ -1,29 +1,18 @@
 {
-  "name": "Zilliqa EVM Testnet",
-  "chain": "ZIL",
-  "rpc": [
-    "https://dev-api.zilliqa.com"
-  ],
-  "faucets": [
-    "https://dev-wallet.zilliqa.com/faucet?network=testnet"
-  ],
-  "nativeCurrency": {
-    "name": "Zilliqa",
-    "symbol": "ZIL",
-    "decimals": 18
-  },
-  "infoURL": "https://www.zilliqa.com/",
-  "shortName": "zil-testnet",
   "chainId": 33101,
-  "networkId": 33101,
-  "slip44": 1,
+  "www": "https://www.zilliqa.com/",
+  "name": "Zilliqa EVM Testnet",
+  "platform": "zil-testnet",
+  "chainToken": "ZIL",
+  "endpoints": [
+    {
+      "url": "https://dev-api.zilliqa.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Zilliqa EVM Explorer",
-      "url": "https://evmx.zilliqa.com",
-      "standard": "none"
+      "url": "https://evmx.zilliqa.com"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

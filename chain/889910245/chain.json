@@ -2,9 +2,7 @@
   "name": "PTCESCAN Testnet",
   "title": "PTCESCAN Testnet",
   "chain": "PTCE",
-  "rpc": [
-    "https://rpc-testnet.ptcscan.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.ptcscan.io/"
   ],
@@ -24,6 +22,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

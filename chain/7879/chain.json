@@ -1,11 +1,7 @@
 {
   "name": "Vexon Testnet",
   "chain": "Vexon",
-  "rpc": [
-    "https://rpc-testnet-asia1.vexonhub.org",
-    "https://rpc-testnet-europe1.vexonhub.org",
-    "https://rpc-testnet-01.vexonhub.org"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet-drip.vexonhub.org"
   ],
@@ -18,7 +14,12 @@
   "shortName": "vexon",
   "chainId": 7879,
   "networkId": 7879,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmVCPcYVXB9ZEAN87LV5RrSBqxoD8zwwgVF6dcVetffSv2",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "Vexon Testnet Explorer",

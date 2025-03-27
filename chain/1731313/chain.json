@@ -1,9 +1,7 @@
 {
   "name": "Turkey Demo Dev",
   "chain": "ETH",
-  "rpc": [
-    "https://devchain-poa.huabeizhenxuan.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",
@@ -14,6 +12,5 @@
   "shortName": "TDD",
   "chainId": 1731313,
   "networkId": 1731313,
-  "icon": null,
   "tvl": 0
 }

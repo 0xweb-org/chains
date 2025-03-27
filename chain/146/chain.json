@@ -1,34 +1,25 @@
 {
+  "chainId": 146,
+  "icon": "./chain/146/logo.png",
+  "www": "https://soniclabs.com",
   "name": "Sonic Mainnet",
-  "chain": "sonic",
-  "rpc": [
-    "https://rpc.soniclabs.com",
-    "https://sonic-rpc.publicnode.com",
-    "wss://sonic-rpc.publicnode.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Sonic",
-    "symbol": "S",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "sonic",
+  "chainToken": "S",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://rpc.soniclabs.com"
+    },
+    {
+      "url": "https://sonic-rpc.publicnode.com"
+    },
+    {
+      "url": "wss://sonic-rpc.publicnode.com"
     }
   ],
-  "infoURL": "https://soniclabs.com",
-  "shortName": "sonic",
-  "chainId": 146,
-  "networkId": 146,
-  "icon": "./chain/146/logo.png",
   "explorers": [
     {
       "name": "sonic",
-      "url": "https://explorer.soniclabs.com",
-      "icon": "sonic",
-      "standard": "none"
+      "url": "https://explorer.soniclabs.com"
     }
-  ],
-  "tvl": 1385823970
+  ]
 }

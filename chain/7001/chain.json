@@ -1,40 +1,35 @@
 {
-  "name": "ZetaChain Testnet",
-  "chain": "ZetaChain",
-  "icon": "./chain/7001/logo.png",
-  "rpc": [
-    "https://zetachain-athens-evm.blockpi.network/v1/rpc/public",
-    "https://zetachain-testnet.public.blastapi.io",
-    "https://zetachain-athens.g.allthatnode.com/archive/evm",
-    "https://7001.rpc.thirdweb.com",
-    "https://zeta-chain-testnet.drpc.org"
-  ],
-  "faucets": [
-    "https://www.zetachain.com/docs/reference/apps/get-testnet-zeta/"
-  ],
-  "nativeCurrency": {
-    "name": "Zeta",
-    "symbol": "ZETA",
-    "decimals": 18
-  },
-  "infoURL": "https://zetachain.com/docs",
-  "shortName": "zetachain-testnet",
   "chainId": 7001,
-  "networkId": 7001,
-  "slip44": 1,
-  "status": "active",
+  "icon": "./chain/7001/logo.png",
+  "www": "https://zetachain.com/docs",
+  "name": "ZetaChain Testnet",
+  "platform": "zetachain-testnet",
+  "chainToken": "ZETA",
+  "endpoints": [
+    {
+      "url": "https://zetachain-athens-evm.blockpi.network/v1/rpc/public"
+    },
+    {
+      "url": "https://zetachain-testnet.public.blastapi.io"
+    },
+    {
+      "url": "https://zetachain-athens.g.allthatnode.com/archive/evm"
+    },
+    {
+      "url": "https://7001.rpc.thirdweb.com"
+    },
+    {
+      "url": "https://zeta-chain-testnet.drpc.org"
+    }
+  ],
   "explorers": [
     {
       "name": "ZetaScan",
-      "url": "https://athens.explorer.zetachain.com",
-      "standard": "none"
+      "url": "https://athens.explorer.zetachain.com"
     },
     {
       "name": "Blockscout",
-      "url": "https://zetachain-athens-3.blockscout.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://zetachain-athens-3.blockscout.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

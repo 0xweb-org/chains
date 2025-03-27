@@ -2,10 +2,7 @@
   "name": "OP Celestia Raspberry",
   "title": "OP Celestia Raspberry Testnet",
   "chain": "ETH",
-  "rpc": [
-    "https://rpc.opcelestia-raspberry.gelato.digital",
-    "wss://ws.opcelestia-raspberry.gelato.digital"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Sepolia Ether",
@@ -35,6 +32,5 @@
     ]
   },
   "status": "active",
-  "icon": null,
   "tvl": 0
 }

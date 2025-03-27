@@ -1,10 +1,13 @@
 {
   "name": "Piece testnet",
   "chain": "PieceNetwork",
-  "icon": null,
-  "rpc": [
-    "https://testnet-rpc0.piecenetwork.com"
-  ],
+  "icon": {
+    "url": "ipfs://QmWAU39z1kcYshAqkENRH8qUjfR5CJehCxA4GiC33p3HpH",
+    "width": 800,
+    "height": 800,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [
     "https://piecenetwork.com/faucet"
   ],

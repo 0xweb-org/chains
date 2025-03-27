@@ -1,10 +1,7 @@
 {
   "name": "XL Network Testnet",
   "chain": "XL Network Testnet",
-  "rpc": [
-    "https://subnets.avax.network/xlnetworkt/testnet/rpc",
-    "wss://subnets.avax.network/xlnetworkt/testnet/ws"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP1559"

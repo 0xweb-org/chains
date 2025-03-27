@@ -1,9 +1,7 @@
 {
   "name": "AltLayer Testnet",
   "chain": "ETH",
-  "rpc": [
-    "https://testnet-rollup-api.altlayer.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",

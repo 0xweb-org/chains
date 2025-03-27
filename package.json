@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "build": "atma act ./actions/chains.act.ts -q generate"
+    "build": "atma act ./actions/chains.act.ts -q generate",
+    "build--skip-icons": "atma act ./actions/chains.act.ts -q generate --skipIcons"
   },
   "atma": {
     "plugins": [
@@ -12,7 +13,7 @@
         "extensionDefault": {
           "js": "ts"
         },
-        "routes": "#import ./tsconfig.json compilerOptions.paths"
+        "routes": "#import ./tsconfig-atma.json compilerOptions.paths"
       },
       "atma-loader-ts": {
         "sourceMap": true,

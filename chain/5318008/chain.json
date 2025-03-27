@@ -1,38 +1,19 @@
 {
+  "chainId": 5318008,
+  "icon": "./chain/5318008/logo.png",
+  "www": "https://reactive.network",
   "name": "Reactive Kopli",
-  "title": "Reactive Network Testnet Kopli",
-  "chain": "REACT",
-  "rpc": [
-    "https://kopli-rpc.reactive.network",
-    "http://kopli-rpc.rkt.ink"
-  ],
-  "features": [
+  "platform": "kreact",
+  "chainToken": "REACT",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "http://kopli-rpc.rkt.ink"
     }
   ],
-  "faucets": [
-    "https://dev.reactive.network/docs/kopli-testnet#faucet"
-  ],
-  "nativeCurrency": {
-    "name": "Kopli React",
-    "symbol": "REACT",
-    "decimals": 18
-  },
-  "infoURL": "https://reactive.network",
-  "shortName": "kreact",
-  "icon": "./chain/5318008/logo.png",
-  "chainId": 5318008,
-  "networkId": 5318008,
   "explorers": [
     {
       "name": "reactscan",
-      "url": "https://kopli.reactscan.net",
-      "standard": "none"
+      "url": "https://kopli.reactscan.net"
     }
-  ],
-  "tvl": 0
+  ]
 }

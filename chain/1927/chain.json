@@ -1,10 +1,7 @@
 {
   "name": "Arvix Testnet",
   "chain": "Arvix",
-  "rpc": [
-    "https://rpc-testnet-market.arvix.network",
-    "https://rpc-dev-testnet.arvix.network"
-  ],
+  "rpc": [],
   "faucets": [
     "https://claim-faucet.arvix.network"
   ],
@@ -17,7 +14,12 @@
   "shortName": "arvix",
   "chainId": 1927,
   "networkId": 1927,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmcwGGWyemrFUZPriS3PqxLUoT7vdtS7FqNY5fAaoTG27Q",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "Arvix Explorer Testnet",

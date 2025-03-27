@@ -1,9 +1,7 @@
 {
   "name": "Hyperliquid EVM Testnet",
   "chain": "HYPE",
-  "rpc": [
-    "https://api.hyperliquid-testnet.xyz/evm"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"
@@ -26,6 +24,5 @@
   "redFlags": [
     "reusedChainId"
   ],
-  "icon": null,
   "tvl": 0
 }

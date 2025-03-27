@@ -1,31 +1,23 @@
 {
-  "name": "Agung Network",
-  "chain": "Agung",
-  "icon": "./chain/9990/logo.png",
-  "rpc": [
-    "https://wss-async.agung.peaq.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Agung",
-    "symbol": "AGNG",
-    "decimals": 18
-  },
-  "infoURL": "https://www.peaq.network",
-  "shortName": "AGNG",
   "chainId": 9990,
-  "networkId": 9990,
+  "icon": "./chain/9990/logo.png",
+  "www": "https://www.peaq.network",
+  "name": "Agung Network",
+  "platform": "AGNG",
+  "chainToken": "AGNG",
+  "endpoints": [
+    {
+      "url": "https://wss-async.agung.peaq.network"
+    }
+  ],
   "explorers": [
     {
       "name": "Polkadot.js",
-      "url": "https://polkadot.js.org/apps/?rpc=wss:///wss-async.agung.peaq.network#/explorer",
-      "standard": "none"
+      "url": "https://polkadot.js.org/apps/?rpc=wss:///wss-async.agung.peaq.network#/explorer"
     },
     {
       "name": "Subscan",
-      "url": "https://agung-testnet.subscan.io",
-      "standard": "none"
+      "url": "https://agung-testnet.subscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

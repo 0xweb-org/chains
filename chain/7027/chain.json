@@ -1,26 +1,19 @@
 {
-  "name": "Ella the heart",
-  "chain": "ella",
-  "icon": "./chain/7027/logo.png",
-  "rpc": [
-    "https://rpc.ella.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ella",
-    "symbol": "ELLA",
-    "decimals": 18
-  },
-  "infoURL": "https://ella.network",
-  "shortName": "ELLA",
   "chainId": 7027,
-  "networkId": 7027,
+  "icon": "./chain/7027/logo.png",
+  "www": "https://ella.network",
+  "name": "Ella the heart",
+  "platform": "ELLA",
+  "chainToken": "ELLA",
+  "endpoints": [
+    {
+      "url": "https://rpc.ella.network"
+    }
+  ],
   "explorers": [
     {
       "name": "Ella",
-      "url": "https://ella.network",
-      "standard": "EIP3091"
+      "url": "https://ella.network"
     }
-  ],
-  "tvl": 0
+  ]
 }

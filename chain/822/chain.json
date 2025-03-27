@@ -1,9 +1,7 @@
 {
   "name": "Runic Chain Testnet",
   "chain": "Runic",
-  "rpc": [
-    "https://rpc-testnet.runic.build"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.runic.build"
   ],

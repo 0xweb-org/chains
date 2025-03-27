@@ -2,9 +2,7 @@
   "name": "Lux Mainnet",
   "chain": "Lux",
   "icon": "./chain/96369/logo.png",
-  "rpc": [
-    "https://api.lux.network"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.lux-test.network"
   ],

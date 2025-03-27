@@ -2,10 +2,8 @@
   "name": "GitSwarm Test Network",
   "title": "GitSwarm Test Network",
   "chain": "ETH",
-  "icon": null,
-  "rpc": [
-    "https://testnet.gitswarm.com:2096"
-  ],
+  "icon": "./chain/28872323069/logo.png",
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "GitSwarm Ether",

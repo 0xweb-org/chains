@@ -1,13 +1,7 @@
 {
   "name": "Bitlayer Testnet",
   "chain": "Bitlayer",
-  "rpc": [
-    "https://testnet-rpc.bitlayer.org",
-    "wss://testnet-ws.bitlayer.org",
-    "https://testnet-rpc.bitlayer-rpc.com",
-    "wss://testnet-ws.bitlayer-rpc.com",
-    "https://rpc.ankr.com/bitlayer_testnet"
-  ],
+  "rpc": [],
   "faucets": [
     "https://www.bitlayer.org/faucet"
   ],
@@ -21,7 +15,12 @@
   "chainId": 200810,
   "networkId": 200810,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmdWZ1frB47fr3tw31xE68C2Vocaw5Ef53LQ5WDNdNnNyG",
+    "width": 4500,
+    "height": 4500,
+    "format": "jpg"
+  },
   "explorers": [
     {
       "name": "bitlayer testnet scan",

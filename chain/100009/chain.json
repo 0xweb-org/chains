@@ -1,31 +1,23 @@
 {
-  "name": "VeChain",
-  "chain": "VeChain",
-  "rpc": [
-    "https://rpc-mainnet.vechain.energy"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "VeChain",
-    "symbol": "VET",
-    "decimals": 18
-  },
-  "infoURL": "https://vechain.org",
-  "shortName": "vechain",
   "chainId": 100009,
-  "networkId": 100009,
+  "icon": "./chain/100009/logo.png",
+  "www": "https://vechain.org",
+  "name": "VeChain",
+  "platform": "vechain",
+  "chainToken": "VET",
+  "endpoints": [
+    {
+      "url": "https://rpc-mainnet.vechain.energy"
+    }
+  ],
   "explorers": [
     {
       "name": "VeChain Stats",
-      "url": "https://vechainstats.com",
-      "standard": "none"
+      "url": "https://vechainstats.com"
     },
     {
       "name": "VeChain Explorer",
-      "url": "https://explore.vechain.org",
-      "standard": "none"
+      "url": "https://explore.vechain.org"
     }
-  ],
-  "icon": "./chain/100009/logo.png",
-  "tvl": 0
+  ]
 }

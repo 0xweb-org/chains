@@ -1,9 +1,7 @@
 {
   "name": "Callisto Testnet",
   "chain": "CLO",
-  "rpc": [
-    "https://testnet-rpc.callisto.network/"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.callisto.network/"
   ],
@@ -17,6 +15,5 @@
   "chainId": 20729,
   "networkId": 79,
   "slip44": 1,
-  "icon": null,
   "tvl": 0
 }

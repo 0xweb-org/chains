@@ -1,21 +1,12 @@
 {
-  "name": "bloxberg",
-  "chain": "bloxberg",
-  "rpc": [
-    "https://core.bloxberg.org"
-  ],
-  "faucets": [
-    "https://faucet.bloxberg.org/"
-  ],
-  "nativeCurrency": {
-    "name": "BERG",
-    "symbol": "U+25B3",
-    "decimals": 18
-  },
-  "infoURL": "https://bloxberg.org",
-  "shortName": "berg",
   "chainId": 8995,
-  "networkId": 8995,
-  "icon": null,
-  "tvl": 0
+  "www": "https://bloxberg.org",
+  "name": "bloxberg",
+  "platform": "berg",
+  "chainToken": "U+25B3",
+  "endpoints": [
+    {
+      "url": "https://core.bloxberg.org"
+    }
+  ]
 }

@@ -1,28 +1,19 @@
 {
-  "name": "Tron Mainnet",
-  "chain": "TRON",
-  "rpc": [
-    "https://rpc.ankr.com/tron_jsonrpc",
-    "https://api.trongrid.io/jsonrpc"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Tron",
-    "symbol": "TRX",
-    "decimals": 6
-  },
-  "infoURL": "https://tron.network",
-  "shortName": "tron",
   "chainId": 728126428,
-  "networkId": 728126428,
   "icon": "./chain/728126428/logo.png",
+  "www": "https://tron.network",
+  "name": "Tron Mainnet",
+  "platform": "tron",
+  "chainToken": "TRX",
+  "endpoints": [
+    {
+      "url": "https://api.trongrid.io/jsonrpc"
+    }
+  ],
   "explorers": [
     {
       "name": "tronscan",
-      "url": "https://tronscan.org",
-      "icon": "tron",
-      "standard": "none"
+      "url": "https://tronscan.org"
     }
-  ],
-  "tvl": 0
+  ]
 }

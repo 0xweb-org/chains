@@ -1,31 +1,18 @@
 {
+  "chainId": 179,
+  "www": "https://abey.com",
   "name": "ABEY Mainnet",
-  "chain": "ABEY",
-  "rpc": [
-    "https://rpc.abeychain.com"
-  ],
-  "features": [
+  "platform": "abey",
+  "chainToken": "ABEY",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://rpc.abeychain.com"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ABEY",
-    "symbol": "ABEY",
-    "decimals": 18
-  },
-  "infoURL": "https://abey.com",
-  "shortName": "abey",
-  "chainId": 179,
-  "networkId": 179,
   "explorers": [
     {
       "name": "abeyscan",
-      "url": "https://abeyscan.com",
-      "standard": "EIP3091"
+      "url": "https://abeyscan.com"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

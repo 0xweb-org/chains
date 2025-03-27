@@ -1,26 +1,19 @@
 {
-  "name": "Endurance Smart Chain Mainnet",
-  "chain": "ACE",
-  "rpc": [
-    "https://rpc-endurance.fusionist.io/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Endurance Chain Native Token",
-    "symbol": "ACE",
-    "decimals": 18
-  },
-  "infoURL": "https://ace.fusionist.io/",
-  "shortName": "ace",
   "chainId": 648,
-  "networkId": 648,
+  "icon": "./chain/648/logo.png",
+  "www": "https://ace.fusionist.io/",
+  "name": "Endurance Smart Chain Mainnet",
+  "platform": "ace",
+  "chainToken": "ACE",
+  "endpoints": [
+    {
+      "url": "https://rpc-endurance.fusionist.io/"
+    }
+  ],
   "explorers": [
     {
       "name": "Endurance Scan",
-      "url": "https://explorer.endurance.fusionist.io",
-      "standard": "EIP3091"
+      "url": "https://explorer.endurance.fusionist.io"
     }
-  ],
-  "icon": "./chain/648/logo.png",
-  "tvl": 451862
+  ]
 }

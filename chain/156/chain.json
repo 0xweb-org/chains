@@ -9,9 +9,7 @@
       "name": "EIP1559"
     }
   ],
-  "rpc": [
-    "https://testnet-rpc.oeblock.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "OEBlock",

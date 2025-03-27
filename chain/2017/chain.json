@@ -1,36 +1,31 @@
 {
-  "name": "Adiri",
-  "title": "Telcoin Network Testnet",
-  "chain": "TEL",
-  "icon": "./chain/2017/logo.png",
-  "rpc": [
-    "https://rpc.telcoin.network",
-    "https://adiri.tel",
-    "https://node1.telcoin.network",
-    "https://node2.telcoin.network",
-    "https://node3.telcoin.network",
-    "https://node4.telcoin.network"
-  ],
-  "faucets": [
-    "https://telcoin.network/faucet"
-  ],
-  "nativeCurrency": {
-    "name": "Telcoin",
-    "symbol": "TEL",
-    "decimals": 18
-  },
-  "infoURL": "https://telcoin.network",
-  "shortName": "tel",
   "chainId": 2017,
-  "networkId": 2017,
-  "slip44": 1,
+  "icon": "./chain/2017/logo.png",
+  "www": "https://telcoin.network",
+  "name": "Adiri",
+  "platform": "tel",
+  "chainToken": "TEL",
+  "endpoints": [
+    {
+      "url": "https://rpc.telcoin.network"
+    },
+    {
+      "url": "https://adiri.tel"
+    },
+    {
+      "url": "https://node1.telcoin.network"
+    },
+    {
+      "url": "https://node2.telcoin.network"
+    },
+    {
+      "url": "https://node3.telcoin.network"
+    }
+  ],
   "explorers": [
     {
       "name": "telscan",
-      "url": "https://telscan.io",
-      "icon": "telcoin",
-      "standard": "EIP3091"
+      "url": "https://telscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

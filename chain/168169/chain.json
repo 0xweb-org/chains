@@ -1,9 +1,7 @@
 {
   "name": "MUD Chain",
   "chain": "MUD",
-  "rpc": [
-    "https://rpc.mud.network"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.mud.network"
   ],

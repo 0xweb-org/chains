@@ -1,9 +1,7 @@
 {
   "name": "Tetron Smart Chain",
   "chain": "Tetron Mainnet",
-  "rpc": [
-    "https://rpc.tscscan.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "features": [
     {
@@ -26,6 +24,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

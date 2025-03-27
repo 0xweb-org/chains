@@ -2,9 +2,7 @@
   "name": "Nautilus Mainnet",
   "chain": "ETH",
   "icon": "./chain/22222/logo.png",
-  "rpc": [
-    "https://api.nautilus.nautchain.xyz"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Zebec",

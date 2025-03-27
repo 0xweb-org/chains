@@ -1,9 +1,7 @@
 {
   "name": "Story Aeneid Testnet",
   "chain": "Story Aeneid Testnet",
-  "rpc": [
-    "https://aeneid.storyrpc.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "IP Token",

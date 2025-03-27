@@ -1,30 +1,31 @@
 {
-  "name": "Swan Chain Mainnet",
-  "chain": "SWAN",
-  "rpc": [
-    "https://mainnet-rpc.swanchain.org",
-    "https://mainnet-rpc-01.swanchain.org",
-    "https://mainnet-rpc-02.swanchain.org",
-    "https://mainnet-rpc-03.swanchain.org",
-    "https://mainnet-rpc-04.swanchain.org"
-  ],
-  "faucets": [],
-  "icon": "./chain/254/logo.png",
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://swanchain.io/",
-  "shortName": "Swan",
   "chainId": 254,
-  "networkId": 254,
+  "icon": "./chain/254/logo.png",
+  "www": "https://swanchain.io/",
+  "name": "Swan Chain Mainnet",
+  "platform": "Swan",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://mainnet-rpc.swanchain.org"
+    },
+    {
+      "url": "https://mainnet-rpc-01.swanchain.org"
+    },
+    {
+      "url": "https://mainnet-rpc-02.swanchain.org"
+    },
+    {
+      "url": "https://mainnet-rpc-03.swanchain.org"
+    },
+    {
+      "url": "https://mainnet-rpc-04.swanchain.org"
+    }
+  ],
   "explorers": [
     {
       "name": "Swanchain Explorer",
-      "url": "https://swanscan.io",
-      "standard": "EIP3091"
+      "url": "https://swanscan.io"
     }
-  ],
-  "tvl": 61217
+  ]
 }

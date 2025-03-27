@@ -1,29 +1,19 @@
 {
-  "name": "Global Trust Network",
-  "chain": "GTN",
-  "icon": "./chain/101010/logo.png",
-  "rpc": [
-    "https://gtn.stabilityprotocol.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "FREE",
-    "symbol": "FREE",
-    "decimals": 18
-  },
-  "infoURL": "https://stabilityprotocol.com",
-  "shortName": "stabilityprotocol",
   "chainId": 101010,
-  "networkId": 101010,
+  "icon": "./chain/101010/logo.png",
+  "www": "https://stabilityprotocol.com",
+  "name": "Global Trust Network",
+  "platform": "stabilityprotocol",
+  "chainToken": "FREE",
+  "endpoints": [
+    {
+      "url": "https://gtn.stabilityprotocol.com"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://stability.blockscout.com",
-      "standard": "EIP3091"
+      "url": "https://stability.blockscout.com"
     }
-  ],
-  "redFlags": [
-    "reusedChainId"
-  ],
-  "tvl": 0
+  ]
 }

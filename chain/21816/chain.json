@@ -1,26 +1,19 @@
 {
-  "name": "omChain Mainnet",
-  "chain": "OML",
-  "icon": null,
-  "rpc": [
-    "https://seed.omchain.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "omChain",
-    "symbol": "OMC",
-    "decimals": 18
-  },
-  "infoURL": "https://omchain.io",
-  "shortName": "omc",
   "chainId": 21816,
-  "networkId": 21816,
+  "icon": "ipfs://QmQtEHaejiDbmiCvbBYw9jNQv3DLK5XHCQwLRfnLNpdN5j",
+  "www": "https://omchain.io",
+  "name": "omChain Mainnet",
+  "platform": "omc",
+  "chainToken": "OMC",
+  "endpoints": [
+    {
+      "url": "https://seed.omchain.io"
+    }
+  ],
   "explorers": [
     {
       "name": "omChain Explorer",
-      "url": "https://explorer.omchain.io",
-      "standard": "EIP3091"
+      "url": "https://explorer.omchain.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

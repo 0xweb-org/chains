@@ -2,9 +2,7 @@
   "name": "Oraichain Mainnet",
   "title": "Oraichain Mainnet",
   "chain": "Oraichain",
-  "rpc": [
-    "https://evm.orai.io"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"

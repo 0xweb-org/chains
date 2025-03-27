@@ -3,9 +3,7 @@
   "title": "VERY Mainnet",
   "chain": "VERY Mainnet",
   "icon": "./chain/4613/logo.png",
-  "rpc": [
-    "https://rpc.verylabs.io"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"

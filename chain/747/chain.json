@@ -1,26 +1,19 @@
 {
-  "name": "Flow EVM Mainnet",
-  "chain": "Flow",
-  "rpc": [
-    "https://mainnet.evm.nodes.onflow.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "FLOW",
-    "symbol": "FLOW",
-    "decimals": 18
-  },
-  "infoURL": "https://developers.flow.com/evm/about",
-  "shortName": "flow-mainnet",
   "chainId": 747,
-  "networkId": 747,
   "icon": "./chain/747/logo.png",
+  "www": "https://developers.flow.com/evm/about",
+  "name": "Flow EVM Mainnet",
+  "platform": "flow",
+  "chainToken": "FLOW",
+  "endpoints": [
+    {
+      "url": "https://mainnet.evm.nodes.onflow.org"
+    }
+  ],
   "explorers": [
     {
       "name": "FlowScan",
-      "url": "https://evm.flowscan.io",
-      "standard": "EIP3091"
+      "url": "https://evm.flowscan.io"
     }
-  ],
-  "tvl": 57662780
+  ]
 }

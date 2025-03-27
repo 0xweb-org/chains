@@ -2,9 +2,7 @@
   "name": "T-EKTA",
   "title": "EKTA Testnet T-EKTA",
   "chain": "T-EKTA",
-  "rpc": [
-    "https://test.ekta.io:8545"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "T-EKTA",
@@ -15,7 +13,12 @@
   "shortName": "t-ekta",
   "chainId": 1004,
   "networkId": 1004,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmfMd564KUPK8eKZDwGCT71ZC2jMnUZqP6LCtLpup3rHH1",
+    "width": 2100,
+    "height": 2100,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "test-ektascan",

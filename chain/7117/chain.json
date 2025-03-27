@@ -1,35 +1,19 @@
 {
-  "name": "0XL3",
-  "chain": "0XL3",
+  "chainId": 7117,
   "icon": "./chain/7117/logo.png",
-  "rpc": [
-    "https://rpc.0xl3.com"
-  ],
-  "faucets": [],
-  "features": [
+  "www": "https://0xl3.com",
+  "name": "0XL3",
+  "platform": "0xl3",
+  "chainToken": "XL3",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://rpc.0xl3.com"
     }
   ],
-  "nativeCurrency": {
-    "name": "XL3",
-    "symbol": "XL3",
-    "decimals": 18
-  },
-  "infoURL": "https://0xl3.com",
-  "shortName": "0xl3",
-  "chainId": 7117,
-  "networkId": 7117,
   "explorers": [
     {
       "name": "0XL3 Explorer",
-      "url": "https://exp.0xl3.com",
-      "icon": "0xl3",
-      "standard": "EIP3091"
+      "url": "https://exp.0xl3.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,27 +1,22 @@
 {
-  "name": "REI Network",
-  "chain": "REI",
-  "rpc": [
-    "https://rpc.rei.network",
-    "wss://rpc.rei.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "REI",
-    "symbol": "REI",
-    "decimals": 18
-  },
-  "infoURL": "https://rei.network/",
-  "shortName": "REI",
   "chainId": 47805,
-  "networkId": 47805,
+  "icon": "./chain/47805/logo.png",
+  "www": "https://rei.network/",
+  "name": "REI Network",
+  "platform": "REI",
+  "chainToken": "REI",
+  "endpoints": [
+    {
+      "url": "https://rpc.rei.network"
+    },
+    {
+      "url": "wss://rpc.rei.network"
+    }
+  ],
   "explorers": [
     {
       "name": "rei-scan",
-      "url": "https://scan.rei.network",
-      "standard": "none"
+      "url": "https://scan.rei.network"
     }
-  ],
-  "icon": "./chain/47805/logo.png",
-  "tvl": 11471
+  ]
 }

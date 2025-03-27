@@ -1,9 +1,7 @@
 {
   "name": "Harmony Testnet Shard 0",
   "chain": "Harmony",
-  "rpc": [
-    "https://api.s0.b.hmny.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.pops.one"
   ],
@@ -23,6 +21,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

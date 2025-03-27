@@ -1,28 +1,19 @@
 {
-  "name": "SKALE Calypso Hub",
-  "chain": "honorable-steel-rasalhague",
-  "icon": "./chain/1564830818/logo.png",
-  "rpc": [
-    "https://mainnet.skalenodes.com/v1/honorable-steel-rasalhague"
-  ],
-  "faucets": [
-    "https://sfuel.dirtroad.dev"
-  ],
-  "nativeCurrency": {
-    "name": "sFUEL",
-    "symbol": "sFUEL",
-    "decimals": 18
-  },
-  "infoURL": "https://calypsohub.network/",
-  "shortName": "calypso-mainnet",
   "chainId": 1564830818,
-  "networkId": 1564830818,
+  "icon": "./chain/1564830818/logo.png",
+  "www": "https://calypsohub.network/",
+  "name": "SKALE Calypso Hub",
+  "platform": "calypso",
+  "chainToken": "sFUEL",
+  "endpoints": [
+    {
+      "url": "https://mainnet.skalenodes.com/v1/honorable-steel-rasalhague"
+    }
+  ],
   "explorers": [
     {
       "name": "Blockscout",
-      "url": "https://honorable-steel-rasalhague.explorer.mainnet.skalenodes.com",
-      "standard": "EIP3091"
+      "url": "https://honorable-steel-rasalhague.explorer.mainnet.skalenodes.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

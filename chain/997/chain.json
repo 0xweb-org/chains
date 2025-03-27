@@ -1,29 +1,19 @@
 {
-  "name": "5ireChain Thunder Testnet",
-  "chain": "5ireChain",
-  "rpc": [
-    "https://rpc.testnet.5ire.network"
-  ],
-  "faucets": [
-    "https://testnet.5irescan.io/faucet"
-  ],
-  "nativeCurrency": {
-    "name": "5ire Testnet Token",
-    "symbol": "T5IRE",
-    "decimals": 18
-  },
-  "infoURL": "https://5ire.org",
-  "shortName": "T5ire",
   "chainId": 997,
-  "networkId": 997,
   "icon": "./chain/997/logo.png",
+  "www": "https://5ire.org",
+  "name": "5ireChain Thunder Testnet",
+  "platform": "T5ire",
+  "chainToken": "T5IRE",
+  "endpoints": [
+    {
+      "url": "https://rpc.testnet.5ire.network"
+    }
+  ],
   "explorers": [
     {
       "name": "5ireChain Testnet Explorer",
-      "url": "https://testnet.5irescan.io",
-      "standard": "none",
-      "icon": "5ireChain"
+      "url": "https://testnet.5irescan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

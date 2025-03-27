@@ -1,26 +1,19 @@
 {
-  "name": "Yidark Chain Mainnet",
-  "chain": "Yidark",
-  "icon": null,
-  "rpc": [
-    "https://rpc.yidark.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Yidark",
-    "symbol": "YDK",
-    "decimals": 18
-  },
-  "infoURL": "https://yidarkscan.com",
-  "shortName": "ydk",
   "chainId": 927,
-  "networkId": 927,
+  "icon": "ipfs://QmdbFGqrpiLQGtAeUAyeS2NBvACfgrchEF466ni5q36fuZ",
+  "www": "https://yidarkscan.com",
+  "name": "Yidark Chain Mainnet",
+  "platform": "ydk",
+  "chainToken": "YDK",
+  "endpoints": [
+    {
+      "url": "https://rpc.yidark.io"
+    }
+  ],
   "explorers": [
     {
       "name": "Yidarkscan",
-      "url": "https://yidarkscan.com",
-      "standard": "EIP3091"
+      "url": "https://yidarkscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

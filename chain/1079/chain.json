@@ -2,10 +2,13 @@
   "name": "Mintara Testnet",
   "title": "Mintara Testnet",
   "chain": "Mintara",
-  "icon": null,
-  "rpc": [
-    "https://subnets.avax.network/mintara/testnet/rpc"
-  ],
+  "icon": {
+    "url": "ipfs://bafybeie7jzlzlpz7c3a3oh4x5joej23dj2qf3cexmchjyc72hv3fblcaja",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "MINTARA",

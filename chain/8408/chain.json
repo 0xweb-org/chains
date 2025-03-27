@@ -1,39 +1,22 @@
 {
-  "name": "Zenchain Testnet",
-  "chain": "ZCX",
+  "chainId": 8408,
   "icon": "./chain/8408/logo.png",
-  "rpc": [
-    "https://zenchain-testnet.api.onfinality.io/public",
-    "wss://zenchain-testnet.api.onfinality.io/public-ws"
-  ],
-  "features": [
+  "www": "https://zenchain.io",
+  "name": "Zenchain Testnet",
+  "platform": "zentest",
+  "chainToken": "ZCX",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://zenchain-testnet.api.onfinality.io/public"
     },
     {
-      "name": "EIP1559"
+      "url": "wss://zenchain-testnet.api.onfinality.io/public-ws"
     }
   ],
-  "faucets": [
-    "https://facuet.zenchain.io"
-  ],
-  "nativeCurrency": {
-    "name": "ZCX",
-    "symbol": "ZCX",
-    "decimals": 18
-  },
-  "infoURL": "https://zenchain.io",
-  "shortName": "zentest",
-  "chainId": 8408,
-  "networkId": 8408,
-  "slip44": 60,
   "explorers": [
     {
       "name": "zentrace",
-      "url": "https://zentrace.io",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://zentrace.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

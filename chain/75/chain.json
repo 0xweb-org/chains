@@ -1,39 +1,31 @@
 {
+  "chainId": 75,
+  "icon": "ipfs://QmSgzwKnJJjys3Uq2aVVdwJ3NffLj3CXMVCph9uByTBegc",
+  "www": "https://decimalchain.com",
   "name": "Decimal Smart Chain Mainnet",
-  "chain": "DSC",
-  "rpc": [
-    "https://node.decimalchain.com/web3/",
-    "https://node1-mainnet.decimalchain.com/web3/",
-    "https://node2-mainnet.decimalchain.com/web3/",
-    "https://node3-mainnet.decimalchain.com/web3/",
-    "https://node4-mainnet.decimalchain.com/web3/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Decimal",
-    "symbol": "DEL",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "DSC",
+  "chainToken": "DEL",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://node.decimalchain.com/web3/"
     },
     {
-      "name": "EIP1559"
+      "url": "https://node1-mainnet.decimalchain.com/web3/"
+    },
+    {
+      "url": "https://node2-mainnet.decimalchain.com/web3/"
+    },
+    {
+      "url": "https://node3-mainnet.decimalchain.com/web3/"
+    },
+    {
+      "url": "https://node4-mainnet.decimalchain.com/web3/"
     }
   ],
-  "infoURL": "https://decimalchain.com",
-  "shortName": "DSC",
-  "chainId": 75,
-  "networkId": 75,
-  "icon": null,
   "explorers": [
     {
       "name": "DSC Explorer Mainnet",
-      "url": "https://explorer.decimalchain.com",
-      "icon": "dsc",
-      "standard": "EIP3091"
+      "url": "https://explorer.decimalchain.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

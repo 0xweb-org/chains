@@ -2,9 +2,7 @@
   "name": "Chaos (SKALE Testnet)",
   "title": "Chaos Testnet",
   "chain": "staging-fast-active-bellatrix",
-  "rpc": [
-    "https://staging-v3.skalenodes.com/v1/staging-fast-active-bellatrix"
-  ],
+  "rpc": [],
   "faucets": [
     "https://sfuel.skale.network/staging/chaos"
   ],
@@ -26,6 +24,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

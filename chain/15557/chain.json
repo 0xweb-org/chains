@@ -1,27 +1,19 @@
 {
-  "name": "EOS EVM Network Testnet",
-  "chain": "EOS",
-  "icon": "./chain/15557/logo.png",
-  "rpc": [
-    "https://api.testnet.evm.eosnetwork.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "EOS",
-    "symbol": "EOS",
-    "decimals": 18
-  },
-  "infoURL": "https://eosnetwork.com/eos-evm",
-  "shortName": "eos-testnet",
   "chainId": 15557,
-  "networkId": 15557,
-  "slip44": 1,
+  "icon": "./chain/15557/logo.png",
+  "www": "https://eosnetwork.com/eos-evm",
+  "name": "EOS EVM Network Testnet",
+  "platform": "eos-testnet",
+  "chainToken": "EOS",
+  "endpoints": [
+    {
+      "url": "https://api.testnet.evm.eosnetwork.com"
+    }
+  ],
   "explorers": [
     {
       "name": "EOS EVM Explorer",
-      "url": "https://explorer.testnet.evm.eosnetwork.com",
-      "standard": "EIP3091"
+      "url": "https://explorer.testnet.evm.eosnetwork.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

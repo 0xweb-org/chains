@@ -1,37 +1,22 @@
 {
-  "name": "Phron Testnet",
-  "chain": "PHR",
+  "chainId": 7744,
   "icon": "./chain/7744/logo.png",
-  "rpc": [
-    "https://testnet.phron.ai",
-    "wss://testnet.phron.ai"
-  ],
-  "features": [
+  "www": "https://phron.ai",
+  "name": "Phron Testnet",
+  "platform": "phr",
+  "chainToken": "TPHR",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://testnet.phron.ai"
     },
     {
-      "name": "EIP1559"
+      "url": "wss://testnet.phron.ai"
     }
   ],
-  "faucets": [
-    "https://faucet.phron.ai"
-  ],
-  "nativeCurrency": {
-    "name": "Phron",
-    "symbol": "TPHR",
-    "decimals": 18
-  },
-  "infoURL": "https://phron.ai",
-  "shortName": "phr",
-  "chainId": 7744,
-  "networkId": 7744,
   "explorers": [
     {
       "name": "phronscan",
-      "url": "https://testnet.phronscan.io",
-      "standard": "EIP3091"
+      "url": "https://testnet.phronscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

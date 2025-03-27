@@ -1,28 +1,21 @@
 {
-  "name": "Karura Network Testnet",
-  "chain": "KAR",
-  "rpc": [
-    "https://eth-rpc-karura-testnet.aca-staging.network",
-    "wss://eth-rpc-karura-testnet.aca-staging.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Karura Token",
-    "symbol": "KAR",
-    "decimals": 18
-  },
-  "infoURL": "https://karura.network",
-  "shortName": "tkar",
   "chainId": 596,
-  "networkId": 596,
-  "slip44": 1,
+  "www": "https://karura.network",
+  "name": "Karura Network Testnet",
+  "platform": "tkar",
+  "chainToken": "KAR",
+  "endpoints": [
+    {
+      "url": "https://eth-rpc-karura-testnet.aca-staging.network"
+    },
+    {
+      "url": "wss://eth-rpc-karura-testnet.aca-staging.network"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://blockscout.karura-testnet.aca-staging.network",
-      "standard": "EIP3091"
+      "url": "https://blockscout.karura-testnet.aca-staging.network"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

@@ -1,27 +1,19 @@
 {
-  "name": "ClubMos Mainnet",
-  "chain": "MOS",
-  "rpc": [
-    "https://mainnet.mosscan.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ClubMos",
-    "symbol": "MOS",
-    "decimals": 18
-  },
-  "infoURL": "https://www.mosscan.com",
-  "shortName": "MOS",
   "chainId": 1188,
-  "networkId": 1188,
   "icon": "./chain/1188/logo.png",
+  "www": "https://www.mosscan.com",
+  "name": "ClubMos Mainnet",
+  "platform": "MOS",
+  "chainToken": "MOS",
+  "endpoints": [
+    {
+      "url": "https://mainnet.mosscan.com"
+    }
+  ],
   "explorers": [
     {
       "name": "mosscan",
-      "url": "https://www.mosscan.com",
-      "icon": "clubmos",
-      "standard": "none"
+      "url": "https://www.mosscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

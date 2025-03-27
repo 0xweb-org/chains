@@ -1,26 +1,19 @@
 {
-  "name": "Creator Chain Testnet",
-  "chain": "creatorchain",
-  "icon": "./chain/66665/logo.png",
-  "rpc": [
-    "https://rpc.creatorchain.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "CreatorETH",
-    "symbol": "CETH",
-    "decimals": 18
-  },
-  "infoURL": "https://docs.creatorchain.io/",
-  "shortName": "ceth",
   "chainId": 66665,
-  "networkId": 66665,
+  "icon": "./chain/66665/logo.png",
+  "www": "https://docs.creatorchain.io/",
+  "name": "Creator Chain Testnet",
+  "platform": "ceth",
+  "chainToken": "CETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.creatorchain.io"
+    }
+  ],
   "explorers": [
     {
       "name": "creatorchainscan",
-      "url": "https://explorer.creatorchain.io",
-      "standard": "EIP3091"
+      "url": "https://explorer.creatorchain.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

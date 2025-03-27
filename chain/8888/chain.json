@@ -1,9 +1,7 @@
 {
   "name": "XANAChain",
   "chain": "XANAChain",
-  "rpc": [
-    "https://mainnet.xana.net/rpc"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "XETA",

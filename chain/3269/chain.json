@@ -1,19 +1,12 @@
 {
-  "name": "Dubxcoin network",
-  "chain": "DUBX",
-  "rpc": [
-    "https://rpcmain.arabianchain.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Dubxcoin mainnet",
-    "symbol": "DUBX",
-    "decimals": 18
-  },
-  "infoURL": "https://arabianchain.org",
-  "shortName": "dubx",
   "chainId": 3269,
-  "networkId": 3269,
-  "icon": null,
-  "tvl": 0
+  "www": "https://arabianchain.org",
+  "name": "Dubxcoin network",
+  "platform": "dubx",
+  "chainToken": "DUBX",
+  "endpoints": [
+    {
+      "url": "https://rpcmain.arabianchain.org"
+    }
+  ]
 }

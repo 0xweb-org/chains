@@ -1,30 +1,25 @@
 {
-  "name": "Bitnet",
-  "chain": "BTN",
-  "icon": "./chain/210/logo.png",
-  "rpc": [
-    "https://rpc.bitnet.money",
-    "https://rpc.btnscan.com",
-    "https://rpc.btn.network",
-    "https://rpc.bitnetmoney.com",
-    "https://rpc.btn-network.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Bitnet",
-    "symbol": "BTN",
-    "decimals": 18
-  },
-  "infoURL": "https://bitnet.technology",
-  "shortName": "BTN",
   "chainId": 210,
-  "networkId": 210,
+  "icon": "./chain/210/logo.png",
+  "www": "https://bitnet.technology",
+  "name": "Bitnet",
+  "platform": "BTN",
+  "chainToken": "BTN",
+  "endpoints": [
+    {
+      "url": "https://rpc.bitnet.money"
+    },
+    {
+      "url": "https://rpc.btnscan.com"
+    },
+    {
+      "url": "https://rpc.bitnetmoney.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Bitnet Explorer",
-      "url": "https://btnscan.com",
-      "standard": "EIP3091"
+      "url": "https://btnscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

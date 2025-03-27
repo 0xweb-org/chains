@@ -1,27 +1,19 @@
 {
-  "name": "OverProtocol Mainnet",
-  "chain": "OverProtocol",
-  "icon": "./chain/54176/logo.png",
-  "rpc": [
-    "https://rpc.overprotocol.com",
-    "https://rpc2.overprotocol.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Over",
-    "symbol": "OVER",
-    "decimals": 18
-  },
-  "infoURL": "https://docs.over.network",
-  "shortName": "overprotocol",
   "chainId": 54176,
-  "networkId": 54176,
+  "icon": "./chain/54176/logo.png",
+  "www": "https://docs.over.network",
+  "name": "OverProtocol Mainnet",
+  "platform": "overprotocol",
+  "chainToken": "OVER",
+  "endpoints": [
+    {
+      "url": "https://rpc.overprotocol.com"
+    }
+  ],
   "explorers": [
     {
       "name": "OverView",
-      "url": "https://scan.over.network",
-      "standard": "EIP3091"
+      "url": "https://scan.over.network"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -2,9 +2,7 @@
   "name": "Tobe Chain Testnet",
   "chain": "TBC",
   "icon": "./chain/4080/logo.png",
-  "rpc": [
-    "https://rpc-testnet.tobescan.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.tobescan.com/faucet"
   ],

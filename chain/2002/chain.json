@@ -2,10 +2,7 @@
   "name": "Milkomeda A1 Mainnet",
   "chain": "milkALGO",
   "icon": "./chain/2002/logo.png",
-  "rpc": [
-    "https://rpc-mainnet-algorand-rollup.a1.milkomeda.com",
-    "wss://rpc-mainnet-algorand-rollup.a1.milkomeda.com/ws"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "milkALGO",

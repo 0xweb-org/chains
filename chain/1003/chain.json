@@ -1,9 +1,7 @@
 {
   "name": "Tectum Emission Token",
   "chain": "TET",
-  "rpc": [
-    "https://rpc.softnote.com/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Tectum",
@@ -22,6 +20,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

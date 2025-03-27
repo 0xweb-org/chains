@@ -1,12 +1,7 @@
 {
   "name": "Cyber Testnet",
   "chain": "Cyber",
-  "rpc": [
-    "https://cyber-testnet.alt.technology/",
-    "wss://cyber-testnet.alt.technology/ws",
-    "https://rpc.testnet.cyber.co/",
-    "wss://rpc.testnet.cyber.co/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Sepolia Ether",

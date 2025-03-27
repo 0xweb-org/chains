@@ -2,9 +2,7 @@
   "name": "Exzo Network Mainnet",
   "chain": "EXZO",
   "icon": "./chain/1229/logo.png",
-  "rpc": [
-    "https://mainnet.exzo.technology"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Exzo",

@@ -1,28 +1,19 @@
 {
-  "name": "Aleph Zero",
-  "chain": "Aleph Zero",
-  "icon": "./chain/2039/logo.png",
-  "rpc": [
-    "https://rpc.alephzero-testnet.gelato.digital",
-    "wss://rpc.alephzero-testnet.gelato.digital"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "TZERO",
-    "symbol": "TZERO",
-    "decimals": 18
-  },
-  "infoURL": "https://alephzero.org/",
-  "shortName": "aleph",
   "chainId": 2039,
-  "networkId": 2039,
+  "icon": "./chain/2039/logo.png",
+  "www": "https://alephzero.org/",
+  "name": "Aleph Zero",
+  "platform": "aleph",
+  "chainToken": "TZERO",
+  "endpoints": [
+    {
+      "url": "https://rpc.alephzero-testnet.gelato.digital"
+    }
+  ],
   "explorers": [
     {
       "name": "Aleph Zero",
-      "url": "https://evm-explorer-testnet.alephzero.org",
-      "icon": "aleph",
-      "standard": "none"
+      "url": "https://evm-explorer-testnet.alephzero.org"
     }
-  ],
-  "tvl": 0
+  ]
 }

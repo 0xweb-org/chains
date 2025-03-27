@@ -1,35 +1,19 @@
 {
+  "chainId": 14333,
+  "icon": "./chain/14333/logo.png",
+  "www": "https://www.vitruveo.xyz",
   "name": "Vitruveo Testnet",
-  "title": "Vitruveo is a blockchain for Creators",
-  "chain": "Vitruveo",
-  "rpc": [
-    "https://test-rpc.vitruveo.xyz"
-  ],
-  "faucets": [
-    "https://faucet.vitruveo.xyz"
-  ],
-  "nativeCurrency": {
-    "name": "Vitruveo Test Coin",
-    "symbol": "tVTRU",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "vitruveo-test",
+  "chainToken": "tVTRU",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://test-rpc.vitruveo.xyz"
     }
   ],
-  "infoURL": "https://www.vitruveo.xyz",
-  "shortName": "vitruveo-test",
-  "chainId": 14333,
-  "networkId": 14333,
-  "icon": "./chain/14333/logo.png",
   "explorers": [
     {
       "name": "Vitruveo Testnet Explorer",
-      "url": "https://test-explorer.vitruveo.xyz",
-      "icon": "vitruveo",
-      "standard": "EIP3091"
+      "url": "https://test-explorer.vitruveo.xyz"
     }
-  ],
-  "tvl": 0
+  ]
 }

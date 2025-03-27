@@ -2,9 +2,7 @@
   "name": "Haust Mainnet",
   "title": "Haust Mainnet",
   "chain": "Haust",
-  "rpc": [
-    "https://haust-network-rpc.eu-north-2.gateway.fm"
-  ],
+  "rpc": [],
   "faucets": [],
   "features": [
     {

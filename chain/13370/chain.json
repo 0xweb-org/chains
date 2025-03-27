@@ -2,9 +2,7 @@
   "name": "Cannon Testnet",
   "title": "Cannon Private Testnet",
   "chain": "ETH",
-  "rpc": [
-    "http://127.0.0.1:8545"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Cannon Testnet Ether",
@@ -15,6 +13,5 @@
   "shortName": "cannon",
   "chainId": 13370,
   "networkId": 13370,
-  "icon": null,
   "tvl": 0
 }

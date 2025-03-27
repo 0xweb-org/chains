@@ -1,9 +1,7 @@
 {
   "name": "Weelink Testnet",
   "chain": "WLK",
-  "rpc": [
-    "https://weelinknode1c.gw002.oneitfarm.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.weelink.gw002.oneitfarm.com"
   ],
@@ -24,6 +22,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

@@ -1,26 +1,19 @@
 {
-  "name": "ApeChain",
-  "chain": "apechain",
-  "rpc": [
-    "https://rpc.apechain.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ApeCoin",
-    "symbol": "APE",
-    "decimals": 18
-  },
-  "infoURL": "https://apechain.com",
-  "shortName": "apechain",
   "chainId": 33139,
-  "networkId": 33139,
   "icon": "./chain/33139/logo.png",
+  "www": "https://apechain.com",
+  "name": "ApeChain",
+  "platform": "apechain",
+  "chainToken": "APE",
+  "endpoints": [
+    {
+      "url": "https://rpc.apechain.com"
+    }
+  ],
   "explorers": [
     {
       "name": "ApeChain Explorer",
-      "url": "https://apescan.io",
-      "standard": "EIP3091"
+      "url": "https://apescan.io"
     }
-  ],
-  "tvl": 10357254
+  ]
 }

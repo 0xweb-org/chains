@@ -1,26 +1,19 @@
 {
-  "name": "Cronos zkEVM Mainnet",
-  "chain": "CronosZkEVMMainnet",
-  "rpc": [
-    "https://mainnet.zkevm.cronos.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Cronos zkEVM CRO",
-    "symbol": "zkCRO",
-    "decimals": 18
-  },
-  "infoURL": "https://cronos.org/zkevm",
-  "shortName": "zkCRO",
   "chainId": 388,
-  "networkId": 388,
+  "icon": "./chain/388/logo.png",
+  "www": "https://cronos.org/zkevm",
+  "name": "Cronos zkEVM Mainnet",
+  "platform": "zkCRO",
+  "chainToken": "zkCRO",
+  "endpoints": [
+    {
+      "url": "https://mainnet.zkevm.cronos.org"
+    }
+  ],
   "explorers": [
     {
       "name": "Cronos zkEVM (Mainnet) Chain Explorer",
-      "url": "https://explorer.zkevm.cronos.org",
-      "standard": "none"
+      "url": "https://explorer.zkevm.cronos.org"
     }
-  ],
-  "icon": "./chain/388/logo.png",
-  "tvl": 17800439
+  ]
 }

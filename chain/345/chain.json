@@ -1,27 +1,19 @@
 {
-  "name": "TSC Mainnet",
-  "chain": "Trust Smart Chain",
-  "rpc": [
-    "https://rpc01.trias.one"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "TAS",
-    "symbol": "TAS",
-    "decimals": 18
-  },
-  "infoURL": "https://www.trias.one",
-  "shortName": "TSC",
-  "icon": "./chain/345/logo.png",
   "chainId": 345,
-  "networkId": 16,
+  "icon": "./chain/345/logo.png",
+  "www": "https://www.trias.one",
+  "name": "TSC Mainnet",
+  "platform": "TSC",
+  "chainToken": "TAS",
+  "endpoints": [
+    {
+      "url": "https://rpc01.trias.one"
+    }
+  ],
   "explorers": [
     {
       "name": "tscscan",
-      "url": "https://www.tscscan.io",
-      "icon": "netxscan",
-      "standard": "none"
+      "url": "https://www.tscscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

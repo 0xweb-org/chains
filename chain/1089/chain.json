@@ -1,42 +1,25 @@
 {
+  "chainId": 1089,
+  "icon": "ipfs://QmX6XuoQDTTjYqAmdNJiieLDZSwHHyUx44yQb4E3tmHmEA",
+  "www": "https://humans.ai",
   "name": "Humans.ai Mainnet",
-  "chain": "Humans",
-  "rpc": [
-    "https://jsonrpc.humans.nodestake.top",
-    "https://humans-mainnet-evm.itrocket.net",
-    "https://humans-evm-rpc.staketab.org:443",
-    "https://evm.humans.stakepool.dev.br",
-    "https://mainnet-humans-evm.konsortech.xyz",
-    "https://evm-rpc.mainnet.humans.zone",
-    "https://json-rpc.humans.bh.rocks",
-    "https://evm-rpc.humans.huginn.tech"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "HEART",
-    "symbol": "HEART",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "humans",
+  "chainToken": "HEART",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://humans-evm-rpc.staketab.org:443"
     },
     {
-      "name": "EIP1559"
+      "url": "https://mainnet-humans-evm.konsortech.xyz"
+    },
+    {
+      "url": "https://json-rpc.humans.bh.rocks"
     }
   ],
-  "infoURL": "https://humans.ai",
-  "shortName": "humans",
-  "chainId": 1089,
-  "networkId": 1089,
-  "icon": null,
   "explorers": [
     {
       "name": "explorer.guru",
-      "url": "https://humans.explorers.guru",
-      "icon": "humans",
-      "standard": "none"
+      "url": "https://humans.explorers.guru"
     }
-  ],
-  "tvl": 0
+  ]
 }

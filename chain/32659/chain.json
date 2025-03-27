@@ -1,37 +1,22 @@
 {
-  "name": "Fusion Mainnet",
-  "chain": "FSN",
+  "chainId": 32659,
   "icon": "./chain/32659/logo.png",
-  "rpc": [
-    "https://mainnet.fusionnetwork.io",
-    "wss://mainnet.fusionnetwork.io"
-  ],
-  "features": [
+  "www": "https://fusion.org",
+  "name": "Fusion Mainnet",
+  "platform": "fsn",
+  "chainToken": "FSN",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://mainnet.fusionnetwork.io"
     },
     {
-      "name": "EIP1559"
+      "url": "wss://mainnet.fusionnetwork.io"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Fusion",
-    "symbol": "FSN",
-    "decimals": 18
-  },
-  "infoURL": "https://fusion.org",
-  "shortName": "fsn",
-  "chainId": 32659,
-  "networkId": 32659,
-  "slip44": 288,
   "explorers": [
     {
       "name": "fsnscan",
-      "url": "https://fsnscan.com",
-      "icon": "fsnscan",
-      "standard": "EIP3091"
+      "url": "https://fsnscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

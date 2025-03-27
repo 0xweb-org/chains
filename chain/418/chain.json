@@ -2,10 +2,7 @@
   "name": "LaTestnet",
   "chain": "LaTestnet",
   "icon": "./chain/418/logo.png",
-  "rpc": [
-    "https://rpc.testnet.lachain.network",
-    "https://lachain-testnet.rpc-nodes.cedalio.dev"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.lachain.network"
   ],

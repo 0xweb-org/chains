@@ -2,9 +2,7 @@
   "name": "Hybrid Testnet (Deprecated)",
   "chain": "HYB",
   "icon": "./chain/1224/logo.png",
-  "rpc": [
-    "https://testnet-rpc.buildonhybrid.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Hybrid",

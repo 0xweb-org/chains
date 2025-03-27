@@ -1,29 +1,19 @@
 {
-  "name": "EDU Chain",
-  "chain": "EDU Chain",
-  "icon": "./chain/41923/logo.png",
-  "rpc": [
-    "https://rpc.edu-chain.raas.gelato.cloud"
-  ],
-  "faucets": [
-    "https://bridge.gelato.network/bridge/edu-chain"
-  ],
-  "nativeCurrency": {
-    "name": "EDU",
-    "symbol": "EDU",
-    "decimals": 18
-  },
-  "infoURL": "https://raas.gelato.network/rollups/details/public/edu-chain",
-  "shortName": "edu-chain",
   "chainId": 41923,
-  "networkId": 41923,
+  "icon": "./chain/41923/logo.png",
+  "www": "https://raas.gelato.network/rollups/details/public/edu-chain",
+  "name": "EDU Chain",
+  "platform": "edu-chain",
+  "chainToken": "EDU",
+  "endpoints": [
+    {
+      "url": "https://rpc.edu-chain.raas.gelato.cloud"
+    }
+  ],
   "explorers": [
     {
       "name": "EDU Chain",
-      "url": "https://educhain.blockscout.com",
-      "icon": "occ-mainnet",
-      "standard": "none"
+      "url": "https://educhain.blockscout.com"
     }
-  ],
-  "tvl": 743068
+  ]
 }

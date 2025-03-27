@@ -2,10 +2,7 @@
   "name": "Birdee-2",
   "chain": "Tucana",
   "title": "Tucana Testnet",
-  "rpc": [
-    "https://evm-rpc.birdee-2.tucana.zone",
-    "wss://evm-ws.birdee-2.tucana.zone"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Tucana",

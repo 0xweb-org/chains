@@ -1,40 +1,46 @@
 {
-  "name": "Moonbase Alpha",
-  "chain": "MOON",
-  "icon": "./chain/1287/logo.png",
-  "rpc": [
-    "https://rpc.api.moonbase.moonbeam.network",
-    "wss://wss.api.moonbase.moonbeam.network",
-    "https://moonbase-alpha.public.blastapi.io",
-    "wss://moonbase-alpha.public.blastapi.io",
-    "https://moonbase-rpc.dwellir.com",
-    "wss://moonbase-rpc.dwellir.com",
-    "https://moonbeam-alpha.api.onfinality.io/public",
-    "wss://moonbeam-alpha.api.onfinality.io/public-ws",
-    "https://moonbase.unitedbloc.com",
-    "wss://moonbase.unitedbloc.com",
-    "https://moonbase-alpha.drpc.org",
-    "wss://moonbase-alpha.drpc.org"
-  ],
-  "faucets": [
-    "https://faucet.moonbeam.network/"
-  ],
-  "nativeCurrency": {
-    "name": "Dev",
-    "symbol": "DEV",
-    "decimals": 18
-  },
-  "infoURL": "https://docs.moonbeam.network/learn/platform/networks/moonbase/",
-  "shortName": "mbase",
   "chainId": 1287,
-  "networkId": 1287,
-  "slip44": 1,
+  "icon": "./chain/1287/logo.png",
+  "www": "https://docs.moonbeam.network/learn/platform/networks/moonbase/",
+  "name": "Moonbase Alpha",
+  "platform": "mbase",
+  "chainToken": "DEV",
+  "endpoints": [
+    {
+      "url": "https://rpc.api.moonbase.moonbeam.network"
+    },
+    {
+      "url": "wss://wss.api.moonbase.moonbeam.network"
+    },
+    {
+      "url": "https://moonbase-alpha.public.blastapi.io"
+    },
+    {
+      "url": "wss://moonbase-alpha.public.blastapi.io"
+    },
+    {
+      "url": "https://moonbase-rpc.dwellir.com"
+    },
+    {
+      "url": "wss://moonbase-rpc.dwellir.com"
+    },
+    {
+      "url": "https://moonbeam-alpha.api.onfinality.io/public"
+    },
+    {
+      "url": "wss://moonbeam-alpha.api.onfinality.io/public-ws"
+    },
+    {
+      "url": "https://moonbase-alpha.drpc.org"
+    },
+    {
+      "url": "wss://moonbase-alpha.drpc.org"
+    }
+  ],
   "explorers": [
     {
       "name": "moonscan",
-      "url": "https://moonbase.moonscan.io",
-      "standard": "none"
+      "url": "https://moonbase.moonscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

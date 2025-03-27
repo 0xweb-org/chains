@@ -3,9 +3,7 @@
   "title": "Atlas Testnet",
   "chain": "ATLAS",
   "icon": "./chain/622463/logo.png",
-  "rpc": [
-    "https://rpc.testnet.atl.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "TON",

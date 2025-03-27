@@ -1,33 +1,40 @@
 {
-  "name": "Ontology Mainnet",
-  "chain": "Ontology",
-  "icon": "./chain/58/logo.png",
-  "rpc": [
-    "http://dappnode1.ont.io:20339",
-    "http://dappnode2.ont.io:20339",
-    "http://dappnode3.ont.io:20339",
-    "http://dappnode4.ont.io:20339",
-    "https://dappnode1.ont.io:10339",
-    "https://dappnode2.ont.io:10339",
-    "https://dappnode3.ont.io:10339",
-    "https://dappnode4.ont.io:10339"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ONG",
-    "symbol": "ONG",
-    "decimals": 18
-  },
-  "infoURL": "https://ont.io/",
-  "shortName": "OntologyMainnet",
   "chainId": 58,
-  "networkId": 58,
+  "icon": "./chain/58/logo.png",
+  "www": "https://ont.io/",
+  "name": "Ontology Mainnet",
+  "platform": "OntologyMainnet",
+  "chainToken": "ONG",
+  "endpoints": [
+    {
+      "url": "http://dappnode1.ont.io:20339"
+    },
+    {
+      "url": "http://dappnode2.ont.io:20339"
+    },
+    {
+      "url": "http://dappnode3.ont.io:20339"
+    },
+    {
+      "url": "http://dappnode4.ont.io:20339"
+    },
+    {
+      "url": "https://dappnode1.ont.io:10339"
+    },
+    {
+      "url": "https://dappnode2.ont.io:10339"
+    },
+    {
+      "url": "https://dappnode3.ont.io:10339"
+    },
+    {
+      "url": "https://dappnode4.ont.io:10339"
+    }
+  ],
   "explorers": [
     {
       "name": "explorer",
-      "url": "https://explorer.ont.io",
-      "standard": "EIP3091"
+      "url": "https://explorer.ont.io"
     }
-  ],
-  "tvl": 4671
+  ]
 }

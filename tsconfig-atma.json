@@ -1,7 +1,15 @@
 {
   "compilerOptions": {
     "module": "AMD",
-    "target": "ES2022"
+    "target": "ES2022",
+    "paths": {
+        "@0xc/*": [
+          "0xc/*"
+        ],
+        "dequanto/*": [
+          "node_modules/dequanto/lib/cjs/*.js"
+        ]
+    }
   },
   "extends": "./tsconfig.json"
 }

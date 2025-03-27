@@ -2,7 +2,6 @@
   "name": "QuarkChain Mainnet Shard 0",
   "chain": "QuarkChain",
   "rpc": [
-    "https://mainnet-s0-ethapi.quarkchain.io",
     "http://eth-jrpc.mainnet.quarkchain.io:39000"
   ],
   "faucets": [],
@@ -26,6 +25,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

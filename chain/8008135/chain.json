@@ -1,9 +1,7 @@
 {
   "name": "Fhenix Helium",
   "chain": "tFHE",
-  "rpc": [
-    "https://api.helium.fhenix.zone"
-  ],
+  "rpc": [],
   "faucets": [
     "https://get-helium.fhenix.zone"
   ],
@@ -31,6 +29,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

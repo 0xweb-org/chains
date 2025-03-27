@@ -1,9 +1,7 @@
 {
   "name": "CamDL Testnet",
   "chain": "CADL",
-  "rpc": [
-    "https://rpc1.testnet.camdl.gov.kh/"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.testnet.camdl.gov.kh/"
   ],

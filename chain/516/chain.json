@@ -1,9 +1,7 @@
 {
   "name": "Gear Zero Network Mainnet",
   "chain": "GearZero",
-  "rpc": [
-    "https://gzn.linksme.info"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Gear Zero Network Native Token",
@@ -16,6 +14,5 @@
   "networkId": 516,
   "slip44": 516,
   "explorers": [],
-  "icon": null,
   "tvl": 0
 }

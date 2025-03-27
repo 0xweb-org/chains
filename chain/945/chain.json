@@ -1,9 +1,7 @@
 {
   "name": "Subtensor EVM Testnet",
   "chain": "Bittensor",
-  "rpc": [
-    "https://test.chain.opentensor.ai"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "testTAO",

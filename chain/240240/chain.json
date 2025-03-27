@@ -1,11 +1,13 @@
 {
   "name": "Studio Testnet",
   "chain": "STO",
-  "icon": null,
-  "rpc": [
-    "https://rpc.studio-blockchain.com",
-    "wss://ws.studio-blockchain.com"
-  ],
+  "icon": {
+    "url": "ipfs://QmamYSLuQSiAvqfQdejQn2PKXV6ZPQCagpXH5MLRz1GeCf",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Studio Token",

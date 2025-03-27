@@ -1,9 +1,7 @@
 {
   "name": "Flamma Mainnet",
   "chain": "Flamma",
-  "rpc": [
-    "https://rpc.flamma.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Flamma",
@@ -21,6 +19,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

@@ -1,9 +1,7 @@
 {
   "name": "SaitaBlockChain(SBC)",
   "chain": "SaitaBlockChain(SBC)",
-  "rpc": [
-    "https://rpc-nodes.saitascan.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "SaitaBlockChain(SBC)",
@@ -14,7 +12,12 @@
   "shortName": "SBC",
   "chainId": 1209,
   "networkId": 1209,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmVFWTqfqnMXbiPKpDFucE9QSQ1SVsUWs4HxBqRGjgQCbu",
+    "width": 974,
+    "height": 263,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "Saitascan explorer",

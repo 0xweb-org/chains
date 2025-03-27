@@ -1,9 +1,7 @@
 {
   "name": "EthStorage Testnet",
   "chain": "EthStorage",
-  "rpc": [
-    "http://testnet.ethstorage.io:9540"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",
@@ -15,6 +13,5 @@
   "chainId": 3333,
   "networkId": 3333,
   "slip44": 1,
-  "icon": null,
   "tvl": 0
 }

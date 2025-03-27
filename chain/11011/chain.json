@@ -1,27 +1,19 @@
 {
-  "name": "Shape Sepolia Testnet",
-  "chain": "ETH",
-  "rpc": [
-    "https://sepolia.shape.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Sepolia Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://shape.network",
-  "shortName": "shapesep",
   "chainId": 11011,
-  "networkId": 11011,
   "icon": "./chain/11011/logo.png",
+  "www": "https://shape.network",
+  "name": "Shape Sepolia Testnet",
+  "platform": "shapesep",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://sepolia.shape.network"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://explorer-sepolia.shape.network",
-      "standard": "EIP3091"
+      "url": "https://explorer-sepolia.shape.network"
     }
-  ],
-  "slip44": 1,
-  "tvl": 0
+  ]
 }

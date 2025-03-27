@@ -1,28 +1,22 @@
 {
-  "name": "AILayer Testnet",
-  "chain": "AILayer",
-  "rpc": [
-    "https://testnet-rpc.ailayer.xyz",
-    "wss://testnet-rpc.ailayer.xyz"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "BTC",
-    "symbol": "BTC",
-    "decimals": 18
-  },
-  "infoURL": "https://ailayer.xyz/",
-  "shortName": "ailayer-testnet",
   "chainId": 2648,
-  "networkId": 2648,
   "icon": "./chain/2648/logo.png",
+  "www": "https://ailayer.xyz/",
+  "name": "AILayer Testnet",
+  "platform": "ailayer-testnet",
+  "chainToken": "BTC",
+  "endpoints": [
+    {
+      "url": "https://testnet-rpc.ailayer.xyz"
+    },
+    {
+      "url": "wss://testnet-rpc.ailayer.xyz"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://testnet-explorer.ailayer.xyz",
-      "icon": "ailayer",
-      "standard": "EIP3091"
+      "url": "https://testnet-explorer.ailayer.xyz"
     }
-  ],
-  "tvl": 0
+  ]
 }

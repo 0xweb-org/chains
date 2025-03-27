@@ -1,9 +1,7 @@
 {
   "name": "Toliman Suave Testnet",
   "chain": "ETH",
-  "rpc": [
-    "https://rpc.toliman.suave.flashbots.net"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.toliman.suave.flashbots.net"
   ],
@@ -31,6 +29,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

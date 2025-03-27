@@ -1,38 +1,19 @@
 {
-  "name": "zkSync Mainnet",
-  "chain": "ETH",
-  "rpc": [
-    "https://mainnet.era.zksync.io",
-    "https://zksync.drpc.org",
-    "wss://zksync.drpc.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://zksync.io/",
-  "shortName": "zksync",
   "chainId": 324,
-  "networkId": 324,
   "icon": "./chain/324/logo.png",
+  "www": "https://zksync.io/",
+  "name": "zkSync Mainnet",
+  "platform": "zksync",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://mainnet.era.zksync.io"
+    }
+  ],
   "explorers": [
     {
       "name": "zkSync Era Block Explorer",
-      "url": "https://explorer.zksync.io",
-      "icon": "zksync-era",
-      "standard": "EIP3091"
+      "url": "https://explorer.zksync.io"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "https://bridge.zksync.io/"
-      }
-    ]
-  },
-  "tvl": 107313745
+  ]
 }

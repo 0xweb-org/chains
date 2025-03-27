@@ -1,9 +1,7 @@
 {
   "name": "Tranched Mainnet",
   "chain": "tranched-mainnet",
-  "rpc": [
-    "https://tranched-mainnet.calderachain.xyz/http"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",

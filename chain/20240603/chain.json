@@ -1,26 +1,19 @@
 {
-  "name": "DBK Chain",
-  "chain": "DBK Chain",
-  "rpc": [
-    "https://rpc.mainnet.dbkchain.io"
-  ],
-  "icon": null,
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://docs.dbkchain.io",
-  "shortName": "dbkchain",
   "chainId": 20240603,
-  "networkId": 20240603,
+  "icon": "ipfs://bafybeib7ovny3xkl4nr4a5oqvoqwf7dcjtqavydysclfmbavbl2oekhxty",
+  "www": "https://docs.dbkchain.io",
+  "name": "DBK Chain",
+  "platform": "dbkchain",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.mainnet.dbkchain.io"
+    }
+  ],
   "explorers": [
     {
       "name": "DBK Chain Explorer",
-      "url": "https://scan.dbkchain.io",
-      "standard": "EIP3091"
+      "url": "https://scan.dbkchain.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

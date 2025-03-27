@@ -1,14 +1,19 @@
 import alot from 'alot';
 import { File } from 'atma-io';
 import { UAction } from 'atma-utest'
+import { l } from 'dequanto/utils/$logger';
+import { Config } from 'dequanto/config/Config';
 import { EthereumListsSource } from '../src/chains/EthereumListsSource';
 import { ChainListSource } from '../src/chains/ChainListSource';
 import { $downloader } from '../src/utils/$downloader';
-import { l } from 'dequanto/utils/$logger';
 import { $image } from '../src/utils/ImageHandler';
+import { EndpointsChecker } from '../src/chains/EndpointsChecker';
+import { Mapping } from '../src/chains/Mapping';
 
 UAction.create({
     async 'generate'() {
+        let config = await Config.fetch();
+
         let handlers = [
             new EthereumListsSource(),
             new ChainListSource(),
@@ -29,7 +34,7 @@ UAction.create({
                 let output = `./chain/${chain.chainId}/logo.png`;
                 if (await File.existsAsync(output)) {
                     chain.icon = output;
-                } else {
+                } else if (!config.skipIcons) {
                     chain.icon = await alot(group.values)
                         .filter(x => x.icon != null)
                         .mapAsync(async x => {
@@ -50,7 +55,6 @@ UAction.create({
                 }
 
                 chain.tvl = alot(group.values).first(x => x.tvl != null)?.tvl;
-
                 return chain;
             })
             .toArrayAsync();
@@ -60,13 +64,15 @@ UAction.create({
             .thenBy(x => x.chainId)
             .toArray();
 
-        const chainList = sortedByTvl;
+        await EndpointsChecker.handleLiveUrls(sortedByTvl);
+
+        const chainList = await Mapping.map(sortedByTvl);
         await File.writeAsync(`chainlist.json`, chainList);
 
         const chainListTop50 = alot(chainList).take(50).toArray();
         await File.writeAsync(`chainlist-top50.json`, chainListTop50);
 
-        const chainIds = alot(chainList).toDictionary(x => x.shortName, x => x.chainId);
+        const chainIds = alot(chainList).toDictionary(x => x.platform, x => x.chainId);
         await File.writeAsync(`chainids.json`, chainIds);
 
         await alot(chainList).forEachAsync(async chain => {

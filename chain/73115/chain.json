@@ -1,27 +1,22 @@
 {
-  "name": "ICB Network",
-  "chain": "ICB",
-  "icon": "./chain/73115/logo.png",
-  "rpc": [
-    "https://rpc1-mainnet.icbnetwork.info/",
-    "https://rpc2-mainnet.icbnetwork.info/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ICB Native Token",
-    "symbol": "ICBX",
-    "decimals": 18
-  },
-  "infoURL": "https://icb.network",
-  "shortName": "ICBX",
   "chainId": 73115,
-  "networkId": 73115,
+  "icon": "./chain/73115/logo.png",
+  "www": "https://icb.network",
+  "name": "ICB Network",
+  "platform": "ICBX",
+  "chainToken": "ICBX",
+  "endpoints": [
+    {
+      "url": "https://rpc1-mainnet.icbnetwork.info/"
+    },
+    {
+      "url": "https://rpc2-mainnet.icbnetwork.info/"
+    }
+  ],
   "explorers": [
     {
       "name": "ICB Explorer",
-      "url": "https://icbscan.io",
-      "standard": "EIP3091"
+      "url": "https://icbscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

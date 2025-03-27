@@ -1,9 +1,7 @@
 {
   "name": "Lumoz Chain Testnet",
   "chain": "ETH",
-  "rpc": [
-    "https://testnet-rpc.lumoz.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Lumoz Testnet Token",
@@ -20,7 +18,12 @@
   "chainId": 105363,
   "networkId": 105363,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmZnE2ygPL2ZGuzHGvFCHmrqxwdurrhz3K1yPnwLzKbgay",
+    "width": 401,
+    "height": 400,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "LumozTestInfo",

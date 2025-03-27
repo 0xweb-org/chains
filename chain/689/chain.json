@@ -1,10 +1,7 @@
 {
   "name": "NERO Testnet",
   "chain": "NERO Chain",
-  "rpc": [
-    "https://rpc-testnet.nerochain.io",
-    "wss://ws-testnet.nerochain.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet-testnet.nerochain.io"
   ],

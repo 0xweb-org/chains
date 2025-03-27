@@ -1,9 +1,7 @@
 {
   "name": "Metis Goerli Testnet",
   "chain": "ETH",
-  "rpc": [
-    "https://goerli.gateway.metisdevops.link"
-  ],
+  "rpc": [],
   "faucets": [
     "https://goerli.faucet.metisdevops.link"
   ],
@@ -34,6 +32,5 @@
     ]
   },
   "status": "deprecated",
-  "icon": null,
   "tvl": 0
 }

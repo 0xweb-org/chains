@@ -1,10 +1,7 @@
 {
   "name": "xFair.AI Mainnet",
   "chain": "FAI",
-  "rpc": [
-    "https://rpc_mainnet.xfair.ai",
-    "wss://rpc_mainnet.xfair.ai"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "FAI",
@@ -20,6 +17,5 @@
   "shortName": "fai",
   "chainId": 278,
   "networkId": 278,
-  "icon": null,
   "tvl": 0
 }

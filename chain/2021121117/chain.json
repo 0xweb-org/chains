@@ -1,9 +1,7 @@
 {
   "name": "DataHopper",
   "chain": "HOP",
-  "rpc": [
-    "https://23.92.21.121:8545"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "DataHoppers",
@@ -14,6 +12,5 @@
   "shortName": "hop",
   "chainId": 2021121117,
   "networkId": 2021121117,
-  "icon": null,
   "tvl": 0
 }

@@ -1,9 +1,7 @@
 {
   "name": "Tetron Testnet Smart Chain",
   "chain": "Tetron Testnet",
-  "rpc": [
-    "https://test-rpc.tscscan.org"
-  ],
+  "rpc": [],
   "faucets": [],
   "features": [
     {
@@ -26,6 +24,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

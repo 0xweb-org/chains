@@ -1,10 +1,7 @@
 {
   "name": "IMPERIUM TESTNET",
   "chain": "tIMP",
-  "rpc": [
-    "https://data-aws-testnet.imperiumchain.com",
-    "https://data-aws2-testnet.imperiumchain.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.imperiumchain.com/"
   ],
@@ -18,7 +15,12 @@
   "chainId": 9818,
   "networkId": 9818,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmcNGLzKyc7Gu2dgpBFF6t3KJwFuKC79D56DW8GTc5DWRw",
+    "width": 200,
+    "height": 200,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "IMPERIUM TESTNET Explorer",

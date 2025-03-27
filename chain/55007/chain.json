@@ -1,10 +1,7 @@
 {
   "name": "Titan Sepolia",
   "chain": "ETH",
-  "rpc": [
-    "https://rpc.titan-sepolia.tokamak.network",
-    "wss://rpc.titan-sepolia.tokamak.network/ws"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",
@@ -22,6 +19,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

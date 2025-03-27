@@ -1,48 +1,27 @@
 {
-  "name": "Soneium",
-  "shortName": "soneium",
-  "title": "Soneium mainnet",
-  "chain": "ETH",
-  "icon": "./chain/1868/logo.png",
-  "rpc": [
-    "https://rpc.soneium.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://soneium.org",
   "chainId": 1868,
-  "networkId": 1868,
-  "status": "active",
+  "icon": "./chain/1868/logo.png",
+  "www": "https://soneium.org",
+  "name": "Soneium",
+  "platform": "soneium",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.soneium.org"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://soneium.blockscout.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://soneium.blockscout.com"
     },
     {
       "name": "OKLink",
-      "url": "https://www.okx.com/web3/explorer/soneium",
-      "standard": "EIP3091"
+      "url": "https://www.okx.com/web3/explorer/soneium"
     },
     {
       "name": "SlamVision",
-      "url": "https://soneium.slam.vision",
-      "standard": "none"
+      "url": "https://soneium.slam.vision"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "https://superbridge.app/soneium"
-      }
-    ]
-  },
-  "tvl": 86934627
+  ]
 }

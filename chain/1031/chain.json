@@ -1,9 +1,7 @@
 {
   "name": "Proxy Network Testnet",
   "chain": "Proxy Network",
-  "rpc": [
-    "http://128.199.94.183:8041"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "PRX",
@@ -22,6 +20,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

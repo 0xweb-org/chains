@@ -1,47 +1,29 @@
 {
-  "name": "Flare Mainnet",
-  "chain": "FLR",
+  "chainId": 14,
   "icon": "./chain/14/logo.png",
-  "rpc": [
-    "https://flare-api.flare.network/ext/C/rpc",
-    "https://flare.rpc.thirdweb.com",
-    "https://flare-bundler.etherspot.io",
-    "https://rpc.ankr.com/flare",
-    "https://01-gravelines-003-01.rpc.tatum.io/ext/bc/C/rpc",
-    "https://01-vinthill-003-02.rpc.tatum.io/ext/bc/C/rpc",
-    "https://rpc.au.cc/flare",
-    "https://flare.enosys.global/ext/C/rpc",
-    "https://flare.solidifi.app/ext/C/rpc"
-  ],
-  "features": [
+  "www": "https://flare.network",
+  "name": "Flare Mainnet",
+  "platform": "flr",
+  "chainToken": "FLR",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://rpc.ankr.com/flare"
     },
     {
-      "name": "EIP1559"
+      "url": "https://rpc.au.cc/flare"
+    },
+    {
+      "url": "https://flare.solidifi.app/ext/C/rpc"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Flare",
-    "symbol": "FLR",
-    "decimals": 18
-  },
-  "infoURL": "https://flare.network",
-  "shortName": "flr",
-  "chainId": 14,
-  "networkId": 14,
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://flare-explorer.flare.network",
-      "standard": "EIP3091"
+      "url": "https://flare-explorer.flare.network"
     },
     {
       "name": "Routescan",
-      "url": "https://mainnet.flarescan.com",
-      "standard": "EIP3091"
+      "url": "https://mainnet.flarescan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

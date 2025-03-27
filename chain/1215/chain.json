@@ -1,27 +1,19 @@
 {
-  "name": "ADF Chain",
-  "chain": "ADF Chain",
-  "icon": "./chain/1215/logo.png",
-  "rpc": [
-    "https://mainnet.adftechnology.com/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ADDFILL",
-    "symbol": "ADF",
-    "decimals": 18
-  },
-  "infoURL": "https://www.adfstarworld.com/",
-  "shortName": "ADF",
   "chainId": 1215,
-  "networkId": 1215,
+  "icon": "./chain/1215/logo.png",
+  "www": "https://www.adfstarworld.com/",
+  "name": "ADF Chain",
+  "platform": "ADF",
+  "chainToken": "ADF",
+  "endpoints": [
+    {
+      "url": "https://mainnet.adftechnology.com/"
+    }
+  ],
   "explorers": [
     {
       "name": "ADF explorer",
-      "url": "https://explorer.adftechnology.com",
-      "standard": "EIP3091"
+      "url": "https://explorer.adftechnology.com"
     }
-  ],
-  "status": "active",
-  "tvl": 0
+  ]
 }

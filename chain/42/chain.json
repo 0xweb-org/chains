@@ -1,38 +1,22 @@
 {
-  "name": "LUKSO Mainnet",
-  "chain": "LUKSO",
+  "chainId": 42,
   "icon": "./chain/42/logo.png",
-  "rpc": [
-    "https://rpc.mainnet.lukso.network",
-    "wss://ws-rpc.mainnet.lukso.network"
+  "www": "https://lukso.network",
+  "name": "LUKSO Mainnet",
+  "platform": "lukso",
+  "chainToken": "LYX",
+  "endpoints": [
+    {
+      "url": "https://rpc.mainnet.lukso.network"
+    },
+    {
+      "url": "wss://ws-rpc.mainnet.lukso.network"
+    }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "LUKSO",
-    "symbol": "LYX",
-    "decimals": 18
-  },
   "explorers": [
     {
       "name": "Blockscout",
-      "url": "https://explorer.execution.mainnet.lukso.network",
-      "standard": "EIP3091"
+      "url": "https://explorer.execution.mainnet.lukso.network"
     }
-  ],
-  "infoURL": "https://lukso.network",
-  "shortName": "lukso",
-  "chainId": 42,
-  "networkId": 42,
-  "features": [
-    {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
-    }
-  ],
-  "redFlags": [
-    "reusedChainId"
-  ],
-  "tvl": 0
+  ]
 }

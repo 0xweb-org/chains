@@ -1,28 +1,22 @@
 {
-  "name": "Energy Web Chain",
-  "chain": "Energy Web Chain",
-  "rpc": [
-    "https://rpc.energyweb.org",
-    "wss://rpc.energyweb.org/ws"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Energy Web Token",
-    "symbol": "EWT",
-    "decimals": 18
-  },
-  "infoURL": "https://energyweb.org",
-  "shortName": "ewt",
   "chainId": 246,
-  "networkId": 246,
-  "slip44": 246,
+  "icon": "./chain/246/logo.png",
+  "www": "https://energyweb.org",
+  "name": "Energy Web Chain",
+  "platform": "ewt",
+  "chainToken": "EWT",
+  "endpoints": [
+    {
+      "url": "https://rpc.energyweb.org"
+    },
+    {
+      "url": "wss://rpc.energyweb.org/ws"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://explorer.energyweb.org",
-      "standard": "none"
+      "url": "https://explorer.energyweb.org"
     }
-  ],
-  "icon": "./chain/246/logo.png",
-  "tvl": 145472
+  ]
 }

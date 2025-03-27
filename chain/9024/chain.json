@@ -1,9 +1,7 @@
 {
   "name": "Nexa Testnet Block",
   "chain": "Nexa Testnet",
-  "rpc": [
-    "https://rpc-testnet-nodes.nexablockscan.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://testnet.nexablockscan.io/faucet"
   ],

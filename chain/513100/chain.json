@@ -1,26 +1,18 @@
 {
-  "name": "EthereumFair",
   "chainId": 513100,
-  "networkId": 513100,
-  "shortName": "ethf",
-  "chain": "ETHF",
-  "nativeCurrency": {
-    "name": "EthereumFair",
-    "symbol": "ETHF",
-    "decimals": 18
-  },
-  "rpc": [
-    "https://rpc.etherfair.org"
+  "www": "https://etherfair.org/",
+  "name": "EthereumFair",
+  "platform": "ethf",
+  "chainToken": "ETHF",
+  "endpoints": [
+    {
+      "url": "https://rpc.etherfair.org"
+    }
   ],
-  "faucets": [],
   "explorers": [
     {
       "name": "EthereumFair",
-      "url": "https://www.oklink.com/ethf",
-      "standard": "EIP3091"
+      "url": "https://www.oklink.com/ethf"
     }
-  ],
-  "infoURL": "https://etherfair.org/",
-  "icon": null,
-  "tvl": 0
+  ]
 }

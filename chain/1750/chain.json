@@ -1,27 +1,19 @@
 {
-  "name": "Metal L2",
-  "chain": "Metal L2",
-  "rpc": [
-    "https://rpc.metall2.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ETH",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://metall2.com",
-  "shortName": "metall2",
   "chainId": 1750,
-  "networkId": 1750,
   "icon": "./chain/1750/logo.png",
+  "www": "https://metall2.com",
+  "name": "Metal L2",
+  "platform": "metall2",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.metall2.com"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://explorer.metall2.com",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://explorer.metall2.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

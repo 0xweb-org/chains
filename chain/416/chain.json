@@ -2,9 +2,7 @@
   "name": "SX Network Mainnet",
   "chain": "SX",
   "icon": "./chain/416/logo.png",
-  "rpc": [
-    "https://rpc.sx.technology"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "SX Network",

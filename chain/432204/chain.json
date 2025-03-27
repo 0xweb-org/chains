@@ -2,9 +2,7 @@
   "name": "Dexalot Subnet",
   "chain": "DEXALOT",
   "icon": "./chain/432204/logo.png",
-  "rpc": [
-    "https://subnets.avax.network/dexalot/mainnet/rpc"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Dexalot",
@@ -22,5 +20,5 @@
       "standard": "EIP3091"
     }
   ],
-  "tvl": 5626997
+  "tvl": 5513400
 }

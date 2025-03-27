@@ -2,9 +2,7 @@
   "name": "Algol",
   "chain": "algol",
   "status": "deprecated",
-  "rpc": [
-    "wss://fullnode.algol.cntrfg.com"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"
@@ -23,6 +21,5 @@
   "shortName": "algl",
   "chainId": 2089,
   "networkId": 2089,
-  "icon": null,
   "tvl": 0
 }

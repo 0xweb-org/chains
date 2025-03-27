@@ -1,32 +1,28 @@
 {
-  "name": "edeXa Testnet",
-  "chain": "edeXa",
-  "rpc": [
-    "https://testnet.edexa.network/rpc",
-    "wss://testnet.edexa.network/wss",
-    "https://testnet.edexa.com/rpc",
-    "wss://testnet.edexa.com/wss"
-  ],
-  "faucets": [
-    "https://faucet.edexa.com/"
-  ],
-  "nativeCurrency": {
-    "name": "edeXa",
-    "symbol": "tEDX",
-    "decimals": 18
-  },
-  "infoURL": "https://edexa.network/",
-  "shortName": "edxt",
   "chainId": 1995,
-  "networkId": 1995,
-  "slip44": 1,
   "icon": "./chain/1995/logo.png",
+  "www": "https://edexa.network/",
+  "name": "edeXa Testnet",
+  "platform": "edxt",
+  "chainToken": "tEDX",
+  "endpoints": [
+    {
+      "url": "https://testnet.edexa.network/rpc"
+    },
+    {
+      "url": "wss://testnet.edexa.network/wss"
+    },
+    {
+      "url": "https://testnet.edexa.com/rpc"
+    },
+    {
+      "url": "wss://testnet.edexa.com/wss"
+    }
+  ],
   "explorers": [
     {
       "name": "edexa-testnet-explorer",
-      "url": "https://explorer.testnet.edexa.network",
-      "standard": "EIP3091"
+      "url": "https://explorer.testnet.edexa.network"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,11 +1,13 @@
 {
   "name": "Eternal Mainnet",
   "chain": "ETE",
-  "icon": null,
-  "rpc": [
-    "https://mainnet.eternalcoin.io/v1",
-    "ws://mainnet.eternalcoin.io/v1/ws"
-  ],
+  "icon": {
+    "url": "ipfs://bafybeibexfskndvhn5xtrcmpjoifp2ufnzgwiwbfrjcxat55alergskkve",
+    "width": 122,
+    "height": 133,
+    "format": "svg"
+  },
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"

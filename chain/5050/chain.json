@@ -1,41 +1,19 @@
 {
+  "chainId": 5050,
+  "icon": "./chain/5050/logo.png",
+  "www": "https://www.skatechain.org/",
   "name": "Skate Mainnet",
-  "chain": "ETH",
-  "rpc": [
-    "https://rpc.skatechain.org/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "skate",
+  "chainToken": "ETH",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://rpc.skatechain.org/"
     }
   ],
-  "infoURL": "https://www.skatechain.org/",
-  "shortName": "skate",
-  "chainId": 5050,
-  "networkId": 5050,
-  "icon": "./chain/5050/logo.png",
   "explorers": [
     {
       "name": "Skate Explorer",
-      "url": "https://scan.skatechain.org",
-      "standard": "EIP3091"
+      "url": "https://scan.skatechain.org"
     }
-  ],
-  "status": "active",
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": ""
-      }
-    ]
-  },
-  "tvl": 0
+  ]
 }

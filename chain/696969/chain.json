@@ -1,9 +1,7 @@
 {
   "name": "Galadriel Devnet",
   "chain": "Galadriel",
-  "rpc": [
-    "https://devnet.galadriel.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://docs.galadriel.com/faucet"
   ],
@@ -23,6 +21,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

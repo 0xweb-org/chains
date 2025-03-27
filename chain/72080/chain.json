@@ -1,22 +1,14 @@
 {
-  "name": "Nexera Testnet",
-  "chain": "Nexera",
-  "icon": "./chain/72080/logo.png",
   "chainId": 72080,
-  "networkId": 72080,
-  "infoURL": "https://testnet.nexera.network",
-  "shortName": "nxra-testnet",
-  "rpc": [
-    "https://rpc.testnet.nexera.network"
+  "icon": "./chain/72080/logo.png",
+  "www": "https://testnet.nexera.network",
+  "name": "Nexera Testnet",
+  "platform": "nxra-testnet",
+  "chainToken": "tNXRA",
+  "endpoints": [
+    {
+      "url": "https://rpc.testnet.nexera.network"
+    }
   ],
-  "faucets": [
-    "https://faucet.nexera.network"
-  ],
-  "nativeCurrency": {
-    "name": "tNXRA",
-    "symbol": "tNXRA",
-    "decimals": 18
-  },
-  "explorers": [],
-  "tvl": 0
+  "explorers": []
 }

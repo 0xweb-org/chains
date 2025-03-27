@@ -1,9 +1,7 @@
 {
   "name": "Sepolia PGN (Public Goods Network)",
   "chain": "ETH",
-  "rpc": [
-    "https://sepolia.publicgoods.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Sepolia Ether",
@@ -22,7 +20,12 @@
   "shortName": "sepPGN",
   "chainId": 58008,
   "networkId": 58008,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmUVJ7MLCEAfq3pHVPFLscqRMiyAY5biVgTkeDQCmAhHNS",
+    "width": 574,
+    "height": 574,
+    "format": "svg"
+  },
   "explorers": [
     {
       "name": "blockscout",

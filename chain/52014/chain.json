@@ -1,35 +1,19 @@
 {
+  "chainId": 52014,
+  "icon": "./chain/52014/logo.png",
+  "www": "https://electroneum.com",
   "name": "Electroneum Mainnet",
-  "chain": "Electroneum",
-  "rpc": [
-    "https://rpc.electroneum.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Electroneum",
-    "symbol": "ETN",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "etn",
+  "chainToken": "ETN",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://rpc.electroneum.com"
     }
   ],
-  "infoURL": "https://electroneum.com",
-  "shortName": "etn-mainnet",
-  "chainId": 52014,
-  "networkId": 52014,
-  "icon": "./chain/52014/logo.png",
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://blockexplorer.electroneum.com",
-      "icon": "electroneum",
-      "standard": "EIP3091"
+      "url": "https://blockexplorer.electroneum.com"
     }
-  ],
-  "tvl": 72102
+  ]
 }

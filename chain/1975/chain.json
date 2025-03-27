@@ -1,29 +1,21 @@
 {
-  "name": "ONUS Chain Mainnet",
-  "title": "ONUS Chain Mainnet",
-  "chain": "onus",
-  "rpc": [
-    "https://rpc.onuschain.io",
-    "wss://ws.onuschain.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ONUS",
-    "symbol": "ONUS",
-    "decimals": 18
-  },
-  "infoURL": "https://onuschain.io",
-  "shortName": "onus-mainnet",
   "chainId": 1975,
-  "networkId": 1975,
+  "www": "https://onuschain.io",
+  "name": "ONUS Chain Mainnet",
+  "platform": "onus",
+  "chainToken": "ONUS",
+  "endpoints": [
+    {
+      "url": "https://rpc.onuschain.io"
+    },
+    {
+      "url": "wss://ws.onuschain.io"
+    }
+  ],
   "explorers": [
     {
       "name": "Onus explorer mainnet",
-      "url": "https://explorer.onuschain.io",
-      "icon": "onus",
-      "standard": "EIP3091"
+      "url": "https://explorer.onuschain.io"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

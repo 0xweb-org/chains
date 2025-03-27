@@ -1,9 +1,7 @@
 {
   "name": "LocaChain Mainnet",
   "chain": "LocaChain",
-  "rpc": [
-    "https://tgrpntwm.locachain.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "features": [
     {

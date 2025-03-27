@@ -1,27 +1,19 @@
 {
-  "name": "PointPay Mainnet",
-  "chain": "pointpay",
-  "rpc": [
-    "https://rpc-mainnet.pointpay.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "PointPay",
-    "symbol": "PXP",
-    "decimals": 18
-  },
-  "infoURL": "https://pointpay.io",
-  "shortName": "PP",
   "chainId": 5511,
-  "networkId": 5511,
   "icon": "./chain/5511/logo.png",
+  "www": "https://pointpay.io",
+  "name": "PointPay Mainnet",
+  "platform": "PP",
+  "chainToken": "PXP",
+  "endpoints": [
+    {
+      "url": "https://rpc-mainnet.pointpay.io"
+    }
+  ],
   "explorers": [
     {
       "name": "PointPay Mainnet Explorer",
-      "url": "https://explorer.pointpay.io",
-      "icon": "pointpay",
-      "standard": "EIP3091"
+      "url": "https://explorer.pointpay.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

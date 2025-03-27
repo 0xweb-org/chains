@@ -1,9 +1,7 @@
 {
   "name": "EtherLite Chain",
   "chain": "ETL",
-  "rpc": [
-    "https://rpc.etherlite.org"
-  ],
+  "rpc": [],
   "faucets": [
     "https://etherlite.org/faucets"
   ],
@@ -16,6 +14,11 @@
   "shortName": "ETL",
   "chainId": 111,
   "networkId": 111,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmbNAai1KnBnw4SPQKgrf6vBddifPCQTg2PePry1bmmZYy",
+    "width": 88,
+    "height": 88,
+    "format": "png"
+  },
   "tvl": 0
 }

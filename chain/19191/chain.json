@@ -1,41 +1,22 @@
 {
+  "chainId": 19191,
+  "www": "https://www.blockxnet.com/",
   "name": "BlockX Mainnet",
-  "chain": "blockx",
-  "rpc": [
-    "https://web3.blockxnet.com"
-  ],
-  "faucets": [
-    "https://ping.blockxnet.com/blockx/faucet"
-  ],
-  "nativeCurrency": {
-    "name": "BCX",
-    "symbol": "BCX",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "bcx",
+  "chainToken": "BCX",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://web3.blockxnet.com"
     }
   ],
-  "infoURL": "https://www.blockxnet.com/",
-  "shortName": "bcx",
-  "chainId": 19191,
-  "networkId": 19191,
   "explorers": [
     {
       "name": "BlockX EVM Explorer (Blockscout)",
-      "url": "https://explorer.blockxnet.com",
-      "standard": "EIP3091"
+      "url": "https://explorer.blockxnet.com"
     },
     {
       "name": "BlockX Cosmos Explorer (Ping)",
-      "url": "https://ping.blockxnet.com/blockx",
-      "standard": "none"
+      "url": "https://ping.blockxnet.com/blockx"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

@@ -1,9 +1,7 @@
 {
   "name": "VChain Mainnet",
   "chain": "VChain",
-  "rpc": [
-    "https://bc.vcex.xyz"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "VNDT",
@@ -21,6 +19,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

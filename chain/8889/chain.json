@@ -1,9 +1,7 @@
 {
   "name": "Vyvo Smart Chain",
   "chain": "VSC",
-  "rpc": [
-    "https://vsc-dataseed.vyvo.org:8889"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "VSC",
@@ -14,6 +12,5 @@
   "shortName": "vsc",
   "chainId": 8889,
   "networkId": 8889,
-  "icon": null,
   "tvl": 0
 }

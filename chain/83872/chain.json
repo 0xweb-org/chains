@@ -1,26 +1,19 @@
 {
-  "name": "ZEDXION",
-  "chain": "ZEDXION",
-  "icon": "./chain/83872/logo.png",
-  "rpc": [
-    "https://mainnet-rpc.zedscan.net"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Zedxion",
-    "symbol": "ZEDX",
-    "decimals": 9
-  },
-  "infoURL": "https://docs.zedscan.net",
-  "shortName": "ZEDX",
   "chainId": 83872,
-  "networkId": 83872,
+  "icon": "./chain/83872/logo.png",
+  "www": "https://docs.zedscan.net",
+  "name": "ZEDXION",
+  "platform": "ZEDX",
+  "chainToken": "ZEDX",
+  "endpoints": [
+    {
+      "url": "https://mainnet-rpc.zedscan.net"
+    }
+  ],
   "explorers": [
     {
       "name": "Zedscan",
-      "url": "http://zedscan.net",
-      "standard": "EIP3091"
+      "url": "http://zedscan.net"
     }
-  ],
-  "tvl": 0
+  ]
 }

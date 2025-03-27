@@ -1,9 +1,7 @@
 {
   "name": "Gather Testnet Network",
   "chain": "GTH",
-  "rpc": [
-    "https://testnet.gather.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Gather",
@@ -15,7 +13,12 @@
   "chainId": 356256156,
   "networkId": 356256156,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmTYR8CeFiNbJ1zJHnE3DK2wEN18r2y2vqSKUcLweUT2Gz",
+    "width": 1080,
+    "height": 1080,
+    "format": "svg"
+  },
   "explorers": [
     {
       "name": "Blockscout",

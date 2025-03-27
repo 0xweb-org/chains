@@ -1,9 +1,7 @@
 {
   "name": "Catalyst",
   "chain": "CFG",
-  "rpc": [
-    "wss://fullnode.catalyst.cntrfg.com"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"
@@ -22,6 +20,5 @@
   "shortName": "ncfg",
   "chainId": 2032,
   "networkId": 2032,
-  "icon": null,
   "tvl": 0
 }

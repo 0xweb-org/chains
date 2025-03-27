@@ -1,10 +1,7 @@
 {
   "name": "Fluence Testnet",
   "chain": "Fluence Testnet",
-  "rpc": [
-    "https://rpc.testnet.fluence.dev/",
-    "wss://ws.testnet.fluence.dev/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "tFLT",
@@ -26,6 +23,5 @@
     "type": "L2",
     "chain": "eip155-11155111"
   },
-  "icon": null,
   "tvl": 0
 }

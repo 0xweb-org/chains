@@ -1,9 +1,7 @@
 {
   "name": "Cosvm Mainnet",
   "chain": "CVM",
-  "rpc": [
-    "https://rpc.cosvm.net"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Cosvm",
@@ -22,6 +20,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

@@ -1,42 +1,28 @@
 {
-  "name": "Centrifuge",
-  "chain": "CFG",
+  "chainId": 2031,
   "icon": "./chain/2031/logo.png",
-  "rpc": [
-    "https://fullnode.centrifuge.io",
-    "wss://fullnode.centrifuge.io",
-    "https://centrifuge-parachain.api.onfinality.io/public",
-    "wss://centrifuge-parachain.api.onfinality.io/public-ws",
-    "https://centrifuge-rpc.dwellir.com",
-    "wss://centrifuge-rpc.dwellir.com",
-    "https://rpc-centrifuge.luckyfriday.io",
-    "wss://rpc-centrifuge.luckyfriday.io"
-  ],
-  "features": [
+  "www": "https://centrifuge.io",
+  "name": "Centrifuge",
+  "platform": "cfg",
+  "chainToken": "CFG",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://centrifuge-rpc.dwellir.com"
     },
     {
-      "name": "EIP1559"
+      "url": "wss://centrifuge-rpc.dwellir.com"
+    },
+    {
+      "url": "https://rpc-centrifuge.luckyfriday.io"
+    },
+    {
+      "url": "wss://rpc-centrifuge.luckyfriday.io"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Centrifuge",
-    "symbol": "CFG",
-    "decimals": 18
-  },
-  "infoURL": "https://centrifuge.io",
-  "shortName": "cfg",
-  "chainId": 2031,
-  "networkId": 2031,
   "explorers": [
     {
       "name": "subscan",
-      "url": "https://centrifuge.subscan.io",
-      "standard": "EIP3091",
-      "icon": "subscan"
+      "url": "https://centrifuge.subscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

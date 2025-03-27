@@ -1,20 +1,13 @@
 {
-  "name": "Harmony Devnet Shard 0",
-  "chain": "Harmony",
-  "rpc": [
-    "https://api.s0.ps.hmny.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ONE",
-    "symbol": "ONE",
-    "decimals": 18
-  },
-  "infoURL": "https://www.harmony.one/",
-  "shortName": "hmy-ps-s0",
   "chainId": 1666900000,
-  "networkId": 1666900000,
-  "explorers": [],
-  "icon": null,
-  "tvl": 0
+  "www": "https://www.harmony.one/",
+  "name": "Harmony Devnet Shard 0",
+  "platform": "hmy-ps-s0",
+  "chainToken": "ONE",
+  "endpoints": [
+    {
+      "url": "https://api.s0.ps.hmny.io"
+    }
+  ],
+  "explorers": []
 }

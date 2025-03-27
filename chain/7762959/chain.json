@@ -1,9 +1,7 @@
 {
   "name": "Musicoin",
   "chain": "MUSIC",
-  "rpc": [
-    "https://mewapi.musicoin.tw"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Musicoin",
@@ -15,6 +13,5 @@
   "chainId": 7762959,
   "networkId": 7762959,
   "slip44": 184,
-  "icon": null,
   "tvl": 0
 }

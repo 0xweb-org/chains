@@ -1,26 +1,19 @@
 {
-  "name": "Sanko",
-  "chain": "Sanko",
-  "rpc": [
-    "https://mainnet.sanko.xyz"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "DMT",
-    "symbol": "DMT",
-    "decimals": 18
-  },
-  "infoURL": "https://sanko.xyz/",
-  "shortName": "Sanko",
   "chainId": 1996,
-  "networkId": 1996,
   "icon": "./chain/1996/logo.png",
+  "www": "https://sanko.xyz/",
+  "name": "Sanko",
+  "platform": "Sanko",
+  "chainToken": "DMT",
+  "endpoints": [
+    {
+      "url": "https://mainnet.sanko.xyz"
+    }
+  ],
   "explorers": [
     {
       "name": "Sanko Explorer",
-      "url": "https://explorer.sanko.xyz",
-      "standard": "EIP3091"
+      "url": "https://explorer.sanko.xyz"
     }
-  ],
-  "tvl": 137256
+  ]
 }

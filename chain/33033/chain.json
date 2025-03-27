@@ -1,26 +1,19 @@
 {
-  "name": "Entangle Mainnet",
-  "chain": "NGL",
-  "icon": "./chain/33033/logo.png",
-  "rpc": [
-    "https://json-rpc.entangle.fi"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Entangle",
-    "symbol": "NGL",
-    "decimals": 18
-  },
-  "infoURL": "https://www.entangle.fi",
-  "shortName": "ngl",
   "chainId": 33033,
-  "networkId": 33033,
+  "icon": "./chain/33033/logo.png",
+  "www": "https://www.entangle.fi",
+  "name": "Entangle Mainnet",
+  "platform": "ngl",
+  "chainToken": "NGL",
+  "endpoints": [
+    {
+      "url": "https://json-rpc.entangle.fi"
+    }
+  ],
   "explorers": [
     {
       "name": "Entangle Mainnet Explorer",
-      "url": "https://explorer.entangle.fi",
-      "standard": "none"
+      "url": "https://explorer.entangle.fi"
     }
-  ],
-  "tvl": 0
+  ]
 }

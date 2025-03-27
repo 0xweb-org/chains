@@ -1,9 +1,7 @@
 {
   "name": "Emeraldz",
   "chain": "EMED",
-  "rpc": [
-    "https://public.0xrpc.com/789789"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "EMERALDZ",
@@ -29,6 +27,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

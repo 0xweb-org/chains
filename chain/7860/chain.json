@@ -1,30 +1,22 @@
 {
-  "name": "MaalChain Testnet",
-  "chain": "MaalChain Testnet",
-  "icon": "./chain/7860/logo.png",
-  "rpc": [
-    "https://node1.maalscan.io/",
-    "https://rpc-bntest.maalscan.io/"
-  ],
-  "faucets": [
-    "https://faucet-testnet.maalscan.io/"
-  ],
-  "nativeCurrency": {
-    "name": "MAAL",
-    "symbol": "MAAL",
-    "decimals": 18
-  },
-  "infoURL": "https://www.maalchain.com/",
-  "shortName": "maal-test",
   "chainId": 7860,
-  "networkId": 7860,
-  "slip44": 1,
+  "icon": "./chain/7860/logo.png",
+  "www": "https://www.maalchain.com/",
+  "name": "MaalChain Testnet",
+  "platform": "maal-test",
+  "chainToken": "MAAL",
+  "endpoints": [
+    {
+      "url": "https://node1.maalscan.io/"
+    },
+    {
+      "url": "https://rpc-bntest.maalscan.io/"
+    }
+  ],
   "explorers": [
     {
       "name": "maalscan testnet",
-      "url": "https://testnet.maalscan.io",
-      "standard": "EIP3091"
+      "url": "https://testnet.maalscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,26 +1,18 @@
 {
-  "name": "Hammer Chain Mainnet",
-  "chain": "HammerChain",
-  "rpc": [
-    "https://www.hammerchain.io/rpc"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "GOLDT",
-    "symbol": "GOLDT",
-    "decimals": 18
-  },
-  "infoURL": "https://www.hammerchain.io",
-  "shortName": "GOLDT",
   "chainId": 25888,
-  "networkId": 25888,
+  "www": "https://www.hammerchain.io",
+  "name": "Hammer Chain Mainnet",
+  "platform": "GOLDT",
+  "chainToken": "GOLDT",
+  "endpoints": [
+    {
+      "url": "https://www.hammerchain.io/rpc"
+    }
+  ],
   "explorers": [
     {
       "name": "Hammer Chain Explorer",
-      "url": "https://www.hammerchain.io",
-      "standard": "none"
+      "url": "https://www.hammerchain.io"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

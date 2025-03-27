@@ -2,9 +2,7 @@
   "name": "PLYR TAU Testnet",
   "chain": "PLYR",
   "icon": "./chain/62831/logo.png",
-  "rpc": [
-    "https://subnets.avax.network/plyr/testnet/rpc"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.avax.network/?subnet=plyr"
   ],

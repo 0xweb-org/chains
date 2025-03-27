@@ -2,9 +2,7 @@
   "name": "iExec Sidechain",
   "chain": "Bellecour",
   "icon": "./chain/134/logo.png",
-  "rpc": [
-    "https://bellecour.iex.ec"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "xRLC",

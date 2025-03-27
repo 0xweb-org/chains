@@ -1,27 +1,22 @@
 {
-  "name": "Automata Mainnet",
-  "chain": "Automata Mainnet",
-  "rpc": [
-    "https://rpc.ata.network",
-    "https://automata-mainnet.alt.technology/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ATA",
-    "symbol": "ATA",
-    "decimals": 18
-  },
-  "infoURL": "https://ata.network",
-  "shortName": "automatamainnet",
   "chainId": 65536,
-  "networkId": 65536,
   "icon": "./chain/65536/logo.png",
+  "www": "https://ata.network",
+  "name": "Automata Mainnet",
+  "platform": "automata",
+  "chainToken": "ATA",
+  "endpoints": [
+    {
+      "url": "https://rpc.ata.network"
+    },
+    {
+      "url": "https://automata-mainnet.alt.technology/"
+    }
+  ],
   "explorers": [
     {
       "name": "Automata Explorer",
-      "url": "https://explorer.ata.network",
-      "standard": "EIP3091"
+      "url": "https://explorer.ata.network"
     }
-  ],
-  "tvl": 0
+  ]
 }

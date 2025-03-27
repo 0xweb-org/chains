@@ -1,31 +1,18 @@
 {
+  "chainId": 1578,
+  "www": "https://www.starworksglobal.com",
   "name": "StarCHAIN",
-  "chain": "StarCHAIN",
-  "rpc": [
-    "https://rpc.starworksglobal.com"
-  ],
-  "features": [
+  "platform": "starchain",
+  "chainToken": "STARX",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://rpc.starworksglobal.com"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "STARX",
-    "symbol": "STARX",
-    "decimals": 18
-  },
-  "infoURL": "https://www.starworksglobal.com",
-  "shortName": "starchain",
-  "chainId": 1578,
-  "networkId": 1578,
   "explorers": [
     {
       "name": "StarCHAIN Explorer",
-      "url": "https://starchainscan.io",
-      "standard": "EIP3091"
+      "url": "https://starchainscan.io"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

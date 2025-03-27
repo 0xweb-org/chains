@@ -1,27 +1,22 @@
 {
-  "name": "ALIENX Hal Testnet",
-  "chain": "ALIENX Hal",
-  "rpc": [
-    "https://hal-rpc.alienxchain.io/http",
-    "https://hal.rpc.caldera.xyz/http"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ethereum",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://alienxchain.io/home",
-  "shortName": "ALIENXHal",
   "chainId": 10241025,
-  "networkId": 10241025,
   "icon": "./chain/10241025/logo.png",
+  "www": "https://alienxchain.io/home",
+  "name": "ALIENX Hal Testnet",
+  "platform": "ALIENXHal",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://hal-rpc.alienxchain.io/http"
+    },
+    {
+      "url": "https://hal.rpc.caldera.xyz/http"
+    }
+  ],
   "explorers": [
     {
       "name": "Hal Explorer",
-      "url": "https://hal-explorer.alienxchain.io",
-      "standard": "EIP3091"
+      "url": "https://hal-explorer.alienxchain.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

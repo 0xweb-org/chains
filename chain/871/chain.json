@@ -1,9 +1,7 @@
 {
   "name": "Electra Test Network",
   "chain": "Electra",
-  "rpc": [
-    "https://rpc.testnet.electranetwork.tech"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Test Electra",
@@ -21,6 +19,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

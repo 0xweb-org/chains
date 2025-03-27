@@ -1,27 +1,19 @@
 {
-  "name": "AirDAO Testnet",
-  "chain": "ambnet-test",
-  "icon": "./chain/22040/logo.png",
-  "rpc": [
-    "https://network.ambrosus-test.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Amber",
-    "symbol": "AMB",
-    "decimals": 18
-  },
-  "infoURL": "https://testnet.airdao.io",
-  "shortName": "airdao-test",
   "chainId": 22040,
-  "networkId": 22040,
-  "slip44": 1,
+  "icon": "./chain/22040/logo.png",
+  "www": "https://testnet.airdao.io",
+  "name": "AirDAO Testnet",
+  "platform": "airdao-test",
+  "chainToken": "AMB",
+  "endpoints": [
+    {
+      "url": "https://network.ambrosus-test.io"
+    }
+  ],
   "explorers": [
     {
       "name": "AirDAO Network Explorer",
-      "url": "https://testnet.airdao.io/explorer",
-      "standard": "none"
+      "url": "https://testnet.airdao.io/explorer"
     }
-  ],
-  "tvl": 0
+  ]
 }

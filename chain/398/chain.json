@@ -1,26 +1,19 @@
 {
-  "name": "NEAR Protocol Testnet",
-  "chain": "NEAR",
-  "rpc": [
-    "https://eth-rpc.testnet.near.org"
-  ],
-  "icon": "./chain/398/logo.png",
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "NEAR",
-    "symbol": "NEAR",
-    "decimals": 18
-  },
-  "infoURL": "https://near.org",
-  "shortName": "near-testnet",
   "chainId": 398,
-  "networkId": 398,
+  "icon": "./chain/398/logo.png",
+  "www": "https://near.org",
+  "name": "NEAR Protocol Testnet",
+  "platform": "near-testnet",
+  "chainToken": "NEAR",
+  "endpoints": [
+    {
+      "url": "https://eth-rpc.testnet.near.org"
+    }
+  ],
   "explorers": [
     {
       "name": "NEAR Explorer",
-      "url": "https://eth-explorer-testnet.near.org",
-      "standard": "EIP3091"
+      "url": "https://eth-explorer-testnet.near.org"
     }
-  ],
-  "tvl": 0
+  ]
 }

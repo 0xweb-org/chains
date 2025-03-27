@@ -12,6 +12,7 @@ export interface IChainInformation {
 
     "name": string
     "chain": string
+    "status": "deprecated" | "active" | "incubating"
     "icon": string | IImageInformation | null
     "rpc": string[],
     "features": { name: 'EIP1559' | string }[]
@@ -34,6 +35,7 @@ export interface IChainInformation {
         "name": string | "etherscan",
         "url": string | "https://etherscan.io",
         "standard": string | "EIP3091"
+        api?: { url, key? }
     }[]
 
     tvl?: number

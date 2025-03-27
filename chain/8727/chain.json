@@ -1,26 +1,19 @@
 {
-  "name": "Storagechain Testnet",
-  "chain": "Storagechain",
-  "rpc": [
-    "https://testnet-validator.storagechain.io"
-  ],
-  "icon": "./chain/8727/logo.png",
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Storagechain",
-    "symbol": "STOR",
-    "decimals": 18
-  },
-  "shortName": "tstor",
-  "infoURL": "https://storagechain.io/about-us",
   "chainId": 8727,
-  "networkId": 8727,
+  "icon": "./chain/8727/logo.png",
+  "www": "https://storagechain.io/about-us",
+  "name": "Storagechain Testnet",
+  "platform": "tstor",
+  "chainToken": "STOR",
+  "endpoints": [
+    {
+      "url": "https://testnet-validator.storagechain.io"
+    }
+  ],
   "explorers": [
     {
       "name": "Storscan",
-      "url": "https://explorer-storagechain.invo.zone/?network=StorageChain%20Testnet",
-      "standard": "none"
+      "url": "https://explorer-storagechain.invo.zone/?network=StorageChain%20Testnet"
     }
-  ],
-  "tvl": 0
+  ]
 }

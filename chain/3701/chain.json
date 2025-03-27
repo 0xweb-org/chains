@@ -1,9 +1,7 @@
 {
   "name": "Xpla Testnet",
   "chain": "XPLATest",
-  "rpc": [
-    "https://dimension-rpc.xpla.dev"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.xpla.io"
   ],

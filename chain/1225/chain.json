@@ -1,28 +1,22 @@
 {
-  "name": "Hybrid Testnet",
-  "chain": "HYB",
-  "icon": "./chain/1225/logo.png",
-  "rpc": [
-    "https://hybrid-testnet.rpc.caldera.xyz/http",
-    "wss://hybrid-testnet.rpc.caldera.xyz/ws"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Hybrid",
-    "symbol": "HYB",
-    "decimals": 18
-  },
-  "infoURL": "https://buildonhybrid.com",
-  "shortName": "hyb",
   "chainId": 1225,
-  "networkId": 1225,
+  "icon": "./chain/1225/logo.png",
+  "www": "https://buildonhybrid.com",
+  "name": "Hybrid Testnet",
+  "platform": "hyb",
+  "chainToken": "HYB",
+  "endpoints": [
+    {
+      "url": "https://hybrid-testnet.rpc.caldera.xyz/http"
+    },
+    {
+      "url": "wss://hybrid-testnet.rpc.caldera.xyz/ws"
+    }
+  ],
   "explorers": [
     {
       "name": "Hybrid Testnet",
-      "url": "https://explorer.buildonhybrid.com",
-      "standard": "EIP3091"
+      "url": "https://explorer.buildonhybrid.com"
     }
-  ],
-  "status": "active",
-  "tvl": 0
+  ]
 }

@@ -1,9 +1,7 @@
 {
   "name": "Odyssey Chain Mainnet",
   "chain": "DIONE",
-  "rpc": [
-    "https://node.dioneprotocol.com/ext/bc/D/rpc"
-  ],
+  "rpc": [],
   "faucets": [],
   "features": [
     {
@@ -27,5 +25,5 @@
       "standard": "EIP3091"
     }
   ],
-  "tvl": 1388506
+  "tvl": 1447231
 }

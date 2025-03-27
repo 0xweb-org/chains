@@ -1,12 +1,7 @@
 {
   "name": "Smart Bitcoin Cash",
   "chain": "smartBCH",
-  "rpc": [
-    "https://smartbch.greyh.at",
-    "https://rpc-mainnet.smartbch.org",
-    "https://smartbch.fountainhead.cash/mainnet",
-    "https://smartbch.devops.cash/mainnet"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Bitcoin Cash",
@@ -18,5 +13,5 @@
   "chainId": 10000,
   "networkId": 10000,
   "icon": "./chain/10000/logo.png",
-  "tvl": 941041
+  "tvl": 979763
 }

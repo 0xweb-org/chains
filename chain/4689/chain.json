@@ -1,26 +1,19 @@
 {
-  "name": "IoTeX Network Mainnet",
-  "chain": "iotex.io",
-  "rpc": [
-    "https://babel-api.mainnet.iotex.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "IoTeX",
-    "symbol": "IOTX",
-    "decimals": 18
-  },
-  "infoURL": "https://iotex.io",
-  "shortName": "iotex-mainnet",
   "chainId": 4689,
-  "networkId": 4689,
+  "icon": "./chain/4689/logo.png",
+  "www": "https://iotex.io",
+  "name": "IoTeX Network Mainnet",
+  "platform": "iotex",
+  "chainToken": "IOTX",
+  "endpoints": [
+    {
+      "url": "https://babel-api.mainnet.iotex.io"
+    }
+  ],
   "explorers": [
     {
       "name": "iotexscan",
-      "url": "https://iotexscan.io",
-      "standard": "EIP3091"
+      "url": "https://iotexscan.io"
     }
-  ],
-  "icon": "./chain/4689/logo.png",
-  "tvl": 20570170
+  ]
 }

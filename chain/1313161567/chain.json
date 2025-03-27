@@ -1,26 +1,19 @@
 {
-  "name": "Turbo",
-  "chain": "NEAR",
-  "rpc": [
-    "https://rpc-0x4e45415f.aurora-cloud.dev"
-  ],
-  "icon": "./chain/1313161567/logo.png",
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Turbo",
-    "symbol": "TURBO",
-    "decimals": 18
-  },
-  "infoURL": "https://turbotoken.io",
-  "shortName": "turbo",
   "chainId": 1313161567,
-  "networkId": 1313161567,
+  "icon": "./chain/1313161567/logo.png",
+  "www": "https://turbotoken.io",
+  "name": "Turbo",
+  "platform": "turbo",
+  "chainToken": "TURBO",
+  "endpoints": [
+    {
+      "url": "https://rpc-0x4e45415f.aurora-cloud.dev"
+    }
+  ],
   "explorers": [
     {
       "name": "Turbo explorer",
-      "url": "https://explorer.turbo.aurora.dev",
-      "standard": "EIP3091"
+      "url": "https://explorer.turbo.aurora.dev"
     }
-  ],
-  "tvl": 0
+  ]
 }

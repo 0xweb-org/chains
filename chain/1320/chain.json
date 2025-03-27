@@ -2,9 +2,7 @@
   "name": "AIA Testnet",
   "chain": "AIA",
   "icon": "./chain/1320/logo.png",
-  "rpc": [
-    "https://aia-dataseed1-testnet.aiachain.org"
-  ],
+  "rpc": [],
   "faucets": [
     "https://aia-faucet-testnet.aiachain.org"
   ],

@@ -1,9 +1,7 @@
 {
   "name": "Hybrid Chain Network Testnet",
   "chain": "HYBRID",
-  "rpc": [
-    "https://rpc-testnet.hybridchain.ai/"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet-testnet.hybridchain.ai"
   ],
@@ -17,7 +15,12 @@
   "chainId": 2458,
   "networkId": 2458,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmQDNdhPvCrrijEKC3G9Px5if2CHgdxq7Q2Pg66cy9xwbF",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "Hybrid Chain Explorer Testnet",

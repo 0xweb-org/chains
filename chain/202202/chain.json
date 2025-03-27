@@ -1,9 +1,7 @@
 {
   "name": "Bethel Sydney",
   "chain": "Bethel",
-  "rpc": [
-    "https://rpc-sydney.bethel.network"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet-sydney.bethel.network"
   ],
@@ -31,6 +29,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

@@ -1,9 +1,7 @@
 {
   "name": "Oort Mainnet",
   "chain": "Oort Mainnet",
-  "rpc": [
-    "https://mainnet-rpc.oortech.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Oort",

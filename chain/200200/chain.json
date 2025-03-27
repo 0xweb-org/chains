@@ -2,9 +2,7 @@
   "name": "Zoo Mainnet",
   "chain": "Zoo",
   "icon": "./chain/200200/logo.png",
-  "rpc": [
-    "https://api.zoo.network"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.zoo-test.network"
   ],

@@ -1,9 +1,7 @@
 {
   "name": "Lyra Chain",
   "chain": "Lyra",
-  "rpc": [
-    "https://rpc.lyra.finance"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",

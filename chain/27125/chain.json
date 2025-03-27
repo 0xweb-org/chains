@@ -2,9 +2,7 @@
   "name": "XferChain Testnet",
   "chain": "XferChain Testnet",
   "icon": "./chain/27125/logo.png",
-  "rpc": [
-    "https://testnet-rpc.xferchain.org"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.xferchain.org"
   ],

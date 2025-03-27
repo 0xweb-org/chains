@@ -1,31 +1,19 @@
 {
-  "name": "UPTN",
-  "chain": "UPTN",
+  "chainId": 6119,
   "icon": "./chain/6119/logo.png",
-  "rpc": [
-    "https://node-api.uptn.io/v1/ext/rpc"
-  ],
-  "features": [
+  "www": "https://uptn.io",
+  "name": "UPTN",
+  "platform": "UPTN",
+  "chainToken": "UPTN",
+  "endpoints": [
     {
-      "name": "EIP1559"
+      "url": "https://node-api.uptn.io/v1/ext/rpc"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "UPTN",
-    "symbol": "UPTN",
-    "decimals": 18
-  },
-  "infoURL": "https://uptn.io",
-  "shortName": "UPTN",
-  "chainId": 6119,
-  "networkId": 6119,
   "explorers": [
     {
       "name": "UPTN Explorer",
-      "url": "https://explorer.uptn.io",
-      "standard": "EIP3091"
+      "url": "https://explorer.uptn.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,9 +1,7 @@
 {
   "name": "Subtensor EVM",
   "chain": "Bittensor",
-  "rpc": [
-    "https://lite.chain.opentensor.ai"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "TAO",

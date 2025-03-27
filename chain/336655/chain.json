@@ -1,9 +1,7 @@
 {
   "name": "UPchain Testnet",
   "chain": "UPchain",
-  "rpc": [
-    "https://rpc-testnet.uniport.network"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet-testnet.uniport.network"
   ],

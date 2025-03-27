@@ -1,26 +1,19 @@
 {
-  "name": "Doric Network",
-  "chain": "DRC",
-  "icon": "./chain/1717/logo.png",
-  "rpc": [
-    "https://mainnet.doric.network"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Doric Native Token",
-    "symbol": "DRC",
-    "decimals": 18
-  },
-  "infoURL": "https://doric.network",
-  "shortName": "DRC",
   "chainId": 1717,
-  "networkId": 1717,
+  "icon": "./chain/1717/logo.png",
+  "www": "https://doric.network",
+  "name": "Doric Network",
+  "platform": "DRC",
+  "chainToken": "DRC",
+  "endpoints": [
+    {
+      "url": "https://mainnet.doric.network"
+    }
+  ],
   "explorers": [
     {
       "name": "Doric Explorer",
-      "url": "https://explorer.doric.network",
-      "standard": "EIP3091"
+      "url": "https://explorer.doric.network"
     }
-  ],
-  "tvl": 0
+  ]
 }

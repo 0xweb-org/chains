@@ -1,9 +1,7 @@
 {
   "name": "Digit Soul Smart Chain",
   "chain": "DGS",
-  "rpc": [
-    "https://dsc-rpc.digitsoul.co.th"
-  ],
+  "rpc": [],
   "faucets": [],
   "icon": "./chain/6363/logo.png",
   "nativeCurrency": {

@@ -1,9 +1,7 @@
 {
   "name": "Electroneum Testnet",
   "chain": "Electroneum",
-  "rpc": [
-    "https://testnet-rpc.electroneum.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Electroneum",
@@ -23,7 +21,12 @@
   "chainId": 5201420,
   "networkId": 5201420,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmVgFqXA3kkCrVYGcWFF7Mhx8JUSe9vSCauNamuKWSvCym",
+    "width": 1000,
+    "height": 1000,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "blockscout",

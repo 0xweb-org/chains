@@ -1,27 +1,18 @@
 {
-  "name": "Bullions Smart Chain",
-  "chain": "Bullions",
-  "rpc": [
-    "https://rpc.bullionsx.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Bullions",
-    "symbol": "BLN",
-    "decimals": 18
-  },
-  "infoURL": "https://www.bullionsx.io",
-  "shortName": "bln",
   "chainId": 8732,
-  "networkId": 8732,
-  "slip44": 8732,
+  "www": "https://www.bullionsx.io",
+  "name": "Bullions Smart Chain",
+  "platform": "bln",
+  "chainToken": "BLN",
+  "endpoints": [
+    {
+      "url": "https://rpc.bullionsx.org"
+    }
+  ],
   "explorers": [
     {
       "name": "Bullionscan",
-      "url": "https://bullionscan.org",
-      "standard": "EIP3091"
+      "url": "https://bullionscan.org"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

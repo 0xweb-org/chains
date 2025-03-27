@@ -3,9 +3,7 @@
   "title": "OpenEX LONG Testnet",
   "chain": "OEX",
   "icon": "./chain/7798/logo.png",
-  "rpc": [
-    "https://long.rpc.openex.network/"
-  ],
+  "rpc": [],
   "faucets": [
     "https://long.hub.openex.network/faucet"
   ],

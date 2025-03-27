@@ -1,26 +1,19 @@
 {
-  "name": "Elastos Smart Chain",
-  "chain": "ETH",
-  "rpc": [
-    "https://api.elastos.io/eth"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Elastos",
-    "symbol": "ELA",
-    "decimals": 18
-  },
-  "infoURL": "https://www.elastos.org/",
-  "shortName": "esc",
   "chainId": 20,
-  "networkId": 20,
+  "icon": "./chain/20/logo.png",
+  "www": "https://www.elastos.org/",
+  "name": "Elastos Smart Chain",
+  "platform": "esc",
+  "chainToken": "ELA",
+  "endpoints": [
+    {
+      "url": "https://api.elastos.io/eth"
+    }
+  ],
   "explorers": [
     {
       "name": "elastos esc explorer",
-      "url": "https://esc.elastos.io",
-      "standard": "EIP3091"
+      "url": "https://esc.elastos.io"
     }
-  ],
-  "icon": "./chain/20/logo.png",
-  "tvl": 988080
+  ]
 }

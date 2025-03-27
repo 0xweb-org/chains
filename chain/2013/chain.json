@@ -1,9 +1,7 @@
 {
   "name": "Panarchy",
   "chain": "Panarchy",
-  "rpc": [
-    "https://polytopia.org:8545"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "GAS",

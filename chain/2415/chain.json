@@ -1,10 +1,7 @@
 {
   "name": "XODEX",
   "chain": "XODEX",
-  "rpc": [
-    "https://mainnet.xo-dex.com/rpc",
-    "https://xo-dex.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "XODEX Native Token",
@@ -15,7 +12,12 @@
   "shortName": "xodex",
   "chainId": 2415,
   "networkId": 10,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmXt49jPfHUmDF4n8TF7ks6txiPztx6qUHanWmHnCoEAhW",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "XODEX Explorer",

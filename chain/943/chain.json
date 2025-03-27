@@ -6,14 +6,7 @@
   "networkId": 943,
   "icon": "./chain/943/logo.png",
   "infoURL": "https://pulsechain.com",
-  "rpc": [
-    "https://rpc.v4.testnet.pulsechain.com",
-    "wss://rpc.v4.testnet.pulsechain.com",
-    "https://pulsechain-testnet-rpc.publicnode.com",
-    "wss://pulsechain-testnet-rpc.publicnode.com",
-    "https://rpc-testnet-pulsechain.g4mm4.io",
-    "wss://rpc-testnet-pulsechain.g4mm4.io"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"

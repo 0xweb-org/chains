@@ -1,19 +1,12 @@
 {
-  "name": "Tycooncoin",
-  "chain": "TYCON",
-  "rpc": [
-    "https://mainnet-rpc.tycoscan.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Tycooncoin",
-    "symbol": "TYCO",
-    "decimals": 18
-  },
-  "infoURL": "",
-  "shortName": "TYCON",
   "chainId": 3630,
-  "networkId": 3630,
-  "icon": null,
-  "tvl": 0
+  "www": "",
+  "name": "Tycooncoin",
+  "platform": "TYCON",
+  "chainToken": "TYCO",
+  "endpoints": [
+    {
+      "url": "https://mainnet-rpc.tycoscan.com"
+    }
+  ]
 }

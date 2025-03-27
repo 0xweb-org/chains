@@ -1,29 +1,18 @@
 {
-  "name": "VeChain Testnet",
-  "chain": "VeChain",
-  "rpc": [
-    "https://rpc-testnet.vechain.energy"
-  ],
-  "faucets": [
-    "https://faucet.vecha.in"
-  ],
-  "nativeCurrency": {
-    "name": "VeChain",
-    "symbol": "VET",
-    "decimals": 18
-  },
-  "infoURL": "https://vechain.org",
-  "shortName": "vechain-testnet",
   "chainId": 100010,
-  "networkId": 100010,
-  "slip44": 1,
+  "www": "https://vechain.org",
+  "name": "VeChain Testnet",
+  "platform": "vechain-testnet",
+  "chainToken": "VET",
+  "endpoints": [
+    {
+      "url": "https://rpc-testnet.vechain.energy"
+    }
+  ],
   "explorers": [
     {
       "name": "VeChain Explorer",
-      "url": "https://explore-testnet.vechain.org",
-      "standard": "none"
+      "url": "https://explore-testnet.vechain.org"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

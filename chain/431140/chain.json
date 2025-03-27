@@ -1,21 +1,14 @@
 {
-  "name": "Markr Go",
-  "chain": "Unified",
-  "icon": "./chain/431140/logo.png",
-  "rpc": [
-    "https://rpc.markr.io/ext/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Avalanche",
-    "symbol": "AVAX",
-    "decimals": 18
-  },
-  "infoURL": "https://www.markr.io/",
-  "shortName": "markr-go",
   "chainId": 431140,
-  "networkId": 431140,
-  "explorers": [],
-  "status": "incubating",
-  "tvl": 0
+  "icon": "./chain/431140/logo.png",
+  "www": "https://www.markr.io/",
+  "name": "Markr Go",
+  "platform": "markr-go",
+  "chainToken": "AVAX",
+  "endpoints": [
+    {
+      "url": "https://rpc.markr.io/ext/"
+    }
+  ],
+  "explorers": []
 }

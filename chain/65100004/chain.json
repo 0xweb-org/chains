@@ -1,31 +1,31 @@
 {
-  "name": "Autonity Piccadilly (Tiber) Testnet",
-  "chain": "AUT",
-  "rpc": [
-    "https://autonity.rpc.web3cdn.network/testnet",
-    "wss://autonity.rpc.web3cdn.network/testnet/ws",
-    "https://autonity-piccadilly.rpc.subquery.network/public",
-    "https://piccadilly.autonity-apis.com",
-    "wss://piccadilly-ws.autonity-apis.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Piccadilly Auton",
-    "symbol": "ATN",
-    "decimals": 18
-  },
-  "infoURL": "https://autonity.org/",
-  "shortName": "piccadilly-04",
   "chainId": 65100004,
-  "networkId": 65100004,
-  "slip44": 1,
   "icon": "./chain/65100004/logo.png",
+  "www": "https://autonity.org/",
+  "name": "Autonity Piccadilly (Tiber) Testnet",
+  "platform": "piccadilly-04",
+  "chainToken": "ATN",
+  "endpoints": [
+    {
+      "url": "https://autonity.rpc.web3cdn.network/testnet"
+    },
+    {
+      "url": "wss://autonity.rpc.web3cdn.network/testnet/ws"
+    },
+    {
+      "url": "https://autonity-piccadilly.rpc.subquery.network/public"
+    },
+    {
+      "url": "https://piccadilly.autonity-apis.com"
+    },
+    {
+      "url": "wss://piccadilly-ws.autonity-apis.com"
+    }
+  ],
   "explorers": [
     {
       "name": "autonity-blockscout",
-      "url": "https://piccadilly.autonity.org",
-      "standard": "EIP3091"
+      "url": "https://piccadilly.autonity.org"
     }
-  ],
-  "tvl": 0
+  ]
 }

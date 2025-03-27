@@ -1,9 +1,7 @@
 {
   "name": "GoChain Testnet",
   "chain": "GO",
-  "rpc": [
-    "https://testnet-rpc.gochain.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "GoChain Coin",
@@ -22,6 +20,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

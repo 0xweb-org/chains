@@ -1,28 +1,19 @@
 {
-  "name": "One World Chain Testnet",
-  "chain": "One World Chain",
-  "icon": "./chain/552981/logo.png",
-  "rpc": [
-    "https://testnet-rpc.oneworldchain.org"
-  ],
-  "faucets": [
-    "https://faucet.oneworldchain.org"
-  ],
-  "nativeCurrency": {
-    "name": "OWCT",
-    "symbol": "OWCT",
-    "decimals": 18
-  },
-  "infoURL": "https://oneworldchain.org",
-  "shortName": "OWCTt",
   "chainId": 552981,
-  "networkId": 552981,
+  "icon": "./chain/552981/logo.png",
+  "www": "https://oneworldchain.org",
+  "name": "One World Chain Testnet",
+  "platform": "OWCTt",
+  "chainToken": "OWCT",
+  "endpoints": [
+    {
+      "url": "https://testnet-rpc.oneworldchain.org"
+    }
+  ],
   "explorers": [
     {
       "name": "One World Chain Testnet Explorer",
-      "url": "https://testnet.oneworldchain.org",
-      "standard": "EIP3091"
+      "url": "https://testnet.oneworldchain.org"
     }
-  ],
-  "tvl": 0
+  ]
 }

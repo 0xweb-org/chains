@@ -1,9 +1,7 @@
 {
   "name": "Tomb Chain Mainnet",
   "chain": "Tomb Chain",
-  "rpc": [
-    "https://rpc.tombchain.com/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Tomb",
@@ -30,6 +28,5 @@
       }
     ]
   },
-  "icon": null,
   "tvl": 0
 }

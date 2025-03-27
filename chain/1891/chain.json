@@ -2,9 +2,7 @@
   "name": "Lightlink Pegasus Testnet",
   "chain": "Lightlink Pegasus Testnet",
   "icon": "./chain/1891/logo.png",
-  "rpc": [
-    "https://replicator.pegasus.lightlink.io/rpc/v1"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"

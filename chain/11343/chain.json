@@ -1,29 +1,19 @@
 {
-  "name": "StateMesh Testnet",
-  "icon": "./chain/11343/logo.png",
-  "chain": "MESH",
-  "rpc": [
-    "https://rpc-test.statemesh.net"
-  ],
-  "faucets": [
-    "https://faucet.statemesh.net"
-  ],
-  "nativeCurrency": {
-    "name": "StateMesh",
-    "symbol": "MESH",
-    "decimals": 18
-  },
-  "infoURL": "https://statemesh.net",
-  "shortName": "mesh-test",
   "chainId": 11343,
-  "networkId": 11343,
+  "icon": "./chain/11343/logo.png",
+  "www": "https://statemesh.net",
+  "name": "StateMesh Testnet",
+  "platform": "mesh-test",
+  "chainToken": "MESH",
+  "endpoints": [
+    {
+      "url": "https://rpc-test.statemesh.net"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://explorer-test.statemesh.net",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://explorer-test.statemesh.net"
     }
-  ],
-  "tvl": 0
+  ]
 }

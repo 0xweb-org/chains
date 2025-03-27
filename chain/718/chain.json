@@ -1,9 +1,7 @@
 {
   "name": "UXLINK ONE Mainnet",
   "chain": "UXLINK ONE",
-  "rpc": [
-    "https://rpc.uxlinkone.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "UXLINK",

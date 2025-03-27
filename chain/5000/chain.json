@@ -1,42 +1,29 @@
 {
-  "name": "Mantle",
-  "chain": "ETH",
-  "icon": "./chain/5000/logo.png",
-  "rpc": [
-    "https://rpc.mantle.xyz",
-    "https://mantle-rpc.publicnode.com",
-    "wss://mantle-rpc.publicnode.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Mantle",
-    "symbol": "MNT",
-    "decimals": 18
-  },
-  "infoURL": "https://mantle.xyz",
-  "shortName": "mantle",
   "chainId": 5000,
-  "networkId": 5000,
+  "icon": "./chain/5000/logo.png",
+  "www": "https://mantle.xyz",
+  "name": "Mantle",
+  "platform": "mantle",
+  "chainToken": "MNT",
+  "endpoints": [
+    {
+      "url": "https://rpc.mantle.xyz"
+    },
+    {
+      "url": "https://mantle-rpc.publicnode.com"
+    },
+    {
+      "url": "wss://mantle-rpc.publicnode.com"
+    }
+  ],
   "explorers": [
     {
       "name": "mantlescan",
-      "url": "https://mantlescan.xyz",
-      "standard": "EIP3091"
+      "url": "https://mantlescan.xyz"
     },
     {
       "name": "Mantle Explorer",
-      "url": "https://explorer.mantle.xyz",
-      "standard": "EIP3091"
+      "url": "https://explorer.mantle.xyz"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "https://bridge.mantle.xyz"
-      }
-    ]
-  },
-  "tvl": 318011770
+  ]
 }

@@ -1,26 +1,19 @@
 {
-  "name": "Zytron Linea Testnet",
-  "chain": "ETH",
-  "icon": "./chain/19546/logo.png",
-  "rpc": [
-    "https://linea-testnet-zytron.zypher.game/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ETH",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://zytron.zypher.network/",
-  "shortName": "zytron-linea-testnet",
   "chainId": 19546,
-  "networkId": 19546,
+  "icon": "./chain/19546/logo.png",
+  "www": "https://zytron.zypher.network/",
+  "name": "Zytron Linea Testnet",
+  "platform": "zytron-linea-testnet",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://linea-testnet-zytron.zypher.game/"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://linea-testnet-zytron-blockscout.zypher.game",
-      "standard": "EIP3091"
+      "url": "https://linea-testnet-zytron-blockscout.zypher.game"
     }
-  ],
-  "tvl": 0
+  ]
 }

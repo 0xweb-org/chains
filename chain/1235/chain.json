@@ -1,26 +1,18 @@
 {
-  "name": "ITX Mainnet",
-  "chain": "ITX",
-  "rpc": [
-    "https://rpc.itxchain.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ITX",
-    "symbol": "ITX",
-    "decimals": 18
-  },
-  "infoURL": "https://explorer.itxchain.com",
-  "shortName": "itx",
   "chainId": 1235,
-  "networkId": 1235,
+  "www": "https://explorer.itxchain.com",
+  "name": "ITX Mainnet",
+  "platform": "itx",
+  "chainToken": "ITX",
+  "endpoints": [
+    {
+      "url": "https://rpc.itxchain.com"
+    }
+  ],
   "explorers": [
     {
       "name": "ITX Mainnet Explorer (Blockscout)",
-      "url": "https://explorer.itxchain.com",
-      "standard": "EIP3091"
+      "url": "https://explorer.itxchain.com"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

@@ -2,9 +2,7 @@
   "name": "Daily Network Mainnet",
   "chain": "Daily Network",
   "icon": "./chain/824/logo.png",
-  "rpc": [
-    "https://rpc.mainnet.dailycrypto.net"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Daily",

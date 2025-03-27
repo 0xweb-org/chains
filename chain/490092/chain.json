@@ -1,28 +1,18 @@
 {
-  "name": "PUMPFI CHAIN TESTNET",
-  "chain": "PUMPFI CHAIN TESTNET",
-  "rpc": [
-    "https://rpc1testnet.pumpfi.me"
-  ],
-  "faucets": [
-    "https://faucet.pumpfi.me"
-  ],
-  "nativeCurrency": {
-    "name": "PMPT",
-    "symbol": "PMPT",
-    "decimals": 18
-  },
-  "infoURL": "https://pumpfi.me",
-  "shortName": "pumpfi-testnet",
   "chainId": 490092,
-  "networkId": 490092,
+  "www": "https://pumpfi.me",
+  "name": "PUMPFI CHAIN TESTNET",
+  "platform": "pumpfi-testnet",
+  "chainToken": "PMPT",
+  "endpoints": [
+    {
+      "url": "https://rpc1testnet.pumpfi.me"
+    }
+  ],
   "explorers": [
     {
       "name": "Pumpfi Testnet Scan",
-      "url": "https://testnetscan.pumpfi.me",
-      "standard": "EIP3091"
+      "url": "https://testnetscan.pumpfi.me"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

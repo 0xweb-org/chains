@@ -2,9 +2,7 @@
   "name": "Deamchain Mainnet",
   "chain": "Deamchain",
   "icon": "./chain/136/logo.png",
-  "rpc": [
-    "https://mainnet.deamchain.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Deamchain Native Token",

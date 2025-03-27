@@ -1,9 +1,7 @@
 {
   "name": "KorthoTest",
   "chain": "Kortho",
-  "rpc": [
-    "https://www.krotho-test.net"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Kortho Test",
@@ -15,6 +13,5 @@
   "chainId": 8285,
   "networkId": 8285,
   "slip44": 1,
-  "icon": null,
   "tvl": 0
 }

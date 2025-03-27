@@ -2,9 +2,7 @@
   "name": "Arthera Testnet",
   "chain": "AA",
   "icon": "./chain/10243/logo.png",
-  "rpc": [
-    "https://rpc-test.arthera.net"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.arthera.net"
   ],

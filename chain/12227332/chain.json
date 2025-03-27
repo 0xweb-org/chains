@@ -1,27 +1,19 @@
 {
-  "name": "Neo X Testnet T4",
-  "chain": "Neo X",
-  "rpc": [
-    "https://testnet.rpc.banelabs.org/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Gas",
-    "symbol": "GAS",
-    "decimals": 18
-  },
-  "infoURL": "https://neo.org/",
-  "shortName": "neox-t4",
   "chainId": 12227332,
-  "networkId": 12227332,
-  "icon": null,
+  "icon": "ipfs://QmR3iCrjrW814fyv79UeVimDT4fTeBQcpYgMYxv1U6W15u",
+  "www": "https://neo.org/",
+  "name": "Neo X Testnet T4",
+  "platform": "neox-t4",
+  "chainToken": "GAS",
+  "endpoints": [
+    {
+      "url": "https://testnet.rpc.banelabs.org/"
+    }
+  ],
   "explorers": [
     {
       "name": "neox-scan",
-      "url": "https://xt4scan.ngd.network",
-      "standard": "EIP3091"
+      "url": "https://xt4scan.ngd.network"
     }
-  ],
-  "status": "active",
-  "tvl": 0
+  ]
 }

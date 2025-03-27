@@ -1,9 +1,7 @@
 {
   "name": "Nibiru cataclysm-1",
   "chain": "Nibiru",
-  "rpc": [
-    "https://evm-rpc.nibiru.fi"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "NIBI",

@@ -1,26 +1,19 @@
 {
-  "name": "PowerGold",
-  "chain": "NEAR",
-  "rpc": [
-    "https://powergold.aurora.dev"
-  ],
-  "icon": "./chain/1313161560/logo.png",
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://www.powergold.tech",
-  "shortName": "powergold",
   "chainId": 1313161560,
-  "networkId": 1313161560,
+  "icon": "./chain/1313161560/logo.png",
+  "www": "https://www.powergold.tech",
+  "name": "PowerGold",
+  "platform": "powergold",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://powergold.aurora.dev"
+    }
+  ],
   "explorers": [
     {
       "name": "PowerGold explorer",
-      "url": "https://explorer.powergold.aurora.dev",
-      "standard": "EIP3091"
+      "url": "https://explorer.powergold.aurora.dev"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,26 +1,19 @@
 {
-  "name": "Ethernity",
-  "chain": "Ethernity",
-  "rpc": [
-    "https://mainnet.ethernitychain.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "icon": "./chain/183/logo.png",
-  "infoURL": "https://www.ethernity.io",
-  "shortName": "ethernity-mainnet",
   "chainId": 183,
-  "networkId": 183,
+  "icon": "./chain/183/logo.png",
+  "www": "https://www.ethernity.io",
+  "name": "Ethernity",
+  "platform": "ethernity",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://mainnet.ethernitychain.io"
+    }
+  ],
   "explorers": [
     {
       "name": "Ethernity Explorer",
-      "url": "https://ernscan.io",
-      "standard": "EIP3091"
+      "url": "https://ernscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

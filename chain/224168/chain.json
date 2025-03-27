@@ -2,9 +2,7 @@
   "name": "Taf ECO Chain Mainnet",
   "chain": "Taf ECO Chain",
   "icon": "./chain/224168/logo.png",
-  "rpc": [
-    "https://mainnet.tafchain.com/v1"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Taf ECO Chain Mainnet",

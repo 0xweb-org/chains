@@ -1,28 +1,22 @@
 {
-  "name": "AILayer Mainnet",
-  "chain": "AILayer",
-  "rpc": [
-    "https://mainnet-rpc.ailayer.xyz",
-    "wss://mainnet-rpc.ailayer.xyz"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "BTC",
-    "symbol": "BTC",
-    "decimals": 18
-  },
-  "infoURL": "https://ailayer.xyz/",
-  "shortName": "ailayer-mainnet",
   "chainId": 2649,
-  "networkId": 2649,
   "icon": "./chain/2649/logo.png",
+  "www": "https://ailayer.xyz/",
+  "name": "AILayer Mainnet",
+  "platform": "ailayer",
+  "chainToken": "BTC",
+  "endpoints": [
+    {
+      "url": "https://mainnet-rpc.ailayer.xyz"
+    },
+    {
+      "url": "wss://mainnet-rpc.ailayer.xyz"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://mainnet-explorer.ailayer.xyz",
-      "icon": "ailayer",
-      "standard": "EIP3091"
+      "url": "https://mainnet-explorer.ailayer.xyz"
     }
-  ],
-  "tvl": 363476505
+  ]
 }

@@ -1,10 +1,13 @@
 {
   "name": "Flag Mainnet",
   "chain": "Flag",
-  "icon": null,
-  "rpc": [
-    "https://mainnet-rpc.flagscan.xyz"
-  ],
+  "icon": {
+    "url": "ipfs://bafybeibcrxeavdxpwwmj4mc6hhp232nkrfbpvfpngcqux2v5rmoshycj3u",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Flag",

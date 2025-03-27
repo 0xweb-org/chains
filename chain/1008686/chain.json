@@ -1,28 +1,22 @@
 {
-  "name": "Naga Testnet",
-  "chain": "Naga",
-  "rpc": [
-    "https://rpc.nagafintech.com",
-    "wss://rpc.nagafintech.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Naga",
-    "symbol": "Naga",
-    "decimals": 18
-  },
-  "infoURL": "https://stablecoin.nagafintech.com/#/app/home",
-  "shortName": "Naga",
   "chainId": 1008686,
-  "networkId": 1008686,
   "icon": "./chain/1008686/logo.png",
+  "www": "https://stablecoin.nagafintech.com/#/app/home",
+  "name": "Naga Testnet",
+  "platform": "Naga",
+  "chainToken": "Naga",
+  "endpoints": [
+    {
+      "url": "https://rpc.nagafintech.com"
+    },
+    {
+      "url": "wss://rpc.nagafintech.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Naga Explorer Testnet",
-      "url": "https://explorer.nagafintech.com",
-      "icon": "naga",
-      "standard": "EIP3091"
+      "url": "https://explorer.nagafintech.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,10 +1,7 @@
 {
   "name": "Blessnet",
   "chain": "ETH",
-  "rpc": [
-    "https://blessnet.calderachain.xyz/http",
-    "wss://blessnet.calderachain.xyz/ws"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Bless",
@@ -23,7 +20,12 @@
   "shortName": "bless",
   "chainId": 45513,
   "networkId": 45513,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmUP7NPPrCe6N6k8RQh4KuSBU2xMvbyo6enCtzyE5v4bmQ",
+    "width": 600,
+    "height": 600,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "blockscout",

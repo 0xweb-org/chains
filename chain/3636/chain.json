@@ -1,29 +1,19 @@
 {
-  "name": "Botanix Testnet",
-  "chain": "BOTANIX",
-  "icon": "./chain/3636/logo.png",
-  "rpc": [
-    "https://node.botanixlabs.dev"
-  ],
-  "faucets": [
-    "https://faucet.botanixlabs.dev"
-  ],
-  "nativeCurrency": {
-    "name": "Botanix",
-    "symbol": "BTC",
-    "decimals": 18
-  },
-  "infoURL": "https://botanixlabs.xyz",
-  "shortName": "BTNX",
   "chainId": 3636,
-  "networkId": 3636,
-  "slip44": 1,
+  "icon": "./chain/3636/logo.png",
+  "www": "https://botanixlabs.xyz",
+  "name": "Botanix Testnet",
+  "platform": "BTNX",
+  "chainToken": "BTC",
+  "endpoints": [
+    {
+      "url": "https://node.botanixlabs.dev"
+    }
+  ],
   "explorers": [
     {
       "name": "Botanix Explorer",
-      "url": "https://testnet.botanixscan.io",
-      "standard": "EIP3091"
+      "url": "https://testnet.botanixscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

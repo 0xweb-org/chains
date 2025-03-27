@@ -1,27 +1,19 @@
 {
-  "name": "Erbie Mainnet",
-  "chain": "Erbie",
-  "rpc": [
-    "https://api.erbie.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ERB",
-    "symbol": "ERB",
-    "decimals": 18
-  },
-  "infoURL": "https://www.erbie.io",
-  "shortName": "Erbie",
   "chainId": 50888,
-  "networkId": 50888,
-  "icon": null,
+  "icon": "ipfs://QmfS33Wd4e5pwq4JpNeK3wV1tbPDTakFA6KLxjewHp553z",
+  "www": "https://www.erbie.io",
+  "name": "Erbie Mainnet",
+  "platform": "Erbie",
+  "chainToken": "ERB",
+  "endpoints": [
+    {
+      "url": "https://api.erbie.io"
+    }
+  ],
   "explorers": [
     {
       "name": "Erbie Explorer",
-      "url": "https://www.erbie.io/explorer",
-      "standard": "none",
-      "icon": "erbie"
+      "url": "https://www.erbie.io/explorer"
     }
-  ],
-  "tvl": 0
+  ]
 }

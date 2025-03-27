@@ -1,9 +1,7 @@
 {
   "name": "MetaDot Testnet",
   "chain": "MTTTest",
-  "rpc": [
-    "https://testnet.metadot.network"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.metadot.network/"
   ],
@@ -17,6 +15,5 @@
   "chainId": 16001,
   "networkId": 16001,
   "slip44": 1,
-  "icon": null,
   "tvl": 0
 }

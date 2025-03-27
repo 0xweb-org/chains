@@ -1,27 +1,19 @@
 {
-  "name": "GoChain",
-  "chain": "GO",
-  "rpc": [
-    "https://rpc.gochain.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "GoChain Ether",
-    "symbol": "GO",
-    "decimals": 18
-  },
-  "infoURL": "https://gochain.io",
-  "shortName": "go",
   "chainId": 60,
-  "networkId": 60,
-  "slip44": 6060,
+  "icon": "./chain/60/logo.png",
+  "www": "https://gochain.io",
+  "name": "GoChain",
+  "platform": "go",
+  "chainToken": "GO",
+  "endpoints": [
+    {
+      "url": "https://rpc.gochain.io"
+    }
+  ],
   "explorers": [
     {
       "name": "GoChain Explorer",
-      "url": "https://explorer.gochain.io",
-      "standard": "EIP3091"
+      "url": "https://explorer.gochain.io"
     }
-  ],
-  "icon": "./chain/60/logo.png",
-  "tvl": 6942
+  ]
 }

@@ -1,28 +1,19 @@
 {
-  "name": "Q Testnet",
-  "chain": "Q",
-  "rpc": [
-    "https://rpc.qtestnet.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Q token",
-    "symbol": "Q",
-    "decimals": 18
-  },
-  "infoURL": "https://q.org/",
-  "shortName": "q-testnet",
   "chainId": 35443,
-  "networkId": 35443,
-  "slip44": 1,
-  "icon": null,
+  "icon": "ipfs://QmQUQKe8VEtSthhgXnJ3EmEz94YhpVCpUDZAiU9KYyNLya",
+  "www": "https://q.org/",
+  "name": "Q Testnet",
+  "platform": "q-testnet",
+  "chainToken": "Q",
+  "endpoints": [
+    {
+      "url": "https://rpc.qtestnet.org"
+    }
+  ],
   "explorers": [
     {
       "name": "Q explorer",
-      "url": "https://explorer.qtestnet.org",
-      "icon": "q",
-      "standard": "EIP3091"
+      "url": "https://explorer.qtestnet.org"
     }
-  ],
-  "tvl": 0
+  ]
 }

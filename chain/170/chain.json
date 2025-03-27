@@ -1,9 +1,7 @@
 {
   "name": "HOO Smart Chain Testnet",
   "chain": "ETH",
-  "rpc": [
-    "https://http-testnet.hoosmartchain.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet-testnet.hscscan.com/"
   ],
@@ -17,6 +15,5 @@
   "chainId": 170,
   "networkId": 170,
   "slip44": 1,
-  "icon": null,
   "tvl": 0
 }

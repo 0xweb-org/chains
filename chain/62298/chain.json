@@ -1,9 +1,7 @@
 {
   "name": "Citrea Devnet",
   "chain": "Citrea",
-  "rpc": [
-    "https://rpc.devnet.citrea.xyz"
-  ],
+  "rpc": [],
   "faucets": [
     "https://citrea.xyz/bridge"
   ],

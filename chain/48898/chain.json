@@ -1,27 +1,18 @@
 {
-  "name": "Zircuit Garfield Testnet",
-  "chain": "Zircuit Garfield Testnet",
-  "icon": null,
-  "rpc": [
-    "https://garfield-testnet.zircuit.com/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ETH",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://www.zircuit.com/",
-  "shortName": "zircuit-garfield-testnet",
   "chainId": 48898,
-  "networkId": 48898,
+  "www": "https://www.zircuit.com/",
+  "name": "Zircuit Garfield Testnet",
+  "platform": "zircuit-garfield-testnet",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://garfield-testnet.zircuit.com/"
+    }
+  ],
   "explorers": [
     {
       "name": "Zircuit",
-      "url": "https://explorer.garfield-testnet.zircuit.com",
-      "icon": "zircuit",
-      "standard": "none"
+      "url": "https://explorer.garfield-testnet.zircuit.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,10 +1,7 @@
 {
   "name": "World Trade Technical Chain Mainnet",
   "chain": "WTT",
-  "rpc": [
-    "https://rpc.cadaut.com",
-    "wss://rpc.cadaut.com/ws"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "World Trade Token",
@@ -22,6 +19,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

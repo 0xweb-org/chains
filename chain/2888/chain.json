@@ -2,10 +2,7 @@
   "name": "Boba Network Goerli Testnet",
   "chain": "ETH",
   "status": "deprecated",
-  "rpc": [
-    "https://goerli.boba.network/",
-    "wss://wss.goerli.boba.network/"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Goerli Ether",
@@ -33,6 +30,5 @@
       }
     ]
   },
-  "icon": null,
   "tvl": 0
 }

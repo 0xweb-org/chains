@@ -2,9 +2,7 @@
   "name": "Numbers Testnet",
   "chain": "NUM",
   "icon": "./chain/10508/logo.png",
-  "rpc": [
-    "https://testnetrpc.num.network"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.avax.network/?subnet=num",
     "https://faucet.num.network"

@@ -1,30 +1,19 @@
 {
-  "name": "Yooldo Verse Mainnet",
-  "chain": "Yooldo Verse",
-  "icon": "./chain/50005/logo.png",
-  "rpc": [
-    "https://rpc.yooldo-verse.xyz/"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "OAS",
-    "symbol": "OAS",
-    "decimals": 18
-  },
-  "infoURL": "https://yooldo.gg/",
-  "shortName": "YVM",
   "chainId": 50005,
-  "networkId": 50005,
+  "icon": "./chain/50005/logo.png",
+  "www": "https://yooldo.gg/",
+  "name": "Yooldo Verse Mainnet",
+  "platform": "YVM",
+  "chainToken": "OAS",
+  "endpoints": [
+    {
+      "url": "https://rpc.yooldo-verse.xyz/"
+    }
+  ],
   "explorers": [
     {
       "name": "Yooldo Verse Explorer",
-      "url": "https://explorer.yooldo-verse.xyz",
-      "standard": "EIP3091"
+      "url": "https://explorer.yooldo-verse.xyz"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-248"
-  },
-  "tvl": 0
+  ]
 }

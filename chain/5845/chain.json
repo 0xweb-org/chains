@@ -1,28 +1,22 @@
 {
-  "name": "Tangle",
-  "chain": "Tangle",
-  "rpc": [
-    "https://rpc.tangle.tools",
-    "wss://rpc.tangle.tools"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Tangle",
-    "symbol": "TNT",
-    "decimals": 18
-  },
-  "infoURL": "https://docs.tangle.tools",
-  "shortName": "tangle",
   "chainId": 5845,
-  "networkId": 5845,
   "icon": "./chain/5845/logo.png",
+  "www": "https://docs.tangle.tools",
+  "name": "Tangle",
+  "platform": "tangle",
+  "chainToken": "TNT",
+  "endpoints": [
+    {
+      "url": "https://rpc.tangle.tools"
+    },
+    {
+      "url": "wss://rpc.tangle.tools"
+    }
+  ],
   "explorers": [
     {
       "name": "Tangle EVM Explorer",
-      "url": "https://explorer.tangle.tools",
-      "standard": "EIP3091",
-      "icon": "tangle"
+      "url": "https://explorer.tangle.tools"
     }
-  ],
-  "tvl": 0
+  ]
 }

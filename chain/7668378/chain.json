@@ -2,9 +2,7 @@
   "name": "QL1 Testnet",
   "chain": "QOM",
   "status": "incubating",
-  "rpc": [
-    "https://rpc.testnet.qom.one"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.qom.one"
   ],

@@ -9,9 +9,7 @@
     "symbol": "OXYN",
     "decimals": 18
   },
-  "rpc": [
-    "https://connect.opulent-x.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "infoURL": "https://beta.opulent-x.com",
   "explorers": [
@@ -21,6 +19,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

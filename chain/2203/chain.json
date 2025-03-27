@@ -1,9 +1,7 @@
 {
   "name": "Bitcoin EVM",
   "chain": "Bitcoin EVM",
-  "rpc": [
-    "https://connect.bitcoinevm.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Bitcoin",

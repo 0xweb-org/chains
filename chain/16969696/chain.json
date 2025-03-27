@@ -1,28 +1,22 @@
 {
-  "name": "Privix Chain Mainnet",
-  "chain": "PRIVIX",
-  "rpc": [
-    "https://mainnet-rpc.privixchain.xyz/",
-    "wss://mainnet-rpc.privixchain.xyz/ws"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Privix Coin",
-    "symbol": "PRIVIX",
-    "decimals": 18
-  },
-  "infoURL": "https://privix.co/",
-  "shortName": "mpsc",
   "chainId": 16969696,
-  "networkId": 16969696,
   "icon": "./chain/16969696/logo.png",
+  "www": "https://privix.co/",
+  "name": "Privix Chain Mainnet",
+  "platform": "mpsc",
+  "chainToken": "PRIVIX",
+  "endpoints": [
+    {
+      "url": "https://mainnet-rpc.privixchain.xyz/"
+    },
+    {
+      "url": "wss://mainnet-rpc.privixchain.xyz/ws"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://privixscan.io",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://privixscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

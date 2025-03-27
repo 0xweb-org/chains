@@ -1,27 +1,18 @@
 {
-  "name": "Lummio Network",
-  "chain": "Lummio Network",
-  "rpc": [
-    "https://rpc.lummio.net"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Lummio Reward Points",
-    "symbol": "LRPO",
-    "decimals": 18
-  },
-  "infoURL": "https://lummio.net",
-  "shortName": "lummio",
   "chainId": 12020498,
-  "networkId": 12020498,
+  "www": "https://lummio.net",
+  "name": "Lummio Network",
+  "platform": "lummio",
+  "chainToken": "LRPO",
+  "endpoints": [
+    {
+      "url": "https://rpc.lummio.net"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://blockscout.lummio.net",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://blockscout.lummio.net"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

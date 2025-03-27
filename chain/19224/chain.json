@@ -1,26 +1,19 @@
 {
-  "name": "Decentraconnect Social",
-  "chain": "DCSM",
-  "icon": "./chain/19224/logo.png",
-  "rpc": [
-    "https://rpc.decentraconnect.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Decentraconnect Social",
-    "symbol": "DCSM",
-    "decimals": 18
-  },
-  "infoURL": "https://docs.decentraconnect.io",
-  "shortName": "DCSMs",
   "chainId": 19224,
-  "networkId": 19224,
+  "icon": "./chain/19224/logo.png",
+  "www": "https://docs.decentraconnect.io",
+  "name": "Decentraconnect Social",
+  "platform": "DCSMs",
+  "chainToken": "DCSM",
+  "endpoints": [
+    {
+      "url": "https://rpc.decentraconnect.io"
+    }
+  ],
   "explorers": [
     {
       "name": "Decentraconnect Social",
-      "url": "https://decentraconnect.io",
-      "standard": "EIP3091"
+      "url": "https://decentraconnect.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

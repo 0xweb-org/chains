@@ -1,28 +1,22 @@
 {
-  "name": "eGold Chain",
-  "chain": "EGC",
-  "icon": "./chain/11451/logo.png",
-  "rpc": [
-    "https://rpc.egoldchain.com",
-    "wss://rpc.egoldchain.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Aurum",
-    "symbol": "XAU",
-    "decimals": 18
-  },
-  "infoURL": "https://www.egoldchain.com",
-  "shortName": "egoldchain",
   "chainId": 11451,
-  "networkId": 11451,
+  "icon": "./chain/11451/logo.png",
+  "www": "https://www.egoldchain.com",
+  "name": "eGold Chain",
+  "platform": "egoldchain",
+  "chainToken": "XAU",
+  "endpoints": [
+    {
+      "url": "https://rpc.egoldchain.com"
+    },
+    {
+      "url": "wss://rpc.egoldchain.com"
+    }
+  ],
   "explorers": [
     {
       "name": "eGold Chain Block Explorer",
-      "url": "https://egoldscan.io",
-      "standard": "none",
-      "icon": "egoldchain"
+      "url": "https://egoldscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

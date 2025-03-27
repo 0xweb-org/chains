@@ -1,26 +1,19 @@
 {
-  "name": "Pione Chain Mainnet",
-  "chain": "PIO",
-  "icon": "./chain/5090/logo.png",
-  "rpc": [
-    "https://rpc.pionescan.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Pione",
-    "symbol": "PIO",
-    "decimals": 18
-  },
-  "infoURL": "https://pionechain.com",
-  "shortName": "pio",
   "chainId": 5090,
-  "networkId": 5090,
+  "icon": "./chain/5090/logo.png",
+  "www": "https://pionechain.com",
+  "name": "Pione Chain Mainnet",
+  "platform": "pio",
+  "chainToken": "PIO",
+  "endpoints": [
+    {
+      "url": "https://rpc.pionescan.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Pione Chain Explorer",
-      "url": "https://pionescan.com",
-      "standard": "EIP3091"
+      "url": "https://pionescan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,27 +1,19 @@
 {
-  "name": "Mande Network Mainnet",
-  "chain": "Mande",
-  "rpc": [
-    "https://mande-mainnet.public.blastapi.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Mand",
-    "symbol": "MAND",
-    "decimals": 18
-  },
-  "infoURL": "https://mande.network/",
-  "shortName": "Mande",
   "chainId": 18071918,
-  "networkId": 18071918,
-  "icon": null,
+  "icon": "ipfs://QmbySJWaSQxzL3F4zvpKYaNvMjHsX2qUyWTv2kpitq9dW8",
+  "www": "https://mande.network/",
+  "name": "Mande Network Mainnet",
+  "platform": "Mande",
+  "chainToken": "MAND",
+  "endpoints": [
+    {
+      "url": "https://mande-mainnet.public.blastapi.io"
+    }
+  ],
   "explorers": [
     {
       "name": "FYI",
-      "url": "https://dym.fyi/r/mande",
-      "icon": "fyi",
-      "standard": "EIP3091"
+      "url": "https://dym.fyi/r/mande"
     }
-  ],
-  "tvl": 0
+  ]
 }

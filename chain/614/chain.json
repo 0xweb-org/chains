@@ -1,26 +1,18 @@
 {
-  "name": "Graphlinq Blockchain Mainnet",
-  "chain": "GLQ Blockchain",
-  "rpc": [
-    "https://glq-dataseed.graphlinq.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "GLQ",
-    "symbol": "GLQ",
-    "decimals": 18
-  },
-  "infoURL": "https://graphlinq.io",
-  "shortName": "glq",
   "chainId": 614,
-  "networkId": 614,
+  "www": "https://graphlinq.io",
+  "name": "Graphlinq Blockchain Mainnet",
+  "platform": "glq",
+  "chainToken": "GLQ",
+  "endpoints": [
+    {
+      "url": "https://glq-dataseed.graphlinq.io"
+    }
+  ],
   "explorers": [
     {
       "name": "GLQ Explorer",
-      "url": "https://explorer.graphlinq.io",
-      "standard": "none"
+      "url": "https://explorer.graphlinq.io"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

@@ -1,28 +1,19 @@
 {
-  "name": "Orderly Sepolia Testnet",
-  "chain": "ETH",
-  "rpc": [
-    "https://testnet-rpc.orderly.org"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Sepolia Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://orderly.network",
-  "shortName": "orderlyl2",
   "chainId": 4460,
-  "networkId": 4460,
-  "slip44": 1,
   "icon": "./chain/4460/logo.png",
+  "www": "https://orderly.network",
+  "name": "Orderly Sepolia Testnet",
+  "platform": "orderlyl2",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://testnet-rpc.orderly.org"
+    }
+  ],
   "explorers": [
     {
       "name": "basescout",
-      "url": "https://testnet-explorer.orderly.org",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://testnet-explorer.orderly.org"
     }
-  ],
-  "tvl": 0
+  ]
 }

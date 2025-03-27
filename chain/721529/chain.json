@@ -1,26 +1,19 @@
 {
-  "name": "ERAM Mainnet",
-  "chain": "ERAM",
-  "icon": "./chain/721529/logo.png",
-  "rpc": [
-    "https://mainnet-rpc.eramscan.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ERAM",
-    "symbol": "ERAM",
-    "decimals": 18
-  },
-  "infoURL": "http://doc.eramscan.com/",
-  "shortName": "ERAM",
   "chainId": 721529,
-  "networkId": 721529,
+  "icon": "./chain/721529/logo.png",
+  "www": "http://doc.eramscan.com/",
+  "name": "ERAM Mainnet",
+  "platform": "ERAM",
+  "chainToken": "ERAM",
+  "endpoints": [
+    {
+      "url": "https://mainnet-rpc.eramscan.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Eramscan",
-      "url": "https://eramscan.com",
-      "standard": "EIP3091"
+      "url": "https://eramscan.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

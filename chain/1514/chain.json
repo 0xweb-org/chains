@@ -1,26 +1,19 @@
 {
-  "name": "Story",
-  "chain": "STORY",
-  "rpc": [
-    "https://mainnet.storyrpc.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "IP Token",
-    "symbol": "IP",
-    "decimals": 18
-  },
-  "infoURL": "https://story.foundation/",
-  "icon": "./chain/1514/logo.png",
-  "shortName": "sty",
   "chainId": 1514,
-  "networkId": 1514,
+  "icon": "./chain/1514/logo.png",
+  "www": "https://story.foundation/",
+  "name": "Story",
+  "platform": "sty",
+  "chainToken": "IP",
+  "endpoints": [
+    {
+      "url": "https://mainnet.storyrpc.io"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://mainnet.storyscan.xyz",
-      "standard": "EIP3091"
+      "url": "https://mainnet.storyscan.xyz"
     }
-  ],
-  "tvl": 49968733
+  ]
 }

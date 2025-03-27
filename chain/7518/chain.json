@@ -1,9 +1,7 @@
 {
   "name": "MEVerse Chain Mainnet",
   "chain": "MEVerse",
-  "rpc": [
-    "https://rpc.meversemainnet.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "MEVerse",

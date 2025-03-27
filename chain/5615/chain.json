@@ -1,9 +1,7 @@
 {
   "name": "Arcturus Testneet",
   "chain": "Arcturus",
-  "rpc": [
-    "https://rpc-testnet.arcturuschain.io/"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.arcturuschain.io"
   ],
@@ -31,6 +29,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

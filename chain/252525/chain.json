@@ -1,9 +1,7 @@
 {
   "name": "CELESTIUM Network Testnet",
   "chain": "CELESTIUM",
-  "rpc": [
-    "https://rpc-private-testnet.celestium.network"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.celestium.network"
   ],
@@ -17,7 +15,12 @@
   "chainId": 252525,
   "networkId": 252525,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmdoqEVRnp6Z49VTxEjPMRMAfUv1CbN7wbFw5G1S34SqeA",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "CELESTIUM Testnet Explorer",

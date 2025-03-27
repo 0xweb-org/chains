@@ -1,10 +1,7 @@
 {
   "name": "Thanos Sepolia",
   "chain": "ETH",
-  "rpc": [
-    "https://rpc.thanos-sepolia.tokamak.network",
-    "wss://rpc.thanos-sepolia.tokamak.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Tokamak Network",
@@ -22,6 +19,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

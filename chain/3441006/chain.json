@@ -1,9 +1,7 @@
 {
   "name": "Manta Pacific Sepolia Testnet",
   "chain": "Manta Pacific",
-  "rpc": [
-    "https://pacific-rpc.sepolia-testnet.manta.network/http"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",

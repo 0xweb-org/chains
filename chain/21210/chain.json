@@ -1,9 +1,7 @@
 {
   "name": "1Money Network Mainnet",
   "chain": "1Money Network",
-  "rpc": [
-    "https://mainnet.1money.network"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "USD1",
@@ -20,6 +18,5 @@
   "chainId": 21210,
   "networkId": 21210,
   "explorers": [],
-  "icon": null,
   "tvl": 0
 }

@@ -2,9 +2,7 @@
   "name": "Shinarium Beta",
   "chain": "Shinarium",
   "icon": "./chain/534849/logo.png",
-  "rpc": [
-    "https://rpc.shinarium.org"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.shinarium.org"
   ],

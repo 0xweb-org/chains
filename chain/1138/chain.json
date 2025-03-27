@@ -1,10 +1,13 @@
 {
   "name": "AmStar Testnet",
   "chain": "AmStar",
-  "icon": null,
-  "rpc": [
-    "https://testnet-rpc.amstarscan.com"
-  ],
+  "icon": {
+    "url": "ipfs://Qmd4TMQdnYxaUZqnVddh5S37NGH72g2kkK38ccCEgdZz1C",
+    "width": 599,
+    "height": 563,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "SINSO",

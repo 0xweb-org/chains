@@ -1,9 +1,7 @@
 {
   "name": "Photon Aurora Testnet",
   "chain": "Photon",
-  "rpc": [
-    "https://rpc-test2.photonchain.io"
-  ],
+  "rpc": [],
   "faucets": [
     "https://photonchain.io/testnet2"
   ],
@@ -23,6 +21,5 @@
       "standard": "none"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

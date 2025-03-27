@@ -2,9 +2,7 @@
   "name": "Scalind",
   "chain": "ETH",
   "icon": "./chain/1911/logo.png",
-  "rpc": [
-    "https://rpc.scalind.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",

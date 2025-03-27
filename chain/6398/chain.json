@@ -1,27 +1,18 @@
 {
-  "name": "Connext Sepolia",
-  "chain": "Connext Sepolia",
-  "rpc": [
-    "https://rpc.connext-sepolia.gelato.digital/"
-  ],
-  "nativeCurrency": {
-    "name": "ETH",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "faucets": [],
-  "infoURL": "",
-  "shortName": "connext-sepolia",
   "chainId": 6398,
-  "networkId": 6398,
+  "www": "",
+  "name": "Connext Sepolia",
+  "platform": "connext-sepolia",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://rpc.connext-sepolia.gelato.digital/"
+    }
+  ],
   "explorers": [
     {
       "name": "Connext Sepolia",
-      "url": "https://connext-sepolia.blockscout.com",
-      "icon": "connext",
-      "standard": "none"
+      "url": "https://connext-sepolia.blockscout.com"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

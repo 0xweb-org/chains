@@ -11,9 +11,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": [
-    "https://rinkeby.arbitrum.io/rpc"
-  ],
+  "rpc": [],
   "faucets": [
     "http://fauceth.komputing.org?chain=421611&address=${ADDRESS}"
   ],
@@ -39,6 +37,5 @@
       }
     ]
   },
-  "icon": null,
   "tvl": 0
 }

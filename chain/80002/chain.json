@@ -1,37 +1,29 @@
 {
-  "name": "Amoy",
-  "title": "Polygon Amoy Testnet",
-  "chain": "Polygon",
-  "icon": "./chain/80002/logo.png",
-  "rpc": [
-    "https://rpc-amoy.polygon.technology",
-    "https://polygon-amoy-bor-rpc.publicnode.com",
-    "wss://polygon-amoy-bor-rpc.publicnode.com"
-  ],
-  "faucets": [
-    "https://faucet.polygon.technology/"
-  ],
-  "nativeCurrency": {
-    "name": "POL",
-    "symbol": "POL",
-    "decimals": 18
-  },
-  "infoURL": "https://polygon.technology/",
-  "shortName": "polygonamoy",
   "chainId": 80002,
-  "networkId": 80002,
-  "slip44": 1,
+  "icon": "./chain/80002/logo.png",
+  "www": "https://polygon.technology/",
+  "name": "Amoy",
+  "platform": "polygonamoy",
+  "chainToken": "POL",
+  "endpoints": [
+    {
+      "url": "https://rpc-amoy.polygon.technology"
+    },
+    {
+      "url": "https://polygon-amoy-bor-rpc.publicnode.com"
+    },
+    {
+      "url": "wss://polygon-amoy-bor-rpc.publicnode.com"
+    }
+  ],
   "explorers": [
     {
       "name": "polygonscan-amoy",
-      "url": "https://amoy.polygonscan.com",
-      "standard": "EIP3091"
+      "url": "https://amoy.polygonscan.com"
     },
     {
       "name": "polygonamoy",
-      "url": "https://www.oklink.com/amoy",
-      "standard": "EIP3091"
+      "url": "https://www.oklink.com/amoy"
     }
-  ],
-  "tvl": 0
+  ]
 }

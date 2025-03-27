@@ -1,10 +1,7 @@
 {
   "name": "Surge Testnet",
   "chain": "Surge Testnet",
-  "rpc": [
-    "https://l2-rpc.surge.staging-nethermind.xyz",
-    "wss://l2-rpc.surge.staging-nethermind.xyz"
-  ],
+  "rpc": [],
   "features": [
     {
       "name": "EIP155"

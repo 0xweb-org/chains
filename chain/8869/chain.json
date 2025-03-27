@@ -1,31 +1,19 @@
 {
+  "chainId": 8869,
+  "icon": "./chain/8869/logo.png",
+  "www": "https://docs.lif3.com/",
   "name": "Lif3 Chain",
-  "chain": "lif3chain",
-  "rpc": [
-    "https://rpc.lif3.com"
-  ],
-  "features": [
+  "platform": "lif3",
+  "chainToken": "LIF3",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://rpc.lif3.com"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "LIF3",
-    "symbol": "LIF3",
-    "decimals": 18
-  },
-  "infoURL": "https://docs.lif3.com/",
-  "shortName": "lif3-mainnet",
-  "icon": "./chain/8869/logo.png",
-  "chainId": 8869,
-  "networkId": 8869,
   "explorers": [
     {
       "name": "lif3scout",
-      "url": "https://lif3scout.com",
-      "standard": "none"
+      "url": "https://lif3scout.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

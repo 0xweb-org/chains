@@ -1,29 +1,19 @@
 {
-  "name": "OneLedger Testnet Frankenstein",
-  "chain": "OLT",
-  "icon": "./chain/4216137055/logo.png",
-  "rpc": [
-    "https://frankenstein-rpc.oneledger.network"
-  ],
-  "faucets": [
-    "https://frankenstein-faucet.oneledger.network"
-  ],
-  "nativeCurrency": {
-    "name": "OLT",
-    "symbol": "OLT",
-    "decimals": 18
-  },
-  "infoURL": "https://oneledger.io",
-  "shortName": "frankenstein",
   "chainId": 4216137055,
-  "networkId": 4216137055,
-  "slip44": 1,
+  "icon": "./chain/4216137055/logo.png",
+  "www": "https://oneledger.io",
+  "name": "OneLedger Testnet Frankenstein",
+  "platform": "frankenstein",
+  "chainToken": "OLT",
+  "endpoints": [
+    {
+      "url": "https://frankenstein-rpc.oneledger.network"
+    }
+  ],
   "explorers": [
     {
       "name": "OneLedger Block Explorer",
-      "url": "https://frankenstein-explorer.oneledger.network",
-      "standard": "EIP3091"
+      "url": "https://frankenstein-explorer.oneledger.network"
     }
-  ],
-  "tvl": 0
+  ]
 }

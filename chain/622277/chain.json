@@ -1,39 +1,19 @@
 {
+  "chainId": 622277,
+  "icon": "./chain/622277/logo.png",
+  "www": "https://www.hypra.network",
   "name": "Hypra Mainnet",
-  "chain": "HYP",
-  "rpc": [
-    "https://rpc.hypra.network",
-    "https://rpc.rethereum.org",
-    "https://rethereum.rpc.restratagem.com",
-    "https://rpc.rthcentral.org",
-    "https://hypra.rpc.thirdweb.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Hypra",
-    "symbol": "HYP",
-    "decimals": 18
-  },
-  "features": [
+  "platform": "hyp",
+  "chainToken": "HYP",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://rpc.hypra.network"
     }
   ],
-  "infoURL": "https://www.hypra.network",
-  "shortName": "hyp",
-  "chainId": 622277,
-  "networkId": 622277,
-  "icon": "./chain/622277/logo.png",
   "explorers": [
     {
       "name": "hypra",
-      "url": "https://explorer.hypra.network",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://explorer.hypra.network"
     }
-  ],
-  "tvl": 0
+  ]
 }

@@ -1,26 +1,19 @@
 {
-  "name": "Conflux eSpace",
-  "chain": "Conflux",
-  "rpc": [
-    "https://evm.confluxrpc.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "CFX",
-    "symbol": "CFX",
-    "decimals": 18
-  },
-  "infoURL": "https://confluxnetwork.org",
-  "shortName": "cfx",
   "chainId": 1030,
-  "networkId": 1030,
   "icon": "./chain/1030/logo.png",
+  "www": "https://confluxnetwork.org",
+  "name": "Conflux eSpace",
+  "platform": "cfx",
+  "chainToken": "CFX",
+  "endpoints": [
+    {
+      "url": "https://evm.confluxrpc.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Conflux Scan",
-      "url": "https://evm.confluxscan.net",
-      "standard": "none"
+      "url": "https://evm.confluxscan.net"
     }
-  ],
-  "tvl": 0
+  ]
 }

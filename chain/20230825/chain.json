@@ -1,9 +1,7 @@
 {
   "name": "Vcity Testnet",
   "chain": "VCITY",
-  "rpc": [
-    "https://testnet.vcity.app"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Testnet Vcity Token",

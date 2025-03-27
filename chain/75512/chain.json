@@ -1,26 +1,18 @@
 {
-  "name": "GEEK Verse Mainnet",
-  "chain": "GEEK",
-  "rpc": [
-    "https://rpc.geekout-pte.com"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "OAS",
-    "symbol": "OAS",
-    "decimals": 18
-  },
-  "infoURL": "https://www.geekout-pte.com",
-  "shortName": "GEEK",
   "chainId": 75512,
-  "networkId": 75512,
+  "www": "https://www.geekout-pte.com",
+  "name": "GEEK Verse Mainnet",
+  "platform": "GEEK",
+  "chainToken": "OAS",
+  "endpoints": [
+    {
+      "url": "https://rpc.geekout-pte.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Geek Explorer",
-      "url": "https://explorer.geekout-pte.com",
-      "standard": "EIP3091"
+      "url": "https://explorer.geekout-pte.com"
     }
-  ],
-  "icon": null,
-  "tvl": 0
+  ]
 }

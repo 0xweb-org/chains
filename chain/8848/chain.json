@@ -1,26 +1,19 @@
 {
-  "name": "MARO Blockchain Mainnet",
-  "chain": "MARO Blockchain",
-  "icon": "./chain/8848/logo.png",
-  "rpc": [
-    "https://rpc-mainnet.ma.ro"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "MARO",
-    "symbol": "MARO",
-    "decimals": 18
-  },
-  "infoURL": "https://ma.ro/",
-  "shortName": "maro",
   "chainId": 8848,
-  "networkId": 8848,
+  "icon": "./chain/8848/logo.png",
+  "www": "https://ma.ro/",
+  "name": "MARO Blockchain Mainnet",
+  "platform": "maro",
+  "chainToken": "MARO",
+  "endpoints": [
+    {
+      "url": "https://rpc-mainnet.ma.ro"
+    }
+  ],
   "explorers": [
     {
       "name": "MARO Scan",
-      "url": "https://scan.ma.ro/#",
-      "standard": "none"
+      "url": "https://scan.ma.ro/#"
     }
-  ],
-  "tvl": 0
+  ]
 }

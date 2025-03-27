@@ -1,36 +1,19 @@
 {
-  "name": "Guru Network Testnet",
-  "chain": "tGURU",
+  "chainId": 261,
   "icon": "./chain/261/logo.png",
-  "rpc": [
-    "https://rpc-test.gurunetwork.ai"
-  ],
-  "features": [
+  "www": "https://gurunetwork.ai",
+  "name": "Guru Network Testnet",
+  "platform": "tguru",
+  "chainToken": "tGURU",
+  "endpoints": [
     {
-      "name": "EIP155"
-    },
-    {
-      "name": "EIP1559"
+      "url": "https://rpc-test.gurunetwork.ai"
     }
   ],
-  "faucets": [
-    "https://v2.dex.guru/season-pass/faucet"
-  ],
-  "nativeCurrency": {
-    "name": "testGURU",
-    "symbol": "tGURU",
-    "decimals": 18
-  },
-  "infoURL": "https://gurunetwork.ai",
-  "shortName": "tguru",
-  "chainId": 261,
-  "networkId": 261,
   "explorers": [
     {
       "name": "guruscan",
-      "url": "https://sepolia.gurunetwork.ai",
-      "standard": "EIP3091"
+      "url": "https://sepolia.gurunetwork.ai"
     }
-  ],
-  "tvl": 0
+  ]
 }

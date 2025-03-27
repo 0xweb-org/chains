@@ -2,9 +2,7 @@
   "name": "Vizing Testnet",
   "title": "Vizing Testnet",
   "chain": "Vizing Testnet",
-  "rpc": [
-    "https://rpc-sepolia.vizing.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",
@@ -15,7 +13,12 @@
   "shortName": "Vizing-Testnet",
   "chainId": 28516,
   "networkId": 28516,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmPgpWfGsAZ5UHekWFR8rioadVe3Wox8idFyeVxuv9N4Vo",
+    "width": 200,
+    "height": 200,
+    "format": "svg"
+  },
   "explorers": [
     {
       "name": "blockscout",

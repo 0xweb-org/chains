@@ -2,9 +2,7 @@
   "name": "Geth Testnet",
   "title": "Go Ethereum (Geth) Private Testnet",
   "chain": "ETH",
-  "rpc": [
-    "http://127.0.0.1:8545"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Geth Testnet Ether",
@@ -16,6 +14,5 @@
   "chainId": 1337,
   "networkId": 1337,
   "slip44": 1,
-  "icon": null,
   "tvl": 0
 }

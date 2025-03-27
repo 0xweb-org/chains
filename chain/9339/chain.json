@@ -1,10 +1,13 @@
 {
   "name": "Dogcoin Testnet",
   "chain": "DOGS",
-  "icon": null,
-  "rpc": [
-    "https://testnet-rpc.dogcoin.me"
-  ],
+  "icon": {
+    "url": "ipfs://QmZCadkExKThak3msvszZjo6UnAbUJKE61dAcg4TixuMC3",
+    "width": 160,
+    "height": 171,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [
     "https://faucet.dogcoin.network"
   ],

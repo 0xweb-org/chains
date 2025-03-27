@@ -1,10 +1,13 @@
 {
   "name": "eLiberty Mainnet",
   "chain": "$EL",
-  "icon": null,
-  "rpc": [
-    "https://rpc.eliberty.ngo"
-  ],
+  "icon": {
+    "url": "ipfs://Qmcr8US1DZcK3ooiMtE8tEQPgep12abXzxPw1jCkgZhji9",
+    "width": 150,
+    "height": 150,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [
     "https://faucet.eliberty.ngo"
   ],

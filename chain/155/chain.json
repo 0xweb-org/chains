@@ -1,31 +1,19 @@
 {
-  "name": "Tenet Testnet",
-  "title": "Tenet Testnet",
-  "chain": "TENET",
-  "icon": "./chain/155/logo.png",
-  "rpc": [
-    "https://rpc.testnet.tenet.org"
-  ],
-  "faucets": [
-    "https://faucet.testnet.tenet.org"
-  ],
-  "nativeCurrency": {
-    "name": "TENET",
-    "symbol": "TENET",
-    "decimals": 18
-  },
-  "infoURL": "https://tenet.org/",
-  "shortName": "tenet-testnet",
   "chainId": 155,
-  "networkId": 155,
-  "slip44": 1,
+  "icon": "./chain/155/logo.png",
+  "www": "https://tenet.org/",
+  "name": "Tenet Testnet",
+  "platform": "tenet-testnet",
+  "chainToken": "TENET",
+  "endpoints": [
+    {
+      "url": "https://rpc.testnet.tenet.org"
+    }
+  ],
   "explorers": [
     {
       "name": "TenetScan Testnet",
-      "url": "https://testnet.tenetscan.io",
-      "icon": "tenet",
-      "standard": "EIP3091"
+      "url": "https://testnet.tenetscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

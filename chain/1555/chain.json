@@ -1,26 +1,19 @@
 {
-  "name": "Datacore Smart Chain",
-  "chain": "Datacore Smart Chain",
-  "icon": "./chain/1555/logo.png",
-  "rpc": [
-    "https://rpc01.dscscan.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Datacore Smart Chain",
-    "symbol": "DSC",
-    "decimals": 18
-  },
-  "infoURL": "https://rpc01.dscscan.io",
-  "shortName": "DSCs",
   "chainId": 1555,
-  "networkId": 1555,
+  "icon": "./chain/1555/logo.png",
+  "www": "https://rpc01.dscscan.io",
+  "name": "Datacore Smart Chain",
+  "platform": "DSCs",
+  "chainToken": "DSC",
+  "endpoints": [
+    {
+      "url": "https://rpc01.dscscan.io"
+    }
+  ],
   "explorers": [
     {
       "name": "Datacore Smart Chain",
-      "url": "https://dscscan.io",
-      "standard": "EIP3091"
+      "url": "https://dscscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

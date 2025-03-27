@@ -1,49 +1,22 @@
 {
-  "name": "Treasure Topaz",
-  "chain": "Treasure Topaz",
-  "shortName": "treasure-topaz",
   "chainId": 978658,
-  "networkId": 978658,
-  "nativeCurrency": {
-    "name": "Testnet MAGIC",
-    "symbol": "MAGIC",
-    "decimals": 18
-  },
-  "slip44": 1,
-  "features": [
+  "icon": "./chain/978658/logo.png",
+  "www": "https://app.treasure.lol",
+  "name": "Treasure Topaz",
+  "platform": "treasure-topaz",
+  "chainToken": "MAGIC",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://rpc.topaz.treasure.lol"
     },
     {
-      "name": "EIP1559"
+      "url": "wss://rpc.topaz.treasure.lol/ws"
     }
-  ],
-  "infoURL": "https://app.treasure.lol",
-  "icon": "./chain/978658/logo.png",
-  "rpc": [
-    "https://rpc.topaz.treasure.lol",
-    "wss://rpc.topaz.treasure.lol/ws"
-  ],
-  "faucets": [
-    "https://app.treasure.lol/chain/faucet",
-    "https://thirdweb.com/treasure-topaz"
   ],
   "explorers": [
     {
       "name": "Treasure Topaz Block Explorer",
-      "url": "https://topaz.treasurescan.io",
-      "icon": "treasure",
-      "standard": "EIP3091"
+      "url": "https://topaz.treasurescan.io"
     }
-  ],
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-1",
-    "bridges": [
-      {
-        "url": "https://app.treasure.lol/chain/bridge"
-      }
-    ]
-  },
-  "tvl": 0
+  ]
 }

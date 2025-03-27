@@ -1,9 +1,7 @@
 {
   "name": "Athereum",
   "chain": "ATH",
-  "rpc": [
-    "https://ava.network:21015/ext/evm/rpc"
-  ],
+  "rpc": [],
   "faucets": [
     "http://athfaucet.ava.network//?address=${ADDRESS}"
   ],
@@ -16,6 +14,5 @@
   "shortName": "avaeth",
   "chainId": 43110,
   "networkId": 43110,
-  "icon": null,
   "tvl": 0
 }

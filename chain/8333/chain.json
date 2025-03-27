@@ -1,26 +1,19 @@
 {
-  "name": "B3",
-  "chain": "B3",
-  "icon": "./chain/8333/logo.png",
-  "rpc": [
-    "https://mainnet-rpc.b3.fun"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "ETH",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://b3.fun",
-  "shortName": "b3",
   "chainId": 8333,
-  "networkId": 8333,
+  "icon": "./chain/8333/logo.png",
+  "www": "https://b3.fun",
+  "name": "B3",
+  "platform": "b3",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://mainnet-rpc.b3.fun"
+    }
+  ],
   "explorers": [
     {
       "name": "Blockscout",
-      "url": "https://explorer.b3.fun",
-      "standard": "EIP3091"
+      "url": "https://explorer.b3.fun"
     }
-  ],
-  "tvl": 0
+  ]
 }

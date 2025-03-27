@@ -1,38 +1,22 @@
 {
-  "name": "BOB Sepolia",
-  "chain": "ETH",
-  "rpc": [
-    "https://bob-sepolia.rpc.gobob.xyz",
-    "wss://bob-sepolia.rpc.gobob.xyz"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Sepolia Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://gobob.xyz",
-  "shortName": "bob-sepolia",
   "chainId": 808813,
-  "networkId": 808813,
   "icon": "./chain/808813/logo.png",
+  "www": "https://gobob.xyz",
+  "name": "BOB Sepolia",
+  "platform": "bob-sepolia",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://bob-sepolia.rpc.gobob.xyz"
+    },
+    {
+      "url": "wss://bob-sepolia.rpc.gobob.xyz"
+    }
+  ],
   "explorers": [
     {
       "name": "bobscout",
-      "url": "https://bob-sepolia.explorer.gobob.xyz",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://bob-sepolia.explorer.gobob.xyz"
     }
-  ],
-  "status": "active",
-  "parent": {
-    "type": "L2",
-    "chain": "eip155-11155111",
-    "bridges": [
-      {
-        "url": "https://bob-sepolia.gobob.xyz/"
-      }
-    ]
-  },
-  "tvl": 0
+  ]
 }

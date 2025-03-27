@@ -1,9 +1,7 @@
 {
   "name": "Metadium Mainnet",
   "chain": "META",
-  "rpc": [
-    "https://api.metadium.com/prod"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Metadium Mainnet Ether",

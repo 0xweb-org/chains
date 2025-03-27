@@ -1,29 +1,19 @@
 {
-  "name": "ZEUS Testnet",
-  "chain": "tZEUS",
-  "icon": "./chain/7244/logo.png",
-  "rpc": [
-    "https://testnet-rpc.zeuschainscan.io"
-  ],
-  "nativeCurrency": {
-    "name": "The ZEUS Token",
-    "symbol": "ZEUSX",
-    "decimals": 18
-  },
-  "infoURL": "https://testnet-explorer.zeuschainscan.io",
-  "shortName": "ZEUS-Testnet",
   "chainId": 7244,
-  "networkId": 7244,
-  "faucets": [
-    "https://faucet.zeuschainscan.io"
+  "icon": "./chain/7244/logo.png",
+  "www": "https://testnet-explorer.zeuschainscan.io",
+  "name": "ZEUS Testnet",
+  "platform": "ZEUS-Testnet",
+  "chainToken": "ZEUSX",
+  "endpoints": [
+    {
+      "url": "https://testnet-rpc.zeuschainscan.io"
+    }
   ],
   "explorers": [
     {
       "name": "ZEUS Testnet Explorer",
-      "url": "https://testnet-explorer.zeuschainscan.io",
-      "icon": "zeusicon",
-      "standard": "EIP3091"
+      "url": "https://testnet-explorer.zeuschainscan.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

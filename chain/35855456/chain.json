@@ -1,9 +1,7 @@
 {
   "name": "Joys Digital Mainnet",
   "chain": "JOYS",
-  "rpc": [
-    "https://node.joys.digital"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "JOYS",
@@ -14,6 +12,5 @@
   "shortName": "JOYS",
   "chainId": 35855456,
   "networkId": 35855456,
-  "icon": null,
   "tvl": 0
 }

@@ -1,31 +1,19 @@
 {
+  "chainId": 141491,
+  "icon": "./chain/141491/logo.png",
+  "www": "",
   "name": "Bitharvest Chain Testnet",
-  "chain": "Bitharvest Chain Testnet",
-  "rpc": [
-    "https://rpc-testnet.bthscan.io/"
-  ],
-  "features": [
+  "platform": "BitharvestTestnet",
+  "chainToken": "BTH",
+  "endpoints": [
     {
-      "name": "EIP1559"
+      "url": "https://rpc-testnet.bthscan.io/"
     }
   ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Bitharvest Testnet Native Token",
-    "symbol": "BTH",
-    "decimals": 18
-  },
-  "infoURL": "",
-  "shortName": "BitharvestTestnet",
-  "chainId": 141491,
-  "networkId": 141491,
   "explorers": [
     {
       "name": "Bitharvest Testnet Scan",
-      "url": "https://testnet.bthscan.io",
-      "standard": "EIP3091"
+      "url": "https://testnet.bthscan.io"
     }
-  ],
-  "icon": "./chain/141491/logo.png",
-  "tvl": 0
+  ]
 }

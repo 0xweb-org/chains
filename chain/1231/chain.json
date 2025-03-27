@@ -1,27 +1,19 @@
 {
-  "name": "Ultron Mainnet",
-  "chain": "Ultron",
-  "icon": null,
-  "rpc": [
-    "https://ultron-rpc.net"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ultron",
-    "symbol": "ULX",
-    "decimals": 18
-  },
-  "infoURL": "https://ultron.foundation",
-  "shortName": "UtronMainnet",
   "chainId": 1231,
-  "networkId": 1231,
+  "icon": "ipfs://QmPC6odFVyAQrXJQaZJVFpEQfRNbzZ5BjDZ7KBKmXPaYDw",
+  "www": "https://ultron.foundation",
+  "name": "Ultron Mainnet",
+  "platform": "UtronMainnet",
+  "chainToken": "ULX",
+  "endpoints": [
+    {
+      "url": "https://ultron-rpc.net"
+    }
+  ],
   "explorers": [
     {
       "name": "Ultron Explorer",
-      "url": "https://ulxscan.com",
-      "icon": "ultron",
-      "standard": "none"
+      "url": "https://ulxscan.com"
     }
-  ],
-  "tvl": 683073
+  ]
 }

@@ -1,9 +1,7 @@
 {
   "name": "Akroma",
   "chain": "AKA",
-  "rpc": [
-    "https://remote.akroma.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Akroma Ether",
@@ -15,6 +13,5 @@
   "chainId": 200625,
   "networkId": 200625,
   "slip44": 200625,
-  "icon": null,
   "tvl": 0
 }

@@ -1,9 +1,7 @@
 {
   "name": "Dexilla Testnet",
   "chain": "Dexilla",
-  "rpc": [
-    "https://rpc.dexilla.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "icon": "./chain/1954/logo.png",
   "nativeCurrency": {

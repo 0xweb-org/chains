@@ -1,40 +1,22 @@
 {
+  "chainId": 57073,
+  "icon": "./chain/57073/logo.png",
+  "www": "https://inkonchain.com",
   "name": "Ink",
-  "chain": "ETH",
-  "rpc": [
-    "https://rpc-gel.inkonchain.com",
-    "https://rpc-qnd.inkonchain.com",
-    "wss://rpc-gel.inkonchain.com",
-    "wss://rpc-qnd.inkonchain.com"
-  ],
-  "faucets": [
-    "https://inkonchain.com/faucet"
-  ],
-  "features": [
+  "platform": "ink",
+  "chainToken": "ETH",
+  "endpoints": [
     {
-      "name": "EIP155"
+      "url": "https://rpc-qnd.inkonchain.com"
     },
     {
-      "name": "EIP1559"
+      "url": "wss://rpc-qnd.inkonchain.com"
     }
   ],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://inkonchain.com",
-  "shortName": "ink",
-  "chainId": 57073,
-  "networkId": 57073,
   "explorers": [
     {
       "name": "Ink Explorer",
-      "url": "https://explorer.inkonchain.com",
-      "standard": "EIP3091"
+      "url": "https://explorer.inkonchain.com"
     }
-  ],
-  "status": "active",
-  "icon": "./chain/57073/logo.png",
-  "tvl": 4084249
+  ]
 }

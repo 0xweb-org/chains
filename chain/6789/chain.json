@@ -1,28 +1,19 @@
 {
-  "name": "Gold Smart Chain Mainnet",
-  "chain": "STAND",
-  "icon": "./chain/6789/logo.png",
-  "rpc": [
-    "https://rpc-mainnet.goldsmartchain.com"
-  ],
-  "faucets": [
-    "https://faucet.goldsmartchain.com"
-  ],
-  "nativeCurrency": {
-    "name": "Standard in Gold",
-    "symbol": "STAND",
-    "decimals": 18
-  },
-  "infoURL": "https://goldsmartchain.com",
-  "shortName": "STANDm",
   "chainId": 6789,
-  "networkId": 6789,
+  "icon": "./chain/6789/logo.png",
+  "www": "https://goldsmartchain.com",
+  "name": "Gold Smart Chain Mainnet",
+  "platform": "STANDm",
+  "chainToken": "STAND",
+  "endpoints": [
+    {
+      "url": "https://rpc-mainnet.goldsmartchain.com"
+    }
+  ],
   "explorers": [
     {
       "name": "Gold Smart Chain",
-      "url": "https://mainnet.goldsmartchain.com",
-      "standard": "EIP3091"
+      "url": "https://mainnet.goldsmartchain.com"
     }
-  ],
-  "tvl": 0
+  ]
 }

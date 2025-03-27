@@ -2,9 +2,7 @@
   "name": "IVAR Chain Testnet",
   "chain": "IVAR",
   "icon": "./chain/16888/logo.png",
-  "rpc": [
-    "https://testnet-rpc.ivarex.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://tfaucet.ivarex.com/"
   ],

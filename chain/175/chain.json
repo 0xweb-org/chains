@@ -3,10 +3,7 @@
   "chain": "OTC",
   "faucets": [],
   "icon": "./chain/175/logo.png",
-  "rpc": [
-    "https://rpc.otc.run",
-    "wss://rpc.otc.run"
-  ],
+  "rpc": [],
   "nativeCurrency": {
     "name": "OTC",
     "symbol": "OTC",

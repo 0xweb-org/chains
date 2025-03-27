@@ -1,29 +1,19 @@
 {
-  "name": "KYMTC Testnet",
-  "chain": "KYMTC",
-  "icon": "./chain/24076/logo.png",
-  "rpc": [
-    "https://testnet-rpc.kymaticscan.online"
-  ],
-  "faucets": [
-    "https://faucet.kymaticscan.online"
-  ],
-  "nativeCurrency": {
-    "name": "KYMTC",
-    "symbol": "KYMTC",
-    "decimals": 18
-  },
-  "infoURL": "https://testnet-explorer.kymaticscan.online",
-  "shortName": "tKYMTC",
   "chainId": 24076,
-  "networkId": 24076,
+  "icon": "./chain/24076/logo.png",
+  "www": "https://testnet-explorer.kymaticscan.online",
+  "name": "KYMTC Testnet",
+  "platform": "tKYMTC",
+  "chainToken": "KYMTC",
+  "endpoints": [
+    {
+      "url": "https://testnet-rpc.kymaticscan.online"
+    }
+  ],
   "explorers": [
     {
       "name": "KYMTC Testnet Explorer",
-      "url": "https://testnet-explorer.kymaticscan.online",
-      "icon": "kymtc",
-      "standard": "EIP3091"
+      "url": "https://testnet-explorer.kymaticscan.online"
     }
-  ],
-  "tvl": 0
+  ]
 }

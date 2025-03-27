@@ -2,9 +2,7 @@
   "name": "Dogcoin Mainnet",
   "chain": "DOGS",
   "icon": "./chain/1117/logo.png",
-  "rpc": [
-    "https://mainnet-rpc.dogcoin.me"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.dogcoin.network"
   ],

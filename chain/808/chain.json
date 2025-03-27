@@ -1,10 +1,13 @@
 {
   "name": "Portal Fantasy Chain Test",
   "chain": "PF",
-  "icon": null,
-  "rpc": [
-    "https://subnets.avax.network/portal-fantasy/testnet/rpc"
-  ],
+  "icon": {
+    "url": "ipfs://QmeMa6aw3ebUKJdGgbzDgcVtggzp7cQdfSrmzMYmnt5ywc",
+    "width": 200,
+    "height": 200,
+    "format": "png"
+  },
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Portal Fantasy Token",

@@ -1,9 +1,7 @@
 {
   "name": "HashKey Chain Testnet(discard)",
   "chain": "HashKey",
-  "rpc": [
-    "https://testnet.hashkeychain/rpc"
-  ],
+  "rpc": [],
   "faucets": [
     "https://testnet.hashkeychain/faucet"
   ],
@@ -17,7 +15,12 @@
   "chainId": 230315,
   "networkId": 230315,
   "slip44": 1,
-  "icon": null,
+  "icon": {
+    "url": "ipfs://QmNU11AqYB2htrrSyBSP9ct7bPtuZTP7Hrz21PrEcB9nYE",
+    "width": 1440,
+    "height": 448,
+    "format": "png"
+  },
   "explorers": [
     {
       "name": "HashKey Chain Testnet Explorer",

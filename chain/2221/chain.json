@@ -1,13 +1,7 @@
 {
   "name": "Kava Testnet",
   "chain": "KAVA",
-  "rpc": [
-    "https://evm.testnet.kava.io",
-    "https://kava-evm-testnet.rpc.thirdweb.com",
-    "wss://wevm.testnet.kava.io",
-    "https://kava-testnet.drpc.org",
-    "wss://kava-testnet.drpc.org"
-  ],
+  "rpc": [],
   "faucets": [
     "https://faucet.kava.io"
   ],

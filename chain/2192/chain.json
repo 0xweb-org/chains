@@ -1,27 +1,19 @@
 {
-  "name": "SnaxChain",
-  "chain": "ETH",
-  "rpc": [
-    "https://mainnet.snaxchain.io"
-  ],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
-  },
-  "infoURL": "https://synthetix.io",
-  "shortName": "snax",
   "chainId": 2192,
-  "networkId": 2192,
-  "icon": null,
+  "icon": "ipfs://QmQPHTTpgSjvP18Yc522ZxHYKRwLLxeR6xWdEdcw1XHwZo",
+  "www": "https://synthetix.io",
+  "name": "SnaxChain",
+  "platform": "snax",
+  "chainToken": "ETH",
+  "endpoints": [
+    {
+      "url": "https://mainnet.snaxchain.io"
+    }
+  ],
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://explorer.snaxchain.io",
-      "icon": "blockscout",
-      "standard": "EIP3091"
+      "url": "https://explorer.snaxchain.io"
     }
-  ],
-  "tvl": 0
+  ]
 }

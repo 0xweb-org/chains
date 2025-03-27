@@ -2,9 +2,7 @@
   "name": "Chronicle Vesuvius - Lit Protocol Testnet",
   "chain": "LPV",
   "icon": "./chain/2311/logo.png",
-  "rpc": [
-    "https://vesuvius-rpc.litprotocol.com"
-  ],
+  "rpc": [],
   "faucets": [
     "https://developer.litprotocol.com/support/intro"
   ],

@@ -1,9 +1,7 @@
 {
   "name": "Story Odyssey Testnet",
   "chain": "Story Odyssey Testnet",
-  "rpc": [
-    "https://odyssey.storyrpc.io"
-  ],
+  "rpc": [],
   "faucets": [],
   "chainId": 1516,
   "networkId": 1516,
@@ -21,6 +19,5 @@
       "standard": "EIP3091"
     }
   ],
-  "icon": null,
   "tvl": 0
 }

@@ -1,31 +1,19 @@
 {
-  "name": "eSync Network Testnet",
-  "title": "eSync Network Testnet",
-  "chain": "ECS",
-  "rpc": [
-    "https://rpc.tst.esync.network"
-  ],
-  "faucets": [
-    "https://faucet.tst.ecredits.com"
-  ],
-  "nativeCurrency": {
-    "name": "eCredits",
-    "symbol": "ECS",
-    "decimals": 18
-  },
-  "infoURL": "https://esync.network",
-  "shortName": "esync-testnet",
   "chainId": 63002,
-  "networkId": 63002,
-  "slip44": 1,
   "icon": "./chain/63002/logo.png",
+  "www": "https://esync.network",
+  "name": "eSync Network Testnet",
+  "platform": "esync-testnet",
+  "chainToken": "ECS",
+  "endpoints": [
+    {
+      "url": "https://rpc.tst.esync.network"
+    }
+  ],
   "explorers": [
     {
       "name": "eSync Network Testnet Explorer",
-      "url": "https://explorer.tst.esync.network",
-      "icon": "esync",
-      "standard": "EIP3091"
+      "url": "https://explorer.tst.esync.network"
     }
-  ],
-  "tvl": 0
+  ]
 }
